@@ -1,0 +1,11 @@
+# Build settings
+
+markdown: kramdown
+permalink: pretty
+
+port: 7777
+
+sass:
+  sass_dir: assets/sass
+  style: :expanded
+  
