@@ -6,6 +6,6 @@ permalink: pretty
 port: 7777
 
 sass:
-  sass_dir: assets/sass
+  sass_dir: assets/css
   style: :expanded
   
