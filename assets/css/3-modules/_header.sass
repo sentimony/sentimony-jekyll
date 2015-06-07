@@ -4,7 +4,7 @@ header
 	position: relative
 	display: inline-block
 	text-align: center
-	background: #000 url(https://scontent-cdg2-1.xx.fbcdn.net/hphotos-xtf1/t31.0-8/10704327_858091340887909_1329138538233397381_o.jpg) center no-repeat
+	background: #000
 	background-size: cover
 
 	.content
@@ -20,23 +20,30 @@ header
 			left: 50%
 			transform: translate(-50%, -50%)
 			display: inline-block
-			border: 10px solid #fff
-			padding: 30px 60px
-			background: rgba(0,0,0,.5)
+			// border: 10px solid #fff
+			// padding: 30px 60px
+			// background: rgba(0,0,0,.5)
 
-			h1 
+			h1
+				font-family: 'Julius Sans One', sans-serif
 				font: 
 					size: 100px
 				color: #fff
 				margin: 0 0 20px
 				letter-spacing: 14px
+				font-weight: 400
 
-			h2 
+			h2
+				// font-family: 'Crimson Text', serif
+				// text-transform: lowercase
+				font-family: 'Julius Sans One', sans-serif
 				font: 
 					size: 20px
 				color: #fff
 				margin: 0
-				letter-spacing: 7px
+				letter-spacing: 20px
+				font-weight: 400
+				line-height: 2
 
 	.overlay
 		position: absolute
@@ -45,7 +52,7 @@ header
 		left: 0
 		bottom: 0
 		// background: #000
-		background: url(https://scontent-cdg2-1.xx.fbcdn.net/hphotos-xtf1/t31.0-8/10704327_858091340887909_1329138538233397381_o.jpg) center no-repeat
+		background: url(/assets/img/header-bg.jpg) center no-repeat
 		background-size: cover
 		z-index: 0
 		opacity: 0
