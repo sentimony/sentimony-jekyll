@@ -1,0 +1,20 @@
+.releases {
+	width: 100%;
+	position: relative;
+	text-align: center;
+	padding: 80px 0;
+
+	article.isotope-item {
+		float: left;
+		width: 33.333333333333%;
+		padding: 0 20px;
+		margin-bottom: 40px;
+		@include box-sizing(border-box);
+
+		img {
+			width: 100%;
+			height: auto;
+			display: block;
+		}
+	}
+}

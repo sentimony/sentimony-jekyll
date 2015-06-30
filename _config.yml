@@ -1,24 +1,8 @@
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble: 
-  email: 
-  facebook: sentimony.records
-  flickr: 
-  github: # sentimony-records
-  instagram: 
-  linkedin: 
-  pinterest: 
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-
-
-
 # Build settings
-
+baseurl: 
 markdown: kramdown
 permalink: pretty
+keywords: sentimony records, electronic, psychedelic, free, download
 
 port: 7777
 

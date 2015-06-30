@@ -1,0 +1,62 @@
+header {
+	height: 100%;
+	width: 100%;
+	position: relative;
+	display: inline-block;
+	text-align: center;
+	background: #000;
+	background-size: cover;
+
+	.content {
+		position: absolute;
+		top: 0;
+		right: 0;
+		left: 0;
+		bottom: 0;
+		
+		hgroup {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			@include transform(translate(-50%, -50%));
+			display: inline-block;
+			// border: 10px solid #fff;
+			// padding: 30px 60px;
+			// background: rgba(0,0,0,.5);
+
+			h1 {
+				font-family: 'Julius Sans One', sans-serif;
+				font-size: 100px;
+				color: #fff;
+				margin: 0 0 20px;
+				letter-spacing: 14px;
+				font-weight: 400;
+			}
+
+			h2 {
+				// font-family: 'Crimson Text', serif;
+				// text-transform: lowercase;
+				font-family: 'Julius Sans One', sans-serif;
+				font-size: 20px;
+				color: #fff;
+				margin: 0;
+				letter-spacing: 20px;
+				font-weight: 400;
+				line-height: 2;
+			}
+		}
+	}
+
+	.overlay {
+		position: absolute;
+		top: 0;
+		right: 0;
+		left: 0;
+		bottom: 0;
+		// background: #000;
+		background: url(/assets/img/header-bg.jpg) center no-repeat;
+		background-size: cover;
+		z-index: 0;
+		opacity: 0;
+	}
+}
