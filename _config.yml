@@ -1,13 +1,16 @@
 # Build settings
-baseurl: 
+baseurl:
 markdown: kramdown
 permalink: pretty
-keywords: sentimony records, electronic, psychedelic, free, download
 
-port: 7777
+host: 0.0.0.0
+port: 7002
 
 exclude: ['README.md']
 
 sass:
   sass_dir: assets/css
   style: :expanded
+
+# custom settings
+keywords: 'sentimony records, electronic, psychedelic, free, download'
