@@ -1,0 +1,150 @@
+%stretch {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+%image-reset {
+  max-width: 99999px !important;
+  max-height: 99999px !important;
+  min-width: 0 !important;
+  min-height: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+%grab-cursor {
+  cursor: move;
+  cursor: -webkit-grab;
+  cursor: -moz-grab;
+  cursor: -o-grab;
+  cursor: -ms-grab;
+  cursor: grab;
+}
+
+%grabbing-cursor {
+  cursor: move;
+  cursor: -webkit-grabbing;
+  cursor: -moz-grabbing;
+  cursor: -o-grabbing;
+  cursor: -ms-grabbing;
+  cursor: grabbing;
+}
+
+%center {
+  position: absolute !important;
+  top: 50% !important;
+  left: 50% !important;
+}
+
+%initial-translate {
+  transform: translate3d(0, 0, 0);
+}
+
+%gpu {
+  transform: translateZ(0);
+}
+
+%focus {
+  outline: 0;
+}
+
+%focus-overlay {
+  &:after {
+    content: '';
+    border-radius: inherit;
+    @extend %stretch;
+    background-color: rgba($blue, .5);
+  }
+}
+
+%no-transform {
+  transform: none !important;
+}
+
+%transition-for-slide {
+  transition-property: transform, width;
+  transition-timing-function: cubic-bezier(.1, 0, .25, 1);
+  transition-duration: 0ms;
+}
+
+%no-select {
+  user-select: none;
+}
+
+%select {
+  user-select: text;
+}
+
+%empty-bg {
+  background: url(data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=);
+}
+
+%no-margin {
+  margin: auto;
+  padding: 0;
+}
+
+%inline-block {
+  @include inline-block;
+}
+
+%content-box {
+  box-sizing: content-box;
+}
+
+%border-box {
+  box-sizing: border-box;
+}
+
+%hidden {
+  position: absolute;
+  left: -99999px;
+  top: -99999px;
+  z-index: -1;
+}
+
+%visible {
+  position: relative;
+  left: auto;
+  top: auto;
+  z-index: auto;
+  opacity: 1;
+}
+
+%no-tap {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+%transitionDuration {
+  transition-duration: 333ms;
+}
+
+%transitionDurationZero {
+  transition-duration: 0ms;
+}
+
+%sprite {
+  background: url('#{$path}fotorama.png') no-repeat;
+  @media (#{-webkit-min-device-pixel-ratio}: 1.5), (min-resolution: 2dppx) {
+    background: url('#{$path}fotorama@2x.png') no-repeat;
+    background-size: 96px 160px;
+  }
+  @extend %no-bg-on-print;
+}
+
+%before-load-bg {
+  background-color: mix(black, white);
+  background-color: rgba(mix(black, white), .2);
+}
+
+%no-bg-on-print {
+  @media print {
+    background: none !important;
+  }
+}

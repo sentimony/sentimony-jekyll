@@ -1,0 +1,211 @@
+.fotorama__arr,
+.fotorama__fullscreen-icon,
+.fotorama__video-play,
+.fotorama__video-close {
+  position: absolute;
+  z-index: 11;
+  cursor: pointer;
+  @extend %no-tap;
+  @extend %no-select;
+
+  .fotorama__wrap--css3 & {
+    @extend %initial-translate;
+  }
+}
+
+//.fotorama__arr {
+//  width: $arrSize * 1.5;
+//  height: 100%;
+//  top: 0;
+//  bottom: 0;
+//}
+
+.fotorama__arr {
+  //@extend %gpu;
+  position: absolute;
+  width: $arrSize;
+  height: $arrSize;
+  //left: 50%;
+  top: 50%;
+  //margin-left: -($arrSize / 2);
+  margin-top: -($arrSize / 2);
+  @extend %sprite;
+}
+
+.fotorama__arr--prev {
+  left: 2px;
+  //.fotorama__arr__arr {
+    background-position: 0 0;
+  //}
+}
+
+.fotorama__arr--next {
+  right: 2px;
+  //.fotorama__arr__arr {
+    background-position: (-$arrSize) 0;
+  //}
+}
+
+.fotorama__arr--disabled {
+  pointer-events: none;
+  cursor: default;
+  *display: none;
+  opacity: .1;
+}
+
+.fotorama__fullscreen-icon {
+  width: $arrSize;
+  height: $arrSize;
+  top: 2px;
+  right: 2px;
+  @extend %sprite;
+  background-position: 0 (-$arrSize);
+  z-index: 20;
+}
+
+.fotorama__fullscreen-icon,
+.fotorama__arr {
+  &:focus {
+    border-radius: 50%;
+    @extend %focus;
+    @extend %focus-overlay;
+  }
+}
+
+.fotorama--fullscreen {
+  .fotorama__fullscreen-icon {
+    background-position: (-$arrSize) (-$arrSize);
+  }
+}
+
+.fotorama__video-play {
+  width: $arrSize * 3;
+  height: $arrSize * 3;
+  left: 50%;
+  top: 50%;
+  margin-left: -($arrSize * 3 / 2);
+  margin-top: -($arrSize * 3 / 2);
+  @extend %sprite;
+  background-position: 0 (-$arrSize*2);
+  opacity: 0;
+
+  .fotorama__wrap--css2 &,
+  .fotorama__wrap--video .fotorama__stage & {
+    display: none;
+  }
+
+  .fotorama__loaded &,
+  .fotorama__error &,
+  .fotorama__nav__frame & {
+    opacity: 1;
+    display: block;
+  }
+
+  .fotorama__nav__frame & {
+    width: $arrSize;
+    height: $arrSize;
+    margin-left: -($arrSize / 2);
+    margin-top: -($arrSize / 2);
+    background-position: (-$arrSize*2) (-$arrSize);
+  }
+}
+
+.fotorama__video-close {
+  width: $arrSize;
+  height: $arrSize;
+  top: 0;
+  right: 0;
+  @extend %sprite;
+  background-position: (-$arrSize*2) 0;
+  z-index: 20;
+  opacity: 0;
+
+  .fotorama__wrap--css2 & {
+    display: none;
+  }
+
+  .fotorama__wrap--css3 & {
+    transform: translate3d($arrSize, -$arrSize, 0);
+  }
+
+  .fotorama__wrap--video & {
+    display: block;
+    opacity: 1;
+  }
+
+  .fotorama__wrap--css3.fotorama__wrap--video & {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+
+.fotorama__wrap--no-controls.fotorama__wrap--toggle-arrows {
+  .fotorama__arr,
+  .fotorama__fullscreen-icon {
+    opacity: 0;
+    &:focus {
+      opacity: 1;
+    }
+  }
+}
+
+.fotorama__wrap--video {
+  .fotorama__arr,
+  .fotorama__fullscreen-icon {
+    opacity: 0 !important;
+  }
+}
+
+.fotorama__wrap--css2 {
+  &.fotorama__wrap--no-controls.fotorama__wrap--toggle-arrows {
+    .fotorama__arr,
+    .fotorama__fullscreen-icon {
+      display: none;
+      &:focus {
+        display: block;
+      }
+    }
+  }
+  &.fotorama__wrap--video {
+    .fotorama__arr,
+    .fotorama__fullscreen-icon {
+      display: none !important;
+    }
+  }
+}
+
+.fotorama__wrap--css3 {
+  &.fotorama__wrap--no-controls.fotorama__wrap--slide.fotorama__wrap--toggle-arrows {
+    .fotorama__fullscreen-icon:not(:focus) {
+      transform: translate3d($arrSize, -$arrSize, 0);
+    }
+    .fotorama__arr--prev:not(:focus) {
+      transform: translate3d(-$arrSize * 1.5, 0, 0);
+    }
+    .fotorama__arr--next:not(:focus) {
+      transform: translate3d($arrSize * 1.5, 0, 0);
+    }
+  }
+  &.fotorama__wrap--video {
+    .fotorama__fullscreen-icon {
+      transform: translate3d($arrSize, -$arrSize, 0) !important;
+    }
+    .fotorama__arr--prev {
+      transform: translate3d(-$arrSize * 1.5, 0, 0) !important;
+    }
+    .fotorama__arr--next {
+      transform: translate3d($arrSize * 1.5, 0, 0) !important;
+    }
+  }
+}
+
+.fotorama__wrap--css3 {
+  .fotorama__arr:not(:focus),
+  .fotorama__fullscreen-icon:not(:focus),
+  .fotorama__video-play:not(:focus),
+  .fotorama__video-close:not(:focus) {
+    transition-property: transform, opacity;
+    transition-duration: $time;
+  }
+}
+
