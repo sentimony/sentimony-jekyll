@@ -184,11 +184,13 @@ $.each(groups, function() {
 // fotorama
 // http://fotorama.io
 fotoramaDefaults = {
-  width: 700,
-  maxwidth: '100%',
-  ratio: 16/9,
-  allowfullscreen: true,
-  nav: 'thumbs',
-  trackpad: true,
-  keyboard: true
+    width: 700,
+    maxwidth: '100%',
+    ratio: 16/9,
+    allowfullscreen: true,
+    nav: 'thumbs',
+    trackpad: true,
+    keyboard: true,
+    loop: true
 }
+
