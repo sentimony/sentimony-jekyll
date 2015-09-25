@@ -1,9 +1,9 @@
 ---
 layout: default
 
-title: VA «Ocean Scenes&#58; Higher Titans»
-meta: VA - Ocean Scenes&#58; Higher Titans by Aqua Deep Music
-keywords: VA Ocean Scenes Higher Titans, Aqua Deep Music, Sentimony Records
+title: 'VA «Ocean Scenes: Higher Titans»'
+meta: 'VA - Ocean Scene: Higher Titans by Aqua Deep Music'
+keywords: 'VA Ocean Scenes Higher Titans, Aqua Deep Music, Sentimony Records'
 
 og-image: releases/va-ocean-scenes-higher-titans-og.jpg
 
@@ -40,5 +40,3 @@ Tracklis:
 10. Calamus - The Mighty Glow [150bpm]
 11. Shiva3 - Old Moon [145bpm]
 12. NeiRula - Absolutiz Hipnotyzze (Out) [90bpm]
-
-

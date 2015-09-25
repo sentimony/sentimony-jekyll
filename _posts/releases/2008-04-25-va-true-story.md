@@ -40,5 +40,3 @@ Tracklis:
 10. Unstable Elements - Yumy (vs Madgentel) [130bpm]
 11. Taff - Wind [110bpm]
 12. Sol - Chudo 81 (Harax Version) [110bpm]
-
-

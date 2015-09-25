@@ -37,5 +37,3 @@ Tracklis:
 07. Spectrum Vision - Ameica [90bpm]
 08. Spectrum Vision - Paper Love [100bpm]
 09. Spectrum Vision - Pikake [75bpm]
-
-

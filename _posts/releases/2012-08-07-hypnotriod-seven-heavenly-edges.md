@@ -130,5 +130,3 @@ discogs: http://www.discogs.com/Hypnotriod-Seven-Heavenly-Edges/release/3618882
 <div id="small-dialog" class="zoom-anim-dialog mfp-hide">
     {% include gallery.html %}
 </div>
-
-
