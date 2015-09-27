@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: 'Tentura «Beyond Illusion»'
 meta: 'Tentura - Beyond Illusion by Sentimony Records'

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: VA «True Story»
 meta: VA - True Story by Sentimony Records

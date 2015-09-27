@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: VA «Special Places»
 meta: VA - Special Places by Sentimony Records

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: 'Psyfactor «Retro Scientific»'
 meta: 'Psyfactor - Retro Scientific by Sentimony Records'

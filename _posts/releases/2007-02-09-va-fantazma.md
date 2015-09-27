@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: VA «Fantazma»
 meta: VA - Fantazma by Sentimony Records

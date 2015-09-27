@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: 'Cifroteca & Roof Raiser «Wild Storm»'
 meta: 'Cifroteca & Roof Raiser - Wild Storm by Sentimony Records'

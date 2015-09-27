@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: VA «Absence Of Gravity»
 meta: VA - Absence Of Gravity by Sentimony Records

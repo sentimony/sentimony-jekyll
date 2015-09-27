@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: 'VA «Time Loop: Beyond Borders»'
 meta: 'VA - Time Loop: Beyond Borders by Sentimony Records'

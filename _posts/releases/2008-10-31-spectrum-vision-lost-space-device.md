@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: Spectrum Vision «Lost Space Device»
 meta: Spectrum Vision - Lost Space Device by Sentimony Records

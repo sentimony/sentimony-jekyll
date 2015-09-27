@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: VA «Emptinesses»
 meta: VA - Emptinesses by Sentimony Records

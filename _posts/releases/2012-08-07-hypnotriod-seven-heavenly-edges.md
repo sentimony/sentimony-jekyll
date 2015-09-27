@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: Hypnotriod «Seven Heavenly Edges»
 meta: Hypnotriod - Seven Heavenly Edges by Sentimony Records

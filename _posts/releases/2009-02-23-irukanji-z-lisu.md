@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: Irukanji «Z Lisu»
 meta: Irukanji - Z Lisu by Sentimony Records

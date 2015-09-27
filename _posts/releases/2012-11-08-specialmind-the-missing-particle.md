@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: 'Tentura «Aurora»'
 meta: 'Tentura - Aurora by Sentimony Records'

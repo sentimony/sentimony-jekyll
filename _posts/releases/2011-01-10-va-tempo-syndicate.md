@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: VA «Tempo Syndicate»
 meta: VA - Tempo Syndicate by Sentimony Records

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: release
 
 title: Sphingida «Origin»
 meta: Sphingida - Origin by Sentimony Records
