@@ -4,13 +4,13 @@ markdown: kramdown
 permalink: pretty
 
 host: 0.0.0.0
-port: 7002
+port: 7001
 
 exclude: ['README.md']
 
 sass:
   sass_dir: assets/css
-  style: :expanded
+  style: :compressed
 
 # custom settings
 keywords: 'sentimony records, electronic, psychedelic, free, download'
