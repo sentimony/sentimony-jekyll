@@ -1,0 +1,30 @@
+$list-width: 100%;
+
+section.list {
+    padding: 10px 5px;
+    @include clearfix;
+
+    &>a {
+        width: $list-width/3;
+        float: left;
+        padding: 5px;
+        box-sizing: border-box;
+
+        .outline {
+
+            img {
+                display: block;
+                width: 100%;
+            }
+        }
+        .title {
+            padding: 6px 0;
+            background: #444;
+        }
+        &:hover {
+            .title {
+                background: #111;
+            }
+        }
+    }
+}

@@ -6,3 +6,11 @@ keywords:
 permalink: /artists/
 ---
 
+<section class="list">
+    <h3>Artists</h3>
+    {% for artists in site.categories.artists %}
+        <a href="{{ artists.url }}">
+            <div class="title">{{ artists.title }}</div>
+        </a>
+    {% endfor %}
+</section>

@@ -1,0 +1,15 @@
+nav.nav-top {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(#000, .5);
+
+    a {
+        text-transform: uppercase;
+        padding: 14px 12px;
+        display: inline-block;
+        text-shadow: 0 0 5px #000;
+    }
+}

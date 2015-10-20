@@ -4,31 +4,32 @@ footer {
             display: inline-block;
             padding: 4px 12px;
         }
-    }
-    nav.social {
-        a {
-            position: relative;
+        &.social {
+            padding-top: 20px;
 
-            span[class^="icon-"] {
-                font-size: 40px;
-            }
-            span.tooltip {
-                display: none;
-                position: absolute;
-                top: 0;
-                left: 50%;
-                @include transform(translate3d(-50%, -100%, 0));
-            }
-            &:hover {
+            a {
+                position: relative;
+
+                span[class^="icon-"] {
+                    font-size: 40px;
+                }
                 span.tooltip {
-                    display: block;
+                    display: none;
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    @include transform(translate3d(-50%, -100%, 0));
+                }
+                &:hover {
+                    span.tooltip {
+                        display: block;
+                    }
                 }
             }
         }
+        &.labels {
+            a {
+            }
+        }
     }
-    // nav.labels {
-    //     a {
-    //         display: inline-block;
-    //     }
-    // }
 }
