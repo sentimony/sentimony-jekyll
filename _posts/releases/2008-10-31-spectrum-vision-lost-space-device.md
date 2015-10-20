@@ -26,7 +26,7 @@ bandcamp-lable-track:
 discogs: http://www.discogs.com/Spectrum-Vision-Lost-Space-Device/release/1547476
 ---
 
-Tracklis:
+Tracklist:
 
 01. Spectrum Vision - Anna [140bpm]
 02. Spectrum Vision - Electro System [124bpm]

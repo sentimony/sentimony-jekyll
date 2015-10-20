@@ -26,7 +26,7 @@ bandcamp-lable-track:
 discogs: http://www.discogs.com/Sphingida-Origin/release/1171746
 ---
 
-Tracklis:
+Tracklist:
 
 01. Sphingida - Sunset Sign [100bpm]
 02. Sphingida - Submerge [110bpm]

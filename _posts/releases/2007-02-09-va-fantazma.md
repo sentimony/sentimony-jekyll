@@ -27,7 +27,7 @@ bandcamp-lable-track:
 discogs: http://www.discogs.com/Various-Fantazma/release/952240
 ---
 
-Tracklis:
+Tracklist:
 
 01. Harax - Dreamy [80bpm]
 02. Sphingida - After This [90bpm]

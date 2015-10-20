@@ -26,7 +26,7 @@ bandcamp-lable-track:
 discogs: http://www.discogs.com/Various-True-Story/release/1321723
 ---
 
-Tracklis:
+Tracklist:
 
 01. Spectrum Vision - Mystical Experiences [120bpm]
 02. Chronos - Time Keeper [80bpm]

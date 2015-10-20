@@ -28,45 +28,17 @@ layout: compress
 <body>
     <nav class="header">
         <a href="{{ site.baseurl }}/">home</a>
-        <a href="{{ site.baseurl }}/news">news</a>
-        <a href="{{ site.baseurl }}/releases">releases</a>
-        <a href="{{ site.baseurl }}/events">events</a>
-        <a href="{{ site.baseurl }}/artists">artists</a>
+        <a href="{{ site.baseurl }}/news/">news</a>
+        <a href="{{ site.baseurl }}/releases/">releases</a>
+        <a href="{{ site.baseurl }}/events/">events</a>
+        <a href="{{ site.baseurl }}/artists/">artists</a>
     </nav>
 
     {{ content }}
 
-    <footer>
-        <section>
+    {% include footer.html %}
 
-            <nav>
-                <a href="https://sentimony.bandcamp.com" target="_blank">bandcamp</a>
-                <a href="https://www.facebook.com/sentimony.records" target="_blank">facebook</a>
-                <a href="https://twitter.com/sentimony" target="_blank">twitter</a>
-                <a href="https://soundcloud.com/sentimony" target="_blank">soundcloud</a>
-                <a href="http://www.discogs.com/label/82598-Sentimony-Records" target="_blank">discogs</a>
-            </nav>
-
-            <nav>
-                <a href="http://sentimony.com">Sentimony Records</a>
-                <a href="http://aquadeepmusic.com">Aqua Deep Music</a>
-                <a href="http://lookinglook.com">Lookinglook Records</a>
-            </nav>
-
-            <div>Web Development & Design by <a href="http://ihororlovskyi.com" target="_blank">Ihor Orlovskyi</a></div>
-            <div>Sentimony Records 2006 - 2015 © All Rights Reserved</div>
-
-        </section>
-    </footer>
-
-    <script src="{{ site.baseurl }}/assets/js/vendor/jquery-2.1.1.min.js"></script>
-    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/vendor/imagesloaded.pkgd.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/vendor/isotope.pkgd.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/vendor/waypoints.min.js"></script>
-    <script src="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.min.js"></script>
-    <script src="http://dimsemenov-static.s3.amazonaws.com/dist/jquery.magnific-popup.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/vendor/fresco.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/vendor/jquery-1.11.3.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/vendor/fotorama.js"></script>
     <script src="{{ site.baseurl }}/assets/js/main.js"></script>
     <script>

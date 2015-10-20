@@ -26,7 +26,7 @@ bandcamp-lable-track:
 discogs: http://www.discogs.com/Various-Emptinesses/release/1021635
 ---
 
-Tracklis:
+Tracklist:
 
 01. Unstable Elements - Thaw (Intro) [130bpm]
 02. Sphingida - Over The Depth [72bpm]

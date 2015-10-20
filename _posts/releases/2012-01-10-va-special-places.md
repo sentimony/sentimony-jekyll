@@ -26,7 +26,7 @@ bandcamp-lable-track:
 discogs: http://www.discogs.com/AstroPilot-Special-Places/release/3517621
 ---
 
-<!-- Tracklist:
+Tracklist:
 
 01. K.D. Expression - Alpae-3717 [100bpm]
 02. Cygna - Camaras De Lamento [110bpm]
@@ -39,7 +39,7 @@ discogs: http://www.discogs.com/AstroPilot-Special-Places/release/3517621
 09. Field Rotation - Disappear [130bpm]
 10. Nexar - Jewel (AstroPilot Edit) [85bpm]
 11. 36 - A Final Thought [119bpm]
-12. Eguana - A Moment Of Madness [80bpm] -->
+12. Eguana - A Moment Of Madness [80bpm]
 
 <div class="container-fluid">
     <div class="row">

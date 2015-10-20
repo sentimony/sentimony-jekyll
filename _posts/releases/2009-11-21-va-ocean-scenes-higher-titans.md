@@ -26,7 +26,7 @@ bandcamp-lable-track:
 discogs: http://www.discogs.com/Various-Ocean-Scenes-Higher-Titans/release/2023159
 ---
 
-Tracklis:
+Tracklist:
 
 01. Irukanji - Mammoth (In) [130bpm]
 02. Cifroteca - Nero Squarka [148bpm]
