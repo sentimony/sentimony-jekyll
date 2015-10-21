@@ -1,17 +1,17 @@
 ---
 layout: artist
+category: artists
+permalink: artist/:title
+photo: tookytooky
 title: Tookytooky
-url-id: tookytooky
-meta: Tookytooky
-keywords: Tookytooky
 
 name: Sergey Verbitsky
 location: Odesa, Ukraine
-soundcloud-id: 16396451
 
-category: artists
-permalink: artist/:title
-
+website: 
+bandcamp: 
+facebook: 
+soundcloud: 
+discogs: 
+coub: 
 ---
-
-

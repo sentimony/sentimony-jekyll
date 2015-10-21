@@ -1,17 +1,17 @@
 ---
 layout: artist
+category: artists
+permalink: artist/:title
+photo: overdream
 title: Overdream
-url-id: overdream
-meta: Overdream
-keywords: Overdream
 
 name: Maxim Kurushyn
 location: Kyiv, Ukraine
-soundcloud-id: 267996
 
-category: artists
-permalink: artist/:title
-
+website: 
+bandcamp: 
+facebook: 
+soundcloud: 
+discogs: 
+coub: 
 ---
-
-

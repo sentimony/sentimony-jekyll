@@ -1,17 +1,17 @@
 ---
 layout: artist
+category: artists
+permalink: artist/:title
+photo: cifroteca
 title: Cifroteca
-url-id: cifroteca
-meta: Cifroteca
-keywords: Cifroteca
 
 name: Yuriy Iofik
 location: Crimea, Ukraine
-soundcloud-id: 728376
 
-category: artists
-permalink: artist/:title
-
+website: 
+bandcamp: 
+facebook: 
+soundcloud: 
+discogs: 
+coub: 
 ---
-
-

@@ -5,13 +5,14 @@ meta: Sentimony Records - Electronic psychedelic music label from Kyiv, Ukraine
 keywords: 
 permalink: /artists/
 ---
-
 <section class="list">
     <h3>Artists</h3>
     {% for artists in site.categories.artists %}
         <a href="{{ artists.url }}">
+            <div class="outline">
+                <img src="{{ site.baseurl }}/assets/img/artists/{{ artists.photo }}.jpg" alt="Photo Of {{ artists.title }}">
+            </div>
             <div class="title">{{ artists.title }}</div>
         </a>
     {% endfor %}
 </section>
-
