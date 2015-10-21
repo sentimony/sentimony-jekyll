@@ -41,7 +41,7 @@ Tracklist:
 11. 36 - A Final Thought [119bpm]
 12. Eguana - A Moment Of Madness [80bpm]
 
-<div class="container-fluid">
+<!-- <div class="container-fluid">
     <div class="row">
         <div class="col-sm-5 col-sm-offset-2">
 
@@ -56,4 +56,4 @@ Tracklist:
 
         </div>
     </div>
-</div>
+</div> -->
