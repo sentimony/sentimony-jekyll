@@ -4,11 +4,11 @@
 
 @font-face {
     font-family: 'sentimony-icons';
-    src:url('../fonts/sentimony-icons.eot');
-    src:url('../fonts/sentimony-icons.eot?#iefix') format('embedded-opentype'),
-        url('.//fonts/sentimony-icons.ttf') format('truetype'),
-        url('../fonts/sentimony-icons.woff') format('woff'),
-        url('../fonts/sentimony-icons.svg#sentimony-icons') format('svg');
+    src:url('#{$path}sentimony-icons.eot');
+    src:url('#{$path}sentimony-icons.eot?#iefix') format('embedded-opentype'),
+        url('#{$path}sentimony-icons.ttf') format('truetype'),
+        url('#{$path}sentimony-icons.woff') format('woff'),
+        url('#{$path}sentimony-icons.svg#sentimony-icons') format('svg');
     font-weight: normal;
     font-style: normal;
 }

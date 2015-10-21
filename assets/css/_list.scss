@@ -5,7 +5,7 @@ section.list {
     @include clearfix;
 
     &>a {
-        width: $list-width/3;
+        width: $list-width/4;
         float: left;
         padding: 5px;
         box-sizing: border-box;
