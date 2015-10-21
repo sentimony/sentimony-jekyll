@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: VA «Emptinesses»
-release-id: va-emptinesses
 
 bandcamp-id: 2938863422
 bandcamp: 

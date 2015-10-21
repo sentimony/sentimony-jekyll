@@ -1,7 +1,7 @@
 # Build settings
 baseurl:
 markdown: kramdown
-permalink: pretty
+permalink: /:title
 
 host: 0.0.0.0
 port: 7001

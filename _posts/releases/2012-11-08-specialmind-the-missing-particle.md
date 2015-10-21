@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: Specialmind «The Missing Particle»
-release-id: specialmind-the-missing-particle
 
 bandcamp-id: 
 bandcamp: 

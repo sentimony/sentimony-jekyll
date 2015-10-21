@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: 'VA «Time Loop: Beyond Borders»'
-release-id: va-time-loop-beyond-borders
 
 bandcamp-id: 
 bandcamp: 

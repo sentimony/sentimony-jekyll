@@ -1,9 +1,7 @@
 ---
-layout: artist
+layout: item-artists
 category: artists
-permalink: artist/:title
 
-photo: already-maged
 title: Already Maged
 
 name: Egor Yudin

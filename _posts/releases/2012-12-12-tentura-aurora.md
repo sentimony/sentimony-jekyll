@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: Tentura «Aurora»
-release-id: tentura-aurora
 
 bandcamp-id: 
 bandcamp: 

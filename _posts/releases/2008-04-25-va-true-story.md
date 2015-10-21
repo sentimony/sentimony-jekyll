@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: VA «True Story»
-release-id: va-true-story
 
 bandcamp-id: 1223403780
 bandcamp: 

@@ -1,9 +1,7 @@
 ---
-layout: artist
+layout: item-artists
 category: artists
-permalink: artist/:title
 
-photo: cifroteca
 title: Cifroteca
 
 name: Yuriy Iofik

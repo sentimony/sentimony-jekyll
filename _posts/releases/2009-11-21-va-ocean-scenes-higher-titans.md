@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: 'VA «Ocean Scenes: Higher Titans»'
-release-id: va-ocean-scenes-higher-titans
 
 bandcamp-id: 3486103233
 bandcamp: 

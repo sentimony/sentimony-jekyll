@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: Tentura «Beyond Illusion»
-release-id: tentura-beyond-illusion
 
 bandcamp-id: 
 bandcamp: 

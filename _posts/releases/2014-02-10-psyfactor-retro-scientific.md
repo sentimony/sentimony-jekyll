@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: Psyfactor «Retro Scientific»
-release-id: psyfactor-retro-scientific
 
 bandcamp-id: 
 bandcamp: 

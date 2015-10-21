@@ -1,7 +1,7 @@
 article.item {
     text-align: left;
 
-    &.item-release {
+    &.item-releases {
         ol {
             margin: 0 0 20px;
             padding: 0 0 0 35px;
@@ -10,6 +10,15 @@ article.item {
 
             }
         }
+    }
+
+    &.item-artists {
+    }
+
+    &.item-events {
+    }
+
+    &.item-news {
     }
 
     iframe.bandcamp-item {

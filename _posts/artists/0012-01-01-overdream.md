@@ -1,9 +1,7 @@
 ---
-layout: artist
+layout: item-artists
 category: artists
-permalink: artist/:title
 
-photo: overdream
 title: Overdream
 
 name: Maxim Kurushyn

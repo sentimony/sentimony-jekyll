@@ -1,9 +1,7 @@
 ---
-layout: artist
+layout: item-artists
 category: artists
-permalink: artist/:title
 
-photo: tookytooky
 title: Tookytooky
 
 name: Sergey Verbitsky

@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: Sphingida «Origin»
-release-id: sphingida-origin
 
 bandcamp-id: 3680718383
 bandcamp: 

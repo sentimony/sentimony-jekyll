@@ -1,9 +1,7 @@
 ---
-layout: artist
+layout: item-artists
 category: artists
-permalink: artist/:title
 
-photo: roof-raiser
 title: Roof Raiser
 
 name: Alexey Petrovskiy

@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: Hypnotriod «Seven Heavenly Edges»
-release-id: hypnotriod-seven-heavenly-edges
 
 bandcamp-id: 2733998829
 bandcamp: 

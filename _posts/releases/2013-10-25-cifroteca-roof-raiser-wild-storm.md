@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: 'Cifroteca & Roof Raiser «Wild Storm»'
-release-id: cifroteca-roof-raiser-wild-storm
 
 bandcamp-id: 
 bandcamp: 

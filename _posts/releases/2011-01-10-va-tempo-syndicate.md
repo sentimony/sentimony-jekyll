@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: VA «Tempo Syndicate»
-release-id: va-tempo-syndicate
 
 bandcamp-id: 2483216888
 bandcamp: 

@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: VA «Special Places»
-release-id: va-special-places
 
 bandcamp-id: 64124286
 bandcamp: 

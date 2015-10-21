@@ -1,13 +1,6 @@
 ---
-layout: event
-
-meta: 
-keywords: 
-
-og-image: 
-
+layout: item-events
 category: events
-permalink: event/:title
 
 fb-link: 
 psyshine-link: http://forum.psyshine.org.ua/viewtopic.php?t=8288

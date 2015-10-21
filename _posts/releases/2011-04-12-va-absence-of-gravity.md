@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: VA «Absence Of Gravity»
-release-id: va-absence-of-gravity
 
 bandcamp-id: 615519130
 bandcamp: 

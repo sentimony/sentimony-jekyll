@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: Spectrum Vision «Lost Space Device»
-release-id: spectrum-vision-lost-space-device
 
 bandcamp-id: 
 bandcamp: 

@@ -10,7 +10,7 @@ permalink: /artists/
     {% for artists in site.categories.artists %}
         <a href="{{ artists.url }}">
             <div class="outline">
-                <img src="{{ site.baseurl }}/assets/img/artists/{{ artists.photo }}.jpg" alt="Photo Of {{ artists.title }}">
+                <img src="{{ site.baseurl }}/assets/img/artists/{{ artists.id }}.jpg" alt="Photo Of {{ artists.title }}">
             </div>
             <div class="title">{{ artists.title }}</div>
         </a>

@@ -1,10 +1,8 @@
 ---
-layout: release
-category: release
-permalink: /release/:title
+layout: item-releases
+category: releases
 
 title: Irukanji «Z Lisu»
-release-id: irukanji-z-lisu
 
 bandcamp-id: 2924012921
 bandcamp: 
