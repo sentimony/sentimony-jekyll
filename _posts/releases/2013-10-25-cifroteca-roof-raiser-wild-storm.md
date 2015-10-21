@@ -1,6 +1,6 @@
 ---
 layout: release
-category: releases
+category: release
 permalink: /release/:title
 
 title: 'Cifroteca & Roof Raiser «Wild Storm»'

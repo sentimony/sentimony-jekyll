@@ -17,12 +17,12 @@ permalink: /
 
 <section class="list">
     <h3>Latest Releases</h3>
-    {% for releases in site.categories.releases limit:4 %}
-        <a href="{{ releases.url }}">
+    {% for release in site.categories.release limit:4 %}
+        <a href="{{ release.url }}">
             <div class="outline">
-                <img src="{{ site.baseurl }}/assets/img/releases/{{ releases.release-id }}.jpg" alt="Cover Of {{ releases.title }}">
+                <img src="{{ site.baseurl }}/assets/img/releases/{{ release.release-id }}.jpg" alt="Cover Of {{ release.title }}">
             </div>
-            <div class="title">{{ releases.title }}</div>
+            <div class="title">{{ release.title }}</div>
         </a>
     {% endfor %}
 </section>

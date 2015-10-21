@@ -1,6 +1,6 @@
 ---
 layout: release
-category: releases
+category: release
 permalink: /release/:title
 
 title: VA «Tempo Syndicate»

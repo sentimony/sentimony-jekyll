@@ -1,6 +1,6 @@
 ---
 layout: release
-category: releases
+category: release
 permalink: /release/:title
 
 title: Spectrum Vision «Lost Space Device»

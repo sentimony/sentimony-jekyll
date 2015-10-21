@@ -1,7 +1,7 @@
 ---
 layout: release
-category: releases
-permalink: /release/:title
+category: release
+permalink: /:categories/:title
 
 title: VA «Fantazma»
 release-id: va-fantazma

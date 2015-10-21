@@ -1,6 +1,6 @@
 ---
 layout: release
-category: releases
+category: release
 permalink: /release/:title
 
 title: Specialmind «The Missing Particle»
