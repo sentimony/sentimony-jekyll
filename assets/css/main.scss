@@ -7,11 +7,11 @@ $path: "../fonts/";
 @import "vendor/fonts";
 
 @import "nav-top";
+@import "header";
 @import "list";
 @import "item";
 @import "footer";
 
-@import "2-base/-base-index";
-@import "3-modules/-modules-index";
-@import "4-pages/-pages-index";
+@import "-vars";
+@import "-base";
 

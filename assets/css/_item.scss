@@ -2,6 +2,11 @@ article.item {
     text-align: left;
 
     &.item-releases {
+        img.cover {
+            max-width: 700px;
+            display: block;
+            margin-bottom: 20px;
+        }
         ol {
             margin: 0 0 20px;
             padding: 0 0 0 35px;
