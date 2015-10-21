@@ -1,28 +1,14 @@
 ---
 layout: release
+category: releases
+permalink: /release/:title
 
 title: 'VA «Time Loop: Beyond Borders»'
-meta: 'VA - Time Loop: Beyond Borders by Sentimony Records'
-keywords: 'VA  Time Loop Beyond Borders, Sentimony Records'
+release-id: va-time-loop-beyond-borders
 
-og-image: 
-
-category: releases
-permalink: /release/va-time-loop-beyond-borders/
-release-id: sencd007
-
-label: 
-ektoplazm: free-music/time-loop-beyond-borders
-label-link: 
-label-bandcamp: 
-label-bandcamp-id: 
-
-bandcamp-album: 
-bandcamp-track: 
-
-bandcamp-lable-album: 
-bandcamp-lable-track: 
-
+bandcamp-id: 
+bandcamp: 
+ektoplazm: 
 discogs: http://www.discogs.com/Various-Time-Loop-Beyond-Borders/release/2443978
 ---
 

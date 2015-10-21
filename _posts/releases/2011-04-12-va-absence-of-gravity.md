@@ -1,28 +1,14 @@
 ---
 layout: release
+category: releases
+permalink: /release/:title
 
 title: VA «Absence Of Gravity»
-meta: VA - Absence Of Gravity by Sentimony Records
-keywords: VA Absence Of Gravity, Sentimony Records
+release-id: va-absence-of-gravity
 
-og-image: releases/va-absence-of-gravity-og.jpg
-
-category: releases
-permalink: /release/va-absence-of-gravity/
-release-id: sencd010
-
-label: Sentimony Records
-ektoplazm: free-music/absence-of-gravity
-label-link: sentimony.com/release/va-absence-of-gravity
-label-bandcamp: sentimony.bandcamp.com/album/va-absence-of-gravity
-label-bandcamp-id: 615519130
-
-bandcamp-album: 2563369517
-bandcamp-track: 807150293
-
-bandcamp-lable-album: 
-bandcamp-lable-track: 
-
+bandcamp-id: 615519130
+bandcamp: 
+ektoplazm: 
 discogs: http://www.discogs.com/Various-Absence-Of-Gravity/release/2820972
 ---
 

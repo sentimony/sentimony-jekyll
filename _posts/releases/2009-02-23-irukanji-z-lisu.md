@@ -1,28 +1,14 @@
 ---
 layout: release
+category: releases
+permalink: /release/:title
 
 title: Irukanji «Z Lisu»
-meta: Irukanji - Z Lisu by Sentimony Records
-keywords: Z Lisu, Sentimony Records
+release-id: irukanji-z-lisu
 
-og-image: releases/irukanji-z-lisus-og.jpg
-
-category: releases
-permalink: /release/irukanji-z-lisu/
-release-id: sencd006
-
-label: Sentimony Records
-ektoplazm: free-music/irukanji-z-lisu
-label-link: sentimony.com/release/irukanji-z-lisu
-label-bandcamp: sentimony.bandcamp.com/album/irukanji-z-lisu
-label-bandcamp-id: 2924012921
-
-bandcamp-album: 2581336461
-bandcamp-track: 
-
-bandcamp-lable-album: 2581336461
-bandcamp-lable-track: 
-
+bandcamp-id: 2924012921
+bandcamp: 
+ektoplazm: 
 discogs: http://www.discogs.com/Irukanji-Z-Lisu/release/1664941
 ---
 

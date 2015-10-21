@@ -1,28 +1,14 @@
 ---
 layout: release
+category: releases
+permalink: /release/:title
 
 title: Sphingida «Origin»
-meta: Sphingida - Origin by Sentimony Records
-keywords: Sphingida Origin, Sentimony Records
+release-id: sphingida-origin
 
-og-image: releases/sphingida-origin-og.jpg
-
-category: releases
-permalink: /release/sphingida-origin/
-release-id: sencd003
-
-label: Sentimony Records
-ektoplazm: free-music/sphingida-origin
-label-link: sentimony.com/release/sphingida-origin
-label-bandcamp: sentimony.bandcamp.com/album/sphingida-origin
-label-bandcamp-id: 3680718383
-
-bandcamp-album: 728290111
-bandcamp-track: 
-
-bandcamp-lable-album: 728290111
-bandcamp-lable-track: 
-
+bandcamp-id: 3680718383
+bandcamp: 
+ektoplazm: 
 discogs: http://www.discogs.com/Sphingida-Origin/release/1171746
 ---
 

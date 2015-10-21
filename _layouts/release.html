@@ -2,6 +2,12 @@
 layout: default
 ---
 <article class="item item-release">
+    <img src="{{ site.baseurl }}/assets/img/releases/{{ page.release-id }}.jpg" alt="Cover Of {{ page.title }}">
+
     {{ content }}
+
+    {% if page.bandcamp-id %}
+        <iframe class="bandcamp-item bandcamp-item__release" src="http://bandcamp.com/EmbeddedPlayer/v=2/album={{ page.bandcamp-id }}/layout=http_3A_2F_2Fbandcamp-play.github.io_2Firukanji-album.json/bgcol=333/linkcol=88ffff/debug=true/"></iframe>
+    {% endif %}
 </article>
 

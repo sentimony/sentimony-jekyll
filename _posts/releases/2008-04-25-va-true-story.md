@@ -1,28 +1,14 @@
 ---
 layout: release
+category: releases
+permalink: /release/:title
 
 title: VA «True Story»
-meta: VA - True Story by Sentimony Records
-keywords: VA True Story, Sentimony Records
+release-id: va-true-story
 
-og-image: releases/va-true-story-og.jpg
-
-category: releases
-permalink: /release/va-true-story/
-release-id: sencd004
-
-label: Sentimony Records
-ektoplazm: free-music/true-story
-label-link: sentimony.com/release/va-true-story
-label-bandcamp: sentimony.bandcamp.com/album/va-true-story
-label-bandcamp-id: 1223403780
-
-bandcamp-album: 2563369517
-bandcamp-track: 2577162539
-
-bandcamp-lable-album: 
-bandcamp-lable-track: 
-
+bandcamp-id: 1223403780
+bandcamp: 
+ektoplazm: 
 discogs: http://www.discogs.com/Various-True-Story/release/1321723
 ---
 

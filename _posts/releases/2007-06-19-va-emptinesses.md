@@ -1,28 +1,14 @@
 ---
 layout: release
+category: releases
+permalink: /release/:title
 
 title: VA «Emptinesses»
-meta: VA - Emptinesses by Sentimony Records
-keywords: VA Emptinesses, Sentimony Records
+release-id: va-emptinesses
 
-og-image: releases/va-emptinesses-og.jpg
-
-category: releases
-permalink: /release/va-emptinesses/
-release-id: sencd002
-
-label: Sentimony Records
-ektoplazm: free-music/emptinesses
-label-link: sentimony.com/release/va-emptinesses
-label-bandcamp: sentimony.bandcamp.com/album/va-emptinesses
-label-bandcamp-id: 2938863422
-
-bandcamp-album: 2563369517
-bandcamp-track: 2357902888
-
-bandcamp-lable-album: 
-bandcamp-lable-track: 
-
+bandcamp-id: 2938863422
+bandcamp: 
+ektoplazm: 
 discogs: http://www.discogs.com/Various-Emptinesses/release/1021635
 ---
 

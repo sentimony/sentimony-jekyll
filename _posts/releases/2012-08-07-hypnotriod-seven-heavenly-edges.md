@@ -1,28 +1,14 @@
 ---
 layout: release
+category: releases
+permalink: /release/:title
 
 title: Hypnotriod «Seven Heavenly Edges»
-meta: Hypnotriod - Seven Heavenly Edges by Sentimony Records
-keywords: Hypnotriod, Seven Heavenly Edges, Sentimony Records
+release-id: hypnotriod-seven-heavenly-edges
 
-og-image: releases/hypnotriod-seven-heavenly-edges-og.jpg
-
-category: releases
-permalink: /release/hypnotriod-seven-heavenly-edges/
-release-id: sencd012
-
-label: Sentimony Records
-ektoplazm: free-music/hypnotriod-seven-heavenly-edges
-label-link: sentimony.com/release/hypnotriod-seven-heavenly-edges
-label-bandcamp: sentimony.bandcamp.com/album/hypnotriod-seven-heavenly-edges
-label-bandcamp-id: 2733998829
-
-bandcamp-album: 2563369517
-bandcamp-track: 3570631252
-
-bandcamp-lable-album: 
-bandcamp-lable-track: 
-
+bandcamp-id: 2733998829
+bandcamp: 
+ektoplazm: 
 discogs: http://www.discogs.com/Hypnotriod-Seven-Heavenly-Edges/release/3618882
 ---
 

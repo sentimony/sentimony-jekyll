@@ -1,34 +1,21 @@
 ---
 layout: release
-
-title: 'Tentura «Aurora»'
-meta: 'Tentura - Aurora by Sentimony Records'
-keywords: 'Tentura, Aurora, Sentimony Records'
-
-og-image: 
-
 category: releases
-permalink: /release/tentura-aurora/
-release-id: sencd014
+permalink: /release/:title
 
-label: Sentimony Records
-ektoplazm: free-music/specialmind-the-missing-particle
-label-link: 
-label-bandcamp: 
-label-bandcamp-id: 
+title: Specialmind «The Missing Particle»
+release-id: specialmind-the-missing-particle
 
-bandcamp-album: 
-bandcamp-track: 
-
-bandcamp-lable-album: 
-bandcamp-lable-track: 
-
+bandcamp-id: 
+bandcamp: 
+ektoplazm: 
 discogs: http://www.discogs.com/Tentura-Aurora/release/4462165
 ---
 
 Tracklist:
 
-01. Tentura - Aurora [110bpm]
-02. Tentura - Melting [75bpm]
-03. Tentura - High Way [125bpm]
-04. Tentura - Eclipse [80bpm]
+01. Specialmind - The Missing Particle [110bpm]
+02. Specialmind - Alterlife [100bpm]
+03. Specialmind - Soul Language [113bpm]
+04. Specialmind - Alterlife (Tentura Remix) [100bpm]
+05. Specialmind - Soul Language (Unusual Cosmic Process Remix) [113bpm]

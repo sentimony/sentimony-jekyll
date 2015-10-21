@@ -1,28 +1,14 @@
 ---
 layout: release
+category: releases
+permalink: /release/:title
 
 title: Spectrum Vision «Lost Space Device»
-meta: Spectrum Vision - Lost Space Device by Sentimony Records
-keywords: Spectrum Vision, Lost Space Device, Sentimony Records
+release-id: spectrum-vision-lost-space-device
 
-og-image: 
-
-category: releases
-permalink: /release/spectrum-vision-lost-space-device/
-release-id: sencd005
-
-label: Sentimony Records
-ektoplazm: free-music/spectrum-vision-lost-space-device
-label-link: 
-label-bandcamp: 
-label-bandcamp-id: 
-
-bandcamp-album: 
-bandcamp-track: 
-
-bandcamp-lable-album: 
-bandcamp-lable-track: 
-
+bandcamp-id: 
+bandcamp: 
+ektoplazm: 
 discogs: http://www.discogs.com/Spectrum-Vision-Lost-Space-Device/release/1547476
 ---
 

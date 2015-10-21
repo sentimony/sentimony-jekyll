@@ -2,6 +2,7 @@
 layout: artist
 category: artists
 permalink: artist/:title
+
 photo: roof-raiser
 title: Roof Raiser
 

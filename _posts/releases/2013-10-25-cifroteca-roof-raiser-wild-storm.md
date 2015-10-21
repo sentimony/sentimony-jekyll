@@ -1,28 +1,14 @@
 ---
 layout: release
+category: releases
+permalink: /release/:title
 
 title: 'Cifroteca & Roof Raiser «Wild Storm»'
-meta: 'Cifroteca & Roof Raiser - Wild Storm by Sentimony Records'
-keywords: 'Cifroteca & Roof Raiser, Wild Storm, Sentimony Records'
+release-id: cifroteca-roof-raiser-wild-storm
 
-og-image: 
-
-category: releases
-permalink: /release/cifroteca-roof-raiser-wild-storm/
-release-id: sencd015
-
-label: 
+bandcamp-id: 
+bandcamp: 
 ektoplazm: 
-label-link: 
-label-bandcamp: 
-label-bandcamp-id: 
-
-bandcamp-album: 
-bandcamp-track: 
-
-bandcamp-lable-album: 
-bandcamp-lable-track: 
-
 discogs: http://www.discogs.com/Cifroteca-Roof-Raiser-Wild-Storm/release/5012131
 ---
 

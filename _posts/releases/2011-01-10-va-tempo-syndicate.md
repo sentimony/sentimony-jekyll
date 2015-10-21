@@ -1,28 +1,14 @@
 ---
 layout: release
+category: releases
+permalink: /release/:title
 
 title: VA «Tempo Syndicate»
-meta: VA - Tempo Syndicate by Sentimony Records
-keywords: VA Tempo Syndicate, Sentimony Records
+release-id: va-tempo-syndicate
 
-og-image: releases/va-tempo-syndicate-og.jpg
-
-category: releases
-permalink: /release/va-tempo-syndicate/
-release-id: sencd009
-
-label: Sentimony Records
-ektoplazm: free-music/tempo-syndicate
-label-link: sentimony.com/release/va-tempo-syndicate
-label-bandcamp: sentimony.bandcamp.com/album/va-tempo-syndicate
-label-bandcamp-id: 2483216888
-
-bandcamp-album: 2563369517
-bandcamp-track: 2080900690
-
-bandcamp-lable-album: 
-bandcamp-lable-track: 
-
+bandcamp-id: 2483216888
+bandcamp: 
+ektoplazm: 
 discogs: http://www.discogs.com/Various-Tempo-Syndicate/release/2645251
 ---
 

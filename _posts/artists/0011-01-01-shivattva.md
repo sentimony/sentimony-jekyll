@@ -2,6 +2,7 @@
 layout: artist
 category: artists
 permalink: artist/:title
+
 photo: shivattva
 title: Shivattva
 

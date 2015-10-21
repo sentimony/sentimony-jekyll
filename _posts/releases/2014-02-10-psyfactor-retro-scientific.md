@@ -1,28 +1,14 @@
 ---
 layout: release
-
-title: 'Psyfactor «Retro Scientific»'
-meta: 'Psyfactor - Retro Scientific by Sentimony Records'
-keywords: 'Psyfactor, Retro Scientific, Sentimony Records'
-
-og-image: 
-
 category: releases
-permalink: /release/psyfactor-retro-scientific/
-release-id: sencd016
+permalink: /release/:title
 
-label: 
+title: Psyfactor «Retro Scientific»
+release-id: psyfactor-retro-scientific
+
+bandcamp-id: 
+bandcamp: 
 ektoplazm: 
-label-link: 
-label-bandcamp: 
-label-bandcamp-id: 
-
-bandcamp-album: 
-bandcamp-track: 
-
-bandcamp-lable-album: 
-bandcamp-lable-track: 
-
 discogs: http://www.discogs.com/Psyfactor-Retro-Scientific/release/5399930
 ---
 

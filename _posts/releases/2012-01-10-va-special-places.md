@@ -1,28 +1,14 @@
 ---
 layout: release
+category: releases
+permalink: /release/:title
 
 title: VA «Special Places»
-meta: VA - Special Places by Sentimony Records
-keywords: VA Special Places, Sentimony Records
+release-id: va-special-places
 
-og-image: releases/va-special-places-og.jpg
-
-category: releases
-permalink: /release/va-special-places/
-release-id: sencd011
-
-label: Sentimony Records
-ektoplazm: free-music/special-places
-label-link: sentimony.com/release/va-special-places
-label-bandcamp: sentimony.bandcamp.com/album/va-special-places
-label-bandcamp-id: 64124286
-
-bandcamp-album: 2563369517
-bandcamp-track: 430811055
-
-bandcamp-lable-album: 
-bandcamp-lable-track: 
-
+bandcamp-id: 64124286
+bandcamp: 
+ektoplazm: 
 discogs: http://www.discogs.com/AstroPilot-Special-Places/release/3517621
 ---
 

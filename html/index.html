@@ -20,7 +20,7 @@ permalink: /
     {% for releases in site.categories.releases limit:4 %}
         <a href="{{ releases.url }}">
             <div class="outline">
-                <img src="{{ site.baseurl }}/assets/img/releases/{{ releases.release-id }}-hd.jpg" alt="...">
+                <img src="{{ site.baseurl }}/assets/img/releases/{{ releases.release-id }}.jpg" alt="Cover Of {{ releases.title }}">
             </div>
             <div class="title">{{ releases.title }}</div>
         </a>

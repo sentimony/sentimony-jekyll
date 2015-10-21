@@ -1,28 +1,14 @@
 ---
 layout: release
+category: releases
+permalink: /release/:title
 
 title: 'VA «Ocean Scenes: Higher Titans»'
-meta: 'VA - Ocean Scene: Higher Titans by Aqua Deep Music'
-keywords: 'VA Ocean Scenes Higher Titans, Aqua Deep Music, Sentimony Records'
+release-id: va-ocean-scenes-higher-titans
 
-og-image: releases/va-ocean-scenes-higher-titans-og.jpg
-
-category: releases
-permalink: /release/va-ocean-scenes-higher-titans/
-release-id: sencd008
-
-label: Aqua Deep Music
-ektoplazm: free-music/ocean-scenes-higher-titans
-label-link: aquadeepmusic.com/release/adcd01
-label-bandcamp: aquadeep.bandcamp.com/album/va-ocean-scenes-higher-titans
-label-bandcamp-id: 3486103233
-
-bandcamp-album: 2563369517
-bandcamp-track: 3077453451
-
-bandcamp-lable-album: 
-bandcamp-lable-track: 
-
+bandcamp-id: 3486103233
+bandcamp: 
+ektoplazm: 
 discogs: http://www.discogs.com/Various-Ocean-Scenes-Higher-Titans/release/2023159
 ---
 
