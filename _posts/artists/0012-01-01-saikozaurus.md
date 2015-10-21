@@ -10,7 +10,7 @@ location: Odesa, Ukraine
 soundcloud-id: 589570
 
 category: artists
-permalink: artist/saikozaurus/
+permalink: artist/:title
 
 ---
 

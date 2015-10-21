@@ -10,7 +10,7 @@ location: Kyiv, Ukraine
 soundcloud-id: 
 
 category: artists
-permalink: artist/magmadivers/
+permalink: artist/:title
 
 ---
 

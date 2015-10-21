@@ -10,7 +10,7 @@ location: Kyiv, Ukraine
 soundcloud-id: 
 
 category: artists
-permalink: artist/roof-raiser/
+permalink: artist/:title
 
 ---
 

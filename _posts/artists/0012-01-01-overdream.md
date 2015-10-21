@@ -10,7 +10,7 @@ location: Kyiv, Ukraine
 soundcloud-id: 267996
 
 category: artists
-permalink: artist/overdream/
+permalink: artist/:title
 
 ---
 
