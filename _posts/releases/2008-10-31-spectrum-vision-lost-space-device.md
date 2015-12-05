@@ -4,7 +4,7 @@ category: releases
 
 title: Spectrum Vision «Lost Space Device»
 
-bandcamp-id: 
+bandcamp-id: 2969979336
 bandcamp: 
 ektoplazm: 
 discogs: http://www.discogs.com/Spectrum-Vision-Lost-Space-Device/release/1547476

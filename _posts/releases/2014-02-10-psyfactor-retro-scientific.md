@@ -4,7 +4,7 @@ category: releases
 
 title: Psyfactor «Retro Scientific»
 
-bandcamp-id: 
+bandcamp-id: 625816327
 bandcamp: 
 ektoplazm: 
 discogs: http://www.discogs.com/Psyfactor-Retro-Scientific/release/5399930
