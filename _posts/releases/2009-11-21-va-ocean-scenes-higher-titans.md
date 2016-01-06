@@ -5,8 +5,8 @@ category: releases
 title: 'VA «Ocean Scenes: Higher Titans»'
 
 bandcamp-id: 3486103233
-bandcamp: 
-ektoplazm: 
+bandcamp: https://aquadeep.bandcamp.com/album/va-ocean-scenes-higher-titans
+ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
 discogs: http://www.discogs.com/Various-Ocean-Scenes-Higher-Titans/release/2023159
 ---
 

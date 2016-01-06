@@ -5,8 +5,8 @@ category: releases
 title: 'VA «Special Places»'
 
 bandcamp-id: 64124286
-bandcamp: 
-ektoplazm: 
+bandcamp: https://sentimony.bandcamp.com/album/va-special-places
+ektoplazm: http://www.ektoplazm.com/free-music/special-places
 discogs: http://www.discogs.com/AstroPilot-Special-Places/release/3517621
 ---
 

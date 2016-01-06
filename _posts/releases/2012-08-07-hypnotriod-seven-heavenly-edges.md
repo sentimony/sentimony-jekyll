@@ -5,8 +5,8 @@ category: releases
 title: 'Hypnotriod «Seven Heavenly Edges»'
 
 bandcamp-id: 2733998829
-bandcamp: 
-ektoplazm: 
+bandcamp: https://sentimony.bandcamp.com/album/hypnotriod-seven-heavenly-edges
+ektoplazm: http://www.ektoplazm.com/free-music/hypnotriod-seven-heavenly-edges
 discogs: http://www.discogs.com/Hypnotriod-Seven-Heavenly-Edges/release/3618882
 ---
 

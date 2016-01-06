@@ -5,8 +5,8 @@ category: releases
 title: 'VA «True Story»'
 
 bandcamp-id: 1223403780
-bandcamp: 
-ektoplazm: 
+bandcamp: https://sentimony.bandcamp.com/album/va-true-story
+ektoplazm: http://www.ektoplazm.com/free-music/true-story
 discogs: http://www.discogs.com/Various-True-Story/release/1321723
 ---
 

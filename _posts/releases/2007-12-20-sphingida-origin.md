@@ -5,8 +5,8 @@ category: releases
 title: 'Sphingida «Origin»'
 
 bandcamp-id: 3680718383
-bandcamp: 
-ektoplazm: 
+bandcamp: https://sentimony.bandcamp.com/album/sphingida-origin
+ektoplazm: http://www.ektoplazm.com/free-music/sphingida-origin
 discogs: http://www.discogs.com/Sphingida-Origin/release/1171746
 ---
 

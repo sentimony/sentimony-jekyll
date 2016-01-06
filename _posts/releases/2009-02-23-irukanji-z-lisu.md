@@ -5,8 +5,8 @@ category: releases
 title: 'Irukanji «Z Lisu»'
 
 bandcamp-id: 2924012921
-bandcamp: 
-ektoplazm: 
+bandcamp: https://sentimony.bandcamp.com/album/irukanji-z-lisu
+ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu
 discogs: http://www.discogs.com/Irukanji-Z-Lisu/release/1664941
 ---
 

@@ -5,8 +5,8 @@ category: releases
 title: 'VA «Time Loop: Beyond Borders»'
 
 bandcamp-id: 2208878008
-bandcamp: 
-ektoplazm: 
+bandcamp: https://sentimony.bandcamp.com/album/va-time-loop-beyond-borders
+ektoplazm: http://www.ektoplazm.com/free-music/time-loop-beyond-borders
 discogs: http://www.discogs.com/Various-Time-Loop-Beyond-Borders/release/2443978
 ---
 

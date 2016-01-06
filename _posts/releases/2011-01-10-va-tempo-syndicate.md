@@ -5,8 +5,8 @@ category: releases
 title: 'VA «Tempo Syndicate»'
 
 bandcamp-id: 2483216888
-bandcamp: 
-ektoplazm: 
+bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate
+ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
 discogs: http://www.discogs.com/Various-Tempo-Syndicate/release/2645251
 ---
 

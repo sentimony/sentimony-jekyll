@@ -5,8 +5,8 @@ category: releases
 title: 'Specialmind «The Missing Particle»'
 
 bandcamp-id: 1673341211
-bandcamp: 
-ektoplazm: 
+bandcamp: https://sentimony.bandcamp.com/album/specialmind-the-missing-particle
+ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-particle
 discogs: http://www.discogs.com/Tentura-Aurora/release/4462165
 ---
 

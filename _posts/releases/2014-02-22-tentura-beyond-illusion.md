@@ -5,7 +5,7 @@ category: releases
 title: 'Tentura «Beyond Illusion»'
 
 bandcamp-id: 144410096
-bandcamp: 
+bandcamp: https://sentimony.bandcamp.com/album/tentura-beyond-illusion
 ektoplazm: 
 discogs: http://www.discogs.com/Tentura-Beyond-Illusion/release/6775211
 ---
