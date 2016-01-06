@@ -2,7 +2,7 @@
 layout: item-releases
 category: releases
 
-title: Psyfactor «Retro Scientific»
+title: 'Psyfactor «Retro Scientific»'
 
 bandcamp-id: 625816327
 bandcamp: 

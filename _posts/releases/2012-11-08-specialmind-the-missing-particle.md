@@ -2,7 +2,7 @@
 layout: item-releases
 category: releases
 
-title: Specialmind «The Missing Particle»
+title: 'Specialmind «The Missing Particle»'
 
 bandcamp-id: 1673341211
 bandcamp: 

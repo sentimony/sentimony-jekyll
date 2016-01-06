@@ -2,7 +2,7 @@
 layout: item-releases
 category: releases
 
-title: Spectrum Vision «Lost Space Device»
+title: 'Spectrum Vision «Lost Space Device»'
 
 bandcamp-id: 2969979336
 bandcamp: 

@@ -2,7 +2,7 @@
 layout: item-releases
 category: releases
 
-title: VA «Tempo Syndicate»
+title: 'VA «Tempo Syndicate»'
 
 bandcamp-id: 2483216888
 bandcamp: 

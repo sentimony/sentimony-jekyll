@@ -2,7 +2,7 @@
 layout: item-releases
 category: releases
 
-title: Tentura «Beyond Illusion»
+title: 'Tentura «Beyond Illusion»'
 
 bandcamp-id: 144410096
 bandcamp: 

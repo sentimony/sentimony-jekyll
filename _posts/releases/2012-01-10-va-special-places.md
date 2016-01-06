@@ -2,7 +2,7 @@
 layout: item-releases
 category: releases
 
-title: VA «Special Places»
+title: 'VA «Special Places»'
 
 bandcamp-id: 64124286
 bandcamp: 

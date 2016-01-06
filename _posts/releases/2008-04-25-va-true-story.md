@@ -2,7 +2,7 @@
 layout: item-releases
 category: releases
 
-title: VA «True Story»
+title: 'VA «True Story»'
 
 bandcamp-id: 1223403780
 bandcamp: 

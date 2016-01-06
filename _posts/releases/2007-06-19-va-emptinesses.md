@@ -2,11 +2,11 @@
 layout: item-releases
 category: releases
 
-title: VA «Emptinesses»
+title: 'VA «Emptinesses»'
 
 bandcamp-id: 2938863422
-bandcamp: 
-ektoplazm: 
+bandcamp: https://sentimony.bandcamp.com/album/va-emptinesses
+ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
 discogs: http://www.discogs.com/Various-Emptinesses/release/1021635
 ---
 

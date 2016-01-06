@@ -2,7 +2,7 @@
 layout: item-releases
 category: releases
 
-title: VA «Fantazma»
+title: 'VA «Fantazma»'
 
 bandcamp-id: 3399361938
 bandcamp: https://sentimony.bandcamp.com/album/va-fantazma
