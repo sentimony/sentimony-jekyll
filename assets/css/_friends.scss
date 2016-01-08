@@ -1,21 +1,39 @@
-$friends-width: 100%;
+$w: 100%;
+$m: 10px;
 
 section.friends {
   padding: 10px 5px;
 
   .friends-list {
-    width: $friends-width;
+    width: $w;
     @include clearfix;
 
     .friend-item {
       float: left;
-      width: $friends-width/4;
-      padding: 5px;
-      box-sizing: border-box;
-      background: rgba(#000, .5);
+      width: $w/4;
+      padding-bottom: $w/4;
+      position: relative;
 
-      &_title {
+      .content {
+        position: absolute;
+        top: $m;
+        left: $m;
+        right: $m;
+        bottom: $m;
+        padding: $m*2;
+        text-align: left;
+        background: rgba(#000, .5);
 
+        .title {
+          font-size: 16px;
+          margin-bottom: $m;
+        }
+        a {
+          font-size: 22px;
+          & + a {
+            margin-left: $m;
+          }
+        }
       }
     }
   }
