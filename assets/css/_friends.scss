@@ -1,0 +1,22 @@
+$friends-width: 100%;
+
+section.friends {
+  padding: 10px 5px;
+
+  .friends-list {
+    width: $friends-width;
+    @include clearfix;
+
+    .friend-item {
+      float: left;
+      width: $friends-width/4;
+      padding: 5px;
+      box-sizing: border-box;
+      background: rgba(#000, .5);
+
+      &_title {
+
+      }
+    }
+  }
+}
