@@ -1,3 +1,11 @@
+$primary-color: #f0f;
+$text-color: #fff;
+$accent-color: #0ff;
+$bg-color: #000;
+$link-color: $accent-color;
+$selection-color: #ff0;
+$m: 10px;
+
 //  Typography
 .gigantic, .huge, .large, .bigger, .big, 
 h1, h2, h3, h4, h5, h6 {
@@ -55,9 +63,12 @@ a {
   color: $link-color;
   text-decoration: none;
   outline: 0;
+  @include transition(color .15s ease-in-out);
 
-  &:hover, 
-  &:focus {color: lighten($link-color, 20%);}
+  &:hover,
+  &.active {
+    color: $text-color;
+  }
 }
 
 

@@ -5,6 +5,8 @@ $path: "../img/fotorama/";
 @import "vendor/fotorama/fotorama";
 @import "vendor/fonts";
 
+@import "base";
+
 @import "nav-top";
 @import "header";
 @import "list";
@@ -14,6 +16,4 @@ $path: "../img/fotorama/";
 
 @import "footer";
 
-@import "-vars";
-@import "-base";
 
