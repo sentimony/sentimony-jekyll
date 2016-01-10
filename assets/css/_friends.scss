@@ -6,12 +6,14 @@ section.friends {
 
   .friends-list {
     width: $w;
+    padding: 0 5%;
+    box-sizing: border-box;
     @include clearfix;
 
     .friend-item {
       float: left;
-      width: $w/4;
-      padding-bottom: $w/4;
+      width: $w/5;
+      padding-bottom: $w/5;
       position: relative;
 
       .content {
@@ -27,11 +29,15 @@ section.friends {
         .title {
           font-size: 16px;
           margin-bottom: $m;
+          // display: inline-block;
         }
         a {
           font-size: 22px;
           & + a {
             margin-left: $m;
+          }
+          &:hover {
+            color: #fff;
           }
         }
       }

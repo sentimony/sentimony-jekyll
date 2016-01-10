@@ -1,37 +1,37 @@
 footer {
-    padding: 40px 0 100px;
+  padding: 40px 0 100px;
 
-    nav {
-        a {
-            display: inline-block;
-            padding: 4px 12px;
-        }
-        &.social {
-            padding-top: 20px;
-
-            a {
-                position: relative;
-
-                span[class^="icon-"] {
-                    font-size: 40px;
-                }
-                span.tooltip {
-                    display: none;
-                    position: absolute;
-                    top: 0;
-                    left: 50%;
-                    @include transform(translate3d(-50%, -100%, 0));
-                }
-                &:hover {
-                    span.tooltip {
-                        display: block;
-                    }
-                }
-            }
-        }
-        &.labels {
-            a {
-            }
-        }
+  nav {
+    a {
+      display: inline-block;
+      padding: 4px 12px;
     }
+    &.social {
+      padding-top: 20px;
+
+      a {
+        position: relative;
+
+        span[class^="icon-"] {
+          font-size: 40px;
+        }
+        span.tooltip {
+          display: none;
+          position: absolute;
+          top: 0;
+          left: 50%;
+          @include transform(translate3d(-50%, -100%, 0));
+        }
+        &:hover {
+          span.tooltip {
+            display: block;
+          }
+        }
+      }
+    }
+    &.labels {
+      a {
+      }
+    }
+  }
 }
