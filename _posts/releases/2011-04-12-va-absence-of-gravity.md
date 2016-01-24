@@ -4,6 +4,9 @@ permalink: /va-absence-of-gravity/
 category: releases
 
 title: 'VA «Absence Of Gravity»'
+filterLabel: sentimony
+filterStyle: chillout
+filterFormat: compilation
 
 bandcamp-id: 615519130
 bandcamp: https://sentimony.bandcamp.com/album/va-absence-of-gravity

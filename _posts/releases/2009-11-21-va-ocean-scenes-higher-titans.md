@@ -4,6 +4,9 @@ permalink: /va-ocean-scenes-higher-titans/
 category: releases
 
 title: 'VA «Ocean Scenes: Higher Titans»'
+filterLabel: aquadeep
+filterStyle: darktrance
+filterFormat: compilation
 
 bandcamp-id: 3486103233
 bandcamp: https://aquadeep.bandcamp.com/album/va-ocean-scenes-higher-titans

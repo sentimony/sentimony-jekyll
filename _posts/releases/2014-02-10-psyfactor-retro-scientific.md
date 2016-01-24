@@ -4,6 +4,9 @@ permalink: /psyfactor-retro-scientific/
 category: releases
 
 title: 'Psyfactor «Retro Scientific»'
+filterLabel: sentimony
+filterStyle: chillout
+filterFormat: album
 
 bandcamp-id: 625816327
 bandcamp: https://sentimony.bandcamp.com/album/psyfactor-retro-scientific

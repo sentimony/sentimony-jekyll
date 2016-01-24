@@ -4,6 +4,9 @@ permalink: /irukanji-z-lisu/
 category: releases
 
 title: 'Irukanji «Z Lisu»'
+filterLabel: sentimony
+filterStyle: chillout
+filterFormat: album
 
 bandcamp-id: 2924012921
 bandcamp: https://sentimony.bandcamp.com/album/irukanji-z-lisu

@@ -4,6 +4,9 @@ permalink: /va-dancing-mavka/
 category: releases
 
 title: VA «Dansing Mavka»
+filterLabel: lookinglook
+filterStyle: goatrance
+filterFormat: compilation
 
 bandcamp-id: 95715287
 bandcamp: https://lookinglook.bandcamp.com/album/va-dancing-mavka

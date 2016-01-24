@@ -4,6 +4,9 @@ permalink: /senzar-before-the-morning-sun/
 category: releases
 
 title: 'Senzar ‎«Before The Morning Sun»'
+filterLabel: lookinglook
+filterStyle: chillout
+filterFormat: album
 
 bandcamp-id: 3896908655
 bandcamp: https://lookinglook.bandcamp.com/album/senzar-before-the-morning-sun

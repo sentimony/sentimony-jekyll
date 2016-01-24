@@ -4,6 +4,9 @@ permalink: /spectrum-vision-lost-space-device/
 category: releases
 
 title: 'Spectrum Vision «Lost Space Device»'
+filterLabel: sentimony
+filterStyle: chillout
+filterFormat: album
 
 bandcamp-id: 2969979336
 bandcamp: https://sentimony.bandcamp.com/album/spectrum-vision-lost-space-device

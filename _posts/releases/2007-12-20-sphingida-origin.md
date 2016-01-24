@@ -4,6 +4,9 @@ permalink: /sphingida-origin/
 category: releases
 
 title: 'Sphingida «Origin»'
+filterLabel: sentimony
+filterStyle: chillout
+filterFormat: album
 
 bandcamp-id: 3680718383
 bandcamp: https://sentimony.bandcamp.com/album/sphingida-origin

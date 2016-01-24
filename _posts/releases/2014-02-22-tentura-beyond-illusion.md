@@ -4,6 +4,9 @@ permalink: /tentura-beyond-illusion/
 category: releases
 
 title: 'Tentura «Beyond Illusion»'
+filterLabel: sentimony
+filterStyle: chillout
+filterFormat: album
 
 bandcamp-id: 144410096
 bandcamp: https://sentimony.bandcamp.com/album/tentura-beyond-illusion

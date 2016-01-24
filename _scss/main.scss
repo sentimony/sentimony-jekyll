@@ -1,4 +1,8 @@
-@import "vendor/bourbon/bourbon";
+@import 'vendor/normalize';
+@import 'vendor/bourbon/bourbon';
+@import 'vendor/grid-settings';
+@import 'vendor/neat/neat';
+
 $path: "../img/fotorama/";
 @import "vendor/fotorama/fotorama";
 @import "vendor/fonts";
@@ -9,8 +13,10 @@ $path: "../img/fotorama/";
 @import "header";
 @import "list";
 @import "item";
+@import "filters";
 
 @import "friends";
+@import "ReleaseList";
 
 @import "footer";
 

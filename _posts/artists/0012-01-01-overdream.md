@@ -1,5 +1,5 @@
 ---
-layout: item-artists
+layout: ArtistItem
 permalink: /overdream/
 category: artists
 
@@ -11,7 +11,7 @@ location: Kyiv, Ukraine
 website: 
 bandcamp: 
 facebook: 
-soundcloud: 
-soundcloud-id: 
+soundcloud: https://soundcloud.com/overdream
+soundcloud-id: 267996
 discogs: 
 ---

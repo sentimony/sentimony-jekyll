@@ -4,6 +4,9 @@ permalink: /va-special-places/
 category: releases
 
 title: 'VA «Special Places»'
+filterLabel: sentimony
+filterStyle: chillout
+filterFormat: compilation
 
 bandcamp-id: 64124286
 bandcamp: https://sentimony.bandcamp.com/album/va-special-places

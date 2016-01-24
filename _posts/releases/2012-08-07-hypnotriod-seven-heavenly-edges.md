@@ -4,6 +4,9 @@ permalink: /hypnotriod-seven-heavenly-edges/
 category: releases
 
 title: 'Hypnotriod «Seven Heavenly Edges»'
+filterLabel: sentimony
+filterStyle: chillout
+filterFormat: single
 
 bandcamp-id: 2733998829
 bandcamp: https://sentimony.bandcamp.com/album/hypnotriod-seven-heavenly-edges

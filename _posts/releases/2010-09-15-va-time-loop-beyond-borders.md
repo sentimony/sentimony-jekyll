@@ -4,6 +4,9 @@ permalink: /va-time-loop-beyond-borders/
 category: releases
 
 title: 'VA «Time Loop: Beyond Borders»'
+filterLabel: sentimony
+filterStyle: chillout
+filterFormat: compilation
 
 bandcamp-id: 2208878008
 bandcamp: https://sentimony.bandcamp.com/album/va-time-loop-beyond-borders

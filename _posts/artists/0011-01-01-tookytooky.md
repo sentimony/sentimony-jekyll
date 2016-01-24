@@ -1,5 +1,5 @@
 ---
-layout: item-artists
+layout: ArtistItem
 permalink: /tookytooky/
 category: artists
 
@@ -11,7 +11,7 @@ location: Odesa, Ukraine
 website: 
 bandcamp: 
 facebook: 
-soundcloud: 
-soundcloud-id: 
+soundcloud: https://soundcloud.com/tookytooky
+soundcloud-id: 16396451
 discogs: 
 ---

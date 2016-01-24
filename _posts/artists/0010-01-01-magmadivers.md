@@ -1,5 +1,5 @@
 ---
-layout: item-artists
+layout: ArtistItem
 permalink: /magmadivers/
 category: artists
 

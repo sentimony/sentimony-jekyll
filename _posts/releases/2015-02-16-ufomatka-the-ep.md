@@ -4,6 +4,9 @@ permalink: /ufomatka-the-ep/
 category: releases
 
 title: 'Ufomatka «The E.P.»'
+filterLabel: lookinglook
+filterStyle: goatrance
+filterFormat: single
 
 bandcamp-id: 342915204
 bandcamp: https://lookinglook.bandcamp.com/album/ufomatka-the-e-p

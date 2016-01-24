@@ -4,6 +4,9 @@ permalink: /unusual-cosmic-process-weightlessness/
 category: releases
 
 title: Unusual Cosmic Process ‎«Weightlessness»
+filterLabel: sentimony
+filterStyle: chillout
+filterFormat: album
 
 bandcamp-id: 987015194
 bandcamp: https://lookinglook.bandcamp.com/album/unusual-cosmic-process-weightlessness

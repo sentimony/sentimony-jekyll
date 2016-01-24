@@ -4,6 +4,9 @@ permalink: /va-true-story/
 category: releases
 
 title: 'VA «True Story»'
+filterLabel: sentimony
+filterStyle: chillout
+filterFormat: compilation
 
 bandcamp-id: 1223403780
 bandcamp: https://sentimony.bandcamp.com/album/va-true-story

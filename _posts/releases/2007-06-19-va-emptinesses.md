@@ -4,6 +4,9 @@ permalink: /va-emptinesses/
 category: releases
 
 title: 'VA «Emptinesses»'
+filterLabel: sentimony
+filterStyle: chillout
+filterFormat: compilation
 
 bandcamp-id: 2938863422
 bandcamp: https://sentimony.bandcamp.com/album/va-emptinesses

@@ -4,6 +4,9 @@ permalink: /va-gamayun-tale/
 category: releases
 
 title: 'VA «Gamayun Tale»'
+filterLabel: lookinglook
+filterStyle: goatrance
+filterFormat: compilation
 
 bandcamp-id: 3538385956
 bandcamp: https://lookinglook.bandcamp.com/album/va-gamayun-tale

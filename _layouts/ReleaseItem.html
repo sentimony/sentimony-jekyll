@@ -4,13 +4,20 @@ layout: default
 
 <article class="item item-releases">
   <h1>{{ page.title }}</h1>
-  <img class="cover" src="{{ site.baseurl }}/assets/img/releases/{{ page.id }}.jpg" alt="Cover Of {{ page.title }}">
 
-  {{ content }}
+  <img 
+    data-src="holder.js/700x700?auto=yes&text={{ page.title }}&fg=000&bg=0ff"
+    data-layzr="{{ site.baseurl }}/assets/img/releases/{{ page.id }}.jpg"
+    data-layzr-retina="{{ site.baseurl }}/assets/img/releases/{{ page.id }}@2x.jpg"
+  >
 
   {% if page.bandcamp-id %}
-    <iframe class="bandcamp-item bandcamp-item__release" src="http://bandcamp.com/EmbeddedPlayer/v=2/album={{ page.bandcamp-id }}/layout=http_3A_2F_2Fbandcamp-play.github.io_2Firukanji-album.json/bgcol=333/linkcol=88ffff/debug=true/"></iframe>
+    <iframe class="bandcamp-item bandcamp-item__release"
+      data-layzr="http://bandcamp.com/EmbeddedPlayer/v=2/album={{ page.bandcamp-id }}/layout=http_3A_2F_2Fbandcamp-play.github.io_2Firukanji-album.json/bgcol=444/linkcol=00ffff/debug=true/"
+    ></iframe>
   {% endif %}
+
+  {{ content }}
 
   {% if page.bandcamp %}
     <div>
@@ -32,5 +39,6 @@ layout: default
       <a href="{{ page.discogs }}"><span class="icon-discogs"></span> discogs</a>
     </div>
   {% endif %}
+
 </article>
 

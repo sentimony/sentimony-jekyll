@@ -1,5 +1,5 @@
 ---
-layout: item-artists
+layout: ArtistItem
 permalink: /roof-raiser/
 category: artists
 
@@ -11,7 +11,7 @@ location: Kyiv, Ukraine
 website: 
 bandcamp: 
 facebook: 
-soundcloud: 
-soundcloud-id: 
+soundcloud: https://soundcloud.com/roofraiser
+soundcloud-id: 9212345
 discogs: 
 ---

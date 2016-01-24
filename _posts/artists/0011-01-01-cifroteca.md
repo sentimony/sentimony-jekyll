@@ -1,5 +1,5 @@
 ---
-layout: item-artists
+layout: ArtistItem
 permalink: /cifroteca/
 category: artists
 
@@ -11,7 +11,7 @@ location: Crimea, Ukraine
 website: 
 bandcamp: 
 facebook: 
-soundcloud: 
-soundcloud-id: 
+soundcloud: https://soundcloud.com/cifroteca
+soundcloud-id: 728376
 discogs: 
 ---

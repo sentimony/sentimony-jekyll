@@ -4,6 +4,9 @@ permalink: /tentura-aurora/
 category: releases
 
 title: 'Tentura «Aurora»'
+filterLabel: sentimony
+filterStyle: chillout
+filterFormat: single
 
 bandcamp-id: 2261902557
 bandcamp: https://sentimony.bandcamp.com/album/tentura-aurora
