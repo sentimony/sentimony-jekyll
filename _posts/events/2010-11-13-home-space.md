@@ -1,5 +1,6 @@
 ---
 layout: item-events
+permalink: /home-space/
 category: events
 
 fb-link: 

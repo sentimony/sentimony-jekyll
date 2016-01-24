@@ -1,5 +1,6 @@
 ---
 layout: item-releases
+permalink: /hypnotriod-seven-heavenly-edges/
 category: releases
 
 title: 'Hypnotriod «Seven Heavenly Edges»'

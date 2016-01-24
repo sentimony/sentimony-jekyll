@@ -1,5 +1,6 @@
 ---
 layout: item-artists
+permalink: /roof-raiser/
 category: artists
 
 title: Roof Raiser

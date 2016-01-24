@@ -1,5 +1,6 @@
 ---
 layout: item-artists
+permalink: /shivattva/
 category: artists
 
 title: Shivattva

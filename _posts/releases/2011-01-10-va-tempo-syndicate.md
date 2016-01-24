@@ -1,5 +1,6 @@
 ---
 layout: item-releases
+permalink: /va-tempo-syndicate/
 category: releases
 
 title: 'VA «Tempo Syndicate»'

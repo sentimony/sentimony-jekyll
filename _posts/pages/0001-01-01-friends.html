@@ -8,30 +8,24 @@ permalink: /friends/
 <section class="friends">
   <h3>Friends</h3>
   <div class="friends-list">
-  {% for friends in site.categories.friends %}
-    <div class="friend-item">
-      <div class="content">
-
-        <div class="title">{{ friends.title }}</div>
-
-        {% if friends.site %}
-          <a href="{{ friends.site }}"><span class="icon-public"></span></a>
-        {% endif %}
-
-        {% if friends.bandcamp %}
-          <a href="{{ friends.bandcamp }}"><span class="icon-bandcamp"></span></a>
-        {% endif %}
-
-        {% if friends.facebook %}
-          <a href="{{ friends.facebook }}"><span class="icon-facebook"></span></a>
-        {% endif %}
-
-        {% if friends.soundcloud %}
-          <a href="{{ friends.soundcloud }}"><span class="icon-soundcloud"></span></a>
-        {% endif %}
-
+    {% for friends in site.categories.friends %}
+      <div class="friend-item">
+        <div class="content">
+          <div class="title">{{ friends.title }}</div>
+          {% if friends.site %}
+            <a href="{{ friends.site }}"><span class="icon-public"></span></a>
+          {% endif %}
+          {% if friends.bandcamp %}
+            <a href="{{ friends.bandcamp }}"><span class="icon-bandcamp"></span></a>
+          {% endif %}
+          {% if friends.facebook %}
+            <a href="{{ friends.facebook }}"><span class="icon-facebook"></span></a>
+          {% endif %}
+          {% if friends.soundcloud %}
+            <a href="{{ friends.soundcloud }}"><span class="icon-soundcloud"></span></a>
+          {% endif %}
+        </div>
       </div>
-    </div>
-  {% endfor %}
+    {% endfor %}
   </div>
 </section>

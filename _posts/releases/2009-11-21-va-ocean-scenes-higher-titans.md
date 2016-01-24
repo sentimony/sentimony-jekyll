@@ -1,5 +1,6 @@
 ---
 layout: item-releases
+permalink: /va-ocean-scenes-higher-titans/
 category: releases
 
 title: 'VA «Ocean Scenes: Higher Titans»'

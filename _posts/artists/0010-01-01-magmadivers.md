@@ -1,5 +1,6 @@
 ---
 layout: item-artists
+permalink: /magmadivers/
 category: artists
 
 title: Magmadivers

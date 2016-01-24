@@ -1,16 +1,6 @@
-# Build settings
-baseurl:
-markdown: kramdown
-permalink: /:title
-
-host: 0.0.0.0
-port: 7001
-
-exclude: ['README.md']
-
-sass:
-  sass_dir: assets/css
-  style: :compressed
+baseurl: 
+name: Sentimony Records
+exclude: ['README.md', 'node_modules', 'gulpfile.js', 'package.json', 'assets/css/*.scss']
 
 # custom settings
-keywords: 'sentimony records, electronic, psychedelic, free, download'
+keywords: 'sentimony records, psychedelic, music, kyiv, ukraine'

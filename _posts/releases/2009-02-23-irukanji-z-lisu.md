@@ -1,5 +1,6 @@
 ---
 layout: item-releases
+permalink: /irukanji-z-lisu/
 category: releases
 
 title: 'Irukanji «Z Lisu»'

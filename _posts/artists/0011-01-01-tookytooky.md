@@ -1,5 +1,6 @@
 ---
 layout: item-artists
+permalink: /tookytooky/
 category: artists
 
 title: Tookytooky

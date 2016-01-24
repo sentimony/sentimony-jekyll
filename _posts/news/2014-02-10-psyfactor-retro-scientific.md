@@ -1,7 +1,7 @@
 ---
 layout: item-releases
-permalink: /psyfactor-retro-scientific/
-category: releases
+permalink: /news/psyfactor-retro-scientific/
+category: news
 
 title: 'Psyfactor «Retro Scientific»'
 

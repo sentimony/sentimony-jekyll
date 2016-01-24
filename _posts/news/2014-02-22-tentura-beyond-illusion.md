@@ -1,7 +1,7 @@
 ---
 layout: item-releases
-permalink: /tentura-beyond-illusion/
-category: releases
+permalink: /news/tentura-beyond-illusion/
+category: news
 
 title: 'Tentura «Beyond Illusion»'
 

@@ -1,5 +1,6 @@
 ---
 layout: item-events
+permalink: /shift-space/
 category: events
 
 fb-link: 
