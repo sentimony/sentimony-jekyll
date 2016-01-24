@@ -11,6 +11,6 @@ website:
 bandcamp: 
 facebook: 
 soundcloud: 
+soundcloud-id: 
 discogs: 
-coub: 
 ---

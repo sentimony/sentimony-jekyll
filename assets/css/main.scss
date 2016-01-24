@@ -3,8 +3,9 @@
 @import "vendor/bourbon/bourbon";
 $path: "../img/fotorama/";
 @import "vendor/fotorama/fotorama";
-$path: "../fonts/";
 @import "vendor/fonts";
+
+@import "base";
 
 @import "nav-top";
 @import "header";
@@ -15,6 +16,4 @@ $path: "../fonts/";
 
 @import "footer";
 
-@import "-vars";
-@import "-base";
 

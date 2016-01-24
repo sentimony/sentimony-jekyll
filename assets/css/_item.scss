@@ -1,45 +1,46 @@
 article.item {
-    text-align: left;
+  text-align: left;
+  padding: 0 5%;
 
-    &.item-releases {
-        img.cover {
-            max-width: 700px;
-            display: block;
-            margin-bottom: 20px;
-        }
-        ol {
-            margin: 0 0 20px;
-            padding: 0 0 0 35px;
-
-            li {
-
-            }
-        }
+  &.item-releases {
+    img.cover {
+      max-width: 700px;
+      display: block;
+      margin-bottom: 20px;
     }
+    ol {
+      margin: 0 0 20px;
+      padding: 0 0 0 35px;
 
-    &.item-artists {
+      li {
+
+      }
     }
+  }
 
-    &.item-events {
+  &.item-artists {
+  }
+
+  &.item-events {
+  }
+
+  &.item-news {
+  }
+
+  iframe.bandcamp-item {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    max-width: 320px;
+    border: 1px solid #4E4E4E;
+    margin-bottom: 20px;
+    background: #333;
+
+    &__track {
+      height: 82px;
     }
-
-    &.item-news {
+    &__release {
+      height: 400px;
     }
-
-    iframe.bandcamp-item {
-        display: block;
-        width: 100%;
-        overflow: hidden;
-        max-width: 320px;
-        border: 1px solid #4E4E4E;
-        margin-bottom: 20px;
-        background: #333;
-
-        &__track {
-            height: 82px;
-        }
-        &__release {
-            height: 400px;
-        }
-    }
+  }
 }

@@ -1,17 +1,18 @@
 $w: 100%;
-$m: 10px;
 
 section.friends {
   padding: 10px 5px;
 
   .friends-list {
     width: $w;
+    padding: 0 5%;
+    box-sizing: border-box;
     @include clearfix;
 
     .friend-item {
       float: left;
-      width: $w/4;
-      padding-bottom: $w/4;
+      width: $w/5;
+      padding-bottom: $w/5;
       position: relative;
 
       .content {
@@ -25,11 +26,13 @@ section.friends {
         background: rgba(#000, .5);
 
         .title {
-          font-size: 16px;
           margin-bottom: $m;
+          // font-size: 16px;
+          // display: inline-block;
         }
         a {
-          font-size: 22px;
+          font-size: 18px;
+
           & + a {
             margin-left: $m;
           }
