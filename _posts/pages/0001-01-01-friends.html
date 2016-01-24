@@ -13,22 +13,23 @@ permalink: /friends/
       <div class="content">
 
         <div class="title">{{ friends.title }}</div>
+
         {% if friends.site %}
           <a href="{{ friends.site }}"><span class="icon-public"></span></a>
         {% endif %}
+
         {% if friends.bandcamp %}
           <a href="{{ friends.bandcamp }}"><span class="icon-bandcamp"></span></a>
         {% endif %}
-<<<<<<< HEAD:_posts/pages/0001-01-01-friends.html
-      
-=======
->>>>>>> origin/master:_posts/pages/0001-01-01-friends.html
+
         {% if friends.facebook %}
           <a href="{{ friends.facebook }}"><span class="icon-facebook"></span></a>
         {% endif %}
+
         {% if friends.soundcloud %}
           <a href="{{ friends.soundcloud }}"><span class="icon-soundcloud"></span></a>
         {% endif %}
+
       </div>
     </div>
   {% endfor %}
