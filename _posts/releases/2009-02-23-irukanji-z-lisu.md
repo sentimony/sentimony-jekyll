@@ -1,5 +1,5 @@
 ---
-layout: item-releases
+layout: ReleaseItem
 permalink: /irukanji-z-lisu/
 category: releases
 

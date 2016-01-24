@@ -1,5 +1,5 @@
 ---
-layout: item-releases
+layout: ReleaseItem
 permalink: /spectrum-vision-lost-space-device/
 category: releases
 

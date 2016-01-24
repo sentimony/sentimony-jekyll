@@ -1,5 +1,5 @@
 ---
-layout: item-releases
+layout: ReleaseItem
 permalink: /hypnotriod-seven-heavenly-edges/
 category: releases
 

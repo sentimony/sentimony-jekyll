@@ -1,5 +1,5 @@
 ---
-layout: item-releases
+layout: ReleaseItem
 permalink: /specialmind-the-missing-particle/
 category: releases
 

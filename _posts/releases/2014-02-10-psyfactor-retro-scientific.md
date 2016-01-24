@@ -1,5 +1,5 @@
 ---
-layout: item-releases
+layout: ReleaseItem
 permalink: /psyfactor-retro-scientific/
 category: releases
 
