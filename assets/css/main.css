@@ -1342,18 +1342,11 @@ section.friends {
       overflow: hidden; }
       .ArtistList a.ArtistItem .image-container img {
         display: block;
-        width: 100%;
-        -webkit-transform: scale(1) translateZ(0);
-                transform: scale(1) translateZ(0);
-        transition: -webkit-transform 0.85s ease-out;
-        transition: transform 0.85s ease-out; }
+        width: 100%; }
     .ArtistList a.ArtistItem .title {
       padding: 6px 0;
       background: rgba(68, 68, 68, 0.5);
       transition: all .15s ease-in-out; }
-    .ArtistList a.ArtistItem:hover .image-container img {
-      -webkit-transform: scale(1.1) translateZ(0);
-              transform: scale(1.1) translateZ(0); }
     .ArtistList a.ArtistItem:hover .title {
       background: transparent;
       color: #ff4081; }
