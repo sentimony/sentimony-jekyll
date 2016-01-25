@@ -4,6 +4,7 @@ permalink: /roof-raiser/
 category: artists
 
 title: Roof Raiser
+filterStyle: darktrance
 
 name: Alexey Petrovskiy
 location: Kyiv, Ukraine

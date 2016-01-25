@@ -4,6 +4,7 @@ permalink: /already-maged/
 category: artists
 
 title: Already Maged
+filterStyle: darktrance
 
 name: Egor Yudin
 location: Lviv, Ukraine

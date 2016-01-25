@@ -1,19 +1,4 @@
 /**
-* fotorama
-* http://fotorama.io
-*/
-fotoramaDefaults = {
-  width: 700,
-  maxwidth: '100%',
-  ratio: 16/9,
-  allowfullscreen: true,
-  nav: 'thumbs',
-  trackpad: true,
-  keyboard: true,
-  loop: true
-}
-
-/**
 * layzr.js
 * http://callmecavs.github.io/layzr.js/
 */
@@ -42,11 +27,15 @@ var layzr = new Layzr({
 * https://github.com/desandro/imagesloaded
 */
 var $container = $('.isotope-container');
+var $win = $(window);
 $(document).ready(function() {
   $container.imagesLoaded( function() {
     $container.isotope({
       itemSelector: '.isotope-item',
       layoutMode: 'fitRows',
+    });
+    $container.on('layoutComplete', function(){
+        $win.trigger("scroll");
     });
     var filterFns = {
     };
@@ -64,4 +53,19 @@ $(document).ready(function() {
     });
   });
 });
+
+/**
+* lazyload.js
+* http://www.appelsiini.net/projects/lazyload
+*/
+var $lazyImg = $("img.lazy");
+$(function() {
+    $lazyImg.lazyload({
+      threshold : 0,
+      effect : "fadeIn",
+      // event: "scrollstop",
+      failure_limit: Math.max($lazyImg.length - 1, 0)
+    });
+});
+
 

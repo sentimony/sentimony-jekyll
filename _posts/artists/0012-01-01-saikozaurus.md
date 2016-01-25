@@ -4,6 +4,7 @@ permalink: /saikozaurus/
 category: artists
 
 title: Saikozaurus
+filterStyle: darktrance
 
 name: Daniil Pastushenko
 location: Odesa, Ukraine

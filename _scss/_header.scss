@@ -24,23 +24,69 @@ header {
 
       h1 {
         font-family: 'Julius Sans One', sans-serif;
-        font-size: 100px;
         color: #fff;
         margin: 0 0 20px;
-        letter-spacing: 14px;
         font-weight: 400;
+
+        @include media($One) {
+          font-size: 40px;
+          letter-spacing: 2px;
+        }
+
+        @include media($Two) {
+          font-size: 55px;
+          letter-spacing: 5px;
+        }
+
+        @include media($Three) {
+          font-size: 70px;
+          letter-spacing: 8px;
+        }
+
+        @include media($ThreeSidebar) {
+          font-size: 85px;
+          letter-spacing: 11px;
+        }
+
+        @include media($Four) {
+          font-size: 100px;
+          letter-spacing: 14px;
+        }
       }
 
       h2 {
         // font-family: 'Crimson Text', serif;
         // text-transform: lowercase;
         font-family: 'Julius Sans One', sans-serif;
-        font-size: 20px;
         color: #fff;
         margin: 0;
-        letter-spacing: 20px;
         font-weight: 400;
         line-height: 2;
+
+        @include media($One) {
+          font-size: 12px;
+          letter-spacing: 4px;
+        }
+
+        @include media($Two) {
+          font-size: 14px;
+          letter-spacing: 8px;
+        }
+
+        @include media($Three) {
+          font-size: 16px;
+          letter-spacing: 12px;
+        }
+
+        @include media($ThreeSidebar) {
+          font-size: 18px;
+          letter-spacing: 16px;
+        }
+
+        @include media($Four) {
+          font-size: 20px;
+          letter-spacing: 20px;
+        }
       }
     }
   }

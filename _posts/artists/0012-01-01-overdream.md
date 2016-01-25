@@ -4,6 +4,7 @@ permalink: /overdream/
 category: artists
 
 title: Overdream
+filterStyle: darktrance
 
 name: Maxim Kurushyn
 location: Kyiv, Ukraine

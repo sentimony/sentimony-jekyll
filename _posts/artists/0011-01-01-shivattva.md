@@ -4,6 +4,7 @@ permalink: /shivattva/
 category: artists
 
 title: Shivattva
+filterStyle: darktrance
 
 name: Artem Arhangelskiy
 location: Odesa, Ukraine

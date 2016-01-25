@@ -4,6 +4,7 @@ permalink: /cifroteca/
 category: artists
 
 title: Cifroteca
+filterStyle: darktrance
 
 name: Yuriy Iofik
 location: Crimea, Ukraine

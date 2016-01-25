@@ -4,6 +4,7 @@ permalink: /tookytooky/
 category: artists
 
 title: Tookytooky
+filterStyle: darktrance
 
 name: Sergey Verbitsky
 location: Odesa, Ukraine

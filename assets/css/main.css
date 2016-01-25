@@ -1119,19 +1119,55 @@ header {
       display: inline-block; }
       header .content hgroup h1 {
         font-family: 'Julius Sans One', sans-serif;
-        font-size: 100px;
         color: #fff;
         margin: 0 0 20px;
-        letter-spacing: 14px;
         font-weight: 400; }
+        @media screen and (min-width: 0px) {
+          header .content hgroup h1 {
+            font-size: 40px;
+            letter-spacing: 2px; } }
+        @media screen and (min-width: 508px) {
+          header .content hgroup h1 {
+            font-size: 55px;
+            letter-spacing: 5px; } }
+        @media screen and (min-width: 754px) {
+          header .content hgroup h1 {
+            font-size: 70px;
+            letter-spacing: 8px; } }
+        @media screen and (min-width: 1054px) {
+          header .content hgroup h1 {
+            font-size: 85px;
+            letter-spacing: 11px; } }
+        @media screen and (min-width: 1300px) {
+          header .content hgroup h1 {
+            font-size: 100px;
+            letter-spacing: 14px; } }
       header .content hgroup h2 {
         font-family: 'Julius Sans One', sans-serif;
-        font-size: 20px;
         color: #fff;
         margin: 0;
-        letter-spacing: 20px;
         font-weight: 400;
         line-height: 2; }
+        @media screen and (min-width: 0px) {
+          header .content hgroup h2 {
+            font-size: 12px;
+            letter-spacing: 4px; } }
+        @media screen and (min-width: 508px) {
+          header .content hgroup h2 {
+            font-size: 14px;
+            letter-spacing: 8px; } }
+        @media screen and (min-width: 754px) {
+          header .content hgroup h2 {
+            font-size: 16px;
+            letter-spacing: 12px; } }
+        @media screen and (min-width: 1054px) {
+          header .content hgroup h2 {
+            font-size: 18px;
+            letter-spacing: 16px; } }
+        @media screen and (min-width: 1300px) {
+          header .content hgroup h2 {
+            font-size: 20px;
+            letter-spacing: 20px; } }
   header .overlay {
     position: absolute;
     top: 0;
@@ -1205,6 +1241,9 @@ article.item {
     .filter a.selected {
       border: 1px solid #ff4081; }
 
+.isotope-container {
+  transition: height .4s ease-in-out; }
+
 section.friends {
   padding: 10px 5px; }
   section.friends .friends-list {
@@ -1257,11 +1296,9 @@ section.friends {
         width: 33.333333%; } }
     @media screen and (min-width: 1054px) {
       .ReleaseList a.ReleaseItem {
-        width: 33.333333%;
         width: 25%; } }
     @media screen and (min-width: 1300px) {
       .ReleaseList a.ReleaseItem {
-        width: 25%;
         width: 20%; } }
     .ReleaseList a.ReleaseItem .image-container {
       overflow: hidden; }
@@ -1279,6 +1316,38 @@ section.friends {
       -webkit-transform: scale(1.1) translateZ(0);
               transform: scale(1.1) translateZ(0); }
     .ReleaseList a.ReleaseItem:hover .title {
+      background: transparent;
+      color: #ff4081; }
+
+.ArtistList {
+  padding: 10px 5%; }
+  .ArtistList::after {
+    clear: both;
+    content: "";
+    display: table; }
+  .ArtistList a.ArtistItem {
+    float: left;
+    padding: 5px;
+    box-sizing: border-box; }
+    @media screen and (min-width: 0px) {
+      .ArtistList a.ArtistItem {
+        width: 100%; } }
+    @media screen and (min-width: 508px) {
+      .ArtistList a.ArtistItem {
+        width: 50%; } }
+    @media screen and (min-width: 754px) {
+      .ArtistList a.ArtistItem {
+        width: 33.333333%; } }
+    .ArtistList a.ArtistItem .image-container {
+      overflow: hidden; }
+      .ArtistList a.ArtistItem .image-container img {
+        display: block;
+        width: 100%; }
+    .ArtistList a.ArtistItem .title {
+      padding: 6px 0;
+      background: rgba(68, 68, 68, 0.5);
+      transition: all .15s ease-in-out; }
+    .ArtistList a.ArtistItem:hover .title {
       background: transparent;
       color: #ff4081; }
 
