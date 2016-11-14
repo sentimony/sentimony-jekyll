@@ -383,14 +383,12 @@ html {
 
 .fotorama__wrap .fotorama__grab {
   cursor: move;
-  cursor: -webkit-grab;
   cursor: -o-grab;
   cursor: -ms-grab;
   cursor: grab; }
 
 .fotorama__grabbing * {
   cursor: move;
-  cursor: -webkit-grabbing;
   cursor: -o-grabbing;
   cursor: -ms-grabbing;
   cursor: grabbing; }
