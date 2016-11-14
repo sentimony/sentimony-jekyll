@@ -1,27 +1,16 @@
 {
-  "name": "sentimony-records",
-  "version": "0.0.0",
-  "description": "Web development of Sentimony Records offisial site",
-  "main": "gulpfile.js",
-  "author": "Ihor Orlovskyi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sentimony/sentimony.github.io"
+  },
+  "dependencies": {
+    "coriolan-ui": "^0.1.14"
+  },
   "devDependencies": {
     "gulp": "^3.8.8",
     "gulp-sass": "^2.1.0",
     "browser-sync": "^1.3.7",
     "gulp-autoprefixer": "1.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sentimony/sentimony.github.io"
-  },
-  "keywords": [
-    "jekyll",
-    "gulp",
-    "sass",
-    "browsersync"
-  ],
-  "bugs": {
-    "url": "https://github.com/sentimony/sentimony.github.io/issues"
-  },
-  "homepage": "http://sentimony.github.io"
+  }
 }
