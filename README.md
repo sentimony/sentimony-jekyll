@@ -1,7 +1,19 @@
 # Sentimony Records
 
-Web development of Sentimony Records offisial site
+### Electronic Music Label
 
-Used [jekyll](http://jekyllrb.com), [sass](http://sass-lang.com) with [bourbon](http://bourbon.io)
+Web development of Sentimony Records site
+
+### Run
+
+`npm i`
+
+`gulp`
+
+### Used
+
+Streaming build system - [Gulp](http://gulpjs.com)
+
+Static site generator - [Jekyll](https://jekyllrb.com)
 
 Proudly hosted by [GitHub Pages](https://pages.github.com)
