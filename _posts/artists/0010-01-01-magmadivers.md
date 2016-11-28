@@ -4,7 +4,8 @@ permalink: /magmadivers/
 category: artists
 
 title: Magmadivers
-filterStyle: goatrance
+filterLabel: aquadeep
+filterStyle: darktrance
 
 name: Dmitriy Likhachev & Grigoriy Sobinov
 location: Kyiv, Ukraine

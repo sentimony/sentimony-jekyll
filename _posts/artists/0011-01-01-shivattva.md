@@ -4,6 +4,7 @@ permalink: /shivattva/
 category: artists
 
 title: Shivattva
+filterLabel: aquadeep
 filterStyle: darktrance
 
 name: Artem Arhangelskiy

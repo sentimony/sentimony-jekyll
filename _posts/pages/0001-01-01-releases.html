@@ -32,8 +32,7 @@ permalink: /releases/
 
     <div class="isotope-container">
         {% for releases in site.categories.releases %}
-            <a href="{{ releases.url }}" class="ReleaseItem isotope-item {
- {{ releases.filterLabel }} {{ releases.filterStyle }} {{ releases.filterFormat }} ">
+            <a href="{{ releases.url }}" class="ReleaseItem isotope-item {{ releases.filterLabel }} {{ releases.filterStyle }} {{ releases.filterFormat }} ">
                 <div class="image-container">
                     <img 
                         data-src="holder.js/700x700?auto=yes&text={{ releases.title }}&fg=000&bg=0ff"

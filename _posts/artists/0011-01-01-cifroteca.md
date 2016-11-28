@@ -4,6 +4,7 @@ permalink: /cifroteca/
 category: artists
 
 title: Cifroteca
+filterLabel: aquadeep
 filterStyle: darktrance
 
 name: Yuriy Iofik

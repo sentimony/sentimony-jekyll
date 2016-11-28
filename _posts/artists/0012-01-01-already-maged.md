@@ -4,6 +4,7 @@ permalink: /already-maged/
 category: artists
 
 title: Already Maged
+filterLabel: aquadeep
 filterStyle: darktrance
 
 name: Egor Yudin

@@ -4,6 +4,7 @@ permalink: /saikozaurus/
 category: artists
 
 title: Saikozaurus
+filterLabel: aquadeep
 filterStyle: darktrance
 
 name: Daniil Pastushenko

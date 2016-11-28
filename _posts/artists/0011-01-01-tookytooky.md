@@ -4,6 +4,7 @@ permalink: /tookytooky/
 category: artists
 
 title: Tookytooky
+filterLabel: aquadeep
 filterStyle: darktrance
 
 name: Sergey Verbitsky
