@@ -1,6 +1,5 @@
 baseurl: 
-name: Sentimony Records
+include: ['_pages']
 exclude: ['README.md', 'node_modules', 'gulpfile.js', 'package.json', 'assets/css/*.scss']
-
-# custom settings
+name: Sentimony Records
 keywords: 'sentimony records, psychedelic, music, kyiv, ukraine'
