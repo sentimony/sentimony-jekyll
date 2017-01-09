@@ -1,4 +1,4 @@
-baseurl: '/sentimony-jekyll'
+baseurl: ''
 include: ['_pages']
 exclude: ['README.md', 'node_modules', 'gulpfile.js', 'package.json', 'assets/css/*.scss']
 name: Sentimony Records
