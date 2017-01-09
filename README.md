@@ -1,19 +1,21 @@
-# Sentimony Records
+# sentimony-jekyll
 
-### Electronic Music Label
+_Web development of Sentimony Records site_
 
-Web development of Sentimony Records site
+### Used
+
+[Jekyll](https://jekyllrb.com) - static site generator based on [Ruby](https://www.ruby-lang.org)
+
+[Gulp](http://gulpjs.com) - build system based on [NodeJS](https://nodejs.org)
+
+[Coriolan UI](https://coriolan-ui.github.io) - [Sass](http://sass-lang.com) mixins pack
+
+[GitHub Pages](https://pages.github.com) - free hosting
 
 ### Run
 
 `npm i`
 
-`gulp`
+`gulp watch`
 
-### Used
-
-Streaming build system - [Gulp](http://gulpjs.com)
-
-Static site generator - [Jekyll](https://jekyllrb.com)
-
-Proudly hosted by [GitHub Pages](https://pages.github.com)
+#### Have fun! :)
