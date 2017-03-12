@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /va-fantazma/
+permalink: /release/va-fantazma/
 category: releases
 
 title: 'VA «Fantazma»'

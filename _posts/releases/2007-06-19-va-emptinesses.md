@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /va-emptinesses/
+permalink: /release/va-emptinesses/
 category: releases
 
 title: 'VA «Emptinesses»'

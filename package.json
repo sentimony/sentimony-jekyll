@@ -1,16 +1,16 @@
 {
   "dependencies": {
-    "coriolan-ui": "^0.1.18",
+    "coriolan-ui": "^0.1.19",
     "normalize.css": "^5.0.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.18.5",
+    "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-concat": "^2.6.1",
     "gulp-plumber": "^1.1.0",
-    "gulp-sass": "^3.0.0",
-    "gulp-uglify": "^2.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.0",
     "require-dir": "^0.3.1"
   }
 }

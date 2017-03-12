@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /specialmind-the-missing-particle/
+permalink: /release/specialmind-the-missing-particle/
 category: releases
 
 title: 'Specialmind «The Missing Particle»'

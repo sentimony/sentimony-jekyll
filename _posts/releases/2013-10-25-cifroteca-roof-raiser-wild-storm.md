@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /cifroteca-roof-raiser-wild-storm/
+permalink: /release/cifroteca-roof-raiser-wild-storm/
 category: releases
 
 title: 'Cifroteca & Roof Raiser «Wild Storm»'

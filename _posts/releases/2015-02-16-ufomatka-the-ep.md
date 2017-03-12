@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /ufomatka-the-ep/
+permalink: /release/ufomatka-the-ep/
 category: releases
 
 title: 'Ufomatka «The E.P.»'

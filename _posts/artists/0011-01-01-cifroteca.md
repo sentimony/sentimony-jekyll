@@ -1,6 +1,6 @@
 ---
 layout: ArtistItem
-permalink: /cifroteca/
+permalink: /artist/cifroteca/
 category: artists
 
 title: Cifroteca

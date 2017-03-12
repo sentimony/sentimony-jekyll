@@ -1,6 +1,6 @@
 ---
 layout: ArtistItem
-permalink: /overdream/
+permalink: /artist/overdream/
 category: artists
 
 title: Overdream

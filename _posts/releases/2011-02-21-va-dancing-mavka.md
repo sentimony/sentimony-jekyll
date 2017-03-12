@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /va-dancing-mavka/
+permalink: /release/va-dancing-mavka/
 category: releases
 
 title: VA «Dansing Mavka»

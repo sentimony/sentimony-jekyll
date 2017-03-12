@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /sphingida-origin/
+permalink: /release/sphingida-origin/
 category: releases
 
 title: 'Sphingida «Origin»'

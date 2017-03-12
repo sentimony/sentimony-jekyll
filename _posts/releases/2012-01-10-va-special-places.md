@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /va-special-places/
+permalink: /release/va-special-places/
 category: releases
 
 title: 'VA «Special Places»'

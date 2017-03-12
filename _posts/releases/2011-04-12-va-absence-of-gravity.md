@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /va-absence-of-gravity/
+permalink: /release/va-absence-of-gravity/
 category: releases
 
 title: 'VA «Absence Of Gravity»'

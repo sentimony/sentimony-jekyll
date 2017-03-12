@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /spectrum-vision-lost-space-device/
+permalink: /release/spectrum-vision-lost-space-device/
 category: releases
 
 title: 'Spectrum Vision «Lost Space Device»'

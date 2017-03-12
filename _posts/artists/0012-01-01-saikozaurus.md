@@ -1,6 +1,6 @@
 ---
 layout: ArtistItem
-permalink: /saikozaurus/
+permalink: /artist/saikozaurus/
 category: artists
 
 title: Saikozaurus

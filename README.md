@@ -10,7 +10,7 @@ _Web development of Sentimony Records site_
 
 [Coriolan UI](https://coriolan-ui.github.io) - [Sass](http://sass-lang.com) mixins pack
 
-[GitHub Pages](https://pages.github.com) - free hosting
+[Netlify](https://www.netlify.com) - automatic deploy & free hosting platform
 
 ### Run
 

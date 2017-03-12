@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /va-true-story/
+permalink: /release/va-true-story/
 category: releases
 
 title: 'VA «True Story»'

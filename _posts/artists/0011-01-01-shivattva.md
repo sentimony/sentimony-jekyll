@@ -1,6 +1,6 @@
 ---
 layout: ArtistItem
-permalink: /shivattva/
+permalink: /artist/shivattva/
 category: artists
 
 title: Shivattva

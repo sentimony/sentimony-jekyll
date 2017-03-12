@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /va-gamayun-tale/
+permalink: /release/va-gamayun-tale/
 category: releases
 
 title: 'VA «Gamayun Tale»'

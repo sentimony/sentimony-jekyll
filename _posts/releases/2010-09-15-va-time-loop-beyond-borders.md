@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /va-time-loop-beyond-borders/
+permalink: /release/va-time-loop-beyond-borders/
 category: releases
 
 title: 'VA «Time Loop: Beyond Borders»'

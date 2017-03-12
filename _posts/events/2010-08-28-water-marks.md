@@ -1,6 +1,6 @@
 ---
 layout: item-events
-permalink: /watwer-marks/
+permalink: /event/watwer-marks/
 category: events
 
 fb-link: 

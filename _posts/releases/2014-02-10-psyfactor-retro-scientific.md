@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /psyfactor-retro-scientific/
+permalink: /release/psyfactor-retro-scientific/
 category: releases
 
 title: 'Psyfactor «Retro Scientific»'

@@ -1,5 +1,3 @@
 baseurl: ''
 include: ['_pages']
-exclude: ['README.md', 'node_modules', 'gulpfile.js', 'package.json', 'assets/css/*.scss']
-name: Sentimony Records
-keywords: 'sentimony records, psychedelic, music, kyiv, ukraine'
+exclude: ['README.md', 'package.json', 'node_modules/', 'gulpfile.js']

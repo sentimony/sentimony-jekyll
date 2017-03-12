@@ -1,6 +1,6 @@
 ---
 layout: item-events
-permalink: /five-years/
+permalink: /event/five-years/
 category: events
 
 fb-link: 

@@ -1,6 +1,6 @@
 ---
 layout: ArtistItem
-permalink: /already-maged/
+permalink: /artist/already-maged/
 category: artists
 
 title: Already Maged

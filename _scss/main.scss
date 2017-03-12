@@ -1,24 +1,18 @@
-@import 'vendor/normalize';
+@import '../node_modules/coriolan-ui/tools/variables';
+@import '../node_modules/coriolan-ui/mixins/media';
+@import '../node_modules/normalize.css/normalize';
 @import 'vendor/bourbon/bourbon';
 @import 'vendor/grid-settings';
 @import 'vendor/neat/neat';
+@import 'vendor/fonts';
 
-$path: "../img/fotorama/";
-@import "vendor/fotorama/fotorama";
-@import "vendor/fonts";
-
-@import "base";
-
-@import "nav-top";
-@import "header";
-@import "list";
-@import "item";
-@import "filters";
-
-@import "friends";
-@import "ReleaseList";
-@import "ArtistList";
-
-@import "footer";
-
-
+@import 'base';
+@import 'nav-top';
+@import 'header';
+@import 'list';
+@import 'item';
+@import 'filters';
+@import 'friends';
+@import 'ReleaseList';
+@import 'ArtistList';
+@import 'footer';

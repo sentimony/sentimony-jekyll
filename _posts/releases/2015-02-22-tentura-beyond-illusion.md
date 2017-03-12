@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /tentura-beyond-illusion/
+permalink: /release/tentura-beyond-illusion/
 category: releases
 
 title: 'Tentura «Beyond Illusion»'

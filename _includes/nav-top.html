@@ -1,10 +1,10 @@
 <nav class="nav-top">
-    <a href="{{ site.baseurl }}/">home</a>
-<!--   <a href="{{ site.baseurl }}/news/">news</a>
- -->  <a href="{{ site.baseurl }}/releases/">releases</a>
-    <a href="{{ site.baseurl }}/artists/">artists</a>
-    <a href="{{ site.baseurl }}/events/">events</a>
-    <a href="{{ site.baseurl }}/friends/">friends</a>
+    <a href="{{ site.baseurl }}/" class="{% if page.url == '/'%}active{% endif %}">home</a>
+    <!-- <a href="{{ site.baseurl }}/news/" class="{% if page.url contains 'news' %}active{% endif %}">news</a> -->
+    <a href="{{ site.baseurl }}/releases/" class="{% if page.url contains 'release' %}active{% endif %}">releases</a>
+    <a href="{{ site.baseurl }}/artists/" class="{% if page.url contains 'artist' %}active{% endif %}">artists</a>
+    <a href="{{ site.baseurl }}/events/" class="{% if page.url contains 'event' %}active{% endif %}">events</a>
+    <a href="{{ site.baseurl }}/friends/" class="{% if page.url contains 'friends' %}active{% endif %}">friends</a>
 
     <a href="https://sentimony.bandcamp.com" target="_blank">
         <span class="icon-bandcamp"></span>
@@ -19,6 +19,3 @@
         <!-- <span class="tooltip">soundcloud</span> -->
     </a>
 </nav>
-
-<div class="underconstruction">Our website is currently under construction. Please come back soon.</div>
-

@@ -17,6 +17,7 @@ footer {
         span[class^="icon-"] {
           font-size: 20px;
         }
+
         span.tooltip {
           display: none;
           position: absolute;
@@ -24,6 +25,7 @@ footer {
           left: 50%;
           @include transform(translate3d(-50%, -100%, 0));
         }
+
         &:hover {
           span.tooltip {
             display: block;

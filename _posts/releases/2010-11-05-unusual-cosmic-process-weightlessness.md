@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /unusual-cosmic-process-weightlessness/
+permalink: /release/unusual-cosmic-process-weightlessness/
 category: releases
 
 title: Unusual Cosmic Process ‎«Weightlessness»

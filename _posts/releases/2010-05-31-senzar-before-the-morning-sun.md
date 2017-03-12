@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /senzar-before-the-morning-sun/
+permalink: /release/senzar-before-the-morning-sun/
 category: releases
 
 title: 'Senzar ‎«Before The Morning Sun»'

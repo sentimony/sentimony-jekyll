@@ -1,6 +1,6 @@
 ---
 layout: ReleaseItem
-permalink: /tentura-aurora/
+permalink: /release/tentura-aurora/
 category: releases
 
 title: 'Tentura «Aurora»'
