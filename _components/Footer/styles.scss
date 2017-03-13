@@ -4,11 +4,11 @@
   nav {
     a {
       display: inline-block;
-      padding: 4px 12px;
+      padding: .1px .9em;
     }
 
     &.social {
-      padding-top: 20px;
+      padding-top: 1.2em;
       margin-bottom: $m;
 
       a {
@@ -40,6 +40,10 @@
       padding: $m 0;
       border: 1px solid rgba($accent-color, .1);
       border-width: 1px 0;
+
+      &--small {
+        font-size: .8em;
+      }
 
       a {
       }

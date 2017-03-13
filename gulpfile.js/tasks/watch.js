@@ -13,7 +13,6 @@ gulp.task('watch', ['browser-sync'], function () {
     '_js/**/*',
     '_pages/**/*',
     'assets/img/**/*',
-    'assets/fonts/**/*',
     '_config.yml',
     '_config_dev.yml'
   ], ['jekyll-rebuild']);
