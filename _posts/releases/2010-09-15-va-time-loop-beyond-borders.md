@@ -1,5 +1,5 @@
 ---
-layout: ReleaseItem
+layout: release-page
 permalink: /release/va-time-loop-beyond-borders/
 category: releases
 

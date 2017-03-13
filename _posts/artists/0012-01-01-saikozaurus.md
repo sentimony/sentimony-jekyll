@@ -1,5 +1,5 @@
 ---
-layout: ArtistItem
+layout: artist-page
 permalink: /artist/saikozaurus/
 category: artists
 
@@ -12,7 +12,7 @@ location: Odesa, Ukraine
 
 website: 
 bandcamp: 
-facebook: 
+facebook: https://www.facebook.com/saikozaurus.music
 soundcloud: https://soundcloud.com/saikozaurus
 soundcloud-id: 589570
 discogs: 

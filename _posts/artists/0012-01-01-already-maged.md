@@ -1,5 +1,5 @@
 ---
-layout: ArtistItem
+layout: artist-page
 permalink: /artist/already-maged/
 category: artists
 
@@ -12,7 +12,7 @@ location: Lviv, Ukraine
 
 website: 
 bandcamp: 
-facebook: 
+facebook: https://www.facebook.com/magedalready
 soundcloud: https://soundcloud.com/alreadymaged
 soundcloud-id: 7853646
 discogs: 

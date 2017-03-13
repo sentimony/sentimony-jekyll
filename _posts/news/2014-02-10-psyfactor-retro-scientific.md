@@ -1,5 +1,5 @@
 ---
-layout: ReleaseItem
+layout: news-page
 permalink: /news/psyfactor-retro-scientific/
 category: news
 

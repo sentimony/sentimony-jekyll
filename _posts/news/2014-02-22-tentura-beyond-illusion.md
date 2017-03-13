@@ -1,5 +1,5 @@
 ---
-layout: ReleaseItem
+layout: news-page
 permalink: /news/tentura-beyond-illusion/
 category: news
 

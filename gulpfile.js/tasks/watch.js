@@ -12,6 +12,7 @@ gulp.task('watch', ['browser-sync'], function () {
     '_components/**/*.json',
     '_js/**/*',
     '_pages/**/*',
+    '_posts/**/*',
     'assets/img/**/*',
     '_config.yml',
     '_config_dev.yml'

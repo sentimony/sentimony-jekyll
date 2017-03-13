@@ -1,5 +1,5 @@
 ---
-layout: ArtistItem
+layout: artist-page
 permalink: /artist/shivattva/
 category: artists
 
@@ -12,7 +12,7 @@ location: Odesa, Ukraine
 
 website: 
 bandcamp: 
-facebook: 
+facebook: https://www.facebook.com/shivattva
 soundcloud: https://soundcloud.com/shivattva
 soundcloud-id: 4022374
 discogs: 

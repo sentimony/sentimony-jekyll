@@ -1,5 +1,5 @@
 ---
-layout: item-events
+layout: event-page
 permalink: /event/five-years/
 category: events
 

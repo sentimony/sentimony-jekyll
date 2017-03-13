@@ -1,5 +1,5 @@
 ---
-layout: ArtistItem
+layout: artist-page
 permalink: /artist/magmadivers/
 category: artists
 
@@ -13,7 +13,7 @@ location: Kyiv, Ukraine
 website: 
 bandcamp: 
 facebook: 
-soundcloud: 
+soundcloud: https://www.facebook.com/magmadivers
 soundcloud-id: 
 discogs: 
 ---

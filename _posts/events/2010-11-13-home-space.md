@@ -1,5 +1,5 @@
 ---
-layout: item-events
+layout: event-page
 permalink: /event/home-space/
 category: events
 

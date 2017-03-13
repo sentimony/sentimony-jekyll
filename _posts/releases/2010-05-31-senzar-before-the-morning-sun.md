@@ -1,5 +1,5 @@
 ---
-layout: ReleaseItem
+layout: release-page
 permalink: /release/senzar-before-the-morning-sun/
 category: releases
 

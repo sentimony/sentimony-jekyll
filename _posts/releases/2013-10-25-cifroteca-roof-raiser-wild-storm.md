@@ -1,5 +1,5 @@
 ---
-layout: ReleaseItem
+layout: release-page
 permalink: /release/cifroteca-roof-raiser-wild-storm/
 category: releases
 
