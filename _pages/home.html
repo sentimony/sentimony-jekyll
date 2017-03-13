@@ -1,32 +1,24 @@
 ---
 layout: default
 titleAfter: Electronic Music Label
-meta: Sentimony Records - Electronic psychedelic music label from Kyiv, Ukraine
+description: Sentimony Records - Electronic music label from Kyiv, Ukraine
 permalink: /
 ---
 
-<header>
-    <div class="content">
-        <hgroup>
-            <h1>Sentimony Records</h1>
-            <h2>Electronic music label</h2>
-        </hgroup>
-    </div>
-    <div class="overlay"></div>
-</header>
+{% include Hero/index.html %}
 
 <section class="list">
-    <h3>Latest Releases</h3>
-        {% for i in site.categories.releases limit: 4 %}
-            <a href="{{ i.url }}">
-                <div class="outline">
-                    <img 
-                        data-src="holder.js/700x700?auto=yes&text={{ i.title }}&fg=000&bg=0ff"
-                        data-layzr="{{ site.baseurl }}/assets/img/releases/{{ i.slug }}.jpg"
-                        data-layzr-retina="{{ site.baseurl }}/assets/img/releases/{{ i.slug }}@2x.jpg"
-                    >
-                </div>
-                <div class="title">{{ i.title }}</div>
-            </a>
-        {% endfor %}
+  <h3>Latest Releases</h3>
+  {% for i in site.categories.releases limit: 4 %}
+  <a href="{{ i.url }}">
+    <div class="outline">
+      <img 
+        data-src="holder.js/700x700?auto=yes&text={{ i.title }}&fg=000&bg=0ff"
+        data-layzr="{{ site.baseurl }}/assets/img/releases/{{ i.slug }}.jpg"
+        data-layzr-retina="{{ site.baseurl }}/assets/img/releases/{{ i.slug }}@2x.jpg"
+      >
+    </div>
+    <div class="title">{{ i.title }}</div>
+  </a>
+  {% endfor %}
 </section>

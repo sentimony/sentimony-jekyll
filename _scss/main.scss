@@ -4,15 +4,15 @@
 @import 'vendor/bourbon/bourbon';
 @import 'vendor/grid-settings';
 @import 'vendor/neat/neat';
-@import 'vendor/fonts';
+@import 'vendor/svg-icons/svg-icons';
 
 @import 'base';
-@import 'nav-top';
-@import 'header';
+@import '_components/HeaderMenu/styles';
+@import '_components/Hero/styles';
 @import 'list';
 @import 'item';
 @import 'filters';
-@import 'friends';
+@import '_components/Friends/styles';
 @import 'ReleaseList';
 @import 'ArtistList';
-@import 'footer';
+@import '_components/Footer/styles';

@@ -1,0 +1,48 @@
+.footer {
+  padding: 40px 0 100px;
+
+  nav {
+    a {
+      display: inline-block;
+      padding: 4px 12px;
+    }
+
+    &.social {
+      padding-top: 20px;
+      margin-bottom: $m;
+
+      a {
+        position: relative;
+
+        span[class^="icon-"] {
+          font-size: 20px;
+        }
+
+        span.tooltip {
+          display: none;
+          position: absolute;
+          top: 0;
+          left: 50%;
+          @include transform(translate3d(-50%, -100%, 0));
+        }
+
+        &:hover {
+          span.tooltip {
+            display: block;
+          }
+        }
+      }
+    }
+
+    &.labels {
+      margin: 0 auto $m;
+      display: inline-block;
+      padding: $m 0;
+      border: 1px solid rgba($accent-color, .1);
+      border-width: 1px 0;
+
+      a {
+      }
+    }
+  }
+}

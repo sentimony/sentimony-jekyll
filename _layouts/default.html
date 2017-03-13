@@ -5,32 +5,32 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{% if page.title %}{{ page.title }} · {% endif %}Sentimony Records{% if page.titleAfter %} · {{ page.titleAfter }}{% endif %}</title>
-    <meta name="description" content="{{page.meta}}">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}Sentimony Records{% if page.titleAfter %} · {{ page.titleAfter }}{% endif %}</title>
+  <meta name="description" content="{{ page.description }}">
 
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
-    <link rel="shortcut icon" href="https://firebasestorage.googleapis.com/v0/b/sentimony-nuxt.appspot.com/o/favicons%2Ffavicon-32.png?alt=media&token=717dd3ad-b082-4abd-ad56-42dd501deec0">
-    <link rel="apple-touch-icon" href="https://firebasestorage.googleapis.com/v0/b/sentimony-nuxt.appspot.com/o/favicons%2Ffavicon-144.png?alt=media&token=d5fd00a3-aab1-4fe5-9c50-37bc19ba004f">
-    <meta property="og:image" content="https://firebasestorage.googleapis.com/v0/b/sentimony-nuxt.appspot.com/o/og-images%2Fhome.jpg?alt=media&token=bda45849-0d2c-4e98-8978-097e15443a48">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+  <link rel="shortcut icon" href="https://firebasestorage.googleapis.com/v0/b/sentimony-nuxt.appspot.com/o/favicons%2Ffavicon-32.png?alt=media&token=717dd3ad-b082-4abd-ad56-42dd501deec0">
+  <link rel="apple-touch-icon" href="https://firebasestorage.googleapis.com/v0/b/sentimony-nuxt.appspot.com/o/favicons%2Ffavicon-144.png?alt=media&token=d5fd00a3-aab1-4fe5-9c50-37bc19ba004f">
+  <meta property="og:image" content="https://firebasestorage.googleapis.com/v0/b/sentimony-nuxt.appspot.com/o/og-images%2Fhome.jpg?alt=media&token=bda45849-0d2c-4e98-8978-097e15443a48">
 </head>
 <body>
 
-    {% include nav-top.html %}
+  {% include HeaderMenu/index.html %}
 
-    {{ content }}
+  {{ content }}
 
-    {% include footer.html %}
+  {% include Footer/index.html %}
 
-    <script src="{{ site.baseurl }}/assets/js/bundle.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/bundle.min.js"></script>
 
-    {% if jekyll.environment == "production" %}
-        {% include Analytics/google-analytics.html %}
-        {% include Analytics/yandex-metrika.html %}
-    {% endif %}
+  {% if jekyll.environment == "production" %}
+    {% include Analytics/google-analytics.html %}
+    {% include Analytics/yandex-metrika.html %}
+  {% endif %}
 
 </body>
 </html>

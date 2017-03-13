@@ -1,15 +1,15 @@
 ---
 layout: default
 title: Events
-meta: Sentimony Records - Electronic psychedelic music label from Kyiv, Ukraine
+description: Events of Sentimony Records
 permalink: /events/
 ---
 
 <section class="list">
-    <h3>Events</h3>
-        {% for events in site.categories.events %}
-            <a href="{{ events.url }}">
-                <div class="title">{{ events.title }}</div>
-            </a>
-        {% endfor %}
+  <h3>Events</h3>
+  {% for events in site.categories.events %}
+  <a href="{{ events.url }}">
+    <div class="title">{{ events.title }}</div>
+  </a>
+  {% endfor %}
 </section>
