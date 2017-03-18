@@ -1,0 +1,23 @@
+.logolink {
+  display: flex;
+  align-items: center;
+
+  &__icon {
+    @extend .icon-public;
+    margin-right: 24px;
+  }
+
+  &__text {
+    text-align: left;
+  }
+
+  &__title {
+    font-size: 16px;
+    color: #fff;
+  }
+
+  &__subtitle {
+    font-size: 14px;
+    color: rgba(#fff,.4);
+  }
+}

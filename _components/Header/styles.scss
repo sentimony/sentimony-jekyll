@@ -1,0 +1,26 @@
+.header {
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(#000, .5);
+
+  &__container {
+    max-width: 975px;
+    margin: 0 auto;
+    height: 75px;
+    border-bottom: 1px solid rgba(#fff,.3);
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  // a {
+  //   text-transform: uppercase;
+  //   padding: 14px 12px;
+  //   display: inline-block;
+  //   text-shadow: 0 0 5px #000;
+  // }
+}
