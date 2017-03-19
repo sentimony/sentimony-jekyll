@@ -15,7 +15,6 @@
       <div class="releases-page__info">
         <h1 class="releases-page__title">{{ page.title }}</h1>
 
-        {% if page.bandcamp %}
         <div class="releases-page__listen-on">Listen on:</div>
         <div>
           <a class="releases-page__bandcamp-btn" href="{{ page.bandcamp }}">
@@ -23,8 +22,12 @@
             <img class="releases-page__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg">
             <span class="releases-page__bandcamp-btn-text">Bandcamp</span>
           </a>
+          <a class="releases-page__youtube-btn is-disabled" href="javascript:void(0)">
+            <span class="releases-page__youtube-btn-icon"></span>
+            <img class="releases-page__youtube-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/youtube.svg">
+            <span class="releases-page__youtube-btn-text">Youtube</span>
+          </a>
         </div>
-        {% endif %}
       </div>
     </div>
 

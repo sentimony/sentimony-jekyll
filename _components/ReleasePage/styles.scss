@@ -6,13 +6,14 @@
     max-width: 1278px;
     text-align: left;
     border-top: 1px solid rgba(#fff,.3);
-    padding: 1em .6em;
+    padding: 1.8em .6em;
     box-sizing: border-box;
+    position: relative;
     display: flex;
-    align-items: center;
+    // align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     flex-direction: column;
-    position: relative;
 
     @include media(L) {
       flex-direction: row;
@@ -28,7 +29,7 @@
 
   &__media {
     display: flex;
-    // align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     margin-bottom: 1em;
     width: 100%;
@@ -36,30 +37,37 @@
 
     @include media(L) {
       width: auto;
+      margin-top: 60px;
     }
   }
 
   &__cover {
-    @include ratio(100px,1,1);
+    // @include ratio(100px,1,1);
     min-width: 100px;
     border-radius: 8px;
     overflow: hidden;
-    box-shadow: 0 2px 10px 0 rgba(#000,.5);
-    margin-right: 1.1em;
-    background-color: rgba(#000,.5);
+    margin-right: 1.4em;
 
     @include media(M) {
-      @include ratio(190px,1,1);
+      // @include ratio(190px,1,1);
       min-width: 190px;
     }
 
     &-img {
       display: block;
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
+      max-width: 100px;
+      box-shadow: 0 2px 10px 0 rgba(#000,.5);
+      background-color: rgba(#000,.5);
+
+      @include media(M) {
+        // @include ratio(190px,1,1);
+        max-width: 190px;
+      }
+      // position: absolute;
+      // top: 0;
+      // left: 0;
+      // width: 100%;
+      // height: 100%;
       // height: auto;
       // transform: scale(1.2);
     }
@@ -91,39 +99,40 @@
   }
 
   &__bandcamp-btn {
-    display: inline-block;
-    color: #fff;
-    border-radius: 6px;
-    border: 1px solid #fff;
-    padding: .8em;
-    padding: 7px 1.1em;
-    line-height: 20px;
-    font-size: 16px;
-    box-sizing: border-box;
-    height: 40px;
+    @extend .btn;
 
     &-icon {
       @extend .icon-bandcamp;
-      display: inline-block;
-      transform: translate3d(0,2px,0);
-      display: none;
+      @extend .btn__icon;
     }
 
     &-img {
-      // @extend .icon-bandcamp;
-      width: auto;
-      height: 18px;
-      display: inline-block;
-      transform: translate3d(0,3px,0);
+      @extend .btn__img;
     }
 
     &-text {
-      display: none;
+      @extend .btn__text;
+    }
+  }
 
-      @include media(S) {
-        display: inline-block;
-        margin-left: .7em;
-      }
+  &__youtube-btn {
+    @extend .btn;
+
+    &-icon {
+      @extend .icon-youtube;
+    }
+
+    &-icon {
+      @extend .icon-bandcamp;
+      @extend .btn__icon;
+    }
+
+    &-img {
+      @extend .btn__img;
+    }
+
+    &-text {
+      @extend .btn__text;
     }
   }
 
@@ -139,11 +148,11 @@
     // max-width: 635px;
     // width: 635px;
     // margin: 0 auto;
-    max-width: 635px;
+    max-width: 540px;
     position: relative;
 
     @include media(M) {
-      min-width: 635px;
+      min-width: 540px;
     }
 
     &-iframe {
@@ -152,7 +161,7 @@
       display: block;
       width: 100%;
       overflow: hidden;
-      max-width: 635px;
+      max-width: 540px;
       border: none;
       // background: #333;
       height: 538px;

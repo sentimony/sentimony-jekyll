@@ -74,9 +74,14 @@
         @extend .icon-soundcloud;
       }
 
+      &-icon-youtube {
+        @extend .icon-youtube;
+      }
+
       &-icon-bandcamp,
       &-icon-facebook,
       &-icon-soundcloud,
+      &-icon-youtube,
       &-tooltip {
         display: none;
       }

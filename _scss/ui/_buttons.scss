@@ -1,0 +1,66 @@
+@mixin btn {
+  display: inline-block;
+  color: #fff;
+  border-radius: 6px;
+  border: 1px solid #fff;
+  padding: .8em;
+  padding: 7px 1.1em;
+  line-height: 20px;
+  font-size: 16px;
+  box-sizing: border-box;
+  height: 40px;
+  margin-right: .7em;
+
+  &:last-child {
+    margin-right: 0;
+  }
+
+  &:hover {
+  }
+
+  &.is-disabled {
+    opacity: .4;
+    cursor: default;
+
+    &:hover {
+    }
+  }
+}
+
+@mixin btn__icon {
+  display: inline-block;
+  transform: translate3d(0,2px,0);
+  display: none;
+}
+
+@mixin btn__img {
+  width: auto;
+  height: 18px;
+  display: inline-block;
+  transform: translate3d(0,3px,0);
+}
+
+@mixin btn__text {
+  display: none;
+
+  @include media(S) {
+    display: inline-block;
+    margin-left: .7em;
+  }
+}
+
+.btn {
+  @include btn;
+}
+
+.btn__icon {
+  @include btn__icon;
+}
+
+.btn__img {
+  @include btn__img;
+}
+
+.btn__text {
+  @include btn__text;
+}
