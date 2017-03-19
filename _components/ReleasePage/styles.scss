@@ -1,12 +1,13 @@
 .releases-page {
   position: relative;
+  padding: 0 .6em;
 
   &__wrapper {
     margin: 0 auto;
     max-width: 1278px;
     text-align: left;
     border-top: 1px solid rgba(#fff,.3);
-    padding: 1.8em .6em;
+    padding: 1.8em 0;
     box-sizing: border-box;
     position: relative;
     display: flex;
@@ -78,6 +79,11 @@
     width: 100%;
     box-sizing: border-box;
     padding-right: 1.1em;
+  }
+
+  &__date {
+    font-size: 14px;
+    color: #fff;
   }
 
   &__title {
