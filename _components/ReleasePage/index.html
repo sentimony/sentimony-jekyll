@@ -4,11 +4,9 @@
   <div class="releases-page__wrapper">
 
     <div class="releases-page__media">
-      <div class="releases-page__cover">
-        <a class="releases-page__cover-link" href="https://content.sentimony.com/assets/img/releases/large/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
-          <img class="releases-page__cover-img" src="https://content.sentimony.com/assets/img/releases/medium/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
-        </a>
-      </div>
+      <a class="releases-page__cover" href="https://content.sentimony.com/assets/img/releases/large/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
+        <img class="releases-page__cover-img" src="https://content.sentimony.com/assets/img/releases/medium/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
+      </a>
 
       <!-- {{ content }} -->
 

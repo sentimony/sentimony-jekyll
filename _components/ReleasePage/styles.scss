@@ -44,13 +44,18 @@
   &__cover {
     // @include ratio(100px,1,1);
     min-width: 100px;
+    height: 100px;
     border-radius: 8px;
     overflow: hidden;
     margin-right: 1.4em;
+    background-color: rgba(#000,.5);
+    display: flex;
+    align-items: stretch;
 
     @include media(M) {
       // @include ratio(190px,1,1);
       min-width: 190px;
+      height: 190px;
     }
 
     &-img {
