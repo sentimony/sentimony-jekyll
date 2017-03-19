@@ -6,6 +6,7 @@
   // left: 0;
   // width: 100%;
   // background: rgba(#000, .5);
+  padding: 0 .6em;
 
   &__container {
     max-width: 1278px;
@@ -85,6 +86,22 @@
       &-tooltip {
         display: none;
       }
+    }
+  }
+
+  &__mob-menu-button {
+    display: block;
+    padding: 1em 1.1em;
+
+    @include media(M) {
+      display: none;
+    }
+
+    &-img {
+      display: block;
+      width: auto;
+      height: 20px;
+      margin: 0 auto;
     }
   }
 }

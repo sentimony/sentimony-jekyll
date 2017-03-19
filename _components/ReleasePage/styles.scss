@@ -14,17 +14,11 @@
     align-items: flex-start;
     justify-content: space-between;
     flex-direction: column;
+    z-index: 30;
 
     @include media(L) {
       flex-direction: row;
     }
-  }
-
-  &__deco-triangle {
-    position: absolute;
-    left: 0;
-    bottom: -1px;
-    width: 100%;
   }
 
   &__media {

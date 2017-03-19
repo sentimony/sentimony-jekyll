@@ -1,50 +1,71 @@
 .releases-list-swiper {
-  // max-width: 1270px;
-  // margin: 0 auto;
   width: 100%;
-  // padding-top: .3em;
-  // padding-bottom: 1em;
-  height: 256px;
-  // box-sizing: border-box;
   overflow: hidden;
+  height: 122px;
+
+  @include media(M) {
+    height: 256px;
+  }
 
   &__title {
     text-align: left;
-    font-size: 32px;
-    margin-bottom: .3em;
     max-width: 1270px;
-    margin: 0 auto .3em;
+    margin: 0 auto;
+    font-size: 18px;
+    padding: .2em .6em 0;
+    box-sizing: border-box;
+
+    @include media(M) {
+      font-size: 32px;
+    }
   }
 
   &__container {
     overflow: visible;
+    padding-top: 10px;
     padding-bottom: 13px;
   }
 
   &__item {
-    width: 180px;
     box-sizing: border-box;
     padding-right: 3px;
     padding-left: 3px;
+    width: 90px;
+
+    @include media(M) {
+      width: 180px;
+    }
 
     &-cover {
-      @include ratio(120px,1,1);
-      min-width: 120px;
       // overflow: hidden;
-      margin: 0 auto 1.1em;
+      margin: 0 auto .2em;
       position: relative;
       background-color: rgba(#000,.5);
+      @include ratio(60px,1,1);
+      min-width: 60px;
+
+      @include media(M) {
+        @include ratio(120px,1,1);
+        min-width: 120px;
+        margin-bottom: 1.1em;
+      }
 
       &:before {
         content: '';
         position: absolute;
         top: 0;
         left: 0;
-        width: 140px;
-        height: 140px;
-        transform: translate3d(-10px,-10px,0);
         border-radius: 8px;
         transition: background-color .2s ease-in-out;
+        width: 70px;
+        height: 70px;
+        transform: translate3d(-5px,-5px,0);
+
+        @include media(M) {
+          width: 140px;
+          height: 140px;
+          transform: translate3d(-10px,-10px,0);
+        }
 
         .releases-list-swiper__item.is-selected & {
           background-color: rgba(#fff,.3);
@@ -67,6 +88,11 @@
       color: #fff;
       // font-size: 12px;
       font-size: 14px;
+      display: none;
+
+      @include media(M) {
+        display: block;
+      }
     }
   }
 
@@ -77,5 +103,14 @@
 
   .swiper-scrollbar-drag {
     background-color: rgba(#fff,.3);
+  }
+
+  .swiper-button-prev,
+  .swiper-button-next {
+    display: none;
+
+    @include media(M) {
+      display: block;
+    }
   }
 }
