@@ -7,6 +7,8 @@ title: Unusual Cosmic Process ‎«Weightlessness»
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: album
+cover: true
+cat_no: sencd019
 
 bandcamp-id: 987015194
 bandcamp: https://lookinglook.bandcamp.com/album/unusual-cosmic-process-weightlessness

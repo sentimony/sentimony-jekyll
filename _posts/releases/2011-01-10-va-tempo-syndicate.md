@@ -7,6 +7,8 @@ title: 'VA «Tempo Syndicate»'
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: compilation
+cover: true
+cat_no: sencd009
 
 bandcamp-id: 2483216888
 bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate

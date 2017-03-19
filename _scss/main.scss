@@ -1,19 +1,22 @@
 @import '../node_modules/coriolan-ui/tools/variables';
 @import '../node_modules/coriolan-ui/mixins/media';
 @import '../node_modules/normalize.css/normalize';
+@import '../node_modules/swiper/dist/css/swiper';
+
 @import 'vendor/bourbon/bourbon';
 @import 'vendor/grid-settings';
 @import 'vendor/neat/neat';
 @import 'vendor/svg-icons/svg-icons';
 
 @import 'base';
+@import 'list';
+@import 'filters';
+@import 'ArtistList';
 @import '_components/Header/styles';
 @import '_components/LogoLink/styles';
 @import '_components/Hero/styles';
-@import 'list';
-@import 'item';
-@import 'filters';
 @import '_components/Friends/styles';
-@import 'ReleaseList';
-@import 'ArtistList';
+@import '_components/ReleasesList/styles';
+@import '_components/ReleasesListSwiper/styles';
+@import '_components/ReleasePage/styles';
 @import '_components/Footer/styles';

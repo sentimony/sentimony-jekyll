@@ -7,6 +7,8 @@ title: 'Psyfactor «Retro Scientific»'
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: album
+cover: true
+cat_no: sencd016
 
 bandcamp-id: 625816327
 bandcamp: https://sentimony.bandcamp.com/album/psyfactor-retro-scientific

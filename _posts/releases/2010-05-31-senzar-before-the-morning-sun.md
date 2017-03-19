@@ -7,6 +7,8 @@ title: 'Senzar ‎«Before The Morning Sun»'
 filterLabel: lookinglook
 filterStyle: chillout
 filterFormat: album
+cover: true
+cat_no: sencd017
 
 bandcamp-id: 3896908655
 bandcamp: https://lookinglook.bandcamp.com/album/senzar-before-the-morning-sun

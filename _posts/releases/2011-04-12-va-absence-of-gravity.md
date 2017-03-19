@@ -7,6 +7,8 @@ title: 'VA «Absence Of Gravity»'
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: compilation
+cover: true
+cat_no: sencd010
 
 bandcamp-id: 615519130
 bandcamp: https://sentimony.bandcamp.com/album/va-absence-of-gravity

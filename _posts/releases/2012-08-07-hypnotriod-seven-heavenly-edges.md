@@ -7,6 +7,8 @@ title: 'Hypnotriod «Seven Heavenly Edges»'
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: single
+cover: true
+cat_no: sencd012
 
 bandcamp-id: 2733998829
 bandcamp: https://sentimony.bandcamp.com/album/hypnotriod-seven-heavenly-edges

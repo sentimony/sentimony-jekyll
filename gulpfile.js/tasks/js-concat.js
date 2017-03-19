@@ -6,7 +6,8 @@ gulp.task('js-concat', ['sass'], function () {
     '_js/lib/*',
     '_js/vendor/*',
     '_js/main.js',
-    '_components/**/*.js',
+    'node_modules/swiper/dist/js/swiper.js',
+    '_components/**/*.js'
   ])
   .pipe(concat('bundle.js'))
   .pipe(gulp.dest('assets/js/'));

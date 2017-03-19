@@ -5,7 +5,7 @@ var gulp = require('gulp'),
   prefix = require('gulp-autoprefixer'),
   browserSync = require('browser-sync');
 
-gulp.task('sass', ['font'], function () {
+gulp.task('sass', function () {
   return gulp.src([
       '_scss/main.scss'
     ])

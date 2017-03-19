@@ -7,6 +7,8 @@ title: 'VA «Emptinesses»'
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: compilation
+cover: true
+cat_no: sencd002
 
 bandcamp-id: 2938863422
 bandcamp: https://sentimony.bandcamp.com/album/va-emptinesses

@@ -1,8 +1,8 @@
-.ReleaseList {
+.release-list {
   padding: 10px 5%;
   @include clearfix;
 
-  a.ReleaseItem {
+  &__item {
     float: left;
     padding: 5px;
     box-sizing: border-box;

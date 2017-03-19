@@ -7,6 +7,8 @@ title: VA «Dansing Mavka»
 filterLabel: lookinglook
 filterStyle: goatrance
 filterFormat: compilation
+cover: true
+cat_no: sencd020
 
 bandcamp-id: 95715287
 bandcamp: https://lookinglook.bandcamp.com/album/va-dancing-mavka

@@ -7,6 +7,8 @@ title: 'VA «Gamayun Tale»'
 filterLabel: lookinglook
 filterStyle: goatrance
 filterFormat: compilation
+cover: true
+cat_no: sencd021
 
 bandcamp-id: 3538385956
 bandcamp: https://lookinglook.bandcamp.com/album/va-gamayun-tale

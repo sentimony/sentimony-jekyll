@@ -7,6 +7,8 @@ title: 'Irukanji «Z Lisu»'
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: album
+cover: true
+cat_no: sencd006
 
 bandcamp-id: 2924012921
 bandcamp: https://sentimony.bandcamp.com/album/irukanji-z-lisu

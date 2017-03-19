@@ -7,6 +7,8 @@ title: 'Spectrum Vision «Lost Space Device»'
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: album
+cover: true
+cat_no: sencd005
 
 bandcamp-id: 2969979336
 bandcamp: https://sentimony.bandcamp.com/album/spectrum-vision-lost-space-device

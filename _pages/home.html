@@ -12,11 +12,16 @@ permalink: /
   {% for i in site.categories.releases limit: 4 %}
   <a href="{{ i.url }}">
     <div class="outline">
-      <img 
+      {% if i.cover %}
+      <img src="https://content.sentimony.com/assets/img/releases/medium/{{ i.cat_no }}/{{ i.slug }}.jpg">
+      {% else %}
+      <img src="https://content.sentimony.com/assets/img/releases/medium/artwork-in-progress.jpg">
+      {% endif %}
+      <!-- <img 
         data-src="holder.js/700x700?auto=yes&text={{ i.title }}&fg=000&bg=0ff"
         data-layzr="{{ site.baseurl }}/assets/img/releases/{{ i.slug }}.jpg"
         data-layzr-retina="{{ site.baseurl }}/assets/img/releases/{{ i.slug }}@2x.jpg"
-      >
+      > -->
     </div>
     <div class="title">{{ i.title }}</div>
   </a>

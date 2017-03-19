@@ -7,6 +7,8 @@ title: 'Tentura «Beyond Illusion»'
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: album
+cover: true
+cat_no: sencd023
 
 bandcamp-id: 144410096
 bandcamp: https://sentimony.bandcamp.com/album/tentura-beyond-illusion

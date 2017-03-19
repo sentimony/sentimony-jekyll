@@ -7,6 +7,8 @@ title: 'VA «Special Places»'
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: compilation
+cover: true
+cat_no: sencd011
 
 bandcamp-id: 64124286
 bandcamp: https://sentimony.bandcamp.com/album/va-special-places

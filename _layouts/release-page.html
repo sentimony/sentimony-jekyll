@@ -2,43 +2,5 @@
 layout: default
 ---
 
-<article class="item item-releases">
-  <h1>{{ page.title }}</h1>
-
-  <img 
-    data-src="holder.js/700x700?auto=yes&text={{ page.title }}&fg=000&bg=0ff"
-    data-layzr="{{ site.baseurl }}/assets/img/releases/{{ page.slug }}.jpg"
-    data-layzr-retina="{{ site.baseurl }}/assets/img/releases/{{ page.slug }}@2x.jpg"
-  >
-
-  {% if page.bandcamp-id %}
-    <iframe class="bandcamp-item bandcamp-item__release"
-      data-layzr="https://bandcamp.com/EmbeddedPlayer/v=2/album={{ page.bandcamp-id }}/layout=http_3A_2F_2Fbandcamp-play.github.io_2Firukanji-album.json/bgcol=444/linkcol=00ffff/debug=true/"
-    ></iframe>
-  {% endif %}
-
-  {{ content }}
-
-  {% if page.bandcamp %}
-    <div>
-      <span>Free Download & Donate:</span>
-      <a href="{{ page.bandcamp }}"><span class="icon-bandcamp"></span> bandcamp</a>
-    </div>
-  {% endif %}
-
-  {% if page.ektoplazm %}
-    <div>
-      <span>Free Download:</span>
-      <a href="{{ page.ektoplazm }}">ektoplazm</a>
-    </div>
-  {% endif %}
-
-  {% if page.discogs %}
-    <div>
-      <span>Release Info:</span>
-      <a href="{{ page.discogs }}"><span class="icon-discogs"></span> discogs</a>
-    </div>
-  {% endif %}
-
-</article>
-
+{% include ReleasesListSwiper/index.html %}
+{% include ReleasePage/index.html %}

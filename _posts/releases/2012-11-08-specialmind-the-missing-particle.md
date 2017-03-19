@@ -7,6 +7,8 @@ title: 'Specialmind «The Missing Particle»'
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: single
+cover: true
+cat_no: sencd013
 
 bandcamp-id: 1673341211
 bandcamp: https://sentimony.bandcamp.com/album/specialmind-the-missing-particle

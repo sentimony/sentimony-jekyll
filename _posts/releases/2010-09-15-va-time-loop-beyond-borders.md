@@ -7,6 +7,8 @@ title: 'VA «Time Loop: Beyond Borders»'
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: compilation
+cover: true
+cat_no: sencd007
 
 bandcamp-id: 2208878008
 bandcamp: https://sentimony.bandcamp.com/album/va-time-loop-beyond-borders

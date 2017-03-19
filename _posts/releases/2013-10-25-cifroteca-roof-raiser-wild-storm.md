@@ -7,6 +7,8 @@ title: 'Cifroteca & Roof Raiser «Wild Storm»'
 filterLabel: aquadeep
 filterStyle: darktrance
 filterFormat: album
+cover: true
+cat_no: sencd015
 
 bandcamp-id: 721225799
 bandcamp: https://aquadeep.bandcamp.com/album/cifroteca-roof-raiser-wild-storm

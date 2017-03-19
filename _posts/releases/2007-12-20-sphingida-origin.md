@@ -7,6 +7,8 @@ title: 'Sphingida «Origin»'
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: album
+cover: true
+cat_no: sencd003
 
 bandcamp-id: 3680718383
 bandcamp: https://sentimony.bandcamp.com/album/sphingida-origin

@@ -7,6 +7,8 @@ title: 'Ufomatka «The E.P.»'
 filterLabel: lookinglook
 filterStyle: goatrance
 filterFormat: single
+cover: true
+cat_no: sencd022
 
 bandcamp-id: 342915204
 bandcamp: https://lookinglook.bandcamp.com/album/ufomatka-the-e-p

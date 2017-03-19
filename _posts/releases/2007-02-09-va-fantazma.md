@@ -7,6 +7,8 @@ title: 'VA «Fantazma»'
 filterLabel: sentimony
 filterStyle: chillout
 filterFormat: compilation
+cover: true
+cat_no: sencd001
 
 bandcamp-id: 3399361938
 bandcamp: https://sentimony.bandcamp.com/album/va-fantazma
