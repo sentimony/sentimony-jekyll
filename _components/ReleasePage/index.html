@@ -18,9 +18,12 @@
     <h1 class="releases-page__title">{{ page.title }}</h1>
 
     {% if page.bandcamp %}
+    <div class="releases-page__listen-on">Listen on:</div>
     <div>
-      <div class="releases-page__listen-on">Listen on:</div>
-      <a href="{{ page.bandcamp }}"><span class="icon-bandcamp"></span> bandcamp</a>
+      <a class="releases-page__bandcamp-btn" href="{{ page.bandcamp }}">
+        <span class="releases-page__bandcamp-btn-icon"></span>
+        Bandcamp
+      </a>
     </div>
     {% endif %}
   </div>

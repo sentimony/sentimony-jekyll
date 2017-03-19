@@ -4,15 +4,12 @@
     <div class="swiper-wrapper">
       {% for i in site.categories.releases %}
       <div class="swiper-slide {% if page.url contains i.slug %}is-active{% endif %}">
-        <a class="" href="{{ i.url }}">
-          {% if i.cover %}
-          <img src="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg">
-          {% else %}
-          <img src="https://content.sentimony.com/assets/img/releases/small/artwork-in-progress.jpg">
-          {% endif %}
-        </a>
-        <div>{{ i.title }}</div>
-        <div>{% if page.url contains i.slug %}is-active{% endif %}</div>
+        <div class="releases-list-swiper__item-cover">
+          <a class="releases-list-swiper__item-cover-link" href="{{ i.url }}">
+            <img class="releases-list-swiper__item-cover-img" src="https://content.sentimony.com/assets/img/releases/small/{% if i.cover %}{{ i.cat_no }}/{{ i.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
+          </a>
+        </div>
+        <div class="releases-list-swiper__item-title">{{ i.title }}</div>
       </div>
       {% endfor %}
     </div>

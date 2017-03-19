@@ -17,6 +17,24 @@
     align-items: center;
   }
 
+  &__main-menu {
+
+    &-link {
+      font-size: 16px;
+      color: #fff;
+      padding: 1em;
+    }
+  }
+
+  &__social-menu {
+
+    &-link {
+      font-size: 16px;
+      color: #fff;
+      padding: 1em;
+    }
+  }
+
   // a {
   //   text-transform: uppercase;
   //   padding: 14px 12px;

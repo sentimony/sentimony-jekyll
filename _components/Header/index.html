@@ -3,24 +3,24 @@
 
   {% include LogoLink/index.html %}
 
-    <nav>
-      <a href="{{ site.baseurl }}/news/" class="{% if page.url contains 'news' %}active{% endif %}">news</a>
-      <a href="{{ site.baseurl }}/releases/" class="{% if page.url contains 'release' %}active{% endif %}">releases</a>
-      <a href="{{ site.baseurl }}/artists/" class="{% if page.url contains 'artist' %}active{% endif %}">artists</a>
-      <a href="{{ site.baseurl }}/events/" class="{% if page.url contains 'event' %}active{% endif %}">events</a>
-      <a href="{{ site.baseurl }}/friends/" class="{% if page.url contains 'friends' %}active{% endif %}">friends</a>
+    <nav class="header__main-menu">
+      <!-- <a href="{{ site.baseurl }}/news/" class="{% if page.url contains 'news' %}active{% endif %}">News</a> -->
+      <a class="header__main-menu-link" href="{{ site.baseurl }}/release/zymosis-insight/" class="{% if page.url contains 'release' %}active{% endif %}">Releases</a>
+      <!-- <a href="{{ site.baseurl }}/artists/" class="{% if page.url contains 'artist' %}active{% endif %}">Artists</a> -->
+      <!-- <a href="{{ site.baseurl }}/events/" class="{% if page.url contains 'event' %}active{% endif %}">Events</a> -->
+      <!-- <a href="{{ site.baseurl }}/friends/" class="{% if page.url contains 'friends' %}active{% endif %}">Friends</a> -->
     </nav>
 
-    <nav>
-      <a href="https://sentimony.bandcamp.com" target="_blank">
+    <nav class="header__social-menu">
+      <a class="header__social-menu-link" href="https://sentimony.bandcamp.com" target="_blank">
           <span class="icon-bandcamp"></span>
           <!-- <span class="tooltip">bandcamp</span> -->
       </a>
-      <a href="https://www.facebook.com/sentimony.records" target="_blank">
+      <a class="header__social-menu-link" href="https://www.facebook.com/sentimony.records" target="_blank">
           <span class="icon-facebook"></span>
           <!-- <span class="tooltip">facebook</span> -->
       </a>
-      <a href="https://soundcloud.com/sentimony" target="_blank">
+      <a class="header__social-menu-link" href="https://soundcloud.com/sentimony" target="_blank">
           <span class="icon-soundcloud"></span>
           <!-- <span class="tooltip">soundcloud</span> -->
       </a>

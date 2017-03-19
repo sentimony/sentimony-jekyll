@@ -4,16 +4,19 @@
   text-align: left;
   display: flex;
   align-items: center;
+  justify-content: space-between;
   border-top: 1px solid rgba(#fff,.3);
   padding-top: 1em;
+  padding-bottom: 1em;
 
   &__cover {
     @include ratio(190px,1,1);
     min-width: 190px;
     border-radius: 8px;
     overflow: hidden;
-    // background: #d8d8d8;
     box-shadow: 0 2px 10px 0 rgba(#000,.5);
+    margin-right: 1.1em;
+
 
     &-link {
     }
@@ -30,26 +33,51 @@
 
   &__info {
     display: block;
-    // flex-basis: (50%*2/3);
+    flex-basis: (50%*2/3);
+    box-sizing: border-box;
+    padding-right: 1.1em;
   }
 
   &__title {
     font-size: 32px;
     margin: 0;
+    color: #fff;
+    text-transform: capitalize;
   }
 
   &__listen-on {
     font-size: 14px;
     color: rgba(#fff,.5);
+    margin-bottom: .7em;
+  }
+
+  &__bandcamp-btn {
+    display: inline-block;
+    color: #fff;
+    border-radius: 6px;
+    border: 1px solid #fff;
+    padding: .8em;
+    padding: 7px 1.1em;
+    line-height: 20px;
+    font-size: 16px;
+    box-sizing: border-box;
+    height: 40px;
+  }
+
+  &__bandcamp-btn-icon {
+    @extend .icon-bandcamp;
+    display: inline-block;
+    margin-right: .7em;
+    transform: translate3d(0,2px,0);
   }
 
   &__player {
     display: block;
     flex-basis: 50%;
-    border-radius: 6px;
-    overflow: hidden;
 
     &-iframe {
+      border-radius: 6px;
+      overflow: hidden;
       display: block;
       width: 100%;
       overflow: hidden;
