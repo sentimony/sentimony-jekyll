@@ -16,6 +16,14 @@ ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
 discogs: http://www.discogs.com/Various-Tempo-Syndicate/release/2645251
 ---
 
+Sentimony Records team is proud to introduce you label's ninth release and our two years labor - psychedelic music compialtion entitled «Tempo Syndicate».
+
+This new release contains 12 unique tracks of crystal clear psychedelic sound with deep bass vibration, spellbinding shaman rhythms and innovative ideas.
+
+We reccomend to listen this new CD in the evening and at night-time, especially at open space away from the city limits.
+
+Have a nice dive! ;)
+
 Tracklist:
 
 01. Boggy Elf - Dream Of Ashvattha (In) [80bpm]

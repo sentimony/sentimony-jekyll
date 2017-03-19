@@ -16,6 +16,12 @@ ektoplazm:
 discogs: http://www.discogs.com/Ufomatka-The-Ep/release/6663582
 ---
 
+Lookinglook Records presents the new goatrance release by our beloved artist Ufomatka.
+
+«The E.P.» is an eneretic bundle of 5 previously unreleased dancefloor smashing tracks collected by the artist during the last several years.
+
+Get it now, completely free, and have fun!
+
 Tracklist:
 
 01. Ufomatka - Afrodancerequesting
@@ -23,9 +29,3 @@ Tracklist:
 03. Ufomatka - Freaky Son Of A Bitch
 04. Ufomatka - No End...
 05. Ufomatka - The Binman
-
-Lookinglook Records presents the new goatrance release by our beloved artist Ufomatka.
-
-"The E​.​P." is an eneretic bundle of 5 previously unreleased dancefloor smashing tracks collected by the artist during the last several years.
-
-Get it now, completely free, and have fun!

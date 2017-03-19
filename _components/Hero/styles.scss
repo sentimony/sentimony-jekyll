@@ -33,7 +33,7 @@
       position: absolute;
       top: 50%;
       left: 50%;
-      @include transform(translate(-50%, -50%));
+      transform: translate3d(-50%,-50%,0);
       display: inline-block;
       // border: 10px solid #fff;
       // padding: 30px 60px;
@@ -44,31 +44,28 @@
         color: #fff;
         margin: 0 0 20px;
         font-weight: 400;
+        font-size: 40px;
+        letter-spacing: 2px;
 
-        // @include media($One) {
-        //   font-size: 40px;
-        //   letter-spacing: 2px;
-        // }
+        @include media(S) {
+          font-size: 55px;
+          letter-spacing: 5px;
+        }
 
-        // @include media($Two) {
-        //   font-size: 55px;
-        //   letter-spacing: 5px;
-        // }
+        @include media(M) {
+          font-size: 70px;
+          letter-spacing: 8px;
+        }
 
-        // @include media($Three) {
-        //   font-size: 70px;
-        //   letter-spacing: 8px;
-        // }
+        @include media(L) {
+          font-size: 85px;
+          letter-spacing: 11px;
+        }
 
-        // @include media($ThreeSidebar) {
-        //   font-size: 85px;
-        //   letter-spacing: 11px;
-        // }
-
-        // @include media($Four) {
-        //   font-size: 100px;
-        //   letter-spacing: 14px;
-        // }
+        @include media(XL) {
+          font-size: 100px;
+          letter-spacing: 14px;
+        }
       }
 
       h2 {
@@ -79,31 +76,28 @@
         margin: 0;
         font-weight: 400;
         line-height: 2;
+        font-size: 12px;
+        letter-spacing: 4px;
 
-        // @include media($One) {
-        //   font-size: 12px;
-        //   letter-spacing: 4px;
-        // }
+        @include media(S) {
+          font-size: 14px;
+          letter-spacing: 8px;
+        }
 
-        // @include media($Two) {
-        //   font-size: 14px;
-        //   letter-spacing: 8px;
-        // }
+        @include media(M) {
+          font-size: 16px;
+          letter-spacing: 12px;
+        }
 
-        // @include media($Three) {
-        //   font-size: 16px;
-        //   letter-spacing: 12px;
-        // }
+        @include media(L) {
+          font-size: 18px;
+          letter-spacing: 16px;
+        }
 
-        // @include media($ThreeSidebar) {
-        //   font-size: 18px;
-        //   letter-spacing: 16px;
-        // }
-
-        // @include media($Four) {
-        //   font-size: 20px;
-        //   letter-spacing: 20px;
-        // }
+        @include media(XL) {
+          font-size: 20px;
+          letter-spacing: 20px;
+        }
       }
     }
   }

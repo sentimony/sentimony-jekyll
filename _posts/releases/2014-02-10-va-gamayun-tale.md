@@ -16,6 +16,12 @@ ektoplazm:
 discogs: http://www.discogs.com/Various-Gamayun-Tale/release/5400874
 ---
 
+Lookinglook Records presents VA «Gamayun Tale» - a new goa story compiled by Sky Technology.
+
+Gamayun is a prophetic bird of Slavic folklore. It is a symbol of wisdom and knowledge and lives on an island in the east, close to paradise.
+
+And yep, Gamayun like goa-trance. Enjoy!
+
 Tracklist:
 
 01. Celestial Consciousness - Rise
@@ -29,9 +35,3 @@ Tracklist:
 09. ShizoLizer Gin - Skygravity Trance Mission
 10. Jyotish - Purple Imagination
 11. Rexuss - Chakra
-
-Lookinglook Records presents VA "Gamayun Tale" - a new goa story compiled by Sky Technology.
-
-Gamayun is a prophetic bird of Slavic folklore. It is a symbol of wisdom and knowledge and lives on an island in the east, close to paradise.
-
-And yep, Gamayun like goa-trance. Enjoy!

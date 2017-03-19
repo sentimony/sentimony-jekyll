@@ -16,6 +16,12 @@ ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
 discogs: http://www.discogs.com/Various-Ocean-Scenes-Higher-Titans/release/2023159
 ---
 
+Sentimony Records is proud to introduce you with our new musical direction more deeper musical appearance - Aqua Deep Music.
+
+The first CD from the future series of releases - Ocean Scenes, was specially made for You to demonstrate the depth of pure psychedelic rhythms and active meditation.
+
+Higher Titans presents 12 previously unreleased tracks produced by only Ukrainian established composers and promising newcomers.
+
 Tracklist:
 
 01. Irukanji - Mammoth (In) [130bpm]

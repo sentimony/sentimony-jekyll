@@ -16,6 +16,14 @@ ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu
 discogs: http://www.discogs.com/Irukanji-Z-Lisu/release/1664941
 ---
 
+Z Lisu - is the debut album of Irukanji project. Behind this name is standing talented musician and charismatic dj – Ihor Orlovskyi, member of duet from Ukraine Sphingida (2005 - 2008).
+
+Also Ihor Orlovskyi is known as co-founder of experimental chill-out label Sentimony.
+
+Created in 2008 Irukanji combined all experimental ideas and fresh twisted downtempo style. Irukanji is breaking all rules and standing beyond the scope.
+
+In his tracks you will here crazy conversion between pure psychedelic down beats and mysterious tales.
+
 Tracklist:
 
 01. Irukanji - Onset (In) [72bpm]

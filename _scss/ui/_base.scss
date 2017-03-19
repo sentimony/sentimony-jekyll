@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
-@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+// @import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+// @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 $primary-color: #f0f;
@@ -70,7 +70,7 @@ a {
   color: $link-color;
   text-decoration: none;
   outline: 0;
-  @include transition(color .15s ease-in-out);
+  transition: color .15s ease-in-out;
 
   &:hover,
   &.active {

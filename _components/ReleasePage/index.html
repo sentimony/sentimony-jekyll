@@ -1,54 +1,58 @@
-<div class="releases-page">
+<div class="release-page">
   {% include SVG/deco-triangle.svg %}
 
-  <div class="releases-page__wrapper">
+  <div class="release-page__wrapper">
 
-    <div class="releases-page__media">
-      <a class="releases-page__cover" href="https://content.sentimony.com/assets/img/releases/large/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
-        <img class="releases-page__cover-img" src="https://content.sentimony.com/assets/img/releases/medium/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
+    <div class="release-page__media">
+      <a class="release-page__cover" href="https://content.sentimony.com/assets/img/releases/large/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
+        <img class="release-page__cover-img" src="https://content.sentimony.com/assets/img/releases/medium/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
       </a>
 
-      <!-- {{ content }} -->
+      <div class="release-page__info">
+        <div class="release-page__date">{{ page.date | date: "%Y" }}</div>
+        <h1 class="release-page__title">{{ page.title }}</h1>
 
-      <div class="releases-page__info">
-        <div class="releases-page__date">{{ page.date | date: "%Y" }}</div>
-        <h1 class="releases-page__title">{{ page.title }}</h1>
-
-        <div class="releases-page__listen-on">Listen on:</div>
+        <div class="release-page__listen-on">Listen on:</div>
         <div>
-          <a class="releases-page__bandcamp-btn" href="{{ page.bandcamp }}">
-            <span class="releases-page__bandcamp-btn-icon"></span>
-            <img class="releases-page__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg">
-            <span class="releases-page__bandcamp-btn-text">Bandcamp</span>
+          <a class="release-page__bandcamp-btn" href="{{ page.bandcamp }}">
+            <span class="release-page__bandcamp-btn-icon"></span>
+            <img class="release-page__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg">
+            <span class="release-page__bandcamp-btn-text">Bandcamp</span>
           </a>
-          <a class="releases-page__youtube-btn is-disabled" href="javascript:void(0)">
-            <span class="releases-page__youtube-btn-icon"></span>
-            <img class="releases-page__youtube-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/youtube.svg">
-            <span class="releases-page__youtube-btn-text">Youtube</span>
+          <a class="release-page__youtube-btn is-disabled" href="javascript:void(0)">
+            <span class="release-page__youtube-btn-icon"></span>
+            <img class="release-page__youtube-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/youtube.svg">
+            <span class="release-page__youtube-btn-text">Youtube</span>
           </a>
         </div>
+
       </div>
     </div>
 
-    <!-- {% if page.ektoplazm %}
-    <div>
-      <span>Free Download:</span>
-      <a href="{{ page.ektoplazm }}">ektoplazm</a>
-    </div>
-    {% endif %} -->
-
-    <!-- {% if page.discogs %}
-    <div>
-      <span>Release Info:</span>
-      <a href="{{ page.discogs }}"><span class="icon-discogs"></span> discogs</a>
-    </div>
-    {% endif %} -->
-
-    <div class="releases-page__player">
+    <div class="release-page__player">
       {% if page.bandcamp-id %}
-      <iframe class="releases-page__player-iframe" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp-id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/" seamless></iframe>
+      <iframe class="release-page__player-iframe" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp-id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/" seamless></iframe>
       {% endif %}
     </div>
 
   </div>
+</div>
+
+
+<div class="release-page__content">
+  {{ content }}
+
+  {% if page.ektoplazm %}
+  <p>
+    <span>Free Download:</span>
+    <a href="{{ page.ektoplazm }}">Ektoplazm</a>
+  </p>
+  {% endif %}
+
+  {% if page.discogs %}
+  <p>
+    <span>Release Info:</span>
+    <a href="{{ page.discogs }}"><span class="icon-discogs"></span> Discogs</a>
+  </p>
+  {% endif %}
 </div>

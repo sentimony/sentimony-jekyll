@@ -16,6 +16,12 @@ ektoplazm:
 discogs: http://www.discogs.com/Psyfactor-Retro-Scientific/release/5399930
 ---
 
+Sentimony Records presents its sixteenth release, the newest creation of electron-synthetic Bachelor of Science, mushroom-innovator laureate and a pride of Russian chillout scene - Psyfactor.
+
+During this time he wrote at the strange silvery discs something special. You should have a laser to read them! This is a retro science. It studies the theory of electronic experimentation and broken beats. If something goes wrong, it can hurt the whole world. No matter how real it is.
+
+Let's start experimenting!
+
 Tracklist:
 
 01. Psyfactor - Orbiter

@@ -39,7 +39,7 @@
     }
 
     &-link {
-      padding: 1em 1.4em;
+      padding: 1em 1.8em;
     }
   }
 
@@ -55,6 +55,7 @@
       color: #fff;
       min-width: 60px;
       padding: 1em;
+      box-sizing: border-box;
 
       &-img {
         display: block;

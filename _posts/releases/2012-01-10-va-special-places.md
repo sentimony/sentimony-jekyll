@@ -16,6 +16,12 @@ ektoplazm: http://www.ektoplazm.com/free-music/special-places
 discogs: http://www.discogs.com/AstroPilot-Special-Places/release/3517621
 ---
 
+Sentimony Records are happy to announce you label's eleventh release - «Special Places» - ambient, modern classical & score music compilation, compositions which have been carefully selected by AstroPilot.
+
+_«There is no person without a past, no person without their recollections... Everyone has his own personal place, whether it's a desolate house in the village from childhood, the path you were wandering together with your first love or the bank of the river where you contemplated the break of dawn... Each of us has own place, story and significant memories that we are connected to... Time and again, in our thoughts, memories of the past rush back to us as if it was yesterday and all of a sudden you are still talking to people who are no longer in your life - maybe even no longer alive...»_
+
+_Dima AstroPilot_
+
 Tracklist:
 
 01. K.D. Expression - Alpae-3717 [100bpm]

@@ -16,6 +16,12 @@ ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-particle
 discogs: http://www.discogs.com/Tentura-Aurora/release/4462165
 ---
 
+«The Missing Particle» - is the second EP released by Sentimony Records, introducing Specialmind project - a psychedelic downtempo duo from Ukraine.
+
+The project was formed in 2011 as a result of a collaboration between two talented musicians - Alexander Radchenko and Evgeniy Pshonniy.
+
+The idea of creating their own vision of psychedelic chillout music originated as a result of combination of various musical experience and mutual desire to create a conceptually new sound in this genre.
+
 Tracklist:
 
 01. Specialmind - The Missing Particle [110bpm]

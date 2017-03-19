@@ -24,7 +24,7 @@
           position: absolute;
           top: 0;
           left: 50%;
-          @include transform(translate3d(-50%, -100%, 0));
+          transform: translate3d(-50%,-100%,0);
         }
 
         &:hover {

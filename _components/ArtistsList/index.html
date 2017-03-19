@@ -1,0 +1,36 @@
+<section class="ArtistList">
+  <h3>Artists</h3>
+
+  <nav class="filter isotope-filter">
+    <span>Sort: </span>
+    <a data-filter="*">View All</a>
+    <br>
+    <span>By Style: </span>
+    <a data-filter=".sentimony" class="selected">Sentimony Records</a>
+    <a data-filter=".aquadeep">Aqua Deep Music</a>
+    <a data-filter=".lookinglook">Lookinglook Records</a>
+    <br>
+    <a data-filter=".chillout">Chillout</a>
+    <a data-filter=".goatrance">Goa Trance</a>
+    <a data-filter=".darktrance">Dark Trance</a>
+  </nav>
+
+  <div class="isotope-container">
+    {% for artists in site.categories.artists %}
+    <a href="{{ artists.url }}" class="ArtistItem isotope-item {{ artists.filterLabel }} {{ artists.filterStyle }} ">
+      <div class="image-container">
+        <img class="lazy"
+            data-original="{{ site.baseurl }}/assets/img/artists/{{ artists.slug }}.jpg"
+            alt="{{ artists.title }}"
+        >
+        <!-- <img 
+            data-src="holder.js/700x700?auto=yes&text={{ artists.title }}&fg=000&bg=0ff"
+            data-layzr="{{ site.baseurl }}/assets/img/artists/{{ artists.slug }}.jpg"
+            data-layzr-retina="{{ site.baseurl }}/assets/img/artists/{{ artists.slug }}@2x.jpg"
+        > -->
+      </div>
+      <div class="title">{{ artists.title }}</div>
+    </a>
+    {% endfor %}
+  </div>
+</section>

@@ -16,6 +16,14 @@ ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
 discogs: http://www.discogs.com/Various-Emptinesses/release/1021635
 ---
 
+Sentimony Records proudly presents our second release - compilation Emptinesses. Carefully selected tracks from masters of chill-out vibes.
+
+The compilation describes a saturated voyage into the Emptinesses of ambient and downtempo escapes, atmospheric dreamy melodies with beautiful floating sounds.
+
+Twelve chillout tracks of relaxed down beats and high spirit tunes. A perfect soundtrack to listen to at the crack of dawn, and during peaceful silent sunset.
+
+Consider for a moment! Listen to the beauty of Emptinesses...
+
 Tracklist:
 
 01. Unstable Elements - Thaw (Intro) [130bpm]

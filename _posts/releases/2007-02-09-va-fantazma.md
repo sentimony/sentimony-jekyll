@@ -16,6 +16,14 @@ ektoplazm: http://www.ektoplazm.com/free-music/fantazma
 discogs: http://www.discogs.com/Various-Fantazma/release/952240
 ---
 
+Fantazma is the debut release of Sentimony Records - label of psy-ambient, downtempo and psychedelic chill-out music, based in Kiev, Ukraine.
+
+Eleven previously unreleased tracks, ranging from deep ambient to psychedelic idm and more up-tempo chill-out music. All this tracks produced in Ukraine.
+
+Sentimony Records was started in autumn 2006. Label's main mission is to release tracks of all the talented artists from Ukraine and others countries.
+
+Feel the Ukrainian psychedelic chill-out spirit.
+
 Tracklist:
 
 01. Harax - Dreamy [80bpm]

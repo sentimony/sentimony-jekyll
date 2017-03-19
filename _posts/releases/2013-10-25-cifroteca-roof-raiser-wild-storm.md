@@ -16,6 +16,12 @@ ektoplazm:
 discogs: http://www.discogs.com/Cifroteca-Roof-Raiser-Wild-Storm/release/5012131
 ---
 
+Aqua Deep Music is pleased to announce its second release, split-album of two psychedelic minds Cifroteca and Roof Raiser - talented sound producers from Ukraine.
+
+Wild Storm - its always happens when guys come together and begin to synthesize music. Aliens space-ship on the ocean ... strange crackling ... tuk-tuktuk ... had to dive very deep, and get the bottom to find what they're looking for.
+
+And dont forget to put your aqualung while listening!
+
 Tracklist:
 
 01. Cifroteca - Unknown Signals
