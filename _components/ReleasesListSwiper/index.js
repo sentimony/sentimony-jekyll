@@ -13,6 +13,7 @@ var swiper = new Swiper ('.swiper-container', {
   // spaceBetween: 30,
   slideToClickedSlide: true,
   mousewheelControl: true,
+  mousewheelForceToAxis: true,
   freeMode: true,
   slidesPerView: 7,
   breakpoints: {
@@ -31,7 +32,7 @@ var swiper = new Swiper ('.swiper-container', {
   }
 })
 
-swiper.slideTo(getSlideIndexByClass('is-active'), false);
+swiper.slideTo(getSlideIndexByClass('is-selected'), false);
 
 function getSlideIndexByClass(className) {
   var index = 0;

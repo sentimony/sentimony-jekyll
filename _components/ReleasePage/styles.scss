@@ -1,6 +1,6 @@
 .releases-page {
   margin: 0 auto;
-  max-width: 1277px;
+  max-width: 1278px;
   text-align: left;
   display: flex;
   align-items: center;
@@ -16,7 +16,6 @@
     overflow: hidden;
     box-shadow: 0 2px 10px 0 rgba(#000,.5);
     margin-right: 1.1em;
-
 
     &-link {
     }
@@ -69,11 +68,22 @@
     display: inline-block;
     margin-right: .7em;
     transform: translate3d(0,2px,0);
+    display: none;
+  }
+
+  &__bandcamp-btn-img {
+    // @extend .icon-bandcamp;
+    width: auto;
+    height: 18px;
+    display: inline-block;
+    margin-right: .7em;
+    transform: translate3d(0,3px,0);
   }
 
   &__player {
     display: block;
     flex-basis: 50%;
+    height: 504px;
 
     &-iframe {
       border-radius: 6px;

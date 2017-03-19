@@ -1,28 +1,53 @@
 .releases-list-swiper {
-  text-align: left;
   max-width: 1270px;
   margin: 0 auto;
   padding-top: .3em;
   padding-bottom: 1em;
+  height: 250px;
+  box-sizing: border-box;
 
   &__title {
+    text-align: left;
     font-size: 32px;
     margin-bottom: .3em;
   }
 
+  &__container {
+    overflow: visible;
+  }
+
   &__item {
-    
+
     &-cover {
       @include ratio(120px,1,1);
       min-width: 120px;
-      border-radius: 8px;
-      overflow: hidden;
-      box-shadow: 0 2px 10px 0 rgba(#000,.5);
+      // overflow: hidden;
+      margin: 0 auto .8em;
+      position: relative;
+
+      &:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 140px;
+        height: 140px;
+        transform: translate3d(-10px,-10px,0);
+        border-radius: 8px;
+        transition: background-color .2s ease-in-out;
+
+        .releases-list-swiper__item:hover &,
+        .releases-list-swiper__item.is-selected & {
+          background-color: rgba(#fff,.3);
+        }
+      }
 
       &-link {
       }
 
       &-img {
+        border-radius: 8px;
+        box-shadow: 0 2px 10px 0 rgba(#000,.5);
         display: block;
         position: absolute;
         top: 0;
@@ -36,8 +61,5 @@
       color: #fff;
       font-size: 14px;
     }
-  }
-
-  .swiper-container {
   }
 }

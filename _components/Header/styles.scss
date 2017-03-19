@@ -1,10 +1,11 @@
 .header {
-  position: fixed;
+  // position: fixed;
+  position: relative;
   z-index: 1000;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background: rgba(#000, .5);
+  // top: 0;
+  // left: 0;
+  // width: 100%;
+  // background: rgba(#000, .5);
 
   &__container {
     max-width: 1278px;
@@ -17,28 +18,59 @@
     align-items: center;
   }
 
+  a {
+    font-size: 16px;
+    color: #fff;
+    border-radius: 6px;
+    transition: background-color .2s ease-in-out;
+
+    &:hover,
+    &.is-selected {
+      background-color: rgba(#fff,.3);
+    }
+  }
+
   &__main-menu {
 
     &-link {
-      font-size: 16px;
-      color: #fff;
-      padding: 1em;
+      padding: 1em 1.4em;
     }
   }
 
   &__social-menu {
+    display: flex;
 
     &-link {
       font-size: 16px;
       color: #fff;
+      min-width: 60px;
       padding: 1em;
+
+      &-img {
+        display: block;
+        width: auto;
+        height: 20px;
+        margin: 0 auto;
+      }
+
+      &-icon-bandcamp {
+        @extend .icon-bandcamp;
+      }
+
+      &-icon-facebook {
+        @extend .icon-facebook;
+      }
+
+      &-icon-soundcloud {
+        @extend .icon-soundcloud;
+      }
+
+      &-icon-bandcamp,
+      &-icon-facebook,
+      &-icon-soundcloud,
+      &-tooltip {
+        display: none;
+      }
     }
   }
-
-  // a {
-  //   text-transform: uppercase;
-  //   padding: 14px 12px;
-  //   display: inline-block;
-  //   text-shadow: 0 0 5px #000;
-  // }
 }
