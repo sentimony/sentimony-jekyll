@@ -1,3 +1,15 @@
-.swiper-container {
+.releases-list-swiper {
+  text-align: left;
   max-width: 1270px;
+  margin: 0 auto;
+  padding-top: .3em;
+  padding-bottom: 1em;
+
+  &__title {
+    font-size: 32px;
+    margin-bottom: .3em;
+  }
+
+  .swiper-container {
+  }
 }
