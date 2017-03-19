@@ -1,29 +1,39 @@
 .releases-list-swiper {
-  max-width: 1270px;
-  margin: 0 auto;
-  padding-top: .3em;
-  padding-bottom: 1em;
-  height: 250px;
-  box-sizing: border-box;
+  // max-width: 1270px;
+  // margin: 0 auto;
+  width: 100%;
+  // padding-top: .3em;
+  // padding-bottom: 1em;
+  height: 256px;
+  // box-sizing: border-box;
+  overflow: hidden;
 
   &__title {
     text-align: left;
     font-size: 32px;
     margin-bottom: .3em;
+    max-width: 1270px;
+    margin: 0 auto .3em;
   }
 
   &__container {
     overflow: visible;
+    padding-bottom: 13px;
   }
 
   &__item {
+    width: 180px;
+    box-sizing: border-box;
+    padding-right: 3px;
+    padding-left: 3px;
 
     &-cover {
       @include ratio(120px,1,1);
       min-width: 120px;
       // overflow: hidden;
-      margin: 0 auto .8em;
+      margin: 0 auto 1.1em;
       position: relative;
+      background-color: rgba(#000,.5);
 
       &:before {
         content: '';
@@ -36,13 +46,9 @@
         border-radius: 8px;
         transition: background-color .2s ease-in-out;
 
-        .releases-list-swiper__item:hover &,
         .releases-list-swiper__item.is-selected & {
           background-color: rgba(#fff,.3);
         }
-      }
-
-      &-link {
       }
 
       &-img {
@@ -59,7 +65,17 @@
 
     &-title {
       color: #fff;
+      // font-size: 12px;
       font-size: 14px;
     }
+  }
+
+  .swiper-scrollbar {
+    left: 4.5%;
+    width: 91%;
+  }
+
+  .swiper-scrollbar-drag {
+    background-color: rgba(#fff,.3);
   }
 }

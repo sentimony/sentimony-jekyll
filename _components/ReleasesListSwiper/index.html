@@ -3,17 +3,16 @@
   <div class="swiper-container releases-list-swiper__container">
     <div class="swiper-wrapper">
       {% for i in site.categories.releases %}
-      <div class="swiper-slide releases-list-swiper__item{% if page.url contains i.slug %} is-selected{% endif %}">
+      <a href="{{ i.url }}" class="swiper-slide releases-list-swiper__item{% if page.url contains i.slug %} is-selected{% endif %}">
         <div class="releases-list-swiper__item-cover">
-          <a class="releases-list-swiper__item-cover-link" href="{{ i.url }}">
-            <img class="releases-list-swiper__item-cover-img" src="https://content.sentimony.com/assets/img/releases/small/{% if i.cover %}{{ i.cat_no }}/{{ i.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
-          </a>
+          <img class="releases-list-swiper__item-cover-img" src="https://content.sentimony.com/assets/img/releases/small/{% if i.cover %}{{ i.cat_no }}/{{ i.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
         </div>
         <div class="releases-list-swiper__item-title">{{ i.title }}</div>
-      </div>
+      </a>
       {% endfor %}
     </div>
     <div class="swiper-button-prev swiper-button-white"></div>
     <div class="swiper-button-next swiper-button-white"></div>
+    <div class="swiper-scrollbar"></div>
   </div>
 </div>

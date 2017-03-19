@@ -1,12 +1,13 @@
-@import '../node_modules/coriolan-ui/tools/variables';
-@import '../node_modules/coriolan-ui/mixins/media';
-@import '../node_modules/coriolan-ui/mixins/ratio';
 @import '../node_modules/normalize.css/normalize';
-@import '../node_modules/swiper/dist/css/swiper';
 
 @import 'vendor/bourbon/bourbon';
 @import 'vendor/grid-settings';
 @import 'vendor/neat/neat';
+
+@import '../node_modules/coriolan-ui/tools/variables';
+@import '../node_modules/coriolan-ui/mixins/media';
+@import '../node_modules/coriolan-ui/mixins/ratio';
+@import '../node_modules/swiper/dist/css/swiper';
 @import 'vendor/svg-icons/svg-icons';
 
 @import 'base';

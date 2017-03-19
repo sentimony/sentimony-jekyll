@@ -31,6 +31,11 @@
   }
 
   &__main-menu {
+    display: none;
+
+    @include media(M) {
+      display: flex;
+    }
 
     &-link {
       padding: 1em 1.4em;
@@ -38,7 +43,11 @@
   }
 
   &__social-menu {
-    display: flex;
+    display: none;
+
+    @include media(M) {
+      display: flex;
+    }
 
     &-link {
       font-size: 16px;

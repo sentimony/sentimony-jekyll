@@ -8,28 +8,29 @@ var swiper = new Swiper ('.swiper-container', {
   prevButton: '.swiper-button-prev',
   // pagination: '.swiper-pagination',
   // paginationClickable: true,
-  // slidesPerView: 'auto',
   centeredSlides: true,
   // spaceBetween: 30,
+  scrollbar: '.swiper-scrollbar',
   slideToClickedSlide: true,
   mousewheelControl: true,
   mousewheelForceToAxis: true,
   freeMode: true,
-  slidesPerView: 7,
-  breakpoints: {
-    1024: {
-      slidesPerView: 5
-    },
-    768: {
-      slidesPerView: 4
-    },
-    640: {
-      slidesPerView: 2
-    },
-    320: {
-      slidesPerView: 1
-    }
-  }
+  slidesPerView: 'auto',
+  // slidesPerView: 7,
+  // breakpoints: {
+  //   1024: {
+  //     slidesPerView: 5
+  //   },
+  //   768: {
+  //     slidesPerView: 4,
+  //   },
+  //   640: {
+  //     slidesPerView: 2
+  //   },
+  //   320: {
+  //     slidesPerView: 1
+  //   }
+  // }
 })
 
 swiper.slideTo(getSlideIndexByClass('is-selected'), false);
