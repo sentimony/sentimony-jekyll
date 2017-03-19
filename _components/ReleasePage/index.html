@@ -1,48 +1,52 @@
-<article class="releases-page">
+<div class="releases-page">
+  {% include SVG/triangle.svg %}
 
-  <div class="releases-page__media">
-    <div class="releases-page__cover">
-      <a class="releases-page__cover-link" href="https://content.sentimony.com/assets/img/releases/large/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
-        <img class="releases-page__cover-img" src="https://content.sentimony.com/assets/img/releases/medium/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
-      </a>
-    </div>
+  <div class="releases-page__wrapper">
 
-    <!-- {{ content }} -->
-
-    <div class="releases-page__info">
-      <h1 class="releases-page__title">{{ page.title }}</h1>
-
-      {% if page.bandcamp %}
-      <div class="releases-page__listen-on">Listen on:</div>
-      <div>
-        <a class="releases-page__bandcamp-btn" href="{{ page.bandcamp }}">
-          <span class="releases-page__bandcamp-btn-icon"></span>
-          <img class="releases-page__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg">
-          Bandcamp
+    <div class="releases-page__media">
+      <div class="releases-page__cover">
+        <a class="releases-page__cover-link" href="https://content.sentimony.com/assets/img/releases/large/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
+          <img class="releases-page__cover-img" src="https://content.sentimony.com/assets/img/releases/medium/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
         </a>
       </div>
+
+      <!-- {{ content }} -->
+
+      <div class="releases-page__info">
+        <h1 class="releases-page__title">{{ page.title }}</h1>
+
+        {% if page.bandcamp %}
+        <div class="releases-page__listen-on">Listen on:</div>
+        <div>
+          <a class="releases-page__bandcamp-btn" href="{{ page.bandcamp }}">
+            <span class="releases-page__bandcamp-btn-icon"></span>
+            <img class="releases-page__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg">
+            <span class="releases-page__bandcamp-btn-text">Bandcamp</span>
+          </a>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+
+    <!-- {% if page.ektoplazm %}
+    <div>
+      <span>Free Download:</span>
+      <a href="{{ page.ektoplazm }}">ektoplazm</a>
+    </div>
+    {% endif %} -->
+
+    <!-- {% if page.discogs %}
+    <div>
+      <span>Release Info:</span>
+      <a href="{{ page.discogs }}"><span class="icon-discogs"></span> discogs</a>
+    </div>
+    {% endif %} -->
+
+    <div class="releases-page__player">
+      {% if page.bandcamp-id %}
+      <iframe class="releases-page__player-iframe" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp-id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/" seamless></iframe>
       {% endif %}
     </div>
-  </div>
 
-  <!-- {% if page.ektoplazm %}
-  <div>
-    <span>Free Download:</span>
-    <a href="{{ page.ektoplazm }}">ektoplazm</a>
   </div>
-  {% endif %} -->
-
-  <!-- {% if page.discogs %}
-  <div>
-    <span>Release Info:</span>
-    <a href="{{ page.discogs }}"><span class="icon-discogs"></span> discogs</a>
-  </div>
-  {% endif %} -->
-
-  <div class="releases-page__player">
-    {% if page.bandcamp-id %}
-    <iframe class="releases-page__player-iframe" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp-id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/" seamless></iframe>
-    {% endif %}
-  </div>
-
-</article>
+</div>

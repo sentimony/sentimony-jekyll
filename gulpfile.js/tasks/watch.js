@@ -10,6 +10,7 @@ gulp.task('watch', ['browser-sync'], function () {
     '_components/**/*.html',
     '_components/**/*.js',
     '_components/**/*.json',
+    '_components/**/*.svg',
     '_js/**/*',
     '_pages/**/*',
     '_posts/**/*',
