@@ -1,5 +1,5 @@
 <div class="release-page">
-  {% include SVG/deco-triangle.svg %}
+  {% include SVG/deco-triangle.svg fill='#fff' %}
 
   <div class="release-page__wrapper">
 
@@ -11,7 +11,6 @@
       <div class="release-page__info">
         <div class="release-page__date">{{ page.date | date: "%Y" }}</div>
         <h1 class="release-page__title">{{ page.title }}</h1>
-
         <div class="release-page__listen-on">Listen on:</div>
         <div>
           <a class="release-page__bandcamp-btn" href="{{ page.bandcamp }}">
@@ -25,34 +24,41 @@
             <span class="release-page__youtube-btn-text">Youtube</span>
           </a>
         </div>
-
       </div>
     </div>
 
-    <div class="release-page__player">
-      {% if page.bandcamp-id %}
-      <iframe class="release-page__player-iframe" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp-id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/" seamless></iframe>
+    <div class="release-page__player" style="height: {% include IframeSize/index.html %}">
+      {% if page.bandcamp_id %}
+      <iframe class="release-page__player-iframe" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp_id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/" seamless style="height: {% include IframeSize/index.html %}"></iframe>
       {% endif %}
     </div>
 
   </div>
 </div>
 
+<div class="release-page-content">
+  {% include SVG/deco-triangle.svg fill='#000' %}
 
-<div class="release-page__content">
-  {{ content }}
+  <div class="release-page-content__wrapper">
+    {{ content }}
 
-  {% if page.ektoplazm %}
-  <p>
-    <span>Free Download:</span>
-    <a href="{{ page.ektoplazm }}">Ektoplazm</a>
-  </p>
-  {% endif %}
+    {% if page.ektoplazm %}
+    <p>
+      <!-- <span>Free Download:</span> -->
+      <a href="{{ page.ektoplazm }}" target="_blank">
+        Ektoplazm
+      </a>
+    </p>
+    {% endif %}
 
-  {% if page.discogs %}
-  <p>
-    <span>Release Info:</span>
-    <a href="{{ page.discogs }}"><span class="icon-discogs"></span> Discogs</a>
-  </p>
-  {% endif %}
+    {% if page.discogs %}
+    <p>
+      <!-- <span>Release Info:</span> -->
+      <a href="{{ page.discogs }}" target="_blank">
+        <!-- <span class="icon-discogs"></span> -->
+        Discogs
+      </a>
+    </p>
+    {% endif %}
+  </div>
 </div>

@@ -9,8 +9,9 @@ filterStyle: darktrance
 filterFormat: album
 cover: true
 cat_no: sencd015
+tracks_no: 10
 
-bandcamp-id: 721225799
+bandcamp_id: 721225799
 bandcamp: https://aquadeep.bandcamp.com/album/cifroteca-roof-raiser-wild-storm
 ektoplazm: 
 discogs: http://www.discogs.com/Cifroteca-Roof-Raiser-Wild-Storm/release/5012131
@@ -22,6 +23,7 @@ Wild Storm - its always happens when guys come together and begin to synthesize 
 
 And dont forget to put your aqualung while listening!
 
+---
 Tracklist:
 
 01. Cifroteca - Unknown Signals

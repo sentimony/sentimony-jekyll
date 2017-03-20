@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: compilation
 cover: true
 cat_no: sencd002
+tracks_no: 12
 
-bandcamp-id: 2938863422
+bandcamp_id: 2938863422
 bandcamp: https://sentimony.bandcamp.com/album/va-emptinesses
 ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
 discogs: http://www.discogs.com/Various-Emptinesses/release/1021635
@@ -23,6 +24,8 @@ The compilation describes a saturated voyage into the Emptinesses of ambient and
 Twelve chillout tracks of relaxed down beats and high spirit tunes. A perfect soundtrack to listen to at the crack of dawn, and during peaceful silent sunset.
 
 Consider for a moment! Listen to the beauty of Emptinesses...
+
+---
 
 Tracklist:
 

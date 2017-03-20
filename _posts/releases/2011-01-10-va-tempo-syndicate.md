@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: compilation
 cover: true
 cat_no: sencd009
+tracks_no: 12
 
-bandcamp-id: 2483216888
+bandcamp_id: 2483216888
 bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate
 ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
 discogs: http://www.discogs.com/Various-Tempo-Syndicate/release/2645251
@@ -24,6 +25,7 @@ We reccomend to listen this new CD in the evening and at night-time, especially 
 
 Have a nice dive! ;)
 
+---
 Tracklist:
 
 01. Boggy Elf - Dream Of Ashvattha (In) [80bpm]

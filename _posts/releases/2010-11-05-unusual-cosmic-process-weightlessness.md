@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: album
 cover: true
 cat_no: sencd019
+tracks_no: 7
 
-bandcamp-id: 987015194
+bandcamp_id: 987015194
 bandcamp: https://lookinglook.bandcamp.com/album/unusual-cosmic-process-weightlessness
 ektoplazm: http://www.ektoplazm.com/free-music/unusual-cosmic-process-weightlessness
 discogs: http://www.discogs.com/Unusual-Cosmic-Process-Weightlessness/release/2517434
@@ -24,6 +25,7 @@ Now Runar works under three projects: Psypheric - in genre of psy prog; Optical 
 
 Also project name should be known to chill-out music lovers on his two previous releases - VA «True Story» (2008) by Sentimony Records, as well as, VA «Grower» (2010) - our last release.
 
+---
 Tracklist:
 
 01. Unusual Cosmic Process - Final Race [126bpm]
@@ -33,9 +35,3 @@ Tracklist:
 05. Unusual Cosmic Process - Place On Earth [118bpm]
 06. Unusual Cosmic Process - Emotional Trip [120bpm]
 07. Unusual Cosmic Process - Maximum Depth [103bpm]
-
-
-
-
-
-

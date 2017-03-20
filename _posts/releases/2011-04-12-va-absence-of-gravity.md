@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: compilation
 cover: true
 cat_no: sencd010
+tracks_no: 11
 
-bandcamp-id: 615519130
+bandcamp_id: 615519130
 bandcamp: https://sentimony.bandcamp.com/album/va-absence-of-gravity
 ektoplazm: http://www.ektoplazm.com/free-music/absence-of-gravity
 discogs: http://www.discogs.com/Various-Absence-Of-Gravity/release/2820972
@@ -22,6 +23,7 @@ This new release contains 11 exclusive tracks from the talented creators of mode
 
 _«POEHALI!» HWM & SENTIMONY_
 
+---
 Tracklist:
 
 01. Reactive - Free Search [118bpm]

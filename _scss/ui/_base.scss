@@ -1,22 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
-// @import url('https://fonts.googleapis.com/css?family=Crimson+Text');
-// @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 $primary-color: #f0f;
 $text-color: #fff;
-$accent-color: #0ff;
+$accent-color: #fff;
 $bg-color: #000;
 $link-color: $accent-color;
 $selection-color: #ff0;
 $m: 10px;
 
-//  Typography
 .gigantic, .huge, .large, .bigger, .big, 
 h1, h2, h3, h4, h5, h6 {
   color: $accent-color;
-  font-weight: bold;
-  text-transform: uppercase;
+  font-weight: 400;
 }
 .gigantic {
   font-size: 110px;
@@ -45,27 +41,19 @@ h1, h2, h3, h4, h5, h6 {
 
 
 p {
-  margin: 0 0 20px 0;
+  margin: 0 0 .5em;
 }
-em {
-  font-style: italic;
-}
-strong {
-  font-weight: bold;
-}
+
 hr {
-  border: solid #ddd;
+  border: solid rgba(#000,.3);
   border-width: 1px 0 0;
-  clear: both;
-  margin: 10px 0 30px;
-  height: 0;
+  margin: 1em 0;
 }
 
 img {
   max-width: 100%;
 }
 
-// Links
 a {
   color: $link-color;
   text-decoration: none;
@@ -78,33 +66,13 @@ a {
   }
 }
 
-
-// Selection colors
-// @include selection {
-//  background-color: $selection-color;
-// }
-// img {
-//  @include selection(true) {
-//      background: transparent;
-//  }
-// }
-// body {
-//  -webkit-tap-highlight-color: $selection-color;
-// }
-
-
-
-// Basic Styles
 html {
   position: relative;
   height: 100%;
 }
 
-$body-bg: #fff;
-
 body {
   background: $bg-color url(../img/subtlepatterns/dark_wood.png);
-  // font: 400 14px/1.6 'Open Sans', sans-serif;
   font: 400 15px/1.5 'Montserrat', sans-serif;
   color: $text-color;
   -webkit-font-smoothing: antialiased;
@@ -113,5 +81,4 @@ body {
   height: 100%;
   margin: 0;
   text-align: center;
-  // padding-top: 75px;
 }

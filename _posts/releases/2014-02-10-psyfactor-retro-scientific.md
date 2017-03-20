@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: album
 cover: true
 cat_no: sencd016
+tracks_no: 11
 
-bandcamp-id: 625816327
+bandcamp_id: 625816327
 bandcamp: https://sentimony.bandcamp.com/album/psyfactor-retro-scientific
 ektoplazm: 
 discogs: http://www.discogs.com/Psyfactor-Retro-Scientific/release/5399930
@@ -22,6 +23,7 @@ During this time he wrote at the strange silvery discs something special. You sh
 
 Let's start experimenting!
 
+---
 Tracklist:
 
 01. Psyfactor - Orbiter

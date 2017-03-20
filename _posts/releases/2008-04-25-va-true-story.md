@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: compilation
 cover: true
 cat_no: sencd004
+tracks_no: 12
 
-bandcamp-id: 1223403780
+bandcamp_id: 1223403780
 bandcamp: https://sentimony.bandcamp.com/album/va-true-story
 ektoplazm: http://www.ektoplazm.com/free-music/true-story
 discogs: http://www.discogs.com/Various-True-Story/release/1321723
@@ -22,6 +23,7 @@ We wish you'll enjoy this compilation, which guides you through the true story a
 
 Durin listenin you will be absorbed by classic ambient vibes in the start of journey and with increasing psy-ambient motion, downtempo and expressive uptempo energy.
 
+---
 Tracklist:
 
 01. Spectrum Vision - Mystical Experiences [120bpm]

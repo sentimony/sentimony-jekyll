@@ -5,7 +5,7 @@ category: news
 
 title: 'Psyfactor «Retro Scientific»'
 
-bandcamp-id: 625816327
+bandcamp_id: 625816327
 bandcamp: https://sentimony.bandcamp.com/album/psyfactor-retro-scientific
 ektoplazm: 
 discogs: http://www.discogs.com/Psyfactor-Retro-Scientific/release/5399930

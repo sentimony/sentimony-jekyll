@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: compilation
 cover: true
 cat_no: sencd001
+tracks_no: 11
 
-bandcamp-id: 3399361938
+bandcamp_id: 3399361938
 bandcamp: https://sentimony.bandcamp.com/album/va-fantazma
 ektoplazm: http://www.ektoplazm.com/free-music/fantazma
 discogs: http://www.discogs.com/Various-Fantazma/release/952240
@@ -24,6 +25,7 @@ Sentimony Records was started in autumn 2006. Label's main mission is to release
 
 Feel the Ukrainian psychedelic chill-out spirit.
 
+---
 Tracklist:
 
 01. Harax - Dreamy [80bpm]

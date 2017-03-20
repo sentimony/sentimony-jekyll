@@ -9,8 +9,9 @@ filterStyle: goatrance
 filterFormat: single
 cover: true
 cat_no: sencd022
+tracks_no: 5
 
-bandcamp-id: 342915204
+bandcamp_id: 342915204
 bandcamp: https://lookinglook.bandcamp.com/album/ufomatka-the-e-p
 ektoplazm: 
 discogs: http://www.discogs.com/Ufomatka-The-Ep/release/6663582
@@ -22,6 +23,7 @@ Lookinglook Records presents the new goatrance release by our beloved artist Ufo
 
 Get it now, completely free, and have fun!
 
+---
 Tracklist:
 
 01. Ufomatka - Afrodancerequesting

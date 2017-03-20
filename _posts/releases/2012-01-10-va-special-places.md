@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: compilation
 cover: true
 cat_no: sencd011
+tracks_no: 12
 
-bandcamp-id: 64124286
+bandcamp_id: 64124286
 bandcamp: https://sentimony.bandcamp.com/album/va-special-places
 ektoplazm: http://www.ektoplazm.com/free-music/special-places
 discogs: http://www.discogs.com/AstroPilot-Special-Places/release/3517621
@@ -22,6 +23,7 @@ _«There is no person without a past, no person without their recollections... E
 
 _Dima AstroPilot_
 
+---
 Tracklist:
 
 01. K.D. Expression - Alpae-3717 [100bpm]
@@ -36,4 +38,3 @@ Tracklist:
 10. Nexar - Jewel (AstroPilot Edit) [85bpm]
 11. 36 - A Final Thought [119bpm]
 12. Eguana - A Moment Of Madness [80bpm]
-

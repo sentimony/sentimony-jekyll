@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: album
 cover: true
 cat_no: sencd005
+tracks_no: 9
 
-bandcamp-id: 2969979336
+bandcamp_id: 2969979336
 bandcamp: https://sentimony.bandcamp.com/album/spectrum-vision-lost-space-device
 ektoplazm: http://www.ektoplazm.com/free-music/spectrum-vision-lost-space-device
 discogs: http://www.discogs.com/Spectrum-Vision-Lost-Space-Device/release/1547476

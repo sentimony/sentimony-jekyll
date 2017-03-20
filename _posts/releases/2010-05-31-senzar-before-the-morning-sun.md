@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: album
 cover: true
 cat_no: sencd017
+tracks_no: 10
 
-bandcamp-id: 3896908655
+bandcamp_id: 3896908655
 bandcamp: https://lookinglook.bandcamp.com/album/senzar-before-the-morning-sun
 ektoplazm: http://www.ektoplazm.com/free-music/senzar-before-the-morning-sun
 discogs: http://www.discogs.com/Senzar-Before-The-Morning-Sun/release/2299220
@@ -26,6 +27,7 @@ As a follower of psychedelic trance music and psychedelic trance parties since 1
 
 As an added bonus the album also contains remixes by two of Senzar's friends; progressive trance artist N.A.S.A., well-known for his releases on Iboga Records, Iono Music and many more labels, as well as the upcoming Danish artist Erot.
 
+---
 Tracklist:
 
 01. Senzar - Intro (feat. Ariel Electron) [0bpm]

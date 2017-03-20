@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: album
 cover: 
 cat_no: sencd025
+tracks_no: 9
 
-bandcamp-id: 
+bandcamp_id: 
 bandcamp: https://sentimony.bandcamp.com/album/zymosis-insight
 ektoplazm: 
 discogs: 

@@ -9,8 +9,9 @@ filterStyle: goatrance
 filterFormat: compilation
 cover: true
 cat_no: sencd020
+tracks_no: 9
 
-bandcamp-id: 95715287
+bandcamp_id: 95715287
 bandcamp: https://lookinglook.bandcamp.com/album/va-dancing-mavka
 ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka
 discogs: http://www.discogs.com/Various-Dancing-Mavka/release/2527055
@@ -24,6 +25,7 @@ The main feature of this compilation is that it consists of composition only Ukr
 
 Another feature of this release is the fact that it the debut for several 'newcomer-projects', such as: Pandemicus, Jyotish, Ufomatka and Space Vibes System.
 
+---
 Tracklist:
 
 01. Pandemicus - Out Of Space [142bpm]

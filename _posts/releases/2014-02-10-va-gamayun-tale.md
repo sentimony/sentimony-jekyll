@@ -9,8 +9,9 @@ filterStyle: goatrance
 filterFormat: compilation
 cover: true
 cat_no: sencd021
+tracks_no: 11
 
-bandcamp-id: 3538385956
+bandcamp_id: 3538385956
 bandcamp: https://lookinglook.bandcamp.com/album/va-gamayun-tale
 ektoplazm: 
 discogs: http://www.discogs.com/Various-Gamayun-Tale/release/5400874
@@ -22,6 +23,7 @@ Gamayun is a prophetic bird of Slavic folklore. It is a symbol of wisdom and kno
 
 And yep, Gamayun like goa-trance. Enjoy!
 
+---
 Tracklist:
 
 01. Celestial Consciousness - Rise

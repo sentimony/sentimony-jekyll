@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: single
 cover: true
 cat_no: sencd013
+tracks_no: 5
 
-bandcamp-id: 1673341211
+bandcamp_id: 1673341211
 bandcamp: https://sentimony.bandcamp.com/album/specialmind-the-missing-particle
 ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-particle
 discogs: http://www.discogs.com/Tentura-Aurora/release/4462165
@@ -22,6 +23,7 @@ The project was formed in 2011 as a result of a collaboration between two talent
 
 The idea of creating their own vision of psychedelic chillout music originated as a result of combination of various musical experience and mutual desire to create a conceptually new sound in this genre.
 
+---
 Tracklist:
 
 01. Specialmind - The Missing Particle [110bpm]

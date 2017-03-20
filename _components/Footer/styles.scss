@@ -1,54 +1,80 @@
 .footer {
-  padding: 100px 0;
+  padding: 100px .6em;
   background-color: #000;
+  font-size: 12px;
 
-  nav {
+  &__social {
+    padding-top: 1.2em;
+    margin-bottom: 10px;
+
+    a {
+      display: inline-block;
+      padding: .1px .9em;
+      position: relative;
+
+      [class^="icon-"] {
+        font-size: 20px;
+      }
+
+      span.tooltip {
+        font-size: 10px;
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translate3d(-50%,-100%,0);
+      }
+
+      &:hover {
+        span.tooltip {
+          display: block;
+        }
+      }
+    }
+  }
+
+  &__copyright {
+    margin: 2em 0;
+
+    [class^="icon-"] {
+      font-size: 20px;
+      margin-top: .5em;
+      display: inline-block;
+    }
+  }
+
+  &__powered {
+    font-size: 10px;
+    margin: 2em 0;
+    color: rgba(#fff,.5);
+  }
+
+  &__labels {
+    margin: 0 auto 10px;
+    display: inline-block;
+    padding: 10px 0;
+    border: 1px solid rgba($accent-color, .1);
+    border-width: 1px 0;
+    display: none;
+
     a {
       display: inline-block;
       padding: .1px .9em;
     }
+  }
 
-    &.social {
-      padding-top: 1.2em;
-      margin-bottom: $m;
+  &__versions {
+    margin: 0 auto 10px;
+    display: inline-block;
+    padding: 10px 0;
+    border: 1px solid rgba($accent-color, .1);
+    border-width: 1px 0;
+    font-size: .8em;
+    display: none;
 
-      a {
-        position: relative;
-
-        span[class^="icon-"] {
-          font-size: 20px;
-        }
-
-        span.tooltip {
-          display: none;
-          position: absolute;
-          top: 0;
-          left: 50%;
-          transform: translate3d(-50%,-100%,0);
-        }
-
-        &:hover {
-          span.tooltip {
-            display: block;
-          }
-        }
-      }
-    }
-
-    &.labels {
-      margin: 0 auto $m;
+    a {
       display: inline-block;
-      padding: $m 0;
-      border: 1px solid rgba($accent-color, .1);
-      border-width: 1px 0;
-      display: none;
-
-      &--small {
-        font-size: .8em;
-      }
-
-      a {
-      }
+      padding: .1px .9em;
     }
   }
 }

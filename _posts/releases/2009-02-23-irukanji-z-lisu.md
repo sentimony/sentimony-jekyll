@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: album
 cover: true
 cat_no: sencd006
+tracks_no: 10
 
-bandcamp-id: 2924012921
+bandcamp_id: 2924012921
 bandcamp: https://sentimony.bandcamp.com/album/irukanji-z-lisu
 ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu
 discogs: http://www.discogs.com/Irukanji-Z-Lisu/release/1664941
@@ -24,6 +25,7 @@ Created in 2008 Irukanji combined all experimental ideas and fresh twisted downt
 
 In his tracks you will here crazy conversion between pure psychedelic down beats and mysterious tales.
 
+---
 Tracklist:
 
 01. Irukanji - Onset (In) [72bpm]

@@ -9,8 +9,9 @@ filterStyle: darktrance
 filterFormat: compilation
 cover: true
 cat_no: sencd008
+tracks_no: 12
 
-bandcamp-id: 3486103233
+bandcamp_id: 3486103233
 bandcamp: https://aquadeep.bandcamp.com/album/va-ocean-scenes-higher-titans
 ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
 discogs: http://www.discogs.com/Various-Ocean-Scenes-Higher-Titans/release/2023159
@@ -22,6 +23,7 @@ The first CD from the future series of releases - Ocean Scenes, was specially ma
 
 Higher Titans presents 12 previously unreleased tracks produced by only Ukrainian established composers and promising newcomers.
 
+---
 Tracklist:
 
 01. Irukanji - Mammoth (In) [130bpm]

@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: compilation
 cover: true
 cat_no: sencd007
+tracks_no: 11
 
-bandcamp-id: 2208878008
+bandcamp_id: 2208878008
 bandcamp: https://sentimony.bandcamp.com/album/va-time-loop-beyond-borders
 ektoplazm: http://www.ektoplazm.com/free-music/time-loop-beyond-borders
 discogs: http://www.discogs.com/Various-Time-Loop-Beyond-Borders/release/2443978
@@ -26,6 +27,7 @@ Take a journey through universe with your Divine Essence breaking up all borders
 
 Fascinating an inner journey into profound states of love, inspiration, spiritual meditation, and self-approval! Relax. Breathe deeply. Open your eyes!
 
+---
 Tracklist:
 
 01. IooI - Chromosoma [110bpm]

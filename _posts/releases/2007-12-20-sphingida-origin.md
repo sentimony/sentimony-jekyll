@@ -9,8 +9,9 @@ filterStyle: chillout
 filterFormat: album
 cover: true
 cat_no: sencd003
+tracks_no: 10
 
-bandcamp-id: 3680718383
+bandcamp_id: 3680718383
 bandcamp: https://sentimony.bandcamp.com/album/sphingida-origin
 ektoplazm: http://www.ektoplazm.com/free-music/sphingida-origin
 discogs: http://www.discogs.com/Sphingida-Origin/release/1171746
