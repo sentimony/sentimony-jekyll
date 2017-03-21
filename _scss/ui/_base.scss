@@ -4,7 +4,6 @@
 $primary-color: #f0f;
 $text-color: #fff;
 $accent-color: #fff;
-$bg-color: #000;
 $link-color: $accent-color;
 $selection-color: #ff0;
 $m: 10px;
@@ -72,7 +71,8 @@ html {
 }
 
 body {
-  background: $bg-color url(../img/subtlepatterns/dark_wood.png);
+  // background: #000 url(../img/subtlepatterns/dark_wood.png);
+  background: #000;
   font: 400 15px/1.5 'Montserrat', sans-serif;
   color: $text-color;
   -webkit-font-smoothing: antialiased;

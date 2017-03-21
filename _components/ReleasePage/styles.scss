@@ -18,6 +18,7 @@
 
     @include media(L) {
       flex-direction: row;
+      padding-top: 60px;
     }
   }
 
@@ -31,7 +32,6 @@
 
     @include media(L) {
       width: auto;
-      margin-top: 60px;
     }
   }
 
@@ -133,7 +133,6 @@
 
   &__player {
     display: block;
-    height: 538px;
     box-shadow: 0 2px 10px 0 rgba(#000,.5);
     background-color: rgba(#000,.5);
     border-radius: 6px;
@@ -141,6 +140,11 @@
     width: 100%;
     max-width: 540px;
     position: relative;
+    height: (537px + 25px);
+
+    @include media(S) {
+      height: 537px;
+    }
 
     @include media(M) {
       min-width: 540px;
@@ -154,8 +158,12 @@
       overflow: hidden;
       max-width: 540px;
       border: none;
-      height: 538px;
       margin: 0 auto;
+      height: (537px + 25px);
+
+      @include media(S) {
+        height: 537px;
+      }
     }
   }
 }

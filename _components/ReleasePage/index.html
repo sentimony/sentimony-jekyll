@@ -13,12 +13,12 @@
         <h1 class="release-page__title">{{ page.title }}</h1>
         <div class="release-page__listen-on">Listen on:</div>
         <div>
-          <a class="release-page__bandcamp-btn" href="{{ page.bandcamp }}">
+          <a class="release-page__bandcamp-btn" href="{{ page.bandcamp }}" target="_blank">
             <span class="release-page__bandcamp-btn-icon"></span>
             <img class="release-page__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg">
             <span class="release-page__bandcamp-btn-text">Bandcamp</span>
           </a>
-          <a class="release-page__youtube-btn is-disabled" href="javascript:void(0)">
+          <a class="release-page__youtube-btn is-disabled" href="javascript:void(0)" target="_blank">
             <span class="release-page__youtube-btn-icon"></span>
             <img class="release-page__youtube-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/youtube.svg">
             <span class="release-page__youtube-btn-text">Youtube</span>
@@ -27,9 +27,9 @@
       </div>
     </div>
 
-    <div class="release-page__player" style="height: {% include IframeSize/index.html %}">
+    <div class="release-page__player{% include IframeSize/index.html %}">
       {% if page.bandcamp_id %}
-      <iframe class="release-page__player-iframe" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp_id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/" seamless style="height: {% include IframeSize/index.html %}"></iframe>
+      <iframe class="release-page__player-iframe{% include IframeSize/index.html %}" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp_id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/" seamless></iframe>
       {% endif %}
     </div>
 
@@ -41,6 +41,11 @@
 
   <div class="release-page-content__wrapper">
     {{ content }}
+
+    {% if page.discogs %}
+    <hr>
+    <p>Links:</p>
+    {% endif %}
 
     {% if page.ektoplazm %}
     <p>

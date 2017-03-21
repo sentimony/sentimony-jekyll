@@ -26,7 +26,6 @@ Twelve chillout tracks of relaxed down beats and high spirit tunes. A perfect so
 Consider for a moment! Listen to the beauty of Emptinesses...
 
 ---
-
 Tracklist:
 
 01. Unstable Elements - Thaw (Intro) [130bpm]
