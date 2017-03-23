@@ -15,6 +15,10 @@ bandcamp_id: 615519130
 bandcamp: https://sentimony.bandcamp.com/album/va-absence-of-gravity
 ektoplazm: http://www.ektoplazm.com/free-music/absence-of-gravity
 discogs: http://www.discogs.com/Various-Absence-Of-Gravity/release/2820972
+
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 To the 50th anniversary of the first manned space flight, Home World Music Group, in collaboration with Sentimony Records, have prepared a special release - new psychedelic space-ambient music compilation entitled «Absence Of Gravity».

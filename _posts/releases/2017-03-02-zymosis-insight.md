@@ -15,6 +15,10 @@ bandcamp_id:
 bandcamp: https://sentimony.bandcamp.com/album/zymosis-insight
 ektoplazm: 
 discogs: 
+
+og-image: 
+artwork_by: 
+mastered_by: One Day Mastering Studio https://www.facebook.com/onedaymasteringstudio
 ---
 
 Tracklist:

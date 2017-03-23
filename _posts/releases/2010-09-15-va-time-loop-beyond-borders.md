@@ -15,6 +15,10 @@ bandcamp_id: 2208878008
 bandcamp: https://sentimony.bandcamp.com/album/va-time-loop-beyond-borders
 ektoplazm: http://www.ektoplazm.com/free-music/time-loop-beyond-borders
 discogs: http://www.discogs.com/Various-Time-Loop-Beyond-Borders/release/2443978
+
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 Sentimony Records are happy to announce fresh full-length compilation! It's kind of new project from Sentimony team - VA «Time Loop: Beyond Borders», starts new series of compilations under name Time Loop. We are happy to introduce you with known projects and a new perspective names from our opinion ;) Hope you will enjoy it!

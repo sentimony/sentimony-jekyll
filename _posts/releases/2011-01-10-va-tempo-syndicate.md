@@ -15,6 +15,10 @@ bandcamp_id: 2483216888
 bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate
 ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
 discogs: http://www.discogs.com/Various-Tempo-Syndicate/release/2645251
+
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 Sentimony Records team is proud to introduce you label's ninth release and our two years labor - psychedelic music compialtion entitled «Tempo Syndicate».

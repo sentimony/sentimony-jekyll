@@ -15,6 +15,10 @@ bandcamp_id: 3538385956
 bandcamp: https://lookinglook.bandcamp.com/album/va-gamayun-tale
 ektoplazm: 
 discogs: http://www.discogs.com/Various-Gamayun-Tale/release/5400874
+
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 Lookinglook Records presents VA «Gamayun Tale» - a new goa story compiled by Sky Technology.

@@ -15,6 +15,10 @@ bandcamp_id: 2938863422
 bandcamp: https://sentimony.bandcamp.com/album/va-emptinesses
 ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
 discogs: http://www.discogs.com/Various-Emptinesses/release/1021635
+
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 Sentimony Records proudly presents our second release - compilation Emptinesses. Carefully selected tracks from masters of chill-out vibes.

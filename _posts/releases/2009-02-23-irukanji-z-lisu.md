@@ -15,6 +15,10 @@ bandcamp_id: 2924012921
 bandcamp: https://sentimony.bandcamp.com/album/irukanji-z-lisu
 ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu
 discogs: http://www.discogs.com/Irukanji-Z-Lisu/release/1664941
+
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 Z Lisu - is the debut album of Irukanji project. Behind this name is standing talented musician and charismatic dj – Ihor Orlovskyi, member of duet from Ukraine Sphingida (2005 - 2008).

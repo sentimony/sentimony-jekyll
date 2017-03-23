@@ -15,6 +15,10 @@ bandcamp_id: 144410096
 bandcamp: https://sentimony.bandcamp.com/album/tentura-beyond-illusion
 ektoplazm: 
 discogs: http://www.discogs.com/Tentura-Beyond-Illusion/release/6775211
+
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 Tracklist:

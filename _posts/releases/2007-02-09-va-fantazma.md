@@ -15,6 +15,11 @@ bandcamp_id: 3399361938
 bandcamp: https://sentimony.bandcamp.com/album/va-fantazma
 ektoplazm: http://www.ektoplazm.com/free-music/fantazma
 discogs: http://www.discogs.com/Various-Fantazma/release/952240
+
+og-image: 
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 Fantazma is the debut release of Sentimony Records - label of psy-ambient, downtempo and psychedelic chill-out music, based in Kiev, Ukraine.

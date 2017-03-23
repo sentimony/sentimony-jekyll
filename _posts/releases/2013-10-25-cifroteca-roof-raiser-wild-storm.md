@@ -15,6 +15,10 @@ bandcamp_id: 721225799
 bandcamp: https://aquadeep.bandcamp.com/album/cifroteca-roof-raiser-wild-storm
 ektoplazm: 
 discogs: http://www.discogs.com/Cifroteca-Roof-Raiser-Wild-Storm/release/5012131
+
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 Aqua Deep Music is pleased to announce its second release, split-album of two psychedelic minds Cifroteca and Roof Raiser - talented sound producers from Ukraine.

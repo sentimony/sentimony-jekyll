@@ -15,6 +15,10 @@ bandcamp_id: 95715287
 bandcamp: https://lookinglook.bandcamp.com/album/va-dancing-mavka
 ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka
 discogs: http://www.discogs.com/Various-Dancing-Mavka/release/2527055
+
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 Lookinglook Records team is pleased to announce its fourth release, which today is the first Ukrainian 100% goa-trance compilation, titled «Dansing Mavka».

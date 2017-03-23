@@ -15,6 +15,10 @@ bandcamp_id: 3486103233
 bandcamp: https://aquadeep.bandcamp.com/album/va-ocean-scenes-higher-titans
 ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
 discogs: http://www.discogs.com/Various-Ocean-Scenes-Higher-Titans/release/2023159
+
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 Sentimony Records is proud to introduce you with our new musical direction more deeper musical appearance - Aqua Deep Music.

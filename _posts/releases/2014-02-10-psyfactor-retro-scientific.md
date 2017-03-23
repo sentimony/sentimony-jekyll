@@ -15,6 +15,10 @@ bandcamp_id: 625816327
 bandcamp: https://sentimony.bandcamp.com/album/psyfactor-retro-scientific
 ektoplazm: 
 discogs: http://www.discogs.com/Psyfactor-Retro-Scientific/release/5399930
+
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 Sentimony Records presents its sixteenth release, the newest creation of electron-synthetic Bachelor of Science, mushroom-innovator laureate and a pride of Russian chillout scene - Psyfactor.

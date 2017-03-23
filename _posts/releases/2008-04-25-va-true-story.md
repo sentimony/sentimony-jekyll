@@ -15,6 +15,10 @@ bandcamp_id: 1223403780
 bandcamp: https://sentimony.bandcamp.com/album/va-true-story
 ektoplazm: http://www.ektoplazm.com/free-music/true-story
 discogs: http://www.discogs.com/Various-True-Story/release/1321723
+
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 Sentimony Records team proudly presents to you, friends, our fourth release - compilation True Story. We cooked for you 12 awesome tracks from artists that you have known from our previous releases... and several new discoveries to please your ear and our hopes. And some well-known names...

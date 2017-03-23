@@ -15,6 +15,10 @@ bandcamp_id: 987015194
 bandcamp: https://lookinglook.bandcamp.com/album/unusual-cosmic-process-weightlessness
 ektoplazm: http://www.ektoplazm.com/free-music/unusual-cosmic-process-weightlessness
 discogs: http://www.discogs.com/Unusual-Cosmic-Process-Weightlessness/release/2517434
+
+og-image: 
+artwork_by: 
+mastered_by: 
 ---
 
 Lookinglook Records proud to presents its third compact disk - the debut album from Ukrainian project Unusual Cosmic Process (U.C.P.), titled «Weightlessness».
