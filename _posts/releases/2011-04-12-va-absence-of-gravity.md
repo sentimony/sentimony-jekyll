@@ -10,15 +10,17 @@ filterFormat: compilation
 cover: true
 cat_no: sencd010
 tracks_no: 11
+coming_soon: 
 
 bandcamp_id: 615519130
-bandcamp: https://sentimony.bandcamp.com/album/va-absence-of-gravity
-ektoplazm: http://www.ektoplazm.com/free-music/absence-of-gravity
-discogs: http://www.discogs.com/Various-Absence-Of-Gravity/release/2820972
+link_bandcamp: https://sentimony.bandcamp.com/album/va-absence-of-gravity
+link_ektoplazm: http://www.ektoplazm.com/free-music/absence-of-gravity
+link_discogs: http://www.discogs.com/Various-Absence-Of-Gravity/release/2820972
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: Spectrum Vision
+artwork_by: 1n0x
+mastered_by: Altar Records Studio http://altar-records.com
 ---
 
 To the 50th anniversary of the first manned space flight, Home World Music Group, in collaboration with Sentimony Records, have prepared a special release - new psychedelic space-ambient music compilation entitled «Absence Of Gravity».

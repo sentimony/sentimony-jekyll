@@ -10,16 +10,17 @@ filterFormat: compilation
 cover: true
 cat_no: sencd001
 tracks_no: 11
+coming_soon: 
 
 bandcamp_id: 3399361938
-bandcamp: https://sentimony.bandcamp.com/album/va-fantazma
-ektoplazm: http://www.ektoplazm.com/free-music/fantazma
-discogs: http://www.discogs.com/Various-Fantazma/release/952240
+link_bandcamp: https://sentimony.bandcamp.com/album/va-fantazma
+link_ektoplazm: http://www.ektoplazm.com/free-music/fantazma
+link_discogs: http://www.discogs.com/Various-Fantazma/release/952240
+coming_soon: 
 
-og-image: 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: Sphingida
+artwork_by: Synchronick
+mastered_by: Don't Panic Records Studio http://dontpanic.kiev.ua
 ---
 
 Fantazma is the debut release of Sentimony Records - label of psy-ambient, downtempo and psychedelic chill-out music, based in Kiev, Ukraine.

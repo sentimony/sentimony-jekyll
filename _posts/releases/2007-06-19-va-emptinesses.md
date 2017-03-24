@@ -10,15 +10,17 @@ filterFormat: compilation
 cover: true
 cat_no: sencd002
 tracks_no: 12
+coming_soon: 
 
 bandcamp_id: 2938863422
-bandcamp: https://sentimony.bandcamp.com/album/va-emptinesses
-ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
-discogs: http://www.discogs.com/Various-Emptinesses/release/1021635
+link_bandcamp: https://sentimony.bandcamp.com/album/va-emptinesses
+link_ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
+link_discogs: http://www.discogs.com/Various-Emptinesses/release/1021635
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: Sphingida
+artwork_by: Anton Pivniuk
+mastered_by: VioletRaySoundlab
 ---
 
 Sentimony Records proudly presents our second release - compilation Emptinesses. Carefully selected tracks from masters of chill-out vibes.

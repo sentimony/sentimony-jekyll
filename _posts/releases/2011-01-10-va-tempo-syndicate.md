@@ -10,15 +10,17 @@ filterFormat: compilation
 cover: true
 cat_no: sencd009
 tracks_no: 12
+coming_soon: 
 
 bandcamp_id: 2483216888
-bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate
-ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
-discogs: http://www.discogs.com/Various-Tempo-Syndicate/release/2645251
+link_bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate
+link_ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
+link_discogs: http://www.discogs.com/Various-Tempo-Syndicate/release/2645251
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: Irukanji
+artwork_by: Irukanji
+mastered_by: Overdream Studio http://overdreamstudio.com
 ---
 
 Sentimony Records team is proud to introduce you label's ninth release and our two years labor - psychedelic music compialtion entitled «Tempo Syndicate».

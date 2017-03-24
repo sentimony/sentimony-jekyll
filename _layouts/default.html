@@ -10,8 +10,8 @@ layout: compress
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title }} · {% endif %}Sentimony Records{% if page.titleAfter %} · {{ page.titleAfter }}{% endif %}</title>
-  <meta name="description" content="{{ page.description }}">
-  <meta property="og:image" content="{{ page.og-image }}">
+  <meta name="description" content="{% if page.category == 'releases' %}{{ page.title }} by Sentimony Records. {{ page.tracks_no }} tracks release, {{ page.date | date: '%Y' }}.{% else %}{{ page.description }}{% endif %}">
+  <meta property="og:image" content="{% if page.category == 'releases' %}https://content.sentimony.com/assets/img/releases/large/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}{% else %}{{ page.og-image }}{% endif %}">
 
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
   <link rel="shortcut icon" href="https://content.sentimony.com/assets/img/favicons/sentimony/favicon-32.png">

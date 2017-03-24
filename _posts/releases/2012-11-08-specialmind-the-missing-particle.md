@@ -10,15 +10,17 @@ filterFormat: single
 cover: true
 cat_no: sencd013
 tracks_no: 5
+coming_soon: 
 
 bandcamp_id: 1673341211
-bandcamp: https://sentimony.bandcamp.com/album/specialmind-the-missing-particle
-ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-particle
-discogs: http://www.discogs.com/Tentura-Aurora/release/4462165
+link_bandcamp: https://sentimony.bandcamp.com/album/specialmind-the-missing-particle
+link_ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-particle
+link_discogs: http://www.discogs.com/Tentura-Aurora/release/4462165
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: 
+artwork_by: Ader
+mastered_by: Overdream Studio http://overdreamstudio.com
 ---
 
 «The Missing Particle» - is the second EP released by Sentimony Records, introducing Specialmind project - a psychedelic downtempo duo from Ukraine.

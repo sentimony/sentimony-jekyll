@@ -10,15 +10,17 @@ filterFormat: single
 cover: true
 cat_no: sencd012
 tracks_no: 5
+coming_soon: 
 
 bandcamp_id: 2733998829
-bandcamp: https://sentimony.bandcamp.com/album/hypnotriod-seven-heavenly-edges
-ektoplazm: http://www.ektoplazm.com/free-music/hypnotriod-seven-heavenly-edges
-discogs: http://www.discogs.com/Hypnotriod-Seven-Heavenly-Edges/release/3618882
+link_bandcamp: https://sentimony.bandcamp.com/album/hypnotriod-seven-heavenly-edges
+link_ektoplazm: http://www.ektoplazm.com/free-music/hypnotriod-seven-heavenly-edges
+link_discogs: http://www.discogs.com/Hypnotriod-Seven-Heavenly-Edges/release/3618882
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: 
+artwork_by: Anton Pivniuk
+mastered_by: Overdream Studio http://overdreamstudio.com
 ---
 
 «Seven Heavenly Edges» - is the first single released by Sentimony Records, introducing a talented Ukrainian producer and musician Hypnotriod (Ilia Pikin), also known for his passion for white shirts and experimental chillgressive sound.

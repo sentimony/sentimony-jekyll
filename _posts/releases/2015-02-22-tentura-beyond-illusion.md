@@ -10,17 +10,22 @@ filterFormat: album
 cover: true
 cat_no: sencd023
 tracks_no: 10
+coming_soon: 
 
 bandcamp_id: 144410096
-bandcamp: https://sentimony.bandcamp.com/album/tentura-beyond-illusion
-ektoplazm: 
-discogs: http://www.discogs.com/Tentura-Beyond-Illusion/release/6775211
+link_bandcamp: https://sentimony.bandcamp.com/album/tentura-beyond-illusion
+link_ektoplazm: 
+link_discogs: http://www.discogs.com/Tentura-Beyond-Illusion/release/6775211
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: 
+artwork_by: Ader & Andrei Verner
+mastered_by: Overdream Studio http://overdreamstudio.com
 ---
 
+Enjoy!
+
+---
 Tracklist:
 
 01. Tentura - Alchemy

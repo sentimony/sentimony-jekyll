@@ -10,15 +10,17 @@ filterFormat: album
 cover: true
 cat_no: sencd017
 tracks_no: 10
+coming_soon: 
 
 bandcamp_id: 3896908655
-bandcamp: https://lookinglook.bandcamp.com/album/senzar-before-the-morning-sun
-ektoplazm: http://www.ektoplazm.com/free-music/senzar-before-the-morning-sun
-discogs: http://www.discogs.com/Senzar-Before-The-Morning-Sun/release/2299220
+link_bandcamp: https://lookinglook.bandcamp.com/album/senzar-before-the-morning-sun
+link_ektoplazm: http://www.ektoplazm.com/free-music/senzar-before-the-morning-sun
+link_discogs: http://www.discogs.com/Senzar-Before-The-Morning-Sun/release/2299220
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: 
+artwork_by: Ju Ju
+mastered_by: Overdream Studio http://overdreamstudio.com
 ---
 
 Lookinglook Records presents the debut album from Danish artist Senzar, titled «Before The Morning Sun».

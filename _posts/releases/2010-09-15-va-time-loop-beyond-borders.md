@@ -10,15 +10,17 @@ filterFormat: compilation
 cover: true
 cat_no: sencd007
 tracks_no: 11
+coming_soon: 
 
 bandcamp_id: 2208878008
-bandcamp: https://sentimony.bandcamp.com/album/va-time-loop-beyond-borders
-ektoplazm: http://www.ektoplazm.com/free-music/time-loop-beyond-borders
-discogs: http://www.discogs.com/Various-Time-Loop-Beyond-Borders/release/2443978
+link_bandcamp: https://sentimony.bandcamp.com/album/va-time-loop-beyond-borders
+link_ektoplazm: http://www.ektoplazm.com/free-music/time-loop-beyond-borders
+link_discogs: http://www.discogs.com/Various-Time-Loop-Beyond-Borders/release/2443978
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: Zea NeiRula
+artwork_by: Flange
+mastered_by: Onkel Dunkel Studio https://www.facebook.com/OnkelDunkelBook
 ---
 
 Sentimony Records are happy to announce fresh full-length compilation! It's kind of new project from Sentimony team - VA «Time Loop: Beyond Borders», starts new series of compilations under name Time Loop. We are happy to introduce you with known projects and a new perspective names from our opinion ;) Hope you will enjoy it!

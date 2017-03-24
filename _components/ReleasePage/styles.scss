@@ -31,6 +31,7 @@
     position: relative;
 
     @include media(L) {
+      margin-top: 3em;
       width: auto;
     }
   }
@@ -71,12 +72,12 @@
 
   &__date {
     font-size: 14px;
-    color: #fff;
+    color: rgba(#fff,.5);
   }
 
   &__title {
     font-size: 18px;
-    margin: 0;
+    margin: 0 0 .25em;
     color: #fff;
     text-transform: capitalize;
 

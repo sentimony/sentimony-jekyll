@@ -10,17 +10,22 @@ filterFormat: album
 cover: true
 cat_no: sencd003
 tracks_no: 10
+coming_soon: 
 
 bandcamp_id: 3680718383
-bandcamp: https://sentimony.bandcamp.com/album/sphingida-origin
-ektoplazm: http://www.ektoplazm.com/free-music/sphingida-origin
-discogs: http://www.discogs.com/Sphingida-Origin/release/1171746
+link_bandcamp: https://sentimony.bandcamp.com/album/sphingida-origin
+link_ektoplazm: http://www.ektoplazm.com/free-music/sphingida-origin
+link_discogs: http://www.discogs.com/Sphingida-Origin/release/1171746
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: 
+artwork_by: Anton Pivniuk
+mastered_by: VioletRaySoundlab
 ---
 
+Enjoy!
+
+---
 Tracklist:
 
 01. Sphingida - Sunset Sign [100bpm]

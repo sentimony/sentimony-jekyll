@@ -10,17 +10,22 @@ filterFormat: album
 cover: 
 cat_no: sencd025
 tracks_no: 9
+coming_soon: true
 
 bandcamp_id: 
-bandcamp: https://sentimony.bandcamp.com/album/zymosis-insight
-ektoplazm: 
-discogs: 
+link_bandcamp: https://sentimony.bandcamp.com/album/zymosis-insight
+link_ektoplazm: 
+link_discogs: 
+coming_soon: 
 
-og-image: 
+compiled_by: 
 artwork_by: 
 mastered_by: One Day Mastering Studio https://www.facebook.com/onedaymasteringstudio
 ---
 
+Enjoy!
+
+---
 Tracklist:
 
 01. Zymosis - Make A Wish

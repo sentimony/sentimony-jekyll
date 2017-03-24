@@ -10,15 +10,17 @@ filterFormat: compilation
 cover: true
 cat_no: sencd021
 tracks_no: 11
+coming_soon: 
 
 bandcamp_id: 3538385956
-bandcamp: https://lookinglook.bandcamp.com/album/va-gamayun-tale
-ektoplazm: 
-discogs: http://www.discogs.com/Various-Gamayun-Tale/release/5400874
+link_bandcamp: https://lookinglook.bandcamp.com/album/va-gamayun-tale
+link_ektoplazm: 
+link_discogs: http://www.discogs.com/Various-Gamayun-Tale/release/5400874
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: Sky Technology
+artwork_by: Ju Ju
+mastered_by: Overdream Studio http://overdreamstudio.com
 ---
 
 Lookinglook Records presents VA «Gamayun Tale» - a new goa story compiled by Sky Technology.

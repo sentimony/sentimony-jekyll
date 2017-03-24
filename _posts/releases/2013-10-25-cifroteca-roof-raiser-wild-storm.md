@@ -10,15 +10,17 @@ filterFormat: album
 cover: true
 cat_no: sencd015
 tracks_no: 10
+coming_soon: 
 
 bandcamp_id: 721225799
-bandcamp: https://aquadeep.bandcamp.com/album/cifroteca-roof-raiser-wild-storm
-ektoplazm: 
-discogs: http://www.discogs.com/Cifroteca-Roof-Raiser-Wild-Storm/release/5012131
+link_bandcamp: https://aquadeep.bandcamp.com/album/cifroteca-roof-raiser-wild-storm
+link_ektoplazm: 
+link_discogs: http://www.discogs.com/Cifroteca-Roof-Raiser-Wild-Storm/release/5012131
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: 
+artwork_by: Swaroop Guhathakurta https://www.facebook.com/sanathana.swaroop
+mastered_by: Overdream Studio http://overdreamstudio.com
 ---
 
 Aqua Deep Music is pleased to announce its second release, split-album of two psychedelic minds Cifroteca and Roof Raiser - talented sound producers from Ukraine.

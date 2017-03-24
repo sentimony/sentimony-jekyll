@@ -10,15 +10,17 @@ filterFormat: album
 cover: true
 cat_no: sencd006
 tracks_no: 10
+coming_soon: 
 
 bandcamp_id: 2924012921
-bandcamp: https://sentimony.bandcamp.com/album/irukanji-z-lisu
-ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu
-discogs: http://www.discogs.com/Irukanji-Z-Lisu/release/1664941
+link_bandcamp: https://sentimony.bandcamp.com/album/irukanji-z-lisu
+link_ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu
+link_discogs: http://www.discogs.com/Irukanji-Z-Lisu/release/1664941
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: 
+artwork_by: Anton Pivniuk
+mastered_by: VioletRaySoundlab
 ---
 
 Z Lisu - is the debut album of Irukanji project. Behind this name is standing talented musician and charismatic dj – Ihor Orlovskyi, member of duet from Ukraine Sphingida (2005 - 2008).

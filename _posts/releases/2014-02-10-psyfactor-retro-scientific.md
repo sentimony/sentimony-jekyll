@@ -10,15 +10,17 @@ filterFormat: album
 cover: true
 cat_no: sencd016
 tracks_no: 11
+coming_soon: 
 
 bandcamp_id: 625816327
-bandcamp: https://sentimony.bandcamp.com/album/psyfactor-retro-scientific
-ektoplazm: 
-discogs: http://www.discogs.com/Psyfactor-Retro-Scientific/release/5399930
+link_bandcamp: https://sentimony.bandcamp.com/album/psyfactor-retro-scientific
+link_ektoplazm: 
+link_discogs: http://www.discogs.com/Psyfactor-Retro-Scientific/release/5399930
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: 
+artwork_by: Ader
+mastered_by: Overdream Studio http://overdreamstudio.com
 ---
 
 Sentimony Records presents its sixteenth release, the newest creation of electron-synthetic Bachelor of Science, mushroom-innovator laureate and a pride of Russian chillout scene - Psyfactor.

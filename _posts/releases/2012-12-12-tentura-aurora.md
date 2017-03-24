@@ -10,16 +10,20 @@ filterFormat: single
 cover: true
 cat_no: sencd014
 tracks_no: 4
+coming_soon: 
 
 bandcamp_id: 2261902557
-bandcamp: https://sentimony.bandcamp.com/album/tentura-aurora
-ektoplazm: http://www.ektoplazm.com/free-music/tentura-aurora
-discogs: http://www.discogs.com/Tentura-Beyond-Illusion/release/6775211
+link_bandcamp: https://sentimony.bandcamp.com/album/tentura-aurora
+link_ektoplazm: http://www.ektoplazm.com/free-music/tentura-aurora
+link_discogs: http://www.discogs.com/Tentura-Beyond-Illusion/release/6775211
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: 
+artwork_by: Ader
+mastered_by: Overdream Studio http://overdreamstudio.com
 ---
+
+Enjoy!
 
 ---
 Tracklist:

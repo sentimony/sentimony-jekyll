@@ -10,15 +10,17 @@ filterFormat: single
 cover: true
 cat_no: sencd022
 tracks_no: 5
+coming_soon: 
 
 bandcamp_id: 342915204
-bandcamp: https://lookinglook.bandcamp.com/album/ufomatka-the-e-p
-ektoplazm: 
-discogs: http://www.discogs.com/Ufomatka-The-Ep/release/6663582
+link_bandcamp: https://lookinglook.bandcamp.com/album/ufomatka-the-e-p
+link_ektoplazm: 
+link_discogs: http://www.discogs.com/Ufomatka-The-Ep/release/6663582
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: 
+artwork_by: Ufomatka
+mastered_by: Overdream Studio http://overdreamstudio.com
 ---
 
 Lookinglook Records presents the new goatrance release by our beloved artist Ufomatka.

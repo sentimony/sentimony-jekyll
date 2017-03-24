@@ -10,17 +10,22 @@ filterFormat: album
 cover: true
 cat_no: sencd005
 tracks_no: 9
+coming_soon: 
 
 bandcamp_id: 2969979336
-bandcamp: https://sentimony.bandcamp.com/album/spectrum-vision-lost-space-device
-ektoplazm: http://www.ektoplazm.com/free-music/spectrum-vision-lost-space-device
-discogs: http://www.discogs.com/Spectrum-Vision-Lost-Space-Device/release/1547476
+link_bandcamp: https://sentimony.bandcamp.com/album/spectrum-vision-lost-space-device
+link_ektoplazm: http://www.ektoplazm.com/free-music/spectrum-vision-lost-space-device
+link_discogs: http://www.discogs.com/Spectrum-Vision-Lost-Space-Device/release/1547476
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: 
+artwork_by: 1n0x
+mastered_by: VioletRaySoundlab
 ---
 
+Enjoy!
+
+---
 Tracklist:
 
 01. Spectrum Vision - Anna [140bpm]

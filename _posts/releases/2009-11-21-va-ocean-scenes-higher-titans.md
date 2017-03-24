@@ -10,15 +10,17 @@ filterFormat: compilation
 cover: true
 cat_no: sencd008
 tracks_no: 12
+coming_soon: 
 
 bandcamp_id: 3486103233
-bandcamp: https://aquadeep.bandcamp.com/album/va-ocean-scenes-higher-titans
-ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
-discogs: http://www.discogs.com/Various-Ocean-Scenes-Higher-Titans/release/2023159
+link_bandcamp: https://aquadeep.bandcamp.com/album/va-ocean-scenes-higher-titans
+link_ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
+link_discogs: http://www.discogs.com/Various-Ocean-Scenes-Higher-Titans/release/2023159
+coming_soon: 
 
-og-image: 
-artwork_by: 
-mastered_by: 
+compiled_by: Irukanji
+artwork_by: Ju Ju
+mastered_by: Overdream Studio http://overdreamstudio.com & Cifroteca Studio https://www.facebook.com/cifroteca.music
 ---
 
 Sentimony Records is proud to introduce you with our new musical direction more deeper musical appearance - Aqua Deep Music.

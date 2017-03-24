@@ -9,11 +9,11 @@
       </a>
 
       <div class="release-page__info">
-        <div class="release-page__date">{{ page.date | date: "%Y" }}</div>
+        <div class="release-page__date">{% if page.coming_soon %}Coming at {{ page.date | date: '%Y' }}{% else %}{{ page.date | date_to_string }}{% endif %}</div>
         <h1 class="release-page__title">{{ page.title }}</h1>
         <div class="release-page__listen-on">Listen on:</div>
         <div>
-          <a class="release-page__bandcamp-btn" href="{{ page.bandcamp }}" target="_blank">
+          <a class="release-page__bandcamp-btn" href="{{ page.link_bandcamp }}" target="_blank">
             <span class="release-page__bandcamp-btn-icon"></span>
             <img class="release-page__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg">
             <span class="release-page__bandcamp-btn-text">Bandcamp</span>
@@ -42,28 +42,64 @@
   <div class="release-page-content__wrapper">
     {{ content }}
 
-    {% if page.discogs %}
+    {% if page.link_discogs %}
     <hr>
     <p>Links:</p>
     {% endif %}
 
-    {% if page.ektoplazm %}
+    {% if page.link_bandcamp %}
+    <p style="display: none;">
+      <!-- <span>Donate:</span> -->
+      <a href="{{ page.link_bandcamp }}" target="_blank">
+        Bandcamp
+      </a>
+    </p>
+    {% endif %}
+
+    {% if page.link_ektoplazm %}
     <p>
       <!-- <span>Free Download:</span> -->
-      <a href="{{ page.ektoplazm }}" target="_blank">
+      <a href="{{ page.link_ektoplazm }}" target="_blank">
         Ektoplazm
       </a>
     </p>
     {% endif %}
 
-    {% if page.discogs %}
+    {% if page.link_discogs %}
     <p>
       <!-- <span>Release Info:</span> -->
-      <a href="{{ page.discogs }}" target="_blank">
+      <a href="{{ page.link_discogs }}" target="_blank">
         <!-- <span class="icon-discogs"></span> -->
         Discogs
       </a>
     </p>
     {% endif %}
+
+    {% if page.mastered_by %}
+    <hr>
+    <p>Credits:</p>
+    {% endif %}
+
+    {% if page.compiled_by %}
+    <p>
+      <span>Compiled By</span>
+      {{ page.compiled_by }}
+    </p>
+    {% endif %}
+
+    {% if page.artwork_by %}
+    <p>
+      <span>Artwork By</span>
+      {{ page.artwork_by }}
+    </p>
+    {% endif %}
+
+    {% if page.mastered_by %}
+    <p>
+      <span>Mastered By</span>
+      {{ page.mastered_by }}
+    </p>
+    {% endif %}
+
   </div>
 </div>
