@@ -1,5 +1,7 @@
 ;$(document).ready(function () {
 
+  $('.releases-list-swiper__container').addClass('is-visible');
+
   if ($('.swiper-container').length) {
     var swiper = new Swiper ('.swiper-container', {
       // loop: true,

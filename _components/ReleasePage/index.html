@@ -7,7 +7,10 @@
       <div class="release-page__cover">
         {% if page.cover %}
         <a class="release-page__cover-link" href="https://content.sentimony.com/assets/img/releases/large/{{ page.cat_no }}/{{ page.slug }}.jpg">
-          <img class="release-page__cover-img" src="https://content.sentimony.com/assets/img/releases/medium/{{ page.cat_no }}/{{ page.slug }}.jpg">
+          <img class="release-page__cover-img" 
+            src="https://content.sentimony.com/assets/img/releases/medium/{{ page.cat_no }}/{{ page.slug }}.jpg"
+            data-retina="https://content.sentimony.com/assets/img/releases/medium-retina/{{ page.cat_no }}/{{ page.slug }}.jpg"
+          >
         </a>
         {% else %}
         <div class="release-page__cover-coming">Artwork<br>in progress</div>
@@ -94,7 +97,7 @@
     {% if page.link_ektoplazm %}
     <p>
       <!-- <span>Free Download:</span> -->
-      <a href="{{ page.link_ektoplazm }}" target="_blank">
+      <a class="release-page-content__link" href="{{ page.link_ektoplazm }}" target="_blank">
         Ektoplazm
       </a>
     </p>
@@ -103,12 +106,33 @@
     {% if page.link_discogs %}
     <p>
       <!-- <span>Release Info:</span> -->
-      <a href="{{ page.link_discogs }}" target="_blank">
+      <a class="release-page-content__link" href="{{ page.link_discogs }}" target="_blank">
         <!-- <span class="icon-discogs"></span> -->
         Discogs
       </a>
     </p>
     {% endif %}
 
+    <hr>
+    <p>Share:</p>
+    <p class="release-page-content__social">
+      <a href="#" class="release-page-content__btn-facebook" data-social="facebook">
+        facebook
+        <!-- <span class="icon-facebook"></span> -->
+        <span data-counter="facebook"></span>
+      </a>
+      <a href="#" class="release-page-content__btn-vkontakte" data-social="vkontakte">
+        vkontakte
+        <span data-counter="vkontakte"></span>
+      </a>
+      <a href="#" class="release-page-content__btn-googleplus" data-social="googleplus">
+        googleplus
+        <span data-counter="googleplus"></span>
+      </a>
+      <a href="#" class="release-page-content__btn-twitter" data-social="twitter">
+        twitter
+        <!-- <span class="icon-twitter"></span> -->
+      </a>
+    </p>
   </div>
 </div>

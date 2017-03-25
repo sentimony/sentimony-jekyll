@@ -6,7 +6,10 @@
       <a href="{{ i.url }}" class="swiper-slide releases-list-swiper__item{% if page.url contains i.slug %} is-selected{% endif %}">
         <div class="releases-list-swiper__item-cover">
           {% if i.cover %}
-          <img class="releases-list-swiper__item-cover-img" src="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg">
+          <img class="releases-list-swiper__item-cover-img"
+            src="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg"
+            data-retina="https://content.sentimony.com/assets/img/releases/small-retina/{{ i.cat_no }}/{{ i.slug }}.jpg"
+          >
           {% else %}
           <div class="releases-list-swiper__item-cover-coming">Artwork<br>in progress</div>
           {% endif %}

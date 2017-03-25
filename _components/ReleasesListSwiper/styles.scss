@@ -24,6 +24,7 @@
     overflow: visible;
     padding-top: 10px;
     padding-bottom: 13px;
+    @include unvisible;
   }
 
   &__item {
@@ -133,8 +134,8 @@
       // left: 50%;
       font-size: 8px;
       z-index: 40;
-      padding: .2em .4em;
-      border-radius: 0 4px 0 4px;
+      padding: .2em .8em;
+      border-radius: 0 8px 0 8px;
       // transform: translate3d(-50%,0,0);
       right: -10px;
 

@@ -6,11 +6,11 @@ permalink: /events/
 og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
-<section class="list">
+<section>
   <h3>Events</h3>
   {% for events in site.categories.events %}
   <a href="{{ events.url }}">
-    <div class="title">{{ events.title }}</div>
+    <div>{{ events.title }}</div>
   </a>
   {% endfor %}
 </section>

@@ -3,11 +3,12 @@ var gulp = require('gulp'),
 
 gulp.task('js-concat', ['sass'], function () {
   return gulp.src([
-    '_js/lib/*',
-    '_js/vendor/*',
-    '_js/main.js',
-    'node_modules/swiper/dist/js/swiper.js',
-    '_components/**/*.js'
+    'node_modules/jquery/dist/jquery.min.js',
+    'node_modules/swiper/dist/js/swiper.jquery.min.js',
+    'node_modules/goodshare.js/goodshare.min.js',
+    '_components/**/*.js',
+    '_js/retina-vanila.js',
+    '_js/main.js'
   ])
   .pipe(concat('bundle.js'))
   .pipe(gulp.dest('assets/js/'));

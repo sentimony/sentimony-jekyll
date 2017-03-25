@@ -64,3 +64,16 @@
 .btn__text {
   @include btn__text;
 }
+
+@mixin btn-social {
+  color: #fff;
+  padding: .8em 1.4em;
+  display: inline-block;
+
+  &:hover {
+  }
+}
+
+.btn-social {
+  @include btn-social;
+}

@@ -6,11 +6,11 @@ permalink: /news/
 og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
-<section class="list">
+<section>
   <h3>News</h3>
   {% for news in site.categories.news %}
     <a href="{{ news.url }}">
-      <div class="title">{{ news.title }}</div>
+      <div>{{ news.title }}</div>
     </a>
   {% endfor %}
 </section>

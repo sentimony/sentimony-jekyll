@@ -1,0 +1,8 @@
+@mixin unvisible {
+  opacity: 0;
+  transition: opacity .125s ease-in-out .125s;
+
+  &.is-visible {
+    opacity: 1;
+  }
+}

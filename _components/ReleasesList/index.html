@@ -1,42 +1,18 @@
-<section class="release-list">
+<section>
   <h3>Releases</h3>
 
-  <nav class="filter isotope-filter">
-    <span>Sort: </span>
-    <a data-filter="*" class="selected">View All</a>
-    <br>
-    <span>By Label: </span>
-    <a data-filter=".sentimony">Sentimony Records</a>
-    <a data-filter=".aquadeep">Aqua Deep Music</a>
-    <a data-filter=".lookinglook">Lookinglook Records</a>
-    <br>
-    <span>By Style: </span>
-    <a data-filter=".chillout">Chillout</a>
-    <a data-filter=".goatrance">Goa Trance</a>
-    <a data-filter=".darktrance">Dark Trance</a>
-    <br>
-    <span>By Release Format: </span>
-    <a data-filter=".compilation">Compilations</a>
-    <a data-filter=".album">Albums</a>
-    <a data-filter=".single">Singles</a>
-  </nav>
-
-  <div class="isotope-container">
+  <div>
     {% for i in site.categories.releases %}
-    <a href="{{ i.url }}" class="release-list__item isotope-item {{ i.filterLabel }} {{ i.filterStyle }} {{ i.filterFormat }}">
-      <div class="image-container">
+    <a href="{{ i.url }}"">
+      <div>
         <!-- {% if i.cover %}
         <img src="https://content.sentimony.com/assets/img/releases/medium/{{ i.cat_no }}/{{ i.slug }}.jpg">
         {% else %}
         <img src="https://content.sentimony.com/assets/img/releases/medium/artwork-in-progress.jpg">
         {% endif %} -->
-        <img 
-          data-src="holder.js/700x700?auto=yes&text={{ i.title }}&fg=000&bg=0ff"
-          data-layzr="{{ site.baseurl }}/assets/img/releases/{{ i.slug }}.jpg"
-          data-layzr-retina="{{ site.baseurl }}/assets/img/releases/{{ i.slug }}@2x.jpg"
-        >
+        <img src="{{ site.baseurl }}/assets/img/releases/{{ i.slug }}.jpg">
       </div>
-      <div class="title">{{ i.title }}</div>
+      <div>{{ i.title }}</div>
     </a>
     {% endfor %}
   </div>

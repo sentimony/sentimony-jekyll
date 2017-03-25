@@ -56,13 +56,17 @@ img {
 a {
   color: $link-color;
   text-decoration: none;
-  outline: 0;
-  transition: color .15s ease-in-out;
+  // outline: 0;
+  // transition: color .15s ease-in-out;
 
-  &:hover,
-  &.active {
-    color: $text-color;
-  }
+  // &:hover,
+  // &.active {
+  //   color: $text-color;
+  // }
+}
+
+.is-visible {
+  opacity: 1;
 }
 
 html {

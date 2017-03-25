@@ -214,10 +214,34 @@
     @include media(L) {
       margin: 0 auto;
     }
+  }
 
-    a {
-      color: #0046ff;
-    }
+  &__link {
+    color: #0046ff;
+  }
+
+  &__social {
+    display: flex;
+  }
+
+  &__btn-facebook {
+    @extend .btn-social;
+    background-color: #3c5a95;
+  }
+
+  &__btn-vkontakte {
+    @extend .btn-social;
+    background-color: #1074b1;
+  }
+
+  &__btn-googleplus {
+    @extend .btn-social;
+    background-color: #dd4c3b;
+  }
+
+  &__btn-twitter {
+    @extend .btn-social;
+    background-color: #20a7c6;
   }
 }
 
