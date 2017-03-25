@@ -6,8 +6,7 @@
   <nav class="header__main-menu">
     {% if jekyll.environment == "production" %}
     <a href="{{ site.baseurl }}/release/tentura-beyond-illusion/" class="header__main-menu-link{% if page.url contains 'release' %} is-selected{% endif %}">Releases</a>
-    {% endif %}
-    {% if jekyll.environment == "development" %}
+    {% else %}
     <a href="{{ site.baseurl }}/news/" class="header__main-menu-link{% if page.url contains 'news' %} is-selected{% endif %}">News</a>
     <a href="{{ site.baseurl }}/releases/" class="header__main-menu-link{% if page.url contains 'release' %} is-selected{% endif %}">Releases</a>
     <a href="{{ site.baseurl }}/artists/" class="header__main-menu-link{% if page.url contains 'artist' %} is-selected{% endif %}">Artists</a>
