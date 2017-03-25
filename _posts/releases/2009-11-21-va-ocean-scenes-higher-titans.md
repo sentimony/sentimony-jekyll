@@ -16,11 +16,10 @@ bandcamp_id: 3486103233
 link_bandcamp: https://aquadeep.bandcamp.com/album/va-ocean-scenes-higher-titans
 link_ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
 link_discogs: http://www.discogs.com/Various-Ocean-Scenes-Higher-Titans/release/2023159
-coming_soon: 
 
-compiled_by: Irukanji
-artwork_by: Ju Ju
-mastered_by: Overdream Studio http://overdreamstudio.com & Cifroteca Studio https://www.facebook.com/cifroteca.music
+compiled_by: <a href='https://irukanji-music.com' target='_blank'>Irukanji</a>
+artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a> & <a href='https://www.facebook.com/cifroteca.music' target='_blank'>Cifroteca Studio</a>
 ---
 
 Sentimony Records is proud to introduce you with our new musical direction more deeper musical appearance - Aqua Deep Music.

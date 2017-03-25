@@ -95,6 +95,24 @@
         width: 100%;
         height: 100%;
       }
+
+      &-coming {
+        color: rgba(#fff,.5);
+        font-size: 8px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        padding: .6em 1.2em;
+        text-align: left;
+        z-index: 30;
+
+        @include media(M) {
+          font-size: 10px;
+        }
+      }
     }
 
     &-title {

@@ -5,7 +5,11 @@
       {% for i in site.categories.releases %}
       <a href="{{ i.url }}" class="swiper-slide releases-list-swiper__item{% if page.url contains i.slug %} is-selected{% endif %}">
         <div class="releases-list-swiper__item-cover">
-          <img class="releases-list-swiper__item-cover-img" src="https://content.sentimony.com/assets/img/releases/small/{% if i.cover %}{{ i.cat_no }}/{{ i.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
+          {% if i.cover %}
+          <img class="releases-list-swiper__item-cover-img" src="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg">
+          {% else %}
+          <div class="releases-list-swiper__item-cover-coming">Artwork<br>in progress</div>
+          {% endif %}
         </div>
         <div class="releases-list-swiper__item-title">{{ i.title }}</div>
       </a>

@@ -16,11 +16,10 @@ bandcamp_id: 64124286
 link_bandcamp: https://sentimony.bandcamp.com/album/va-special-places
 link_ektoplazm: http://www.ektoplazm.com/free-music/special-places
 link_discogs: http://www.discogs.com/AstroPilot-Special-Places/release/3517621
-coming_soon: 
 
 compiled_by: AstroPilot
-artwork_by: Ju Ju
-mastered_by: Overdream Studio http://overdreamstudio.com
+artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
 ---
 
 Sentimony Records are happy to announce you label's eleventh release - «Special Places» - ambient, modern classical & score music compilation, compositions which have been carefully selected by AstroPilot.

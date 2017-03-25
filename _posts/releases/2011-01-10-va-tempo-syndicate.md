@@ -16,11 +16,10 @@ bandcamp_id: 2483216888
 link_bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate
 link_ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
 link_discogs: http://www.discogs.com/Various-Tempo-Syndicate/release/2645251
-coming_soon: 
 
-compiled_by: Irukanji
-artwork_by: Irukanji
-mastered_by: Overdream Studio http://overdreamstudio.com
+compiled_by: <a href='https://irukanji-music.com' target='_blank'>Irukanji</a>
+artwork_by: <a href='https://irukanji-music.com' target='_blank'>Irukanji</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
 ---
 
 Sentimony Records team is proud to introduce you label's ninth release and our two years labor - psychedelic music compialtion entitled «Tempo Syndicate».

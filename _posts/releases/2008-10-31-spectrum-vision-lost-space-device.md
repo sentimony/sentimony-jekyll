@@ -16,14 +16,15 @@ bandcamp_id: 2969979336
 link_bandcamp: https://sentimony.bandcamp.com/album/spectrum-vision-lost-space-device
 link_ektoplazm: http://www.ektoplazm.com/free-music/spectrum-vision-lost-space-device
 link_discogs: http://www.discogs.com/Spectrum-Vision-Lost-Space-Device/release/1547476
-coming_soon: 
 
 compiled_by: 
-artwork_by: 1n0x
+artwork_by: 1n0x & <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab
 ---
 
-Enjoy!
+Spectrum Vision was founded in 2004 by two talented musicians from Stupino, Russia, near Moscow: Alexander (1n0x) and Ivan (Ujo). «Lost Space Device» is their debut album on Sentimony Records, originally released in 2008. 
+
+The main focus of the project is psychedelic downtempo and ambient works distinguished by subtle ethnic themes with deep dimensions and beautiful melodic leads.
 
 ---
 Tracklist:

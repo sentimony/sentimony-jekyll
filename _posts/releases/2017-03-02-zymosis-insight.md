@@ -16,14 +16,15 @@ bandcamp_id:
 link_bandcamp: https://sentimony.bandcamp.com/album/zymosis-insight
 link_ektoplazm: 
 link_discogs: 
-coming_soon: 
 
 compiled_by: 
 artwork_by: 
-mastered_by: One Day Mastering Studio https://www.facebook.com/onedaymasteringstudio
+mastered_by: <a href='https://www.facebook.com/onedaymasteringstudio' target='_blank'>One Day Mastering Studio</a>
 ---
 
-Enjoy!
+Sentimony Records proud to presents «Insight» - new Zymosis album.
+
+Have a nice trip!
 
 ---
 Tracklist:

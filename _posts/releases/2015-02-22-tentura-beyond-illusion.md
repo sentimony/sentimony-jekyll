@@ -16,11 +16,10 @@ bandcamp_id: 144410096
 link_bandcamp: https://sentimony.bandcamp.com/album/tentura-beyond-illusion
 link_ektoplazm: 
 link_discogs: http://www.discogs.com/Tentura-Beyond-Illusion/release/6775211
-coming_soon: 
 
 compiled_by: 
 artwork_by: Ader & Andrei Verner
-mastered_by: Overdream Studio http://overdreamstudio.com
+mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
 ---
 
 Enjoy!

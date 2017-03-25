@@ -16,11 +16,10 @@ bandcamp_id: 3896908655
 link_bandcamp: https://lookinglook.bandcamp.com/album/senzar-before-the-morning-sun
 link_ektoplazm: http://www.ektoplazm.com/free-music/senzar-before-the-morning-sun
 link_discogs: http://www.discogs.com/Senzar-Before-The-Morning-Sun/release/2299220
-coming_soon: 
 
 compiled_by: 
-artwork_by: Ju Ju
-mastered_by: Overdream Studio http://overdreamstudio.com
+artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
 ---
 
 Lookinglook Records presents the debut album from Danish artist Senzar, titled «Before The Morning Sun».

@@ -51,6 +51,11 @@
       height: 190px;
     }
 
+    &-link {
+      display: flex;
+      align-items: stretch;
+    }
+
     &-img {
       display: block;
       max-width: 100px;
@@ -59,6 +64,16 @@
 
       @include media(M) {
         max-width: 190px;
+      }
+    }
+
+    &-coming {
+      padding: 1em 1.2em;
+      font-size: 10px;
+      color: rgba(#fff,.5);
+
+      @include media(M) {
+        font-size: 14px;
       }
     }
   }
@@ -151,6 +166,12 @@
       min-width: 540px;
     }
 
+    &-coming {
+      padding: 1em 1.2em;
+      font-size: 14px;
+      color: rgba(#fff,.5);
+    }
+
     &-iframe {
       border-radius: 6px;
       overflow: hidden;
@@ -175,10 +196,14 @@
   background-color: #fff;
   color: #000;
   position: relative;
-  padding: 2em .6em 3em;
+  padding: 2em .6em 6em;
 
   @include media(M) {
     padding-bottom: 8em;
+  }
+
+  @include media(L) {
+    padding-bottom: 12em;
   }
 
   &__wrapper {

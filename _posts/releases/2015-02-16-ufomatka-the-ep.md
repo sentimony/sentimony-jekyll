@@ -16,11 +16,10 @@ bandcamp_id: 342915204
 link_bandcamp: https://lookinglook.bandcamp.com/album/ufomatka-the-e-p
 link_ektoplazm: 
 link_discogs: http://www.discogs.com/Ufomatka-The-Ep/release/6663582
-coming_soon: 
 
 compiled_by: 
 artwork_by: Ufomatka
-mastered_by: Overdream Studio http://overdreamstudio.com
+mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
 ---
 
 Lookinglook Records presents the new goatrance release by our beloved artist Ufomatka.

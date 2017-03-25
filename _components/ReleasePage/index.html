@@ -4,16 +4,22 @@
   <div class="release-page__wrapper">
 
     <div class="release-page__media">
-      <a class="release-page__cover" href="https://content.sentimony.com/assets/img/releases/large/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
-        <img class="release-page__cover-img" src="https://content.sentimony.com/assets/img/releases/medium/{% if page.cover %}{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}artwork-in-progress.jpg{% endif %}">
-      </a>
+      <div class="release-page__cover">
+        {% if page.cover %}
+        <a class="release-page__cover-link" href="https://content.sentimony.com/assets/img/releases/large/{{ page.cat_no }}/{{ page.slug }}.jpg">
+          <img class="release-page__cover-img" src="https://content.sentimony.com/assets/img/releases/medium/{{ page.cat_no }}/{{ page.slug }}.jpg">
+        </a>
+        {% else %}
+        <div class="release-page__cover-coming">Artwork<br>in progress</div>
+        {% endif %}
+      </div>
 
       <div class="release-page__info">
         <div class="release-page__date">{% if page.coming_soon %}Coming at {{ page.date | date: '%Y' }}{% else %}{{ page.date | date_to_string }}{% endif %}</div>
         <h1 class="release-page__title">{{ page.title }}</h1>
         <div class="release-page__listen-on">Listen on:</div>
         <div>
-          <a class="release-page__bandcamp-btn" href="{{ page.link_bandcamp }}" target="_blank">
+          <a class="release-page__bandcamp-btn{% if page.coming_soon %} is-disabled{% endif %}" href="{% if page.coming_soon %}javascript:void(0){% else %}{{ page.link_bandcamp }}{% endif %}" target="_blank">
             <span class="release-page__bandcamp-btn-icon"></span>
             <img class="release-page__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg">
             <span class="release-page__bandcamp-btn-text">Bandcamp</span>
@@ -28,6 +34,9 @@
     </div>
 
     <div class="release-page__player{% include IframeSize/index.html %}">
+      {% if page.coming_soon %}
+      <div class="release-page__player-coming">Music<br>is coming</div>
+      {% endif %}
       {% if page.bandcamp_id %}
       <iframe class="release-page__player-iframe{% include IframeSize/index.html %}" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp_id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/" seamless></iframe>
       {% endif %}
@@ -41,6 +50,32 @@
 
   <div class="release-page-content__wrapper">
     {{ content }}
+
+    {% if page.mastered_by %}
+    <hr>
+    <p>Credits:</p>
+    {% endif %}
+
+    {% if page.compiled_by %}
+    <p>
+      <span>Compiled By</span>
+      {{ page.compiled_by }}
+    </p>
+    {% endif %}
+
+    {% if page.artwork_by %}
+    <p>
+      <span>Artwork By</span>
+      {{ page.artwork_by }}
+    </p>
+    {% endif %}
+
+    {% if page.mastered_by %}
+    <p>
+      <span>Mastered By</span>
+      {{ page.mastered_by }}
+    </p>
+    {% endif %}
 
     {% if page.link_discogs %}
     <hr>
@@ -72,32 +107,6 @@
         <!-- <span class="icon-discogs"></span> -->
         Discogs
       </a>
-    </p>
-    {% endif %}
-
-    {% if page.mastered_by %}
-    <hr>
-    <p>Credits:</p>
-    {% endif %}
-
-    {% if page.compiled_by %}
-    <p>
-      <span>Compiled By</span>
-      {{ page.compiled_by }}
-    </p>
-    {% endif %}
-
-    {% if page.artwork_by %}
-    <p>
-      <span>Artwork By</span>
-      {{ page.artwork_by }}
-    </p>
-    {% endif %}
-
-    {% if page.mastered_by %}
-    <p>
-      <span>Mastered By</span>
-      {{ page.mastered_by }}
     </p>
     {% endif %}
 
