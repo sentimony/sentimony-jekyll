@@ -55,5 +55,13 @@
     <a href="https://nuxt.sentimony.com">nuxt</a>
   </div>
 
+  <div>
+    <a href="{{ site.baseurl }}/news/" class="header__main-menu-link{% if page.url contains 'news' %} is-selected{% endif %}">News</a>
+    <a href="{{ site.baseurl }}/releases/" class="header__main-menu-link{% if page.url contains 'release' %} is-selected{% endif %}">Releases</a>
+    <a href="{{ site.baseurl }}/artists/" class="header__main-menu-link{% if page.url contains 'artist' %} is-selected{% endif %}">Artists</a>
+    <a href="{{ site.baseurl }}/events/" class="header__main-menu-link{% if page.url contains 'event' %} is-selected{% endif %}">Events</a>
+    <a href="{{ site.baseurl }}/friends/" class="header__main-menu-link{% if page.url contains 'friends' %} is-selected{% endif %}">Friends</a>
+  </div>
+
 </footer>
 
