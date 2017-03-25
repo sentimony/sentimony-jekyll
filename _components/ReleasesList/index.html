@@ -25,16 +25,16 @@
     {% for i in site.categories.releases %}
     <a href="{{ i.url }}" class="release-list__item isotope-item {{ i.filterLabel }} {{ i.filterStyle }} {{ i.filterFormat }}">
       <div class="image-container">
-        {% if i.cover %}
+        <!-- {% if i.cover %}
         <img src="https://content.sentimony.com/assets/img/releases/medium/{{ i.cat_no }}/{{ i.slug }}.jpg">
         {% else %}
         <img src="https://content.sentimony.com/assets/img/releases/medium/artwork-in-progress.jpg">
-        {% endif %}
-        <!-- <img 
+        {% endif %} -->
+        <img 
           data-src="holder.js/700x700?auto=yes&text={{ i.title }}&fg=000&bg=0ff"
           data-layzr="{{ site.baseurl }}/assets/img/releases/{{ i.slug }}.jpg"
           data-layzr-retina="{{ site.baseurl }}/assets/img/releases/{{ i.slug }}@2x.jpg"
-        > -->
+        >
       </div>
       <div class="title">{{ i.title }}</div>
     </a>

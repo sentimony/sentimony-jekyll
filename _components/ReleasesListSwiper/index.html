@@ -10,6 +10,9 @@
           {% else %}
           <div class="releases-list-swiper__item-cover-coming">Artwork<br>in progress</div>
           {% endif %}
+          {% if i.coming_soon %}
+          <div class="releases-list-swiper__item-status releases-list-swiper__item-status-coming-soon">Coming Soon</div>
+          {% endif %}
         </div>
         <div class="releases-list-swiper__item-title">{{ i.title }}</div>
       </a>

@@ -19,7 +19,7 @@ link_discogs: http://www.discogs.com/Various-Time-Loop-Beyond-Borders/release/24
 
 compiled_by: Zea NeiRula
 artwork_by: Flange
-mastered_by: <a href='https://www.facebook.com/OnkelDunkelBook' target='_blank'>Onkel Dunkel Studio</a>
+mastered_by: Onkel Dunkel Studio
 ---
 
 Sentimony Records are happy to announce fresh full-length compilation! It's kind of new project from Sentimony team - VA «Time Loop: Beyond Borders», starts new series of compilations under name Time Loop. We are happy to introduce you with known projects and a new perspective names from our opinion ;) Hope you will enjoy it!

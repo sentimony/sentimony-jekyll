@@ -108,6 +108,7 @@
         padding: .6em 1.2em;
         text-align: left;
         z-index: 30;
+        // margin-top: 2em;
 
         @include media(M) {
           font-size: 10px;
@@ -123,6 +124,26 @@
 
       @include media(M) {
         display: block;
+      }
+    }
+
+    &-status {
+      position: absolute;
+      top: -10px;
+      // left: 50%;
+      font-size: 8px;
+      z-index: 40;
+      padding: .2em .4em;
+      border-radius: 0 4px 0 4px;
+      // transform: translate3d(-50%,0,0);
+      right: -10px;
+
+      @include media(M) {
+        font-size: 10px;
+      }
+
+      &-coming-soon {
+        background-color: green;
       }
     }
   }
