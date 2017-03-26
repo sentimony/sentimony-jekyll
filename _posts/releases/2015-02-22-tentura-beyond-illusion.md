@@ -4,9 +4,9 @@ permalink: /release/tentura-beyond-illusion/
 category: releases
 
 title: 'Tentura «Beyond Illusion»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: album
+label: sentimony
+style: psychill
+format: album
 cover: true
 cat_no: sencd023
 tracks_no: 10

@@ -4,9 +4,9 @@ permalink: /release/va-fantazma/
 category: releases
 
 title: 'VA «Fantazma»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: compilation
+label: sentimony
+style: psychill
+format: compilation
 cover: true
 cat_no: sencd001
 tracks_no: 11

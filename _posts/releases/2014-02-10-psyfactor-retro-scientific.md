@@ -4,9 +4,9 @@ permalink: /release/psyfactor-retro-scientific/
 category: releases
 
 title: 'Psyfactor «Retro Scientific»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: album
+label: sentimony
+style: psychill
+format: album
 cover: true
 cat_no: sencd016
 tracks_no: 11

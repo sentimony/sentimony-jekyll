@@ -4,9 +4,9 @@ permalink: /release/va-true-story/
 category: releases
 
 title: 'VA «True Story»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: compilation
+label: sentimony
+style: psychill
+format: compilation
 cover: true
 cat_no: sencd004
 tracks_no: 12

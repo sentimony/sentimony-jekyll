@@ -4,9 +4,9 @@ permalink: /release/irukanji-z-lisu/
 category: releases
 
 title: 'Irukanji «Z Lisu»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: album
+label: sentimony
+style: psychill
+format: album
 cover: true
 cat_no: sencd006
 tracks_no: 10

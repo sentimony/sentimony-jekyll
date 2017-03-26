@@ -4,9 +4,9 @@ permalink: /release/specialmind-the-missing-particle/
 category: releases
 
 title: 'Specialmind «The Missing Particle»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: single
+label: sentimony
+style: psychill
+format: single
 cover: true
 cat_no: sencd013
 tracks_no: 5

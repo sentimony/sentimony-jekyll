@@ -4,9 +4,9 @@ permalink: /release/spectrum-vision-lost-space-device/
 category: releases
 
 title: 'Spectrum Vision «Lost Space Device»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: album
+label: sentimony
+style: psychill
+format: album
 cover: true
 cat_no: sencd005
 tracks_no: 9

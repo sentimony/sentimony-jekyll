@@ -4,9 +4,9 @@ permalink: /release/zymosis-insight/
 category: releases
 
 title: 'Zymosis «Insight»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: album
+label: sentimony
+style: psychill
+format: album
 cover: 
 cat_no: sencd025
 tracks_no: 9

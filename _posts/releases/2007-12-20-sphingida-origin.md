@@ -4,9 +4,9 @@ permalink: /release/sphingida-origin/
 category: releases
 
 title: 'Sphingida «Origin»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: album
+label: sentimony
+style: psychill
+format: album
 cover: true
 cat_no: sencd003
 tracks_no: 10

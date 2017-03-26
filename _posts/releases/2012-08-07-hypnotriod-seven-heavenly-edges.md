@@ -4,9 +4,9 @@ permalink: /release/hypnotriod-seven-heavenly-edges/
 category: releases
 
 title: 'Hypnotriod «Seven Heavenly Edges»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: single
+label: sentimony
+style: psychill
+format: single
 cover: true
 cat_no: sencd012
 tracks_no: 5

@@ -4,9 +4,9 @@ permalink: /release/va-absence-of-gravity/
 category: releases
 
 title: 'VA «Absence Of Gravity»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: compilation
+label: sentimony
+style: psychill
+format: compilation
 cover: true
 cat_no: sencd010
 tracks_no: 11

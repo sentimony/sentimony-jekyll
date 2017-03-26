@@ -4,9 +4,9 @@ permalink: /release/va-time-loop-beyond-borders/
 category: releases
 
 title: 'VA «Time Loop: Beyond Borders»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: compilation
+label: sentimony
+style: psychill
+format: compilation
 cover: true
 cat_no: sencd007
 tracks_no: 11

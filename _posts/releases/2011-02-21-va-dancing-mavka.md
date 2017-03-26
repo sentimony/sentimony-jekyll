@@ -4,9 +4,9 @@ permalink: /release/va-dancing-mavka/
 category: releases
 
 title: VA «Dansing Mavka»
-filterLabel: lookinglook
-filterStyle: goatrance
-filterFormat: compilation
+label: lookinglook
+genre: goatrance
+format: compilation
 cover: true
 cat_no: sencd020
 tracks_no: 9

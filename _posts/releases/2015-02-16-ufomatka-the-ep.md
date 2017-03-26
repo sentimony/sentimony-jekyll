@@ -4,9 +4,9 @@ permalink: /release/ufomatka-the-ep/
 category: releases
 
 title: 'Ufomatka «The E.P.»'
-filterLabel: lookinglook
-filterStyle: goatrance
-filterFormat: single
+label: lookinglook
+genre: goatrance
+format: single
 cover: true
 cat_no: sencd022
 tracks_no: 5

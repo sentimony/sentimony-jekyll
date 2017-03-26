@@ -1,5 +1,17 @@
 <footer class="footer">
 
+  <div class="footer__menu">
+    <a href="{{ site.baseurl }}/" class="header__main-menu-link{% if page.url == '/'%} is-selected{% endif %}">Home</a>
+    <a href="{{ site.baseurl }}/about/" class="header__main-menu-link{% if page.url contains 'about' %} is-selected{% endif %}">About</a>
+    <a href="{{ site.baseurl }}/news/" class="header__main-menu-link{% if page.url contains 'news' %} is-selected{% endif %}">News</a>
+    <a href="{{ site.baseurl }}/releases/" class="header__main-menu-link{% if page.url contains 'release' %} is-selected{% endif %}">Releases</a>
+    <a href="{{ site.baseurl }}/artists/" class="header__main-menu-link{% if page.url contains 'artist' %} is-selected{% endif %}">Artists</a>
+    <a href="{{ site.baseurl }}/events/" class="header__main-menu-link{% if page.url contains 'event' %} is-selected{% endif %}">Events</a>
+    <a href="{{ site.baseurl }}/friends/" class="header__main-menu-link{% if page.url contains 'friends' %} is-selected{% endif %}">Friends</a>
+    <a href="{{ site.baseurl }}/contacts/" class="header__main-menu-link{% if page.url contains 'contacts' %} is-selected{% endif %}">Contacts</a>
+    <a href="{{ site.baseurl }}/menu/" class="header__main-menu-link{% if page.url contains 'menu' %} is-selected{% endif %}">Menu</a>
+  </div>
+
   <div>Follow Us:</div>
   <div class="footer__social">
     <a href="https://sentimony.bandcamp.com" target="_blank">
@@ -53,14 +65,6 @@
     <a href="https://sentimony.com" class="active">jekyll</a>
     <a href="https://gatsby.sentimony.com">gatsby</a>
     <a href="https://nuxt.sentimony.com">nuxt</a>
-  </div>
-
-  <div>
-    <a href="{{ site.baseurl }}/news/" class="header__main-menu-link{% if page.url contains 'news' %} is-selected{% endif %}">News</a>
-    <a href="{{ site.baseurl }}/releases/" class="header__main-menu-link{% if page.url contains 'release' %} is-selected{% endif %}">Releases</a>
-    <a href="{{ site.baseurl }}/artists/" class="header__main-menu-link{% if page.url contains 'artist' %} is-selected{% endif %}">Artists</a>
-    <a href="{{ site.baseurl }}/events/" class="header__main-menu-link{% if page.url contains 'event' %} is-selected{% endif %}">Events</a>
-    <a href="{{ site.baseurl }}/friends/" class="header__main-menu-link{% if page.url contains 'friends' %} is-selected{% endif %}">Friends</a>
   </div>
 
 </footer>

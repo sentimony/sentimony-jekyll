@@ -4,9 +4,9 @@ permalink: /release/va-ocean-scenes-higher-titans/
 category: releases
 
 title: 'VA «Ocean Scenes: Higher Titans»'
-filterLabel: aquadeep
-filterStyle: darktrance
-filterFormat: compilation
+label: aquadeep
+genre: darktrance
+format: compilation
 cover: true
 cat_no: sencd008
 tracks_no: 12

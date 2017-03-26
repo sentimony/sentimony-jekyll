@@ -4,9 +4,9 @@ permalink: /release/unusual-cosmic-process-weightlessness/
 category: releases
 
 title: Unusual Cosmic Process ‎«Weightlessness»
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: album
+label: sentimony
+style: psychill
+format: album
 cover: true
 cat_no: sencd019
 tracks_no: 7

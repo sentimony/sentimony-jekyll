@@ -4,9 +4,9 @@ permalink: /release/cifroteca-roof-raiser-wild-storm/
 category: releases
 
 title: 'Cifroteca & Roof Raiser «Wild Storm»'
-filterLabel: aquadeep
-filterStyle: darktrance
-filterFormat: album
+label: aquadeep
+genre: darktrance
+format: album
 cover: true
 cat_no: sencd015
 tracks_no: 10

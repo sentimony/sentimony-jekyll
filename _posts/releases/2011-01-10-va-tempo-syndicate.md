@@ -4,9 +4,9 @@ permalink: /release/va-tempo-syndicate/
 category: releases
 
 title: 'VA «Tempo Syndicate»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: compilation
+label: sentimony
+style: psychill
+format: compilation
 cover: true
 cat_no: sencd009
 tracks_no: 12

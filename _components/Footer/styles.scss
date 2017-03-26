@@ -3,6 +3,15 @@
   background-color: #000;
   font-size: 12px;
 
+  &__menu {
+    margin: 0 auto 2em;
+
+    a {
+      display: inline-block;
+      padding: .1px .6em;
+    }
+  }
+
   &__social {
     padding-top: 1.2em;
     margin-bottom: 10px;

@@ -4,9 +4,9 @@ permalink: /release/va-special-places/
 category: releases
 
 title: 'VA «Special Places»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: compilation
+label: sentimony
+style: psychill
+format: compilation
 cover: true
 cat_no: sencd011
 tracks_no: 12

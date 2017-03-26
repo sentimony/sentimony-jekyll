@@ -4,9 +4,9 @@ permalink: /release/tentura-aurora/
 category: releases
 
 title: 'Tentura «Aurora»'
-filterLabel: sentimony
-filterStyle: chillout
-filterFormat: single
+label: sentimony
+style: psychill
+format: single
 cover: true
 cat_no: sencd014
 tracks_no: 4

@@ -4,9 +4,9 @@ permalink: /release/va-gamayun-tale/
 category: releases
 
 title: 'VA «Gamayun Tale»'
-filterLabel: lookinglook
-filterStyle: goatrance
-filterFormat: compilation
+label: lookinglook
+genre: goatrance
+format: compilation
 cover: true
 cat_no: sencd021
 tracks_no: 11
