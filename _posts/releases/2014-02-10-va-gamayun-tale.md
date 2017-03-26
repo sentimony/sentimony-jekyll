@@ -5,12 +5,13 @@ category: releases
 
 title: 'VA «Gamayun Tale»'
 label: lookinglook
-genre: goatrance
+style: goatrance
 format: compilation
 cover: true
 cat_no: sencd021
 tracks_no: 11
 coming_soon: 
+popular: 
 
 bandcamp_id: 3538385956
 link_bandcamp: https://lookinglook.bandcamp.com/album/va-gamayun-tale

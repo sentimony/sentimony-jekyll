@@ -11,6 +11,7 @@ cover: true
 cat_no: sencd001
 tracks_no: 11
 coming_soon: 
+popular: 
 
 bandcamp_id: 3399361938
 link_bandcamp: https://sentimony.bandcamp.com/album/va-fantazma

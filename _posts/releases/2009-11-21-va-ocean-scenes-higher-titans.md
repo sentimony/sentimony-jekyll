@@ -5,12 +5,13 @@ category: releases
 
 title: 'VA «Ocean Scenes: Higher Titans»'
 label: aquadeep
-genre: darktrance
+style: psytrance
 format: compilation
 cover: true
 cat_no: sencd008
 tracks_no: 12
 coming_soon: 
+popular: 
 
 bandcamp_id: 3486103233
 link_bandcamp: https://aquadeep.bandcamp.com/album/va-ocean-scenes-higher-titans

@@ -11,6 +11,7 @@ cover: true
 cat_no: sencd009
 tracks_no: 12
 coming_soon: 
+popular: 
 
 bandcamp_id: 2483216888
 link_bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate

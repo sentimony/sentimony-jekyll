@@ -11,6 +11,7 @@ cover: true
 cat_no: sencd003
 tracks_no: 10
 coming_soon: 
+popular: 
 
 bandcamp_id: 3680718383
 link_bandcamp: https://sentimony.bandcamp.com/album/sphingida-origin

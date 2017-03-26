@@ -1,105 +1,103 @@
 .hero {
-  height: 100%;
-  width: 100%;
-  text-align: center;
-  background: #000;
-  background-size: cover;
   position: relative;
 
-  .overlay {
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    background: #000;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-image: url(/assets/img/backgrounds/hero.jpg);
-    background-size: cover;
-    z-index: 10;
-    opacity: 0;
+  &__wrapper {
+    max-width: 777px;
+    margin: 0 auto;
+    padding: 0 10px;
+    box-sizing: border-box;
   }
 
-  .content {
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    z-index: 20;
+  &__title {
+    font-family: 'Julius Sans One', sans-serif;
+    color: #fff;
+    margin: 2em 0 .2em;
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
 
-    hgroup {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate3d(-50%,-50%,0);
-      display: inline-block;
-      // border: 10px solid #fff;
-      // padding: 30px 60px;
-      // background: rgba(0,0,0,.5);
+    @include media(S) {
+      font-size: 55px;
+      letter-spacing: 5px;
+    }
 
-      h1 {
-        font-family: 'Julius Sans One', sans-serif;
-        color: #fff;
-        margin: 0 0 20px;
-        font-weight: 400;
-        font-size: 40px;
-        letter-spacing: 2px;
-        text-transform: uppercase;
+    @include media(M) {
+      font-size: 70px;
+      letter-spacing: 8px;
+    }
 
-        @include media(S) {
-          font-size: 55px;
-          letter-spacing: 5px;
-        }
+    @include media(L) {
+      font-size: 85px;
+      letter-spacing: 11px;
+    }
 
-        @include media(M) {
-          font-size: 70px;
-          letter-spacing: 8px;
-        }
+    @include media(XL) {
+      font-size: 100px;
+      letter-spacing: 14px;
+    }
+  }
 
-        @include media(L) {
-          font-size: 85px;
-          letter-spacing: 11px;
-        }
+  &__subtitle {
+    font-family: 'Julius Sans One', sans-serif;
+    color: #fff;
+    margin: 0 0 8em;
+    font-weight: 400;
+    line-height: 2;
+    font-size: 12px;
+    letter-spacing: 4px;
 
-        @include media(XL) {
-          font-size: 100px;
-          letter-spacing: 14px;
-        }
-      }
+    @include media(S) {
+      font-size: 14px;
+      letter-spacing: 8px;
+    }
 
-      h2 {
-        // font-family: 'Crimson Text', serif;
-        // text-transform: lowercase;
-        font-family: 'Julius Sans One', sans-serif;
-        color: #fff;
-        margin: 0;
-        font-weight: 400;
-        line-height: 2;
-        font-size: 12px;
-        letter-spacing: 4px;
+    @include media(M) {
+      font-size: 16px;
+      letter-spacing: 12px;
+    }
 
-        @include media(S) {
-          font-size: 14px;
-          letter-spacing: 8px;
-        }
+    @include media(L) {
+      font-size: 18px;
+      letter-spacing: 16px;
+    }
 
-        @include media(M) {
-          font-size: 16px;
-          letter-spacing: 12px;
-        }
+    @include media(XL) {
+      font-size: 20px;
+      letter-spacing: 20px;
+    }
+  }
+}
 
-        @include media(L) {
-          font-size: 18px;
-          letter-spacing: 16px;
-        }
+.about {
+  background-color: rgba(#000,.5);
+  position: relative;
 
-        @include media(XL) {
-          font-size: 20px;
-          letter-spacing: 20px;
-        }
-      }
+  &__wrapper {
+    max-width: 555px;
+    margin: 0 auto;
+    padding: 5em 10px;
+    box-sizing: border-box;
+  }
+
+  &__logo {
+    width: 60px;
+  }
+}
+
+.donate {
+  background-color: #fff;
+  position: relative;
+  color: #000;
+
+  &__wrapper {
+    max-width: 555px;
+    margin: 0 auto;
+    padding: 5em 10px;
+    box-sizing: border-box;
+
+    a {
+      color: #0046ff;
     }
   }
 }

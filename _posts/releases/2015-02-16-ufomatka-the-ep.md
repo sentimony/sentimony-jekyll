@@ -5,12 +5,13 @@ category: releases
 
 title: 'Ufomatka «The E.P.»'
 label: lookinglook
-genre: goatrance
-format: single
+style: goatrance
+format: EP album
 cover: true
 cat_no: sencd022
 tracks_no: 5
 coming_soon: 
+popular: 
 
 bandcamp_id: 342915204
 link_bandcamp: https://lookinglook.bandcamp.com/album/ufomatka-the-e-p

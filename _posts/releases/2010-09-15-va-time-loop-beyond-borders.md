@@ -11,6 +11,7 @@ cover: true
 cat_no: sencd007
 tracks_no: 11
 coming_soon: 
+popular: 
 
 bandcamp_id: 2208878008
 link_bandcamp: https://sentimony.bandcamp.com/album/va-time-loop-beyond-borders

@@ -11,6 +11,7 @@ cover: true
 cat_no: sencd016
 tracks_no: 11
 coming_soon: 
+popular: true
 
 bandcamp_id: 625816327
 link_bandcamp: https://sentimony.bandcamp.com/album/psyfactor-retro-scientific

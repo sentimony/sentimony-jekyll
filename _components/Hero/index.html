@@ -1,10 +1,21 @@
 <div class="hero">
-  {% include SVG/deco-triangle.svg %}
-  <div class="overlay"></div>
-  <div class="content">
-    <hgroup>
-      <h1>Sentimony Records</h1>
-      <h2>Psychill Music Label</h2>
-    </hgroup>
+  <div class="hero__wrapper">
+    <h1 class="hero__title">Sentimony Records</h1>
+    <h2 class="hero__subtitle">Psychill Music Label</h2>
+  </div>
+</div>
+
+<div class="about">
+  <div class="about__wrapper">
+    <p><img class="about__logo" src="{{ site.baseurl }}/assets/img/svg-icons/sentimony-records-logo.svg" alt="Sentimony Records Logo SVG"></p>
+    <p>Sentimony Records is an independent record label started in Ukraine during the autumn 2006 by Irukanji with the main goal to contribute the growth of the psychedelic chillout scene.</p>
+  </div>
+</div>
+
+{% include ReleaseListSwiper/index.html class='release-list-swiper__container--home-page' %}
+
+<div class="donate">
+  <div class="donate__wrapper">
+    <p>Recently all Sentimony Records releases available for free download.<br>We will be grateful for your feedback at <a href="https://sentimony.bandcamp.com" target="_blank">bandcamp</a>.</p>
   </div>
 </div>

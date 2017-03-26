@@ -1,18 +1,18 @@
-.releases-list-swiper {
+.release-list-swiper {
   width: 100%;
   overflow: hidden;
-  height: 122px;
+  height: 136px;
 
   @include media(M) {
-    height: 256px;
+    height: 286px;
   }
 
   &__title {
     text-align: left;
     max-width: 1270px;
-    margin: 0 auto;
+    margin: .5em auto;
     font-size: 18px;
-    padding: .2em .6em 0;
+    padding: 0 10px;
     box-sizing: border-box;
 
     @include media(M) {
@@ -68,7 +68,7 @@
           transform: translate3d(-10px,-10px,0);
         }
 
-        .releases-list-swiper__item.is-selected & {
+        .release-list-swiper__item.is-selected & {
           background-color: rgba(#fff,.3);
         }
       }
@@ -144,7 +144,11 @@
       }
 
       &-coming-soon {
-        background-color: green;
+        background-color: forestgreen;
+      }
+
+      &-popular {
+        background-color: red;
       }
     }
   }

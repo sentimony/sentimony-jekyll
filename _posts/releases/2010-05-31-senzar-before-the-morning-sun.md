@@ -11,6 +11,7 @@ cover: true
 cat_no: sencd017
 tracks_no: 10
 coming_soon: 
+popular: 
 
 bandcamp_id: 3896908655
 link_bandcamp: https://lookinglook.bandcamp.com/album/senzar-before-the-morning-sun

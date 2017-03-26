@@ -5,12 +5,13 @@ category: releases
 
 title: VA «Dansing Mavka»
 label: lookinglook
-genre: goatrance
+style: goatrance
 format: compilation
 cover: true
 cat_no: sencd020
 tracks_no: 9
 coming_soon: 
+popular: 
 
 bandcamp_id: 95715287
 link_bandcamp: https://lookinglook.bandcamp.com/album/va-dancing-mavka

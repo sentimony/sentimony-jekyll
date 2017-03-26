@@ -6,11 +6,12 @@ category: releases
 title: 'Hypnotriod «Seven Heavenly Edges»'
 label: sentimony
 style: psychill
-format: single
+format: EP album
 cover: true
 cat_no: sencd012
 tracks_no: 5
 coming_soon: 
+popular: 
 
 bandcamp_id: 2733998829
 link_bandcamp: https://sentimony.bandcamp.com/album/hypnotriod-seven-heavenly-edges

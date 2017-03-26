@@ -8,7 +8,7 @@
 
     a {
       display: inline-block;
-      padding: .1px .6em;
+      padding: .6em;
     }
   }
 
@@ -18,7 +18,7 @@
 
     a {
       display: inline-block;
-      padding: .1px .9em;
+      padding: .1em .9em;
       position: relative;
 
       [class^="icon-"] {
@@ -62,13 +62,13 @@
     margin: 0 auto 10px;
     display: inline-block;
     padding: 10px 0;
-    border: 1px solid rgba($accent-color, .1);
+    border: 1px solid rgba(#fff,.1);
     border-width: 1px 0;
     display: none;
 
     a {
       display: inline-block;
-      padding: .1px .9em;
+      padding: .1em .9em;
     }
   }
 
@@ -76,14 +76,14 @@
     margin: 0 auto 10px;
     display: inline-block;
     padding: 10px 0;
-    border: 1px solid rgba($accent-color, .1);
+    border: 1px solid rgba(#fff,.1);
     border-width: 1px 0;
     font-size: .8em;
     display: none;
 
     a {
       display: inline-block;
-      padding: .1px .9em;
+      padding: .1em .9em;
     }
   }
 }

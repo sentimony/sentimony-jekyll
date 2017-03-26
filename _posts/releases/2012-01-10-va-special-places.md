@@ -11,6 +11,7 @@ cover: true
 cat_no: sencd011
 tracks_no: 12
 coming_soon: 
+popular: true
 
 bandcamp_id: 64124286
 link_bandcamp: https://sentimony.bandcamp.com/album/va-special-places

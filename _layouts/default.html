@@ -19,11 +19,17 @@ layout: compress
 </head>
 <body>
 
-  {% include Header/index.html %}
-
-  {{ content }}
-
-  {% include Footer/index.html %}
+  <div class="flex-sticky">
+    <div class="flex-sticky__header">
+      {% include Header/index.html %}
+    </div>
+    <div class="flex-sticky__content">
+      {{ content }}
+    </div>
+    <div class="flex-sticky__footer">
+      {% include Footer/index.html %}
+    </div>
+  </div>
 
   <script src="{{ site.baseurl }}/assets/js/bundle.min.js"></script>
 

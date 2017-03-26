@@ -11,6 +11,7 @@ cover: true
 cat_no: sencd005
 tracks_no: 9
 coming_soon: 
+popular: 
 
 bandcamp_id: 2969979336
 link_bandcamp: https://sentimony.bandcamp.com/album/spectrum-vision-lost-space-device

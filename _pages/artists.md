@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: page
 title: Artists
 description: Artists of Sentimony Records
 permalink: /artists/
 og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
-{% include ArtistsList/index.html %}
+{% for i in site.categories.artists %}
+[{{ i.title }}]({{ i.url }})
+{% endfor %}

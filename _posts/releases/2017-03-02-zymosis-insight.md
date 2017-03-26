@@ -11,6 +11,7 @@ cover:
 cat_no: sencd025
 tracks_no: 9
 coming_soon: true
+popular: 
 
 bandcamp_id: 
 link_bandcamp: https://sentimony.bandcamp.com/album/zymosis-insight
@@ -22,7 +23,7 @@ artwork_by:
 mastered_by: <a href='https://www.facebook.com/onedaymasteringstudio' target='_blank'>One Day Mastering Studio</a>
 ---
 
-Sentimony Records proud to presents «Insight» - new Zymosis album.
+Sentimony Records team proud to presents «Insight» - new Zymosis full-length album.
 
 Have a nice trip!
 

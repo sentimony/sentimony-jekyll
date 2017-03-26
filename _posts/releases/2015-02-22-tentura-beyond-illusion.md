@@ -11,6 +11,7 @@ cover: true
 cat_no: sencd023
 tracks_no: 10
 coming_soon: 
+popular: true
 
 bandcamp_id: 144410096
 link_bandcamp: https://sentimony.bandcamp.com/album/tentura-beyond-illusion
@@ -22,7 +23,9 @@ artwork_by: Ader & Andrei Verner
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
 ---
 
-Enjoy!
+Sentimony Records team proudly presents «Beyond Illusion» - new Tentura full-length album.
+
+Have a nice trip!
 
 ---
 Tracklist:

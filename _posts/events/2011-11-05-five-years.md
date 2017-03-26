@@ -1,9 +1,9 @@
 ---
-layout: event-page
+layout: post
 permalink: /event/five-years/
 category: events
 
-fb-link: 
-psyshine-link: http://forum.psyshine.org.ua/viewtopic.php?t=9394
+facebook_link: 
+psyshine_link: http://forum.psyshine.org.ua/viewtopic.php?t=9394
 ---
 

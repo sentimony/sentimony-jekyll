@@ -11,6 +11,7 @@ cover: true
 cat_no: sencd019
 tracks_no: 7
 coming_soon: 
+popular: 
 
 bandcamp_id: 987015194
 link_bandcamp: https://lookinglook.bandcamp.com/album/unusual-cosmic-process-weightlessness

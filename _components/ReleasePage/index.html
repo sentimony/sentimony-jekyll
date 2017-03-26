@@ -49,8 +49,6 @@
 </div>
 
 <div class="release-page-content">
-  {% include SVG/deco-triangle.svg fill='#000' %}
-
   <div class="release-page-content__wrapper">
     {{ content }}
 
@@ -97,7 +95,7 @@
     {% if page.link_ektoplazm %}
     <p>
       <!-- <span>Free Download:</span> -->
-      <a class="release-page-content__link" href="{{ page.link_ektoplazm }}" target="_blank">
+      <a href="{{ page.link_ektoplazm }}" target="_blank">
         Ektoplazm
       </a>
     </p>
@@ -106,7 +104,7 @@
     {% if page.link_discogs %}
     <p>
       <!-- <span>Release Info:</span> -->
-      <a class="release-page-content__link" href="{{ page.link_discogs }}" target="_blank">
+      <a href="{{ page.link_discogs }}" target="_blank">
         <!-- <span class="icon-discogs"></span> -->
         Discogs
       </a>

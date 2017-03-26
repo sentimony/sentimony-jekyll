@@ -1,9 +1,9 @@
 ---
-layout: event-page
+layout: post
 permalink: /event/home-space/
 category: events
 
-fb-link: 
-psyshine-link: http://forum.psyshine.org.ua/viewtopic.php?t=8288
+facebook_link: 
+psyshine_link: http://forum.psyshine.org.ua/viewtopic.php?t=8288
 ---
 

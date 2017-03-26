@@ -5,12 +5,13 @@ category: releases
 
 title: 'Cifroteca & Roof Raiser «Wild Storm»'
 label: aquadeep
-genre: darktrance
+style: psytrance
 format: album
 cover: true
 cat_no: sencd015
 tracks_no: 10
 coming_soon: 
+popular: 
 
 bandcamp_id: 721225799
 link_bandcamp: https://aquadeep.bandcamp.com/album/cifroteca-roof-raiser-wild-storm
