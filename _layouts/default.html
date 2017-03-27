@@ -31,7 +31,25 @@ layout: compress
     </div>
   </div>
 
+  <div id="bigOne"></div>
+
   <script src="{{ site.baseurl }}/assets/js/bundle.min.js"></script>
+
+  <script src="https://www.gstatic.com/firebasejs/3.7.3/firebase.js"></script>
+  <script>
+    var config = {
+      apiKey: "AIzaSyCTVGdSsE6h8PA6WOeqxgzyCgX4L3eOoNE",
+      authDomain: "sentimony-db.firebaseapp.com",
+      databaseURL: "https://sentimony-db.firebaseio.com",
+      storageBucket: "sentimony-db.appspot.com",
+      messagingSenderId: "724792675849"
+    };
+    firebase.initializeApp(config);
+
+    var bigOne = document.getElementById('bigOne');
+    var dbRef = firebase.database().ref().child('releases').child('irukanji-z-lisu').child('title');
+    dbRef.on('value', snap => bigOne.innerText = snap.val());
+  </script>
 
   {% if jekyll.environment == "production" %}
     {% include Analytics/google-analytics.html %}

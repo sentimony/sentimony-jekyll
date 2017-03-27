@@ -7,5 +7,5 @@ og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
 {% for i in site.categories.releases %}
-[{{ i.title }}]({{ i.url }})
+[{{ i.date | date: '%Y' }} - {{ i.title }}]({{ i.url }})
 {% endfor %}

@@ -6,7 +6,7 @@ category: releases
 title: 'Tentura «Aurora»'
 label: sentimony
 style: psychill
-format: EP album
+format: ep album
 cover: true
 cat_no: sencd014
 tracks_no: 4

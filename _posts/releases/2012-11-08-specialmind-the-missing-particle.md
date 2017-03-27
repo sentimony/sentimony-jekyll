@@ -6,7 +6,7 @@ category: releases
 title: 'Specialmind «The Missing Particle»'
 label: sentimony
 style: psychill
-format: EP album
+format: ep album
 cover: true
 cat_no: sencd013
 tracks_no: 5

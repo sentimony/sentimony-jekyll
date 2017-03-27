@@ -6,7 +6,7 @@ category: releases
 title: 'Hypnotriod «Seven Heavenly Edges»'
 label: sentimony
 style: psychill
-format: EP album
+format: ep album
 cover: true
 cat_no: sencd012
 tracks_no: 5

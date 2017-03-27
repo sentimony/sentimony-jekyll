@@ -6,7 +6,7 @@ category: releases
 title: 'Ufomatka «The E.P.»'
 label: lookinglook
 style: goatrance
-format: EP album
+format: ep album
 cover: true
 cat_no: sencd022
 tracks_no: 5
