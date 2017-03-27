@@ -3,3 +3,4 @@ include: ['_pages']
 exclude: ['README.md', 'package.json', 'node_modules/', 'gulpfile.js', 'Gemfile', 'Gemfile.lock']
 includes_dir: ./_components
 data_dir: ./_components
+environment: production

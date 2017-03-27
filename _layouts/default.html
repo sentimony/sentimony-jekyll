@@ -51,7 +51,7 @@ layout: compress
     dbRef.on('value', snap => bigOne.innerText = snap.val());
   </script>
 
-  {% if jekyll.environment == "production" %}
+  {% if site.environment == 'production' %}
     {% include Analytics/google-analytics.html %}
     {% include Analytics/yandex-metrika.html %}
   {% endif %}
