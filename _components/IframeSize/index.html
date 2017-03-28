@@ -1,15 +1,9 @@
-{% if page.tracks_no == 4 %}
-  tracks-4
-{% elsif page.tracks_no == 5 %}
-  tracks-5
-{% elsif page.tracks_no == 7 %}
-  tracks-7
-{% elsif page.tracks_no == 9 %}
-  tracks-9
-{% elsif page.tracks_no == 10 %}
-  tracks-10
-{% elsif page.tracks_no == 11 %}
-  tracks-11
-{% elsif page.tracks_no == 12 %}
-  tracks-12
-{% endif %}
+{% case page.tracks_no %}
+  {% when 4 %} tracks-4
+  {% when 5 %} tracks-5
+  {% when 7 %} tracks-7
+  {% when 9 %} tracks-9
+  {% when 10 %} tracks-10
+  {% when 11 %} tracks-11
+  {% when 12 %} tracks-12
+{% endcase %}
