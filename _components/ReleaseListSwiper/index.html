@@ -7,9 +7,8 @@
         <div class="release-list-swiper__item-cover">
           {% if i.cover %}
           <img class="release-list-swiper__item-cover-img lazyload"
-            src="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg"
-            data-src="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg"
-            data-srcset="https://content.sentimony.com/assets/img/releases/small-retina/{{ i.cat_no }}/{{ i.slug }}.jpg"
+            src="https://content.sentimony.com/assets/img/releases/micro/{{ page.cat_no }}/{{ page.slug }}.jpg"
+            data-srcset="https://content.sentimony.com/assets/img/releases/medium/{{ page.cat_no }}/{{ page.slug }}.jpg 1x, https://content.sentimony.com/assets/img/releases/medium-retina/{{ page.cat_no }}/{{ page.slug }}.jpg 2x"
           >
           {% else %}
           <div class="release-list-swiper__item-cover-coming">Artwork<br>in progress</div>
