@@ -31,9 +31,9 @@ layout: compress
     </div>
   </div>
 
-  <div id="app" style="font-size: 6px; background-color: #000;"></div>
-
   <script src="{{ site.baseurl }}/assets/js/bundle.min.js"></script>
+
+  <!-- <div id="app" style="font-size: 6px; background-color: #000;"></div>
 
   <script src="https://www.gstatic.com/firebasejs/3.7.3/firebase.js"></script>
   <script>
@@ -49,7 +49,7 @@ layout: compress
     var app = document.getElementById('app');
     var dbRef = firebase.database().ref().child('releases').child('irukanji-z-lisu').child('title');
     dbRef.on('value', snap => app.innerText = snap.val());
-  </script>
+  </script> -->
 
   {% include Analytics/google-analytics.html %}
   {% include Analytics/yandex-metrika.html %}

@@ -55,10 +55,12 @@
     &-link {
       display: flex;
       align-items: stretch;
+      width: 100%;
     }
 
     &-img {
       display: block;
+      width: 100%;
       max-width: 100px;
       box-shadow: 0 2px 10px 0 rgba(#000,.5);
       background-color: rgba(#000,.5);
