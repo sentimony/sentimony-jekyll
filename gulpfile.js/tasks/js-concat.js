@@ -6,7 +6,7 @@ gulp.task('js-concat', ['sass'], function () {
     'node_modules/jquery/dist/jquery.min.js',
     'node_modules/swiper/dist/js/swiper.jquery.min.js',
     'node_modules/goodshare.js/goodshare.min.js',
-    'node_modules/layzr.js/dist/layzr.min.js',
+    'node_modules/lazysizes/lazysizes.min.js',
     '_components/**/*.js',
     '_js/global.js'
   ])

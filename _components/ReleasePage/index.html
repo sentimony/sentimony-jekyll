@@ -9,9 +9,10 @@
       <div class="release-page__cover">
         {% if page.cover %}
         <a class="release-page__cover-link" href="https://content.sentimony.com/assets/img/releases/large/{{ page.cat_no }}/{{ page.slug }}.jpg">
-          <img class="release-page__cover-img" 
-            data-layzr="https://content.sentimony.com/assets/img/releases/medium/{{ page.cat_no }}/{{ page.slug }}.jpg"
-            data-layzr-retina="https://content.sentimony.com/assets/img/releases/medium-retina/{{ page.cat_no }}/{{ page.slug }}.jpg"
+          <img class="release-page__cover-img lazyload"
+            src="https://content.sentimony.com/assets/img/releases/medium/{{ page.cat_no }}/{{ page.slug }}.jpg"
+            data-src="https://content.sentimony.com/assets/img/releases/medium/{{ page.cat_no }}/{{ page.slug }}.jpg"
+            data-srcset="https://content.sentimony.com/assets/img/releases/medium-retina/{{ page.cat_no }}/{{ page.slug }}.jpg"
           >
         </a>
         {% else %}
@@ -43,7 +44,7 @@
       <div class="release-page__player-coming">Music<br>is coming</div>
       {% endif %}
       {% if page.bandcamp_id %}
-      <iframe class="release-page__player-iframe{% include IframeSize/index.html %}" data-layzr="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp_id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/" seamless></iframe>
+      <iframe class="release-page__player-iframe{% include IframeSize/index.html %}" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp_id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/" seamless></iframe>
       {% endif %}
     </div>
 
