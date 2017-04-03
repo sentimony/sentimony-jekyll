@@ -29,7 +29,7 @@
             <img class="release-page__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg">
             <span class="release-page__bandcamp-btn-text">Bandcamp</span>
           </a>
-          <a class="release-page__youtube-btn is-disabled" href="javascript:void(0)" target="_blank">
+          <a class="release-page__youtube-btn{% if page.youtube_id == null %} is-disabled{% endif %}" href="{% if page.youtube_id == null %}javascript:void(0){% else %}https://www.youtube.com/watch?v={{ page.youtube_id }}{% endif %}" target="_blank">
             <span class="release-page__youtube-btn-icon"></span>
             <img class="release-page__youtube-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/youtube.svg">
             <span class="release-page__youtube-btn-text">Youtube</span>

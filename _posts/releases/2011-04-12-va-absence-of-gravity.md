@@ -12,7 +12,7 @@ cat_no: sencd010
 tracks_no: 11
 coming_soon: 
 popular: 
-
+youtube_id: 
 bandcamp_id: 615519130
 link_bandcamp: https://sentimony.bandcamp.com/album/va-absence-of-gravity
 link_ektoplazm: http://www.ektoplazm.com/free-music/absence-of-gravity

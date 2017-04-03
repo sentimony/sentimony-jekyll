@@ -12,7 +12,7 @@ cat_no: sencd023
 tracks_no: 10
 coming_soon: 
 popular: true
-
+youtube_id: 
 bandcamp_id: 144410096
 link_bandcamp: https://sentimony.bandcamp.com/album/tentura-beyond-illusion
 link_ektoplazm: 

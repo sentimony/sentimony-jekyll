@@ -12,7 +12,7 @@ cat_no: sencd020
 tracks_no: 9
 coming_soon: 
 popular: 
-
+youtube_id: 
 bandcamp_id: 95715287
 link_bandcamp: https://lookinglook.bandcamp.com/album/va-dancing-mavka
 link_ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka

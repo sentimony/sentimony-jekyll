@@ -12,7 +12,7 @@ cat_no: sencd021
 tracks_no: 11
 coming_soon: 
 popular: 
-
+youtube_id: 
 bandcamp_id: 3538385956
 link_bandcamp: https://lookinglook.bandcamp.com/album/va-gamayun-tale
 link_ektoplazm: 

@@ -12,7 +12,7 @@ cat_no: sencd002
 tracks_no: 12
 coming_soon: 
 popular: 
-
+youtube_id: 
 bandcamp_id: 2938863422
 link_bandcamp: https://sentimony.bandcamp.com/album/va-emptinesses
 link_ektoplazm: http://www.ektoplazm.com/free-music/emptinesses

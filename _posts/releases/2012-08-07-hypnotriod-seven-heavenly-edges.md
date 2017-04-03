@@ -12,7 +12,7 @@ cat_no: sencd012
 tracks_no: 5
 coming_soon: 
 popular: 
-
+youtube_id: 
 bandcamp_id: 2733998829
 link_bandcamp: https://sentimony.bandcamp.com/album/hypnotriod-seven-heavenly-edges
 link_ektoplazm: http://www.ektoplazm.com/free-music/hypnotriod-seven-heavenly-edges

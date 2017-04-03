@@ -12,7 +12,7 @@ cat_no: sencd004
 tracks_no: 12
 coming_soon: 
 popular: 
-
+youtube_id: 
 bandcamp_id: 1223403780
 link_bandcamp: https://sentimony.bandcamp.com/album/va-true-story
 link_ektoplazm: http://www.ektoplazm.com/free-music/true-story

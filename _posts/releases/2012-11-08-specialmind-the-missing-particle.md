@@ -12,7 +12,7 @@ cat_no: sencd013
 tracks_no: 5
 coming_soon: 
 popular: 
-
+youtube_id: 
 bandcamp_id: 1673341211
 link_bandcamp: https://sentimony.bandcamp.com/album/specialmind-the-missing-particle
 link_ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-particle

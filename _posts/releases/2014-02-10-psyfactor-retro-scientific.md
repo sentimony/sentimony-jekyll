@@ -12,7 +12,7 @@ cat_no: sencd016
 tracks_no: 11
 coming_soon: 
 popular: true
-
+youtube_id: 
 bandcamp_id: 625816327
 link_bandcamp: https://sentimony.bandcamp.com/album/psyfactor-retro-scientific
 link_ektoplazm: 

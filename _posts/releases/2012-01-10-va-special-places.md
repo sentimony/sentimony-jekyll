@@ -12,7 +12,7 @@ cat_no: sencd011
 tracks_no: 12
 coming_soon: 
 popular: true
-
+youtube_id: 
 bandcamp_id: 64124286
 link_bandcamp: https://sentimony.bandcamp.com/album/va-special-places
 link_ektoplazm: http://www.ektoplazm.com/free-music/special-places

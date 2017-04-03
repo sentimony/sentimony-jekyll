@@ -12,7 +12,7 @@ cat_no: sencd017
 tracks_no: 10
 coming_soon: 
 popular: 
-
+youtube_id: 
 bandcamp_id: 3896908655
 link_bandcamp: https://lookinglook.bandcamp.com/album/senzar-before-the-morning-sun
 link_ektoplazm: http://www.ektoplazm.com/free-music/senzar-before-the-morning-sun

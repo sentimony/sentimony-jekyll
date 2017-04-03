@@ -12,7 +12,7 @@ cat_no: sencd006
 tracks_no: 10
 coming_soon: 
 popular: 
-
+youtube_id: 
 bandcamp_id: 2924012921
 link_bandcamp: https://sentimony.bandcamp.com/album/irukanji-z-lisu
 link_ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu

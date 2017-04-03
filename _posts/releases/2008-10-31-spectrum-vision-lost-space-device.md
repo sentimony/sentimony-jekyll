@@ -12,7 +12,7 @@ cat_no: sencd005
 tracks_no: 9
 coming_soon: 
 popular: 
-
+youtube_id: 
 bandcamp_id: 2969979336
 link_bandcamp: https://sentimony.bandcamp.com/album/spectrum-vision-lost-space-device
 link_ektoplazm: http://www.ektoplazm.com/free-music/spectrum-vision-lost-space-device

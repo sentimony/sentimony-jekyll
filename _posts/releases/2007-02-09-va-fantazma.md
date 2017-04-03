@@ -12,7 +12,7 @@ cat_no: sencd001
 tracks_no: 11
 coming_soon: 
 popular: 
-
+youtube_id: ESAFEZj0wlQ&list=PLp2GaPnw5O3Ngdrr8pc8W_jAk5PC_ie-l
 bandcamp_id: 3399361938
 link_bandcamp: https://sentimony.bandcamp.com/album/va-fantazma
 link_ektoplazm: http://www.ektoplazm.com/free-music/fantazma

@@ -12,7 +12,7 @@ cat_no: sencd019
 tracks_no: 7
 coming_soon: 
 popular: 
-
+youtube_id: 
 bandcamp_id: 987015194
 link_bandcamp: https://lookinglook.bandcamp.com/album/unusual-cosmic-process-weightlessness
 link_ektoplazm: http://www.ektoplazm.com/free-music/unusual-cosmic-process-weightlessness

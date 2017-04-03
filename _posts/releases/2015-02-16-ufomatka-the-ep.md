@@ -12,7 +12,7 @@ cat_no: sencd022
 tracks_no: 5
 coming_soon: 
 popular: 
-
+youtube_id: 
 bandcamp_id: 342915204
 link_bandcamp: https://lookinglook.bandcamp.com/album/ufomatka-the-e-p
 link_ektoplazm: 
