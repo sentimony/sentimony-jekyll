@@ -4,12 +4,10 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<img src="{{ site.baseurl }}/assets/img/artists/{{ page.slug }}.jpg" alt="{{ page.title }}">
+<!-- <img src="{{ site.baseurl }}/assets/img/artists/{{ page.slug }}.jpg" alt="{{ page.title }}"> -->
 
 {% if page.soundcloud-id %}
-  <iframe width="100%" height="450" scrolling="no" frameborder="no"
-    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/{{ page.soundcloud-id }}&amp;color=00aabb&amp;hide_related=true&amp;show_comments=true&amp;show_user=false&amp;sharing=false&amp;show_bpm=true"
-  ></iframe>
+  <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/{{ page.soundcloud-id }}&amp;color=00aabb&amp;hide_related=true&amp;show_comments=true&amp;show_user=false&amp;sharing=false&amp;show_bpm=true"></iframe>
 {% endif %}
 
 {% if page.name %}
@@ -36,8 +34,8 @@ layout: default
   <a href="{{ page.soundcloud }}"><span class="icon-soundcloud"></span></a>
 {% endif %}
 
-<!-- {% if page.discogs %}
+{% if page.discogs %}
   <a href="{{ page.discogs }}"><span class="icon-discogs"></span></a>
-{% endif %} -->
+{% endif %}
 
 {{ content }}

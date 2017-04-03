@@ -6,6 +6,6 @@ permalink: /artists/
 og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
-{% for i in site.categories.artists %}
+{% for i in site.categories.artists reversed %}
 [{{ i.title }}]({{ i.url }})
 {% endfor %}
