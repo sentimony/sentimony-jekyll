@@ -2,7 +2,6 @@
   "dependencies": {
     "coriolan-ui": "^0.1.19",
     "goodshare.js": "^4.0.6",
-    "jquery": "^3.2.1",
     "lazysizes": "^3.0.0",
     "normalize.css": "^6.0.0",
     "swiper": "^3.4.2"
