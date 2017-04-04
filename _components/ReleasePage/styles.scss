@@ -238,4 +238,16 @@
     @extend .btn-social;
     background-color: #20a7c6;
   }
+
+  &__btn-icon {
+    display: block;
+    max-height: 2em;
+    margin: 0 auto;
+  }
+
+  &__btn-counter {
+    margin-left: .6em;
+    // position: absolute;
+    // right: .6em;
+  }
 }

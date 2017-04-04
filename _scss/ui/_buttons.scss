@@ -67,12 +67,16 @@
 
 @mixin btn-social {
   color: #fff !important;
-  font-size: 14px;
+  font-size: 1em;
   padding: .8em 1.2em;
   // display: inline-block;
-  min-width: 70px;
+  min-width: 75px;
   text-align: center;
   box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  // justify-content: space-between;
+  // position: relative;
 
   &:hover {
   }
