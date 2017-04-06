@@ -12,7 +12,7 @@ cat_no: sencd002
 tracks_no: 12
 coming_soon: 
 popular: 
-youtube_id: 
+youtube_id: 6plwFQo6SME&list=PLp2GaPnw5O3NOkIC2Cxy_qAeHMmgqEAYP
 bandcamp_id: 2938863422
 link_bandcamp: https://sentimony.bandcamp.com/album/va-emptinesses
 link_ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
@@ -42,7 +42,7 @@ Tracklist:
 06. Solcast - Hi Paul [130bpm]
 07. Harax - Aessone [90bpm]
 08. Roof Raiser - Ice Age [104bpm]
-09. Heinali - Eye Of The Storm (feat. Osho) [122bpm]
+09. Heinali - Eye Of The Storm [122bpm]
 10. Aisaid - Protos [90bpm]
 11. Alexander Daf - Road To The East [120bpm]
 12. Atmik - The Day After Tomorrow (Outro) [105bpm]
