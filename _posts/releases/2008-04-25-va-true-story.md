@@ -41,6 +41,6 @@ Tracklist:
 07. Unusual Cosmic Process - Smooth Turbulence [133bpm]
 08. Frans Gosu - Dark Water [125bpm]
 09. Sphingida - Machaon [120bpm]
-10. Unstable Elements - Yumy (vs Madgentel) [130bpm]
+10. Unstable Elements - Yumy (vs. Madgentel) [130bpm]
 11. Taff - Wind [110bpm]
 12. Sol - Chudo 81 (Harax Version) [110bpm]
