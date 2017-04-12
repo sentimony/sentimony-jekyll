@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/va-emptinesses/
 category: releases
-
 title: 'VA «Emptinesses»'
 label: sentimony
 style: psychill
@@ -17,7 +16,6 @@ bandcamp_id: 2938863422
 link_bandcamp: https://sentimony.bandcamp.com/album/va-emptinesses
 link_ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
 link_discogs: http://www.discogs.com/Various-Emptinesses/release/1021635
-
 compiled_by: Sphingida
 artwork_by: <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab

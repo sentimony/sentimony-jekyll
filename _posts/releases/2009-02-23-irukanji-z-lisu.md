@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/irukanji-z-lisu/
 category: releases
-
 title: 'Irukanji «Z Lisu»'
 label: sentimony
 style: psychill
@@ -17,7 +16,6 @@ bandcamp_id: 2924012921
 link_bandcamp: https://sentimony.bandcamp.com/album/irukanji-z-lisu
 link_ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu
 link_discogs: http://www.discogs.com/Irukanji-Z-Lisu/release/1664941
-
 compiled_by: 
 artwork_by: <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab

@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/va-special-places/
 category: releases
-
 title: 'VA «Special Places»'
 label: sentimony
 style: psychill
@@ -11,13 +10,12 @@ cover: true
 cat_no: sencd011
 tracks_no: 12
 coming_soon: 
-popular: true
-youtube_id: 
+popular: 
+youtube_id: xaP9QrGK_88&list=PLp2GaPnw5O3ObKevWMqC9sH5Isd5S8L7s
 bandcamp_id: 64124286
 link_bandcamp: https://sentimony.bandcamp.com/album/va-special-places
 link_ektoplazm: http://www.ektoplazm.com/free-music/special-places
 link_discogs: http://www.discogs.com/AstroPilot-Special-Places/release/3517621
-
 compiled_by: AstroPilot
 artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>

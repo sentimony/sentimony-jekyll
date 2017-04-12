@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/senzar-before-the-morning-sun/
 category: releases
-
 title: 'Senzar ‎«Before The Morning Sun»'
 label: lookinglook
 style: psychill
@@ -17,7 +16,6 @@ bandcamp_id: 3896908655
 link_bandcamp: https://lookinglook.bandcamp.com/album/senzar-before-the-morning-sun
 link_ektoplazm: http://www.ektoplazm.com/free-music/senzar-before-the-morning-sun
 link_discogs: http://www.discogs.com/Senzar-Before-The-Morning-Sun/release/2299220
-
 compiled_by: 
 artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>

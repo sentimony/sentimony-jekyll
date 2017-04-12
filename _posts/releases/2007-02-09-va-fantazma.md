@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/va-fantazma/
 category: releases
-
 title: 'VA «Fantazma»'
 label: sentimony
 style: psychill
@@ -17,7 +16,6 @@ bandcamp_id: 3399361938
 link_bandcamp: https://sentimony.bandcamp.com/album/va-fantazma
 link_ektoplazm: http://www.ektoplazm.com/free-music/fantazma
 link_discogs: http://www.discogs.com/Various-Fantazma/release/952240
-
 compiled_by: Sphingida
 artwork_by: Synchronick
 mastered_by: Don't Panic Records Studio

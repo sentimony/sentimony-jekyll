@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/hypnotriod-seven-heavenly-edges/
 category: releases
-
 title: 'Hypnotriod «Seven Heavenly Edges»'
 label: sentimony
 style: psychill
@@ -12,12 +11,11 @@ cat_no: sencd012
 tracks_no: 5
 coming_soon: 
 popular: 
-youtube_id: 
+youtube_id: DGOwQwtvkCI&list=PLp2GaPnw5O3M5qeJ2tRG2yhoVbLvkAFoC
 bandcamp_id: 2733998829
 link_bandcamp: https://sentimony.bandcamp.com/album/hypnotriod-seven-heavenly-edges
 link_ektoplazm: http://www.ektoplazm.com/free-music/hypnotriod-seven-heavenly-edges
 link_discogs: http://www.discogs.com/Hypnotriod-Seven-Heavenly-Edges/release/3618882
-
 compiled_by: 
 artwork_by: <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>

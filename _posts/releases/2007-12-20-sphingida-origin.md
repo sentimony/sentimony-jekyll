@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/sphingida-origin/
 category: releases
-
 title: 'Sphingida «Origin»'
 label: sentimony
 style: psychill
@@ -17,7 +16,6 @@ bandcamp_id: 3680718383
 link_bandcamp: https://sentimony.bandcamp.com/album/sphingida-origin
 link_ektoplazm: http://www.ektoplazm.com/free-music/sphingida-origin
 link_discogs: http://www.discogs.com/Sphingida-Origin/release/1171746
-
 compiled_by: 
 artwork_by: <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab

@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/unusual-cosmic-process-weightlessness/
 category: releases
-
 title: Unusual Cosmic Process ‎«Weightlessness»
 label: sentimony
 style: psychill
@@ -17,7 +16,6 @@ bandcamp_id: 987015194
 link_bandcamp: https://lookinglook.bandcamp.com/album/unusual-cosmic-process-weightlessness
 link_ektoplazm: http://www.ektoplazm.com/free-music/unusual-cosmic-process-weightlessness
 link_discogs: http://www.discogs.com/Unusual-Cosmic-Process-Weightlessness/release/2517434
-
 compiled_by: 
 artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>

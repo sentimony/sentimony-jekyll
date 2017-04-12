@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/spectrum-vision-lost-space-device/
 category: releases
-
 title: 'Spectrum Vision «Lost Space Device»'
 label: sentimony
 style: psychill
@@ -17,7 +16,6 @@ bandcamp_id: 2969979336
 link_bandcamp: https://sentimony.bandcamp.com/album/spectrum-vision-lost-space-device
 link_ektoplazm: http://www.ektoplazm.com/free-music/spectrum-vision-lost-space-device
 link_discogs: http://www.discogs.com/Spectrum-Vision-Lost-Space-Device/release/1547476
-
 compiled_by: 
 artwork_by: 1n0x & <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab

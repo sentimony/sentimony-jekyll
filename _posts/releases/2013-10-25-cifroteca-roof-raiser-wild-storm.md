@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/cifroteca-roof-raiser-wild-storm/
 category: releases
-
 title: 'Cifroteca & Roof Raiser «Wild Storm»'
 label: aquadeep
 style: psytrance
@@ -12,12 +11,11 @@ cat_no: sencd015
 tracks_no: 10
 coming_soon: 
 popular: 
-youtube_id: 
+youtube_id: ZyVsk3RkTeQ&list=PLp2GaPnw5O3MiDE58W_2b0G4lZAF19cNt
 bandcamp_id: 721225799
 link_bandcamp: https://aquadeep.bandcamp.com/album/cifroteca-roof-raiser-wild-storm
 link_ektoplazm: 
 link_discogs: http://www.discogs.com/Cifroteca-Roof-Raiser-Wild-Storm/release/5012131
-
 compiled_by: 
 artwork_by: Swaroop Guhathakurta
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>

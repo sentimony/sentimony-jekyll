@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/va-ocean-scenes-higher-titans/
 category: releases
-
 title: 'VA «Ocean Scenes: Higher Titans»'
 label: aquadeep
 style: psytrance
@@ -17,7 +16,6 @@ bandcamp_id: 3486103233
 link_bandcamp: https://aquadeep.bandcamp.com/album/va-ocean-scenes-higher-titans
 link_ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
 link_discogs: http://www.discogs.com/Various-Ocean-Scenes-Higher-Titans/release/2023159
-
 compiled_by: <a href='https://irukanji-music.com' target='_blank'>Irukanji</a>
 artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a> & <a href='https://www.facebook.com/cifroteca.music' target='_blank'>Cifroteca Studio</a>

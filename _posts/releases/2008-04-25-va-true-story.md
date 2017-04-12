@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/va-true-story/
 category: releases
-
 title: 'VA «True Story»'
 label: sentimony
 style: psychill
@@ -17,7 +16,6 @@ bandcamp_id: 1223403780
 link_bandcamp: https://sentimony.bandcamp.com/album/va-true-story
 link_ektoplazm: http://www.ektoplazm.com/free-music/true-story
 link_discogs: http://www.discogs.com/Various-True-Story/release/1321723
-
 compiled_by: Sphingida
 artwork_by: <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab

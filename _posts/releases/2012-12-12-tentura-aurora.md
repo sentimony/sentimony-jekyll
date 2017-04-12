@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/tentura-aurora/
 category: releases
-
 title: 'Tentura «Aurora»'
 label: sentimony
 style: psychill
@@ -12,12 +11,11 @@ cat_no: sencd014
 tracks_no: 4
 coming_soon: 
 popular: true
-youtube_id: 
+youtube_id: wpOaPxEOrmM&list=PLp2GaPnw5O3Pev66mBuHmGG4cHaBkx1FR
 bandcamp_id: 2261902557
 link_bandcamp: https://sentimony.bandcamp.com/album/tentura-aurora
 link_ektoplazm: http://www.ektoplazm.com/free-music/tentura-aurora
 link_discogs: http://www.discogs.com/Tentura-Beyond-Illusion/release/6775211
-
 compiled_by: 
 artwork_by: Ader
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>

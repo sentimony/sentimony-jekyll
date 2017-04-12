@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/va-time-loop-beyond-borders/
 category: releases
-
 title: 'VA «Time Loop: Beyond Borders»'
 label: sentimony
 style: psychill
@@ -17,7 +16,6 @@ bandcamp_id: 2208878008
 link_bandcamp: https://sentimony.bandcamp.com/album/va-time-loop-beyond-borders
 link_ektoplazm: http://www.ektoplazm.com/free-music/time-loop-beyond-borders
 link_discogs: http://www.discogs.com/Various-Time-Loop-Beyond-Borders/release/2443978
-
 compiled_by: Zea NeiRula
 artwork_by: Flange
 mastered_by: Onkel Dunkel Studio

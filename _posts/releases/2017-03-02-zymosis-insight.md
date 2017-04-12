@@ -2,7 +2,6 @@
 layout: release-page
 permalink: /release/zymosis-insight/
 category: releases
-
 title: 'Zymosis «Insight»'
 label: sentimony
 style: psychill
@@ -17,7 +16,6 @@ bandcamp_id:
 link_bandcamp: https://sentimony.bandcamp.com/album/zymosis-insight
 link_ektoplazm: 
 link_discogs: 
-
 compiled_by: 
 artwork_by: 
 mastered_by: <a href='https://www.facebook.com/onedaymasteringstudio' target='_blank'>One Day Mastering Studio</a>
