@@ -2,14 +2,10 @@
 layout: artist-page
 permalink: /artist/saikozaurus/
 category: artists
-
 title: Saikozaurus
-filterLabel: aquadeep
-filterStyle: darktrance
-
 name: Daniil Pastushenko
 location: Odesa, Ukraine
-
+style: forest psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/saikozaurus.music

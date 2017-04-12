@@ -2,14 +2,10 @@
 layout: artist-page
 permalink: /artist/cifroteca/
 category: artists
-
 title: Cifroteca
-filterLabel: aquadeep
-filterStyle: darktrance
-
 name: Yuriy Iofik
-location: Crimea, Ukraine
-
+location: Kyiv, Ukraine
+style: forest psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/cifroteca.music

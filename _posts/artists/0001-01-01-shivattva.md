@@ -2,14 +2,10 @@
 layout: artist-page
 permalink: /artist/shivattva/
 category: artists
-
 title: Shivattva
-filterLabel: aquadeep
-filterStyle: darktrance
-
 name: Artem Arhangelskiy
 location: Odesa, Ukraine
-
+style: forest psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/shivattva

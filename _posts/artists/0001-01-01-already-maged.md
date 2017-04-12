@@ -2,14 +2,10 @@
 layout: artist-page
 permalink: /artist/already-maged/
 category: artists
-
 title: Already Maged
-filterLabel: aquadeep
-filterStyle: darktrance
-
 name: Egor Yudin
 location: Lviv, Ukraine
-
+style: forest psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/magedalready

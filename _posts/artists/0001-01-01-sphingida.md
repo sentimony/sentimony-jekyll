@@ -2,14 +2,10 @@
 layout: artist-page
 permalink: /artist/sphingida/
 category: artists
-
 title: Sphingida
-filterLabel: sentimony
-filterStyle: chillout
-
 name: Ihor Orlovskyi & Yulia Levchenko
 location: Kyiv, Ukraine
-
+style: psychill
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/sphingida

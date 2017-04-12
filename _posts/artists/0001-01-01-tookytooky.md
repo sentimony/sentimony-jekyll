@@ -2,14 +2,10 @@
 layout: artist-page
 permalink: /artist/tookytooky/
 category: artists
-
 title: Tookytooky
-filterLabel: aquadeep
-filterStyle: darktrance
-
 name: Sergey Verbitsky
 location: Odesa, Ukraine
-
+style: psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/tookytooky

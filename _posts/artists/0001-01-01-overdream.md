@@ -2,14 +2,10 @@
 layout: artist-page
 permalink: /artist/overdream/
 category: artists
-
 title: Overdream
-filterLabel: aquadeep
-filterStyle: darktrance
-
 name: Maxim Kurushyn
 location: Kyiv, Ukraine
-
+style: psychill, forest psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/overdreamusic

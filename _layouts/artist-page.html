@@ -18,6 +18,10 @@ layout: default
   <div>Location: {{ page.location }}</div>
 {% endif %}
 
+{% if page.style %}
+  <div>Style: {{ page.style }}</div>
+{% endif %}
+
 {% if page.website %}
   <a href="{{ page.website }}"><span class="icon-public"></span></a>
 {% endif %}

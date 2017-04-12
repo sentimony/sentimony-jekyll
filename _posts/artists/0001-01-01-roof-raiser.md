@@ -2,14 +2,10 @@
 layout: artist-page
 permalink: /artist/roof-raiser/
 category: artists
-
 title: Roof Raiser
-filterLabel: aquadeep
-filterStyle: darktrance
-
 name: Alexey Petrovskiy
 location: Kyiv, Ukraine
-
+style: psychill, forest psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/roof.raiser
