@@ -15,7 +15,7 @@ youtube_id: kVdYjHrdJt4&list=PLp2GaPnw5O3OxCOTqW6opBhhXWwftxrFL
 bandcamp_id: 3680718383
 link_bandcamp: https://sentimony.bandcamp.com/album/sphingida-origin
 link_ektoplazm: http://www.ektoplazm.com/free-music/sphingida-origin
-link_discogs: http://www.discogs.com/Sphingida-Origin/release/1171746
+link_discogs: https://www.discogs.com/Sphingida-Origin/master/446647
 compiled_by: 
 artwork_by: <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab
