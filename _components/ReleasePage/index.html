@@ -20,6 +20,7 @@
       </div>
 
       <div class="release-page__info">
+        <div class="release-page__catalog-number">{{ page.cat_nu }}</div>
         <div class="release-page__date">{% if page.coming_soon %}Coming at {{ page.date | date: '%Y' }}{% else %}{{ page.date | date_to_string }}{% endif %}</div>
         <h1 class="release-page__title">{{ page.title }}</h1>
         <div class="release-page__listen-on">Listen on:</div>
@@ -106,7 +107,7 @@
     {% if page.link_discogs %}
     <p>
       <!-- <span>Release Info:</span> -->
-      <a href="{{ page.link_discogs }}" target="_blank">
+      <a href="https://www.discogs.com/master/view/{{ page.link_discogs }}" target="_blank">
         <!-- <span class="icon-discogs"></span> -->
         Discogs
       </a>

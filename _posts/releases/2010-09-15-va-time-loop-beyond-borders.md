@@ -8,6 +8,7 @@ style: psychill
 format: compilation
 cover: true
 cat_no: sencd007
+cat_nu: sencd007
 tracks_no: 11
 coming_soon: 
 popular: 
@@ -15,7 +16,7 @@ youtube_id: A7gkIV2ahHo&list=PLp2GaPnw5O3PMfJen6W2rPocA9QsNSOga
 bandcamp_id: 2208878008
 link_bandcamp: https://sentimony.bandcamp.com/album/va-time-loop-beyond-borders
 link_ektoplazm: http://www.ektoplazm.com/free-music/time-loop-beyond-borders
-link_discogs: http://www.discogs.com/Various-Time-Loop-Beyond-Borders/release/2443978
+link_discogs: 563065
 compiled_by: Zea NeiRula
 artwork_by: Flange
 mastered_by: Onkel Dunkel Studio

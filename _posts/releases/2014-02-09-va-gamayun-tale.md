@@ -8,6 +8,7 @@ style: goatrance
 format: compilation
 cover: true
 cat_no: sencd021
+cat_nu: sencd021/lgcd05
 tracks_no: 11
 coming_soon: 
 popular: 
@@ -15,7 +16,7 @@ youtube_id: 1cHbLZUrKGo&list=PLp2GaPnw5O3NadY7sjq7ZmVk7rc5j8Li9
 bandcamp_id: 3538385956
 link_bandcamp: https://lookinglook.bandcamp.com/album/va-gamayun-tale
 link_ektoplazm: 
-link_discogs: http://www.discogs.com/Various-Gamayun-Tale/release/5400874
+link_discogs: 663801
 compiled_by: Sky Technology
 artwork_by: <a href="https://messdivision.com" target='_blank'>Ju Ju</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>

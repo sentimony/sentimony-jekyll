@@ -8,6 +8,7 @@ style: psychill
 format: album
 cover: 
 cat_no: sencd025
+cat_nu: sencd025
 tracks_no: 9
 coming_soon: true
 popular: 

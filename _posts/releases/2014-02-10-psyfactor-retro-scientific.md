@@ -8,6 +8,7 @@ style: psychill
 format: album
 cover: true
 cat_no: sencd016
+cat_nu: sencd016
 tracks_no: 11
 coming_soon: 
 popular: true
@@ -15,7 +16,7 @@ youtube_id: LceN0MLwqME&list=PLp2GaPnw5O3PdlgX-f4f-HerTdKWzuU-Y
 bandcamp_id: 625816327
 link_bandcamp: https://sentimony.bandcamp.com/album/psyfactor-retro-scientific
 link_ektoplazm: 
-link_discogs: http://www.discogs.com/Psyfactor-Retro-Scientific/release/5399930
+link_discogs: 656758
 compiled_by: 
 artwork_by: Ader
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>

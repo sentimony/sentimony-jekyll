@@ -8,6 +8,7 @@ style: psychill
 format: album
 cover: true
 cat_no: sencd005
+cat_nu: sencd005
 tracks_no: 9
 coming_soon: 
 popular: 
@@ -15,7 +16,7 @@ youtube_id: KLw08-8uOIw&list=PLp2GaPnw5O3P-uVtUa228Cpg62X8za31K
 bandcamp_id: 2969979336
 link_bandcamp: https://sentimony.bandcamp.com/album/spectrum-vision-lost-space-device
 link_ektoplazm: http://www.ektoplazm.com/free-music/spectrum-vision-lost-space-device
-link_discogs: https://www.discogs.com/Spectrum-Vision-Lost-Space-Device/master/494470
+link_discogs: 494470
 compiled_by: 
 artwork_by: 1n0x & <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab

@@ -93,9 +93,15 @@
     color: rgba(#fff,.5);
   }
 
+  &__catalog-number {
+    font-size: 14px;
+    color: rgba(#fff,.5);
+    text-transform: uppercase;
+  }
+
   &__title {
     font-size: 18px;
-    margin: 0 0 .25em;
+    margin: 0 0 .1em;
     color: #fff;
     text-transform: capitalize;
 

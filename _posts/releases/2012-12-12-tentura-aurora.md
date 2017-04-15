@@ -8,6 +8,7 @@ style: psychill
 format: ep album
 cover: true
 cat_no: sencd014
+cat_nu: sencd014
 tracks_no: 4
 coming_soon: 
 popular: true
@@ -15,7 +16,7 @@ youtube_id: wpOaPxEOrmM&list=PLp2GaPnw5O3Pev66mBuHmGG4cHaBkx1FR
 bandcamp_id: 2261902557
 link_bandcamp: https://sentimony.bandcamp.com/album/tentura-aurora
 link_ektoplazm: http://www.ektoplazm.com/free-music/tentura-aurora
-link_discogs: http://www.discogs.com/Tentura-Beyond-Illusion/release/6775211
+link_discogs: 597257
 compiled_by: 
 artwork_by: Ader
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>

@@ -8,6 +8,7 @@ style: psytrance
 format: compilation
 cover: true
 cat_no: sencd008
+cat_nu: sencd008/adcd01
 tracks_no: 12
 coming_soon: 
 popular: 
@@ -15,7 +16,7 @@ youtube_id: 5xzrh05Ri8Y&list=PLp2GaPnw5O3P0Hwmx8ZjBgCdR_QsI-3fP
 bandcamp_id: 3486103233
 link_bandcamp: https://aquadeep.bandcamp.com/album/va-ocean-scenes-higher-titans
 link_ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
-link_discogs: http://www.discogs.com/Various-Ocean-Scenes-Higher-Titans/release/2023159
+link_discogs: 538286
 compiled_by: <a href='https://irukanji-music.com' target='_blank'>Irukanji</a>
 artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a> & <a href='https://www.facebook.com/cifroteca.music' target='_blank'>Cifroteca Studio</a>

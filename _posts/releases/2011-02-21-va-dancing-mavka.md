@@ -8,6 +8,7 @@ style: goatrance
 format: compilation
 cover: true
 cat_no: sencd020
+cat_nu: sencd020/lgcd04
 tracks_no: 9
 coming_soon: 
 popular: 
@@ -15,7 +16,7 @@ youtube_id: 4gX6GmfMD3o&list=PLp2GaPnw5O3MEQlC5LWj1BekEnhkDHZGX
 bandcamp_id: 95715287
 link_bandcamp: https://lookinglook.bandcamp.com/album/va-dancing-mavka
 link_ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka
-link_discogs: http://www.discogs.com/Various-Dancing-Mavka/release/2527055
+link_discogs: 350184
 compiled_by: Sky Technology
 artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>

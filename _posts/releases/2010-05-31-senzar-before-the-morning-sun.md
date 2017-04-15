@@ -8,6 +8,7 @@ style: psychill
 format: album
 cover: true
 cat_no: sencd017
+cat_nu: sencd017/lgcd02
 tracks_no: 10
 coming_soon: 
 popular: 
@@ -15,7 +16,7 @@ youtube_id: JYrymig8pgU&list=PLp2GaPnw5O3PP655ySgkQ8ZxQbHMTodg0
 bandcamp_id: 3896908655
 link_bandcamp: https://lookinglook.bandcamp.com/album/senzar-before-the-morning-sun
 link_ektoplazm: http://www.ektoplazm.com/free-music/senzar-before-the-morning-sun
-link_discogs: http://www.discogs.com/Senzar-Before-The-Morning-Sun/release/2299220
+link_discogs: 331378
 compiled_by: 
 artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>

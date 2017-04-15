@@ -8,6 +8,7 @@ style: psychill
 format: compilation
 cover: true
 cat_no: sencd004
+cat_nu: sencd004
 tracks_no: 12
 coming_soon: 
 popular: 
@@ -15,7 +16,7 @@ youtube_id: iz99g8evgfY&list=PLp2GaPnw5O3NvqIWcRclfziSECY_BT1Ez
 bandcamp_id: 1223403780
 link_bandcamp: https://sentimony.bandcamp.com/album/va-true-story
 link_ektoplazm: http://www.ektoplazm.com/free-music/true-story
-link_discogs: https://www.discogs.com/Orlovskiy-Zea-True-Story/master/563060
+link_discogs: 563060
 compiled_by: Sphingida
 artwork_by: <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab

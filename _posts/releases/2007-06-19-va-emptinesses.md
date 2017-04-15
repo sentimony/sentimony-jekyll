@@ -8,6 +8,7 @@ style: psychill
 format: compilation
 cover: true
 cat_no: sencd002
+cat_nu: sencd002
 tracks_no: 12
 coming_soon: 
 popular: 
@@ -15,7 +16,7 @@ youtube_id: 6plwFQo6SME&list=PLp2GaPnw5O3NOkIC2Cxy_qAeHMmgqEAYP
 bandcamp_id: 2938863422
 link_bandcamp: https://sentimony.bandcamp.com/album/va-emptinesses
 link_ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
-link_discogs: https://www.discogs.com/Various-Emptinesses/master/403903
+link_discogs: 403903
 compiled_by: Sphingida
 artwork_by: <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab

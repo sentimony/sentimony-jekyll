@@ -8,6 +8,7 @@ style: goatrance
 format: ep album
 cover: true
 cat_no: sencd022
+cat_nu: sencd022/lgcd06
 tracks_no: 5
 coming_soon: 
 popular: 
@@ -15,7 +16,7 @@ youtube_id: L3PGvUpopKk&list=PLp2GaPnw5O3Ox6J1Yy2JxL2fj7yZIIMn-
 bandcamp_id: 342915204
 link_bandcamp: https://lookinglook.bandcamp.com/album/ufomatka-the-e-p
 link_ektoplazm: 
-link_discogs: http://www.discogs.com/Ufomatka-The-Ep/release/6663582
+link_discogs: 866892
 compiled_by: 
 artwork_by: Ufomatka
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>

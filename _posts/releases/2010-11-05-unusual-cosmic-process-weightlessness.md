@@ -8,6 +8,7 @@ style: psychill
 format: album
 cover: true
 cat_no: sencd019
+cat_nu: sencd019/lgcd03
 tracks_no: 7
 coming_soon: 
 popular: 
@@ -15,7 +16,7 @@ youtube_id: d_a-YkBQnYE&list=PLp2GaPnw5O3P0IB08Nj8GUFFOIsI1vBLa
 bandcamp_id: 987015194
 link_bandcamp: https://lookinglook.bandcamp.com/album/unusual-cosmic-process-weightlessness
 link_ektoplazm: http://www.ektoplazm.com/free-music/unusual-cosmic-process-weightlessness
-link_discogs: http://www.discogs.com/Unusual-Cosmic-Process-Weightlessness/release/2517434
+link_discogs: 349889
 compiled_by: 
 artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>

@@ -8,6 +8,7 @@ style: psychill
 format: compilation
 cover: true
 cat_no: sencd009
+cat_nu: sencd009
 tracks_no: 12
 coming_soon: 
 popular: 
@@ -15,7 +16,7 @@ youtube_id: 5Wrj-RKWFws&list=PLp2GaPnw5O3MjPaPsRVcCds3RFF2oUY6y
 bandcamp_id: 2483216888
 link_bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate
 link_ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
-link_discogs: http://www.discogs.com/Various-Tempo-Syndicate/release/2645251
+link_discogs: 563066
 compiled_by: <a href='https://irukanji-music.com' target='_blank'>Irukanji</a>
 artwork_by: <a href='https://irukanji-music.com' target='_blank'>Irukanji</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
