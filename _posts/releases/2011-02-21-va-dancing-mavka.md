@@ -14,7 +14,7 @@ coming_soon:
 popular: 
 youtube_id: 4gX6GmfMD3o&list=PLp2GaPnw5O3MEQlC5LWj1BekEnhkDHZGX
 bandcamp_id: 95715287
-link_bandcamp: https://lookinglook.bandcamp.com/album/va-dancing-mavka
+link_bandcamp: https://sentimony.bandcamp.com/album/va-dancing-mavka
 link_ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka
 link_discogs: 350184
 compiled_by: Sky Technology

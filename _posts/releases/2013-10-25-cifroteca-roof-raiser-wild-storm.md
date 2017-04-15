@@ -14,7 +14,7 @@ coming_soon:
 popular: 
 youtube_id: ZyVsk3RkTeQ&list=PLp2GaPnw5O3MiDE58W_2b0G4lZAF19cNt
 bandcamp_id: 721225799
-link_bandcamp: https://aquadeep.bandcamp.com/album/cifroteca-roof-raiser-wild-storm
+link_bandcamp: https://sentimony.bandcamp.com/album/cifroteca-roof-raiser-wild-storm
 link_ektoplazm: 
 link_discogs: 1165312
 compiled_by: 

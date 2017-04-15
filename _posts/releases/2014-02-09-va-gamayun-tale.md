@@ -14,7 +14,7 @@ coming_soon:
 popular: 
 youtube_id: 1cHbLZUrKGo&list=PLp2GaPnw5O3NadY7sjq7ZmVk7rc5j8Li9
 bandcamp_id: 3538385956
-link_bandcamp: https://lookinglook.bandcamp.com/album/va-gamayun-tale
+link_bandcamp: https://sentimony.bandcamp.com/album/va-gamayun-tale
 link_ektoplazm: 
 link_discogs: 663801
 compiled_by: Sky Technology

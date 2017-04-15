@@ -14,7 +14,7 @@ coming_soon:
 popular: 
 youtube_id: L3PGvUpopKk&list=PLp2GaPnw5O3Ox6J1Yy2JxL2fj7yZIIMn-
 bandcamp_id: 342915204
-link_bandcamp: https://lookinglook.bandcamp.com/album/ufomatka-the-e-p
+link_bandcamp: https://sentimony.bandcamp.com/album/ufomatka-the-e-p
 link_ektoplazm: 
 link_discogs: 866892
 compiled_by: 

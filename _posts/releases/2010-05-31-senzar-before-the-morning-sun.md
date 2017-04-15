@@ -14,7 +14,7 @@ coming_soon:
 popular: 
 youtube_id: JYrymig8pgU&list=PLp2GaPnw5O3PP655ySgkQ8ZxQbHMTodg0
 bandcamp_id: 3896908655
-link_bandcamp: https://lookinglook.bandcamp.com/album/senzar-before-the-morning-sun
+link_bandcamp: https://sentimony.bandcamp.com/album/senzar-before-the-morning-sun
 link_ektoplazm: http://www.ektoplazm.com/free-music/senzar-before-the-morning-sun
 link_discogs: 331378
 compiled_by: 
