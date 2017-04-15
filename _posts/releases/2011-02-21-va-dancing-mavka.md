@@ -13,7 +13,7 @@ tracks_no: 9
 coming_soon: 
 popular: 
 youtube_id: 4gX6GmfMD3o&list=PLp2GaPnw5O3MEQlC5LWj1BekEnhkDHZGX
-bandcamp_id: 95715287
+bandcamp_id: 3971967864
 link_bandcamp: https://sentimony.bandcamp.com/album/va-dancing-mavka
 link_ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka
 link_discogs: 350184

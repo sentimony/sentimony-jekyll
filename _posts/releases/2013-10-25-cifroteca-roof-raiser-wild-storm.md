@@ -13,7 +13,7 @@ tracks_no: 10
 coming_soon: 
 popular: 
 youtube_id: ZyVsk3RkTeQ&list=PLp2GaPnw5O3MiDE58W_2b0G4lZAF19cNt
-bandcamp_id: 721225799
+bandcamp_id: 1314944593
 link_bandcamp: https://sentimony.bandcamp.com/album/cifroteca-roof-raiser-wild-storm
 link_ektoplazm: 
 link_discogs: 1165312
