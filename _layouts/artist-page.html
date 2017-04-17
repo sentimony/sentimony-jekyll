@@ -6,9 +6,9 @@ layout: default
 
 <!-- <img src="{{ site.baseurl }}/assets/img/artists/{{ page.slug }}.jpg" alt="{{ page.title }}"> -->
 
-{% if page.soundcloud-id %}
+<!-- {% if page.soundcloud-id %}
   <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/{{ page.soundcloud-id }}&amp;color=00aabb&amp;hide_related=true&amp;show_comments=true&amp;show_user=false&amp;sharing=false&amp;show_bpm=true"></iframe>
-{% endif %}
+{% endif %} -->
 
 {% if page.name %}
   <div>Name: {{ page.name }}</div>
@@ -23,23 +23,23 @@ layout: default
 {% endif %}
 
 {% if page.website %}
-  <a href="{{ page.website }}"><span class="icon-public"></span></a>
+  <a href="{{ page.website }}" target="_blank"><span class="icon-public"></span></a>
 {% endif %}
 
 {% if page.bandcamp %}
-  <a href="{{ page.bandcamp }}"><span class="icon-bandcamp"></span></a>
+  <a href="{{ page.bandcamp }}" target="_blank"><span class="icon-bandcamp"></span></a>
 {% endif %}
 
 {% if page.facebook %}
-  <a href="{{ page.facebook }}"><span class="icon-facebook"></span></a>
+  <a href="{{ page.facebook }}" target="_blank"><span class="icon-facebook"></span></a>
 {% endif %}
 
 {% if page.soundcloud %}
-  <a href="{{ page.soundcloud }}"><span class="icon-soundcloud"></span></a>
+  <a href="{{ page.soundcloud }}" target="_blank"><span class="icon-soundcloud"></span></a>
 {% endif %}
 
 {% if page.discogs %}
-  <a href="{{ page.discogs }}"><span class="icon-discogs"></span></a>
+  <a href="{{ page.discogs }}" target="_blank"><span class="icon-discogs"></span></a>
 {% endif %}
 
 {{ content }}
