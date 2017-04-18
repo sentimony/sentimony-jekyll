@@ -8,7 +8,7 @@ style: psychill
 format: album
 cover: true
 cat_no: sencd017
-cat_nu: sencd017/lgcd02
+cat_nu: sencd017 lgcd02
 tracks_no: 10
 coming_soon: 
 popular: 

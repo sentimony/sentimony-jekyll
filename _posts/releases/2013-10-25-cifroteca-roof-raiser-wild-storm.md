@@ -8,7 +8,7 @@ style: psytrance
 format: split album
 cover: true
 cat_no: sencd015
-cat_nu: sencd015
+cat_nu: sencd015 adcd02
 tracks_no: 10
 coming_soon: 
 popular: 

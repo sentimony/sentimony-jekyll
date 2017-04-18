@@ -11,7 +11,7 @@ cat_no: sencd014
 cat_nu: sencd014
 tracks_no: 4
 coming_soon: 
-popular: true
+popular: 
 youtube_id: wpOaPxEOrmM&list=PLp2GaPnw5O3Pev66mBuHmGG4cHaBkx1FR
 bandcamp_id: 2261902557
 link_bandcamp: https://sentimony.bandcamp.com/album/tentura-aurora

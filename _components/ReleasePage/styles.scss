@@ -88,15 +88,31 @@
     padding-right: 1.1em;
   }
 
-  &__date {
-    font-size: 14px;
+  &__small-info {
+    font-size: 10px;
     color: rgba(#fff,.5);
+
+    @include media(S) {
+      font-size: 14px;
+    }
+  }
+
+  &__date {
+    display: inline-block;
   }
 
   &__catalog-number {
-    font-size: 14px;
-    color: rgba(#fff,.5);
+    // font-size: 14px;
+    // color: rgba(#fff,.5);
+    display: inline-block;
     text-transform: uppercase;
+  }
+
+  &__style {
+    // font-size: 14px;
+    // color: rgba(#fff,.5);
+    display: inline-block;
+    text-transform: capitalize;
   }
 
   &__title {
@@ -108,12 +124,6 @@
     @include media(S) {
       font-size: 32px;
     }
-  }
-
-  &__listen-on {
-    font-size: 14px;
-    color: rgba(#fff,.5);
-    // margin-bottom: .7em;
   }
 
   &__bandcamp-btn {

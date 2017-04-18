@@ -8,7 +8,7 @@ style: goatrance
 format: compilation
 cover: true
 cat_no: sencd021
-cat_nu: sencd021/lgcd05
+cat_nu: sencd021 lgcd05
 tracks_no: 11
 coming_soon: 
 popular: 

@@ -20,10 +20,13 @@
       </div>
 
       <div class="release-page__info">
-        <div class="release-page__catalog-number">{{ page.cat_nu }}</div>
-        <div class="release-page__date">{% if page.coming_soon %}Coming at {{ page.date | date: '%Y' }}{% else %}{{ page.date | date_to_string }}{% endif %}</div>
+        <div class="release-page__small-info">
+          <div class="release-page__catalog-number">{{ page.cat_nu }}</div> | 
+          <div class="release-page__date">{% if page.coming_soon %}Coming at {{ page.date | date: '%Y' }}{% else %}{{ page.date | date_to_string }}{% endif %}</div> | 
+          <div class="release-page__style">{{ page.style }}</div>
+        </div>
         <h1 class="release-page__title">{{ page.title }}</h1>
-        <div class="release-page__listen-on">Listen on:</div>
+        <div class="release-page__small-info">Listen on:</div>
         <div>
           <a class="release-page__bandcamp-btn{% if page.coming_soon %} is-disabled{% endif %}" href="{% if page.coming_soon %}javascript:void(0){% else %}{{ page.link_bandcamp }}{% endif %}" target="_blank">
             <span class="release-page__bandcamp-btn-icon"></span>

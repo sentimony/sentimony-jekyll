@@ -8,7 +8,7 @@ style: goatrance
 format: ep album
 cover: true
 cat_no: sencd022
-cat_nu: sencd022/lgcd06
+cat_nu: sencd022 lgcd06
 tracks_no: 5
 coming_soon: 
 popular: 

@@ -8,7 +8,7 @@ style: psytrance
 format: compilation
 cover: true
 cat_no: sencd008
-cat_nu: sencd008/adcd01
+cat_nu: sencd008 adcd01
 tracks_no: 12
 coming_soon: 
 popular: 
