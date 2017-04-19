@@ -4,7 +4,7 @@ permalink: /release/ufomatka-the-ep/
 category: releases
 title: 'Ufomatka «The E.P.»'
 label: lookinglook
-style: goatrance
+style: Goa Trance
 format: ep album
 cover: true
 cat_no: sencd022

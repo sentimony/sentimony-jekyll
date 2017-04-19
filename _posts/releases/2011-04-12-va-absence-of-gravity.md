@@ -4,7 +4,7 @@ permalink: /release/va-absence-of-gravity/
 category: releases
 title: 'VA «Absence Of Gravity»'
 label: sentimony
-style: psychill
+style: Psychill
 format: compilation
 cover: true
 cat_no: sencd010

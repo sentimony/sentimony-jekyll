@@ -4,7 +4,7 @@ permalink: /release/tentura-beyond-illusion/
 category: releases
 title: 'Tentura «Beyond Illusion»'
 label: sentimony
-style: psychill
+style: Psychill
 format: album
 cover: true
 cat_no: sencd023

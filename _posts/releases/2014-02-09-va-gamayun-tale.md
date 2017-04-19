@@ -4,7 +4,7 @@ permalink: /release/va-gamayun-tale/
 category: releases
 title: 'VA «Gamayun Tale»'
 label: lookinglook
-style: goatrance
+style: Goa Trance
 format: compilation
 cover: true
 cat_no: sencd021

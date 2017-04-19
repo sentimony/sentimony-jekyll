@@ -4,7 +4,7 @@ permalink: /release/tentura-aurora/
 category: releases
 title: 'Tentura «Aurora»'
 label: sentimony
-style: psychill
+style: Psychill, Chillgressive
 format: ep album
 cover: true
 cat_no: sencd014

@@ -4,7 +4,7 @@ permalink: /release/va-true-story/
 category: releases
 title: 'VA «True Story»'
 label: sentimony
-style: psychill
+style: Psychill
 format: compilation
 cover: true
 cat_no: sencd004

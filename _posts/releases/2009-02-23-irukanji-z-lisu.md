@@ -4,7 +4,7 @@ permalink: /release/irukanji-z-lisu/
 category: releases
 title: 'Irukanji «Z Lisu»'
 label: sentimony
-style: psychill
+style: Psychill, Chillgressive
 format: album
 cover: true
 cat_no: sencd006

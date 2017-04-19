@@ -4,7 +4,7 @@ permalink: /release/senzar-before-the-morning-sun/
 category: releases
 title: 'Senzar ‎«Before The Morning Sun»'
 label: lookinglook
-style: psychill
+style: Psychill
 format: album
 cover: true
 cat_no: sencd017

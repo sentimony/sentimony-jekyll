@@ -4,7 +4,7 @@ permalink: /release/va-emptinesses/
 category: releases
 title: 'VA «Emptinesses»'
 label: sentimony
-style: psychill
+style: Psychill
 format: compilation
 cover: true
 cat_no: sencd002

@@ -4,7 +4,7 @@ permalink: /release/hypnotriod-seven-heavenly-edges/
 category: releases
 title: 'Hypnotriod «Seven Heavenly Edges»'
 label: sentimony
-style: psychill
+style: Psychill, Chillgressive
 format: ep album
 cover: true
 cat_no: sencd012

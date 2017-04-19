@@ -4,7 +4,7 @@ permalink: /release/psyfactor-retro-scientific/
 category: releases
 title: 'Psyfactor «Retro Scientific»'
 label: sentimony
-style: psychill
+style: Psychill
 format: album
 cover: true
 cat_no: sencd016

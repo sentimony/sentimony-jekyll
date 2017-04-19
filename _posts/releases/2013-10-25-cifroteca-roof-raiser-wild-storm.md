@@ -4,7 +4,7 @@ permalink: /release/cifroteca-roof-raiser-wild-storm/
 category: releases
 title: 'Cifroteca & Roof Raiser «Wild Storm»'
 label: aquadeep
-style: psytrance
+style: Psytrance
 format: split album
 cover: true
 cat_no: sencd015

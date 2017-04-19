@@ -4,7 +4,7 @@ permalink: /release/zymosis-insight/
 category: releases
 title: 'Zymosis «Insight»'
 label: sentimony
-style: psychill
+style: Psychill
 format: album
 cover: 
 cat_no: sencd025

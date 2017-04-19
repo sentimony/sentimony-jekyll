@@ -4,7 +4,7 @@ permalink: /release/specialmind-the-missing-particle/
 category: releases
 title: 'Specialmind «The Missing Particle»'
 label: sentimony
-style: psychill
+style: Psychill
 format: ep album
 cover: true
 cat_no: sencd013

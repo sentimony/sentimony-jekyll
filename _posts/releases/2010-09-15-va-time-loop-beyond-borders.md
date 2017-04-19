@@ -4,7 +4,7 @@ permalink: /release/va-time-loop-beyond-borders/
 category: releases
 title: 'VA «Time Loop: Beyond Borders»'
 label: sentimony
-style: psychill
+style: Psychill
 format: compilation
 cover: true
 cat_no: sencd007

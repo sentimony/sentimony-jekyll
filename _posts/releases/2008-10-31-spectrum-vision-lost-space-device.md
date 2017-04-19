@@ -4,7 +4,7 @@ permalink: /release/spectrum-vision-lost-space-device/
 category: releases
 title: 'Spectrum Vision «Lost Space Device»'
 label: sentimony
-style: psychill
+style: Psychill
 format: album
 cover: true
 cat_no: sencd005

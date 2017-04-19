@@ -4,7 +4,7 @@ permalink: /release/va-fantazma/
 category: releases
 title: 'VA «Fantazma»'
 label: sentimony
-style: psychill
+style: Psychill
 format: compilation
 cover: true
 cat_no: sencd001

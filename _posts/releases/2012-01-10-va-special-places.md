@@ -4,7 +4,7 @@ permalink: /release/va-special-places/
 category: releases
 title: 'VA «Special Places»'
 label: sentimony
-style: psychill
+style: Psychill
 format: compilation
 cover: true
 cat_no: sencd011

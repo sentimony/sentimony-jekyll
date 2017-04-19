@@ -4,7 +4,7 @@ permalink: /release/sphingida-origin/
 category: releases
 title: 'Sphingida «Origin»'
 label: sentimony
-style: psychill
+style: Psychill
 format: album
 cover: true
 cat_no: sencd003

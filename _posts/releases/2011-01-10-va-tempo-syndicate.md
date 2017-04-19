@@ -4,7 +4,7 @@ permalink: /release/va-tempo-syndicate/
 category: releases
 title: 'VA «Tempo Syndicate»'
 label: sentimony
-style: psychill
+style: Psychill
 format: compilation
 cover: true
 cat_no: sencd009

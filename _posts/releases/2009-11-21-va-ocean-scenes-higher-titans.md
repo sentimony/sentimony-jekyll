@@ -4,7 +4,7 @@ permalink: /release/va-ocean-scenes-higher-titans/
 category: releases
 title: 'VA «Ocean Scenes: Higher Titans»'
 label: aquadeep
-style: psytrance
+style: Psytrance
 format: compilation
 cover: true
 cat_no: sencd008
