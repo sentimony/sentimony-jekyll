@@ -42,4 +42,14 @@ layout: default
   <a href="{{ page.discogs }}" target="_blank"><span class="icon-discogs"></span></a>
 {% endif %}
 
+{% if page.youtube_id %}
+  <p>
+    <div class="iframe-holder">
+      <div class="iframe-holder__ratio">
+        <iframe class="iframe-holder__iframe" src="https://www.youtube.com/embed/{{ page.youtube_id }}?ecver=1" allowfullscreen></iframe>
+      </div>
+    </div>
+  </p>
+{% endif %}
+
 {{ content }}
