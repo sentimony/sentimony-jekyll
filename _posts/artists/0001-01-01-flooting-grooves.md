@@ -11,5 +11,6 @@ bandcamp:
 facebook: 
 soundcloud: 
 soundcloud-id: 
+youtube_id: 
 discogs: 
 ---

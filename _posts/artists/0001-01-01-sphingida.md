@@ -11,5 +11,6 @@ bandcamp:
 facebook: https://www.facebook.com/sphingida
 soundcloud: 
 soundcloud-id: 
+youtube_id: 
 discogs: https://www.discogs.com/artist/751792-Sphingida
 ---
