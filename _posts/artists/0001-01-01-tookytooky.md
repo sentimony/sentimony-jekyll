@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/tookytooky/
 category: artists
 title: Tookytooky
+photo_cover: 
 name: Sergey Verbitsky
 location: Odesa, Ukraine
 style: psytrance

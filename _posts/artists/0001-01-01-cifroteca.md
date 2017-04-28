@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/cifroteca/
 category: artists
 title: Cifroteca
+photo_cover: 
 name: Yuriy Iofik
 location: Kyiv, Ukraine
 style: forest psytrance

@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/daoine-sidhe/
 category: artists
 title: Dagas
+photo_cover: 
 name: 
 location: 
 style: psychill

@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/unusual-cosmic-process/
 category: artists
 title: Unusual Cosmic Process
+photo_cover: 
 name: 
 location: 
 style: psychill

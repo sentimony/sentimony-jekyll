@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/specialmind/
 category: artists
 title: Specialmind
+photo_cover: 
 name: 
 location: Kyiv, Ukraine
 style: psychill

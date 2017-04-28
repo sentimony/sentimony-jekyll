@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/already-maged/
 category: artists
 title: Already Maged
+photo_cover: 
 name: Egor Yudin
 location: Lviv, Ukraine
 style: forest psytrance

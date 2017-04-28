@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/sky-technology/
 category: artists
 title: Sky Technology
+photo_cover: 
 name: 
 location: Kyiv, Ukraine
 style: goatrance

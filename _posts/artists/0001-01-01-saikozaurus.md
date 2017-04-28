@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/saikozaurus/
 category: artists
 title: Saikozaurus
+photo_cover: 
 name: Daniil Pastushenko
 location: Odesa, Ukraine
 style: forest psytrance

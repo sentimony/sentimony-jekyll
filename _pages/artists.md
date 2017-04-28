@@ -7,7 +7,17 @@ og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
 {% for i in site.categories.artists reversed %}
-  {% if i.youtube_id %}
-  [{{ i.title }}]({{ i.url }})
-  {% endif %}
+
+{% if i.photo_cover %}
+<p>
+  <a href="{{ i.url }}">
+    <img class="photo-cover" src="{{ i.photo_cover }}" alt="{{ i.title }}">
+  </a>
+</p>
+{% endif %}
+
+{% if i.youtube_id %}
+[{{ i.title }}]({{ i.url }})
+{% endif %}
+
 {% endfor %}

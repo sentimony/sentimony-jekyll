@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/hypnotriod/
 category: artists
 title: Hypnotriod
+photo_cover: 
 name: 
 location: 
 style: psychill

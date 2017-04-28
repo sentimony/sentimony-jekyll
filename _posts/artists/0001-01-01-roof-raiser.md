@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/roof-raiser/
 category: artists
 title: Roof Raiser
+photo_cover: 
 name: Alexey Petrovskiy
 location: Kyiv, Ukraine
 style: psychill, forest psytrance

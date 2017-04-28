@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/spectrum-vision/
 category: artists
 title: Spectrum Vision
+photo_cover: 
 name: 
 location: 
 style: psychill

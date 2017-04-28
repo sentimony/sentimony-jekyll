@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/crystal-vibe/
 category: artists
 title: Crystal Vibe
+photo_cover: 
 name: 
 location: Kyiv, Ukraine
 style: psychill

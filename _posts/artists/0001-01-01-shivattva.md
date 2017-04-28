@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/shivattva/
 category: artists
 title: Shivattva
+photo_cover: 
 name: Artem Arhangelskiy
 location: Odesa, Ukraine
 style: forest psytrance

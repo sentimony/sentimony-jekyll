@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/sphingida/
 category: artists
 title: Sphingida
+photo_cover: 
 name: Ihor Orlovskyi & Yulia Levchenko
 location: Kyiv, Ukraine
 style: psychill

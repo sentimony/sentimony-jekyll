@@ -3,6 +3,7 @@ layout: artist-page
 permalink: /artist/astropilot/
 category: artists
 title: AstroPilot
+photo_cover: 
 name: 
 location: 
 style: psychill
