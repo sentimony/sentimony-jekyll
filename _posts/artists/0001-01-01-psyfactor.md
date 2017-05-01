@@ -6,7 +6,7 @@ title: Psyfactor
 photo_cover: 
 name: 
 location: 
-style: psychill
+style: Psychill
 website: 
 bandcamp: 
 facebook: 

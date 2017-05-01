@@ -6,7 +6,7 @@ title: Sphingida
 photo_cover: 
 name: Ihor Orlovskyi & Yulia Levchenko
 location: Kyiv, Ukraine
-style: psychill
+style: Psychill
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/sphingida

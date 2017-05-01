@@ -6,7 +6,7 @@ title: Specialmind
 photo_cover: 
 name: 
 location: Kyiv, Ukraine
-style: psychill
+style: Psychill
 website: 
 bandcamp: 
 facebook: 
