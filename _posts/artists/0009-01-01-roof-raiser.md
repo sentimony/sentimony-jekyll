@@ -6,12 +6,12 @@ title: Roof Raiser
 photo_cover: 
 name: Alexey Petrovskiy
 location: Kyiv, Ukraine
-style: Psychill, Forest Psytrance
+style: Forest Psytrance, Psychill
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/roof.raiser
 soundcloud: https://soundcloud.com/roofraiser
 soundcloud-id: 9212345
 youtube_id: 
-discogs: 
+discogs: https://www.discogs.com/artist/857921-Roof-Raiser
 ---
