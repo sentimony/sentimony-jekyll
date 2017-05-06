@@ -24,7 +24,7 @@ mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Stud
 
 Aqua Deep Music is pleased to announce its second release, split-album of two psychedelic minds Cifroteca and Roof Raiser - talented sound producers from Ukraine.
 
-Wild Storm - its always happens when guys come together and begin to synthesize music. Aliens space-ship on the ocean ... strange crackling ... tuk-tuktuk ... had to dive very deep, and get the bottom to find what they're looking for.
+Wild Storm - its always happens when guys come together and begin to synthesize music. Aliens space-ship on the ocean ... strange crackling ... knock-knock ... had to dive very deep, and get the bottom to find what they're looking for.
 
 And dont forget to put your aqualung while listening!
 

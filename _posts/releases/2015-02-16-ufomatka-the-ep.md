@@ -22,9 +22,9 @@ artwork_by: Ufomatka
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
 ---
 
-Lookinglook Records presents the new goatrance release by our beloved artist Ufomatka.
+Lookinglook Records presents the new Goa trance release by our beloved artist Ufomatka.
 
-«The E.P.» is an eneretic bundle of 5 previously unreleased dancefloor smashing tracks collected by the artist during the last several years.
+«The E.P.» is an energetic bundle of 5 previously unreleased dance floor smashing tracks collected by the artist during the last several years.
 
 Get it now, completely free, and have fun!
 

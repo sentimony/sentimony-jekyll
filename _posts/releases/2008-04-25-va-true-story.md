@@ -26,7 +26,7 @@ Sentimony Records team proudly presents to you, friends, our fourth release - co
 
 We wish you'll enjoy this compilation, which guides you through the true story about the adventures of small Sentimon...
 
-Durin listenin you will be absorbed by classic ambient vibes in the start of journey and with increasing psy-ambient motion, downtempo and expressive uptempo energy.
+During listening you will be absorbed by classic ambient vibes in the start of journey and with increasing psy-ambient motion, downtempo and expressive uptempo energy.
 
 ---
 Tracklist:

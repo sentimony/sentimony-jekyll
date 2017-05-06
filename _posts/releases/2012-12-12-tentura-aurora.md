@@ -22,7 +22,7 @@ artwork_by: Ader
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
 ---
 
-Sentimony Records team proudly pleased to announce «Aurora», their third EP. At this time we introducing you the debut single by Tentura project, a well-known psychedelic chillout and deep trance duo from Kyiv, Ukraine.
+Sentimony Records team is proudly pleased to announce «Aurora», their third EP. At this time we're introducing you the debut single by Tentura project, a well-known psychedelic chillout and deep trance duo from Kyiv, Ukraine.
 
 The project was formed by two talented guys: composer Ader (Alexander Pidgorny) and psytrance Dj Maket (Stanislav Yastremsky). Quite often, Alexander and Stanislav perform their live performances at the Ukrainian festivals, open airs, and indoor parties.
 
