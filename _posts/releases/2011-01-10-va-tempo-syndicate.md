@@ -22,11 +22,11 @@ artwork_by: <a href='https://irukanji-music.com' target='_blank'>Irukanji</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
 ---
 
-Sentimony Records team is proud to introduce you label's ninth release and our two years labor - psychedelic music compialtion entitled «Tempo Syndicate».
+Sentimony Records team is proud to introduce you label's ninth release and our two years labor - psychedelic music compilation entitled «Tempo Syndicate».
 
 This new release contains 12 unique tracks of crystal clear psychedelic sound with deep bass vibration, spellbinding shaman rhythms and innovative ideas.
 
-We reccomend to listen this new CD in the evening and at night-time, especially at open space away from the city limits.
+We recommend to listen this new CD in the evening and at night-time, especially at open space away from the city limits.
 
 Have a nice dive! ;)
 
