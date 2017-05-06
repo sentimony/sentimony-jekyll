@@ -13,5 +13,5 @@ facebook: https://www.facebook.com/overdreamusic
 soundcloud: https://soundcloud.com/overdream
 soundcloud-id: 267996
 youtube_id: 
-discogs: 
+discogs: https://www.discogs.com/artist/619531-Overdream-2
 ---

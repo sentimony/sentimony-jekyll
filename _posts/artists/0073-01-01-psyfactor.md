@@ -1,8 +1,8 @@
 ---
 layout: artist-page
-permalink: /artist/sygnals/
+permalink: /artist/psyfactor/
 category: artists
-title: Sygnals
+title: Psyfactor
 photo_cover: 
 name: 
 location: 
@@ -13,5 +13,5 @@ facebook:
 soundcloud: 
 soundcloud-id: 
 youtube_id: 
-discogs: 
+discogs: https://www.discogs.com/artist/187901-Psyfactor
 ---

@@ -1,8 +1,8 @@
 ---
 layout: artist-page
-permalink: /artist/vonoom/
+permalink: /artist/hypnotriod/
 category: artists
-title: Vonoom
+title: Hypnotriod
 photo_cover: 
 name: 
 location: 
@@ -13,5 +13,5 @@ facebook:
 soundcloud: 
 soundcloud-id: 
 youtube_id: 
-discogs: 
+discogs: https://www.discogs.com/artist/1954665-Hypnotriod
 ---

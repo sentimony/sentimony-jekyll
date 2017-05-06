@@ -13,5 +13,5 @@ facebook: https://www.facebook.com/cifroteca.music
 soundcloud: https://soundcloud.com/cifroteca
 soundcloud-id: 728376
 youtube_id: 
-discogs: 
+discogs: https://www.discogs.com/artist/859224-Cifroteca
 ---

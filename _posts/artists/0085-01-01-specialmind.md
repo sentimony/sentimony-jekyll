@@ -1,11 +1,11 @@
 ---
 layout: artist-page
-permalink: /artist/daoine-sidhe/
+permalink: /artist/specialmind/
 category: artists
-title: Dagas
+title: Specialmind
 photo_cover: 
 name: 
-location: 
+location: Kyiv, Ukraine
 style: Psychill
 website: 
 bandcamp: 
@@ -13,5 +13,5 @@ facebook:
 soundcloud: 
 soundcloud-id: 
 youtube_id: 
-discogs: 
+discogs: https://www.discogs.com/artist/2943764-Specialmind
 ---

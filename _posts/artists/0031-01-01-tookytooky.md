@@ -13,5 +13,5 @@ facebook: https://www.facebook.com/tookytooky
 soundcloud: https://soundcloud.com/tookytooky
 soundcloud-id: 16396451
 youtube_id: 
-discogs: 
+discogs: https://www.discogs.com/artist/1638905-Tookytooky
 ---

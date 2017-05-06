@@ -1,8 +1,8 @@
 ---
 layout: artist-page
-permalink: /artist/unusual-cosmic-process/
+permalink: /artist/flooting-grooves/
 category: artists
-title: Unusual Cosmic Process
+title: Flooting Grooves
 photo_cover: 
 name: 
 location: 
@@ -13,5 +13,5 @@ facebook:
 soundcloud: 
 soundcloud-id: 
 youtube_id: 
-discogs: 
+discogs: https://www.discogs.com/artist/331429-Flooting-Grooves
 ---

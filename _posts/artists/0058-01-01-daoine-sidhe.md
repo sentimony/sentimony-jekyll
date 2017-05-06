@@ -1,11 +1,11 @@
 ---
 layout: artist-page
-permalink: /artist/crystal-vibe/
+permalink: /artist/daoine-sidhe/
 category: artists
-title: Crystal Vibe
+title: Dagas
 photo_cover: 
 name: 
-location: Kyiv, Ukraine
+location: 
 style: Psychill
 website: 
 bandcamp: 
@@ -13,5 +13,5 @@ facebook:
 soundcloud: 
 soundcloud-id: 
 youtube_id: 
-discogs: 
+discogs: https://www.discogs.com/artist/1954664-Daoine-Sidhe
 ---

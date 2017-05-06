@@ -1,8 +1,8 @@
 ---
 layout: artist-page
-permalink: /artist/specialmind/
+permalink: /artist/crystal-vibe/
 category: artists
-title: Specialmind
+title: Crystal Vibe
 photo_cover: 
 name: 
 location: Kyiv, Ukraine
@@ -13,5 +13,5 @@ facebook:
 soundcloud: 
 soundcloud-id: 
 youtube_id: 
-discogs: 
+discogs: https://www.discogs.com/artist/4210858-Crystal-Vibe
 ---

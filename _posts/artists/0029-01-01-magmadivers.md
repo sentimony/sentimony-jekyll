@@ -13,5 +13,5 @@ facebook:
 soundcloud: https://www.facebook.com/magmadivers
 soundcloud-id: 
 youtube_id: 
-discogs: 
+discogs: https://www.discogs.com/artist/859225-Magmadivers
 ---
