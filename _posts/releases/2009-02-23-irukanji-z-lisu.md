@@ -28,7 +28,7 @@ Also Ihor Orlovskyi is known as co-founder of experimental chill-out label Senti
 
 Created in 2008 Irukanji combined all experimental ideas and fresh twisted downtempo style. Irukanji is breaking all rules and standing beyond the scope.
 
-In his tracks you will here crazy conversion between pure psychedelic down beats and mysterious tales.
+In his tracks you will hear crazy conversion between pure psychedelic down beats and mysterious tales.
 
 ---
 Tracklist:
