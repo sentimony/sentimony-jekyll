@@ -26,7 +26,7 @@ Fantazma is the debut release of Sentimony Records - label of psy-ambient, downt
 
 Eleven previously unreleased tracks, ranging from deep ambient to psychedelic idm and more up-tempo chill-out music. All this tracks produced in Ukraine.
 
-Sentimony Records was started in autumn 2006. Label's main mission is to release tracks of all the talented artists from Ukraine and others countries.
+Sentimony Records was started in autumn 2006. Label's main mission is to release tracks of all the talented artists from Ukraine and other countries.
 
 Feel the Ukrainian psychedelic chill-out spirit.
 
