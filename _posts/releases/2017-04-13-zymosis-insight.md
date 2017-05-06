@@ -22,7 +22,7 @@ artwork_by:
 mastered_by: <a href='https://www.facebook.com/zymosis.dimitro' target='_blank'>Dimitro (Zymosis Studio)</a>
 ---
 
-Sentimony Records team proud to presents «Insight» - new Zymosis full-length album.
+Sentimony Records team is proud to present «Insight» - new Zymosis full-length album.
 
 Have a nice trip!
 

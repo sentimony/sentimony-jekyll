@@ -22,7 +22,7 @@ artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
 ---
 
-Lookinglook Records proud to presents its third compact disk - the debut album from Ukrainian project Unusual Cosmic Process (U.C.P.), titled «Weightlessness».
+Lookinglook Records is proud to present its third compact disk - the debut album from Ukrainian project Unusual Cosmic Process (U.C.P.), titled «Weightlessness».
 
 U.C.P., also known under the name of Runar Kristinsson (real name is Armen Akopov). In 2000 year he started to work as a DJ in one of the Ukrainian nightclubs. But soon he realized that composing music brings him more pleasure than to engage in DJing. In this way, in 2006 he began to write his own music.
 

@@ -26,7 +26,7 @@ Lookinglook Records presents VA «Gamayun Tale» - a new goa story compiled by S
 
 Gamayun is a prophetic bird of Slavic folklore. It is a symbol of wisdom and knowledge and lives on an island in the east, close to paradise.
 
-And yep, Gamayun like goa-trance. Enjoy!
+And yep, Gamayun like Goa trance. Enjoy!
 
 ---
 Tracklist:
