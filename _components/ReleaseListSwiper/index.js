@@ -3,11 +3,9 @@
   document.querySelector('.release-list-swiper__container').classList.add('is-visible');
 
   var homePageSwiper = new Swiper ('.release-list-swiper--home-page .swiper-container', {
-    nextButton: '.swiper-button-next',
-    prevButton: '.swiper-button-prev',
+    nextButton: '.release-list-swiper__next',
+    prevButton: '.release-list-swiper__prev',
     scrollbar: '.swiper-scrollbar',
-    // centeredSlides: true,
-    // slideToClickedSlide: true,
     mousewheelControl: true,
     mousewheelForceToAxis: true,
     freeMode: true,
@@ -17,8 +15,8 @@
   if (document.querySelector('.release-list-swiper--release-page')) {
 
     var releasePageSwiper = new Swiper ('.release-list-swiper--release-page .swiper-container', {
-      nextButton: '.swiper-button-next',
-      prevButton: '.swiper-button-prev',
+      nextButton: '.release-list-swiper__next',
+      prevButton: '.release-list-swiper__prev',
       scrollbar: '.swiper-scrollbar',
       centeredSlides: true,
       slideToClickedSlide: true,
