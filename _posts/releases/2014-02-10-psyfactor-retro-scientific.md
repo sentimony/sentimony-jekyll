@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/psyfactor-retro-scientific/
 category: releases
 title: 'Psyfactor «Retro Scientific»'

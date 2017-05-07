@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/already-maged/
 category: artists
 title: Already Maged

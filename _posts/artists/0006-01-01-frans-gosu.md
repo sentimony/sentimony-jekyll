@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/frans-gosu/
 category: artists
 title: Frans Gosu

@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/hypnotriod-seven-heavenly-edges/
 category: releases
 title: 'Hypnotriod «Seven Heavenly Edges»'

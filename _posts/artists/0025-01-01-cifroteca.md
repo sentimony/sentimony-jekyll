@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/cifroteca/
 category: artists
 title: Cifroteca

@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/va-gamayun-tale/
 category: releases
 title: 'VA «Gamayun Tale»'

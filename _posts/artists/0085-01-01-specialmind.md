@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/specialmind/
 category: artists
 title: Specialmind

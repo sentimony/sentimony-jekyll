@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/roof-raiser/
 category: artists
 title: Roof Raiser

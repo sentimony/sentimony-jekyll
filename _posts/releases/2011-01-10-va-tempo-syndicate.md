@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/va-tempo-syndicate/
 category: releases
 title: 'VA «Tempo Syndicate»'

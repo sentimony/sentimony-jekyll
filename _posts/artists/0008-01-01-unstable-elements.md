@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/unstable-elements/
 category: artists
 title: Unstable Elements

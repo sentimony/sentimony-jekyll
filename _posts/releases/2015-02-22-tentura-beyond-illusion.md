@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/tentura-beyond-illusion/
 category: releases
 title: 'Tentura «Beyond Illusion»'

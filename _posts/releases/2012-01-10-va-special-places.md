@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/va-special-places/
 category: releases
 title: 'VA «Special Places»'

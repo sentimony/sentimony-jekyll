@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/irukanji-z-lisu/
 category: releases
 title: 'Irukanji «Z Lisu»'

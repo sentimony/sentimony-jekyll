@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/crystal-vibe/
 category: artists
 title: Crystal Vibe

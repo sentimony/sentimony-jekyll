@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/tentura-aurora/
 category: releases
 title: 'Tentura «Aurora»'

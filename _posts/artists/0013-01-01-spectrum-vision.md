@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/spectrum-vision/
 category: artists
 title: Spectrum Vision

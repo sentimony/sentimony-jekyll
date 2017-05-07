@@ -3,8 +3,7 @@ var gulp = require('gulp');
 gulp.task('watch', ['browser-sync'], function () {
   gulp.watch([
     '_scss/**/*',
-    '_components/**/*.scss',
-    '_layouts/**/*.scss'
+    '_components/**/*.scss'
   ], ['sass']);
   gulp.watch([
     '_layouts/**/*.html',

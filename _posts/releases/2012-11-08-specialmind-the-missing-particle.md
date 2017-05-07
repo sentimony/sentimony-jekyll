@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/specialmind-the-missing-particle/
 category: releases
 title: 'Specialmind «The Missing Particle»'

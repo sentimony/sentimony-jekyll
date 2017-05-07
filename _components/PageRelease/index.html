@@ -1,0 +1,141 @@
+{% include ReleaseListSwiper/index.html class='release-list-swiper--release-page' %}
+
+<div class="page-release">
+  {% include SVG/deco-triangle.svg fill='#fff' %}
+
+  <div class="page-release__wrapper">
+
+    <div class="page-release__media">
+      <div class="page-release__cover">
+        {% if page.cover %}
+        <a class="page-release__cover-link" href="https://content.sentimony.com/assets/img/releases/large/{{ page.cat_no }}/{{ page.slug }}.jpg">
+          <img class="page-release__cover-img lazyload"
+            src="https://content.sentimony.com/assets/img/releases/medium/{{ page.cat_no }}/{{ page.slug }}.jpg"
+            data-srcset="https://content.sentimony.com/assets/img/releases/medium/{{ page.cat_no }}/{{ page.slug }}.jpg 1x, https://content.sentimony.com/assets/img/releases/medium-retina/{{ page.cat_no }}/{{ page.slug }}.jpg 2x"
+          >
+        </a>
+        {% else %}
+        <div class="page-release__cover-coming">Artwork<br>in progress</div>
+        {% endif %}
+      </div>
+
+      <div class="page-release__info">
+        <div class="page-release__small-info">
+          <div class="page-release__catalog-number">{{ page.cat_nu }}</div> | 
+          <div class="page-release__date">{% if page.coming_soon %}Coming at {{ page.date | date: '%Y' }}{% else %}{{ page.date | date_to_string }}{% endif %}</div> | 
+          <div class="page-release__style">{{ page.style }}</div>
+        </div>
+        <h1 class="page-release__title">{{ page.title }}</h1>
+        <div class="page-release__small-info">Listen on:</div>
+        <div>
+          <a class="page-release__bandcamp-btn{% if page.coming_soon %} is-disabled{% endif %}" href="{% if page.coming_soon %}javascript:void(0){% else %}{{ page.link_bandcamp }}{% endif %}" target="_blank">
+            <span class="page-release__bandcamp-btn-icon"></span>
+            <img class="page-release__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg">
+            <span class="page-release__bandcamp-btn-text">Bandcamp</span>
+          </a>
+          <a class="page-release__youtube-btn{% if page.youtube_id == null %} is-disabled{% endif %}" href="{% if page.youtube_id == null %}javascript:void(0){% else %}https://www.youtube.com/watch?v={{ page.youtube_id }}{% endif %}" target="_blank">
+            <span class="page-release__youtube-btn-icon"></span>
+            <img class="page-release__youtube-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/youtube.svg">
+            <span class="page-release__youtube-btn-text">Youtube</span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="page-release__player{% include IframeSize/index.html %}">
+      {% if page.coming_soon %}
+      <div class="page-release__player-coming">Music<br>is coming</div>
+      {% endif %}
+      {% if page.bandcamp_id %}
+      <iframe class="page-release__player-iframe{% include IframeSize/index.html %}" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp_id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/" seamless></iframe>
+      {% endif %}
+    </div>
+
+  </div>
+</div>
+
+<div class="page-release-content">
+  <div class="page-release-content__wrapper">
+    {{ content }}
+
+    {% if page.mastered_by %}
+    <hr>
+    <p>Credits:</p>
+    {% endif %}
+
+    {% if page.compiled_by %}
+    <p>
+      <span>Compiled By</span>
+      {{ page.compiled_by }}
+    </p>
+    {% endif %}
+
+    {% if page.artwork_by %}
+    <p>
+      <span>Artwork By</span>
+      {{ page.artwork_by }}
+    </p>
+    {% endif %}
+
+    {% if page.mastered_by %}
+    <p>
+      <span>Mastered By</span>
+      {{ page.mastered_by }}
+    </p>
+    {% endif %}
+
+    {% if page.link_discogs %}
+    <hr>
+    <p>Links:</p>
+    {% endif %}
+
+    {% if page.link_bandcamp %}
+    <p style="display: none;">
+      <!-- <span>Donate:</span> -->
+      <a href="{{ page.link_bandcamp }}" target="_blank">
+        <span>Bandcamp</span>
+      </a>
+    </p>
+    {% endif %}
+
+    {% if page.link_ektoplazm %}
+    <p>
+      <!-- <span>Free Download:</span> -->
+      <a href="{{ page.link_ektoplazm }}" target="_blank">
+        <span>Ektoplazm</span>
+      </a>
+    </p>
+    {% endif %}
+
+    {% if page.link_discogs %}
+    <p>
+      <!-- <span>Release Info:</span> -->
+      <a href="https://www.discogs.com/master/view/{{ page.link_discogs }}" target="_blank">
+        <!-- <span class="icon-discogs"></span> -->
+        <span>Discogs</span>
+      </a>
+    </p>
+    {% endif %}
+
+    <!-- <hr>
+    <p>Share:</p>
+    <p class="page-release-content__social">
+      <a href="#" class="page-release-content__btn-facebook" data-social="facebook">
+        <img class="page-release-content__btn-icon" src="{{ site.baseurl }}/assets/img/svg-icons/facebook.svg">
+        <span class="page-release-content__btn-counter" data-counter="facebook"></span>
+      </a>
+      <a href="#" class="page-release-content__btn-vkontakte" data-social="vkontakte">
+        <img class="page-release-content__btn-icon" src="{{ site.baseurl }}/assets/img/svg-icons/vkontakte.svg">
+        <span class="page-release-content__btn-counter" data-counter="vkontakte"></span>
+      </a>
+      <a href="#" class="page-release-content__btn-googleplus" data-social="googleplus">
+        <img class="page-release-content__btn-icon" src="{{ site.baseurl }}/assets/img/svg-icons/googleplus.svg">
+        <span class="page-release-content__btn-counter" data-counter="googleplus"></span>
+      </a>
+      <a href="#" class="page-release-content__btn-twitter" data-social="twitter">
+        <img class="page-release-content__btn-icon" src="{{ site.baseurl }}/assets/img/svg-icons/twitter.svg">
+      </a>
+    </p> -->
+
+  </div>
+</div>

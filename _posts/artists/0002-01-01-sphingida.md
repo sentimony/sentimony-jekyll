@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/sphingida/
 category: artists
 title: Sphingida

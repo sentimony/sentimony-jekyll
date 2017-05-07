@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/va-absence-of-gravity/
 category: releases
 title: 'VA «Absence Of Gravity»'

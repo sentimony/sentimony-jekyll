@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/ader-project/
 category: artists
 title: Ader Project

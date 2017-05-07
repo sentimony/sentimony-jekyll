@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/va-ocean-scenes-higher-titans/
 category: releases
 title: 'VA «Ocean Scenes: Higher Titans»'

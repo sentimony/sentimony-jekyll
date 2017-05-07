@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/unusual-cosmic-process-weightlessness/
 category: releases
 title: Unusual Cosmic Process ‎«Weightlessness»

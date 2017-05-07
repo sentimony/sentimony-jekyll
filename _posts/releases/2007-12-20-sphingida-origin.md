@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/sphingida-origin/
 category: releases
 title: 'Sphingida «Origin»'

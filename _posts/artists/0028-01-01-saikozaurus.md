@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/saikozaurus/
 category: artists
 title: Saikozaurus

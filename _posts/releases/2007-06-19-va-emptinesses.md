@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/va-emptinesses/
 category: releases
 title: 'VA «Emptinesses»'

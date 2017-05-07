@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/flooting-grooves/
 category: artists
 title: Flooting Grooves

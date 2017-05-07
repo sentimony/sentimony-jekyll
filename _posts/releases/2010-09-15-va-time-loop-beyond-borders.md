@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/va-time-loop-beyond-borders/
 category: releases
 title: 'VA «Time Loop: Beyond Borders»'

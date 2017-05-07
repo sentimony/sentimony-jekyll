@@ -1,5 +1,5 @@
 ---
-layout: release-page
+layout: page-release
 permalink: /release/va-dancing-mavka/
 category: releases
 title: VA «Dansing Mavka»

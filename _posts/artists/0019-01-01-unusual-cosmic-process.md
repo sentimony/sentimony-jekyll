@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/unusual-cosmic-process/
 category: artists
 title: Unusual Cosmic Process

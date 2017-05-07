@@ -1,5 +1,5 @@
 ---
-layout: artist-page
+layout: page-artist
 permalink: /artist/sky-technology/
 category: artists
 title: Sky Technology
