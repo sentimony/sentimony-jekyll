@@ -11,7 +11,7 @@ website:
 bandcamp: 
 facebook: https://www.facebook.com/tookytooky
 soundcloud: https://soundcloud.com/tookytooky
-soundcloud-id: 16396451
+soundcloud_id: 16396451
 youtube_id: 
 discogs: https://www.discogs.com/artist/1638905-Tookytooky
 ---

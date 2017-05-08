@@ -11,7 +11,7 @@ website:
 bandcamp: 
 facebook: https://www.facebook.com/saikozaurus.music
 soundcloud: https://soundcloud.com/saikozaurus
-soundcloud-id: 589570
+soundcloud_id: 589570
 youtube_id: 
 discogs: https://www.discogs.com/artist/859226-Saikozaurus
 ---

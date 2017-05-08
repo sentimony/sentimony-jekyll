@@ -11,7 +11,7 @@ website:
 bandcamp: https://astropilotmusic.bandcamp.com
 facebook: https://www.facebook.com/astropilot
 soundcloud: https://soundcloud.com/astropilot
-soundcloud-id: 398009
+soundcloud_id: 398009
 youtube_id: PLp2GaPnw5O3PgJYOSw1NAGZMeehgpj2UL
 discogs: https://www.discogs.com/artist/483423-AstroPilot
 ---

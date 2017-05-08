@@ -1,31 +1,33 @@
 .page-artist {
+  position: relative;
+  padding: 0 .6em;
+
+  .iframe-holder {
+    max-width: 777px;
+    margin-left: auto;
+    margin-right: auto;
+
+    &__ratio {
+      position: relative;
+      @include ratio(100%,16,9);
+      margin-bottom: 2em;
+    }
+
+    &__iframe {
+      border: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
 }
 
 .photo-cover {
   display: block;
   margin: 0 auto;
   height: 100px;
-}
-
-.iframe-holder {
-  max-width: 777px;
-  margin-left: auto;
-  margin-right: auto;
-
-  &__ratio {
-    position: relative;
-    @include ratio(100%,16,9);
-    margin-bottom: 2em;
-  }
-
-  &__iframe {
-    border: 0;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
 }

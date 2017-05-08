@@ -11,7 +11,7 @@ website:
 bandcamp: 
 facebook: 
 soundcloud: https://www.facebook.com/magmadivers
-soundcloud-id: 
+soundcloud_id: 
 youtube_id: 
 discogs: https://www.discogs.com/artist/859225-Magmadivers
 ---

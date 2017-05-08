@@ -11,7 +11,7 @@ website:
 bandcamp: 
 facebook: https://www.facebook.com/magedalready
 soundcloud: https://soundcloud.com/alreadymaged
-soundcloud-id: 7853646
+soundcloud_id: 7853646
 youtube_id: 
 discogs: https://www.discogs.com/artist/588936-Already-Maged
 ---
