@@ -13,6 +13,7 @@ tracks_no: 7
 coming_soon: 
 popular: 
 youtube_id: d_a-YkBQnYE&list=PLp2GaPnw5O3P0IB08Nj8GUFFOIsI1vBLa
+youtube_playlist_id: PLp2GaPnw5O3P0IB08Nj8GUFFOIsI1vBLa
 bandcamp_id: 1793671240
 link_bandcamp: https://sentimony.bandcamp.com/album/unusual-cosmic-process-weightlessness
 link_ektoplazm: http://www.ektoplazm.com/free-music/unusual-cosmic-process-weightlessness

@@ -13,6 +13,7 @@ tracks_no: 9
 coming_soon: 
 popular: 
 youtube_id: KLw08-8uOIw&list=PLp2GaPnw5O3P-uVtUa228Cpg62X8za31K
+youtube_playlist_id: PLp2GaPnw5O3P-uVtUa228Cpg62X8za31K
 bandcamp_id: 2969979336
 link_bandcamp: https://sentimony.bandcamp.com/album/spectrum-vision-lost-space-device
 link_ektoplazm: http://www.ektoplazm.com/free-music/spectrum-vision-lost-space-device

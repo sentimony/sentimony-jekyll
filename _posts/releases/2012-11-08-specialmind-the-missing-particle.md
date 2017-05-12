@@ -13,6 +13,7 @@ tracks_no: 5
 coming_soon: 
 popular: 
 youtube_id: bODVa7DSMrI&list=PLp2GaPnw5O3OumSRMWN_k8f-plmSOlxab
+youtube_playlist_id: PLp2GaPnw5O3OumSRMWN_k8f-plmSOlxab
 bandcamp_id: 1673341211
 link_bandcamp: https://sentimony.bandcamp.com/album/specialmind-the-missing-particle
 link_ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-particle

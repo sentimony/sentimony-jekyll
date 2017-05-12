@@ -13,6 +13,7 @@ tracks_no: 12
 coming_soon: 
 popular: 
 youtube_id: 5xzrh05Ri8Y&list=PLp2GaPnw5O3P0Hwmx8ZjBgCdR_QsI-3fP
+youtube_playlist_id: PLp2GaPnw5O3P0Hwmx8ZjBgCdR_QsI-3fP
 bandcamp_id: 776415346
 link_bandcamp: https://sentimony.bandcamp.com/album/va-ocean-scenes-higher-titans
 link_ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans

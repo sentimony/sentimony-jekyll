@@ -13,6 +13,7 @@ tracks_no: 9
 coming_soon: true
 popular: 
 youtube_id: 
+youtube_playlist_id: 
 bandcamp_id: 
 link_bandcamp: https://sentimony.bandcamp.com/album/zymosis-insight
 link_ektoplazm: 

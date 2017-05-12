@@ -13,6 +13,7 @@ tracks_no: 5
 coming_soon: 
 popular: 
 youtube_id: DGOwQwtvkCI&list=PLp2GaPnw5O3M5qeJ2tRG2yhoVbLvkAFoC
+youtube_playlist_id: PLp2GaPnw5O3M5qeJ2tRG2yhoVbLvkAFoC
 bandcamp_id: 2733998829
 link_bandcamp: https://sentimony.bandcamp.com/album/hypnotriod-seven-heavenly-edges
 link_ektoplazm: http://www.ektoplazm.com/free-music/hypnotriod-seven-heavenly-edges

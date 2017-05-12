@@ -13,6 +13,7 @@ tracks_no: 10
 coming_soon: 
 popular: true
 youtube_id: RddTSC5d9uc&list=PLp2GaPnw5O3PMQaDZ68wXXSCBq7hdE9im
+youtube_playlist_id: PLp2GaPnw5O3PMQaDZ68wXXSCBq7hdE9im
 bandcamp_id: 144410096
 link_bandcamp: https://sentimony.bandcamp.com/album/tentura-beyond-illusion
 link_ektoplazm: 

@@ -13,6 +13,7 @@ tracks_no: 12
 coming_soon: 
 popular: 
 youtube_id: iz99g8evgfY&list=PLp2GaPnw5O3NvqIWcRclfziSECY_BT1Ez
+youtube_playlist_id: PLp2GaPnw5O3NvqIWcRclfziSECY_BT1Ez
 bandcamp_id: 1223403780
 link_bandcamp: https://sentimony.bandcamp.com/album/va-true-story
 link_ektoplazm: http://www.ektoplazm.com/free-music/true-story

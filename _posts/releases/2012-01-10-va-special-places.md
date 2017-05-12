@@ -13,6 +13,7 @@ tracks_no: 12
 coming_soon: 
 popular: 
 youtube_id: xaP9QrGK_88&list=PLp2GaPnw5O3ObKevWMqC9sH5Isd5S8L7s
+youtube_playlist_id: PLp2GaPnw5O3ObKevWMqC9sH5Isd5S8L7s
 bandcamp_id: 64124286
 link_bandcamp: https://sentimony.bandcamp.com/album/va-special-places
 link_ektoplazm: http://www.ektoplazm.com/free-music/special-places

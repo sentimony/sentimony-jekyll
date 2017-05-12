@@ -13,6 +13,7 @@ tracks_no: 11
 coming_soon: 
 popular: 
 youtube_id: yvVZYt7pEDM&list=PLp2GaPnw5O3Ny1EriesLL8xw9aHLvms7d
+youtube_playlist_id: PLp2GaPnw5O3Ny1EriesLL8xw9aHLvms7d
 bandcamp_id: 615519130
 link_bandcamp: https://sentimony.bandcamp.com/album/va-absence-of-gravity
 link_ektoplazm: http://www.ektoplazm.com/free-music/absence-of-gravity

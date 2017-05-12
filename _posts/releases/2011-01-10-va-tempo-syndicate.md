@@ -13,6 +13,7 @@ tracks_no: 12
 coming_soon: 
 popular: 
 youtube_id: 5Wrj-RKWFws&list=PLp2GaPnw5O3MjPaPsRVcCds3RFF2oUY6y
+youtube_playlist_id: PLp2GaPnw5O3MjPaPsRVcCds3RFF2oUY6y
 bandcamp_id: 2483216888
 link_bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate
 link_ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate

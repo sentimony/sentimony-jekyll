@@ -13,6 +13,7 @@ tracks_no: 11
 coming_soon: 
 popular: 
 youtube_id: A7gkIV2ahHo&list=PLp2GaPnw5O3PMfJen6W2rPocA9QsNSOga
+youtube_playlist_id: PLp2GaPnw5O3PMfJen6W2rPocA9QsNSOga
 bandcamp_id: 2208878008
 link_bandcamp: https://sentimony.bandcamp.com/album/va-time-loop-beyond-borders
 link_ektoplazm: http://www.ektoplazm.com/free-music/time-loop-beyond-borders
