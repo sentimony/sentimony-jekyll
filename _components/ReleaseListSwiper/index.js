@@ -1,18 +1,24 @@
 ;(function () {
 
-  document.querySelector('.release-list-swiper__container').classList.add('is-visible');
+  if (document.querySelector('.release-list-swiper--home-page')) {
 
-  var homePageSwiper = new Swiper ('.release-list-swiper--home-page .swiper-container', {
-    nextButton: '.release-list-swiper__next',
-    prevButton: '.release-list-swiper__prev',
-    scrollbar: '.swiper-scrollbar',
-    mousewheelControl: true,
-    mousewheelForceToAxis: true,
-    freeMode: true,
-    slidesPerView: 'auto'
-  })
+    document.querySelector('.release-list-swiper__container').classList.add('is-visible');
+
+    var homePageSwiper = new Swiper ('.release-list-swiper--home-page .swiper-container', {
+      nextButton: '.release-list-swiper__next',
+      prevButton: '.release-list-swiper__prev',
+      scrollbar: '.swiper-scrollbar',
+      mousewheelControl: true,
+      mousewheelForceToAxis: true,
+      freeMode: true,
+      slidesPerView: 'auto'
+    })
+
+  }
 
   if (document.querySelector('.release-list-swiper--release-page')) {
+
+    document.querySelector('.release-list-swiper__container').classList.add('is-visible');
 
     var releasePageSwiper = new Swiper ('.release-list-swiper--release-page .swiper-container', {
       nextButton: '.release-list-swiper__next',

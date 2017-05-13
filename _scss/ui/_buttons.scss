@@ -2,20 +2,19 @@
   display: inline-block;
   color: #fff;
   border-radius: 6px;
-  border: 1px solid #fff;
-  padding: .8em;
-  padding: 7px 1.1em;
-  line-height: 20px;
+  padding: 7px .9em;
   font-size: 16px;
+  border: 1px solid #fff;
   box-sizing: border-box;
-  height: 40px;
   margin-right: .7em;
+  transition: background-color .2s ease;
 
   &:last-child {
     margin-right: 0;
   }
 
   &:hover {
+    background-color: $colorBgLight;
   }
 
   &.is-disabled {
@@ -23,38 +22,28 @@
     cursor: default;
 
     &:hover {
+      background-color: inherit;
     }
   }
 }
 
-@mixin btn__icon {
-  display: inline-block;
-  transform: translate3d(0,2px,0);
-  display: none;
-}
-
 @mixin btn__img {
-  width: auto;
-  height: 18px;
-  display: inline-block;
-  transform: translate3d(0,3px,0);
+  height: 20px;
+  transform: translate3d(0,4px,0);
 }
 
 @mixin btn__text {
-  display: none;
+  font-size: 12px;
+  margin-left: .4em;
 
   @include media(S) {
     display: inline-block;
-    margin-left: .7em;
+    font-size: inherit;
   }
 }
 
 .btn {
   @include btn;
-}
-
-.btn__icon {
-  @include btn__icon;
 }
 
 .btn__img {
@@ -69,14 +58,11 @@
   color: #fff !important;
   font-size: 1em;
   padding: .8em 1.2em;
-  // display: inline-block;
   min-width: 75px;
   text-align: center;
   box-sizing: border-box;
   display: flex;
   align-items: center;
-  // justify-content: space-between;
-  // position: relative;
 
   &:hover {
   }

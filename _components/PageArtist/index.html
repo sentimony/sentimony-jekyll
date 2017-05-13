@@ -4,9 +4,9 @@
   <h1>{{ page.title }}</h1>
 
   {% if page.photo_cover %}
-  <p>
-    <img class="photo-cover" src="{{ page.photo_cover }}" alt="{{ page.title }}">
-  </p>
+    <p>
+      <img class="photo-cover" src="{{ page.photo_cover }}" alt="{{ page.title }}">
+    </p>
   {% endif %}
 
   {% if page.name %}
@@ -41,25 +41,28 @@
     <a href="{{ page.discogs }}" target="_blank"><span class="icon-discogs"></span></a>
   {% endif %}
 
-  {% if page.youtube_id %}
-    <p>
-      <div class="iframe-holder">
-        <div class="iframe-holder__ratio">
-          <iframe class="iframe-holder__iframe" src="https://www.youtube.com/embed/videoseries?list={{ page.youtube_id }}" allowfullscreen></iframe>
-        </div>
-      </div>
-    </p>
-  {% endif %}
-
-  {% if page.soundcloud_id %}
-    <p>
-      <div class="iframe-holder">
-        <div class="iframe-holder__ratio">
-          <iframe class="iframe-holder__iframe" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/{{ page.soundcloud_id }}&amp;color=00aabb&amp;hide_related=true&amp;show_comments=true&amp;show_user=false&amp;sharing=false&amp;show_bpm=true"></iframe>
-        </div>
-      </div>
-    </p>
-  {% endif %}
+  <div id="vue-tabs">
+    <vue-tabs>
+      <v-tab title="Bandcamp" icon="icon-bandcamp">
+        {% if page.youtube_id %}
+          <div class="iframe-holder">
+            <div class="iframe-holder__ratio">
+              <iframe class="iframe-holder__iframe" src="https://www.youtube.com/embed/videoseries?list={{ page.youtube_id }}" allowfullscreen></iframe>
+            </div>
+          </div>
+        {% endif %}
+      </v-tab>
+      <v-tab title="Soundcloud" icon="icon-soundcloud">
+        {% if page.soundcloud_id %}
+          <div class="iframe-holder">
+            <div class="iframe-holder__ratio">
+              <iframe class="iframe-holder__iframe" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/{{ page.soundcloud_id }}&amp;color=00aabb&amp;hide_related=true&amp;show_comments=true&amp;show_user=false&amp;sharing=false&amp;show_bpm=true"></iframe>
+            </div>
+          </div>
+        {% endif %}
+      </v-tab>
+    </vue-tabs>
+  </div>
 
   {{ content }}
 </div>

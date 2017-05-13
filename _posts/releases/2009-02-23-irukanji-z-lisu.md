@@ -10,12 +10,14 @@ cover: true
 cat_no: sencd006
 cat_nu: sencd006
 tracks_no: 10
+total_time: 
 coming_soon: 
 popular: 
 youtube_id: 3hiikgqAHRI&list=PLp2GaPnw5O3PXxnQyyDQiwfBrOlP6Qjc6
 youtube_playlist_id: PLp2GaPnw5O3PXxnQyyDQiwfBrOlP6Qjc6
 bandcamp_id: 2924012921
 link_bandcamp: https://sentimony.bandcamp.com/album/irukanji-z-lisu
+link_junodownload: http://www.junodownload.com/products/irukanji-z-lisu/1507880-02
 link_ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu
 link_discogs: 563062
 compiled_by: 

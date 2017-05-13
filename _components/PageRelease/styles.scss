@@ -7,7 +7,7 @@
     max-width: 1278px;
     text-align: left;
     border-top: 1px solid rgba(#fff,.3);
-    padding: 1.8em 0;
+    padding: 1.8em 0 1.8em;
     box-sizing: border-box;
     position: relative;
     z-index: 40;
@@ -18,7 +18,7 @@
 
     @include media(L) {
       flex-direction: row;
-      padding-top: 60px;
+      padding-top: 40px;
     }
   }
 
@@ -31,7 +31,7 @@
     position: relative;
 
     @include media(L) {
-      margin-top: 3em;
+      margin-top: 62px;
       margin-bottom: 6em;
       width: auto;
     }
@@ -43,9 +43,10 @@
     border-radius: 8px;
     overflow: hidden;
     margin-right: 1.4em;
-    background-color: rgba(#000,.5);
+    background-color: $colorBgBlack;
     display: flex;
     align-items: stretch;
+    box-shadow: $shadow;
 
     @include media(M) {
       min-width: 190px;
@@ -62,8 +63,7 @@
       display: block;
       width: 100%;
       max-width: 100px;
-      box-shadow: 0 2px 10px 0 rgba(#000,.5);
-      background-color: rgba(#000,.5);
+      box-shadow: $shadow;
 
       @include media(M) {
         max-width: 190px;
@@ -97,43 +97,35 @@
     }
   }
 
-  &__date {
-    display: inline-block;
-  }
-
   &__catalog-number {
-    // font-size: 14px;
-    // color: rgba(#fff,.5);
     display: inline-block;
     text-transform: uppercase;
   }
 
+  &__date {
+    display: inline-block;
+  }
+
   &__style {
-    // font-size: 14px;
-    // color: rgba(#fff,.5);
     display: inline-block;
     text-transform: capitalize;
   }
 
   &__title {
     font-size: 18px;
+    line-height: 1.2;
     margin: 0 0 .1em;
     color: #fff;
     text-transform: capitalize;
 
     @include media(S) {
-      font-size: 32px;
+      font-size: 2em;
     }
   }
 
   &__bandcamp-btn {
     @extend .btn;
-    margin-top: .7em;
-
-    &-icon {
-      @extend .icon-bandcamp;
-      @extend .btn__icon;
-    }
+    margin-top: .5em;
 
     &-img {
       @extend .btn__img;
@@ -146,16 +138,8 @@
 
   &__youtube-btn {
     @extend .btn;
-    margin-top: .7em;
-
-    &-icon {
-      @extend .icon-youtube;
-    }
-
-    &-icon {
-      @extend .icon-bandcamp;
-      @extend .btn__icon;
-    }
+    margin-top: .5em;
+    display: none;
 
     &-img {
       @extend .btn__img;
@@ -166,23 +150,44 @@
     }
   }
 
-  &__player {
+  &__junodownload-btn {
+    @extend .btn;
+    margin-top: .5em;
+
+    &-img {
+      @extend .btn__img;
+    }
+
+    &-text {
+      @extend .btn__text;
+    }
+  }
+
+  &__player-tabs {
+    min-width: 100%;
+
+    @include media(M) {
+      // font-size: 2em;
+      min-width: 540px;
+    }
+    // max-width: 540px;
+    // max-width: 100%;
+  }
+
+
+  &__bandcamp-player {
     display: block;
-    box-shadow: 0 2px 10px 0 rgba(#000,.5);
-    background-color: rgba(#000,.5);
-    border-radius: 6px;
-    overflow: hidden;
     width: 100%;
     max-width: 540px;
+    box-shadow: $shadow;
+    background-color: $colorBgBlack;
+    border-radius: 6px;
+    overflow: hidden;
     position: relative;
     height: (537px + 25px);
 
     @include media(S) {
       height: 537px;
-    }
-
-    @include media(M) {
-      min-width: 540px;
     }
 
     &-coming {
@@ -193,77 +198,46 @@
 
     &-iframe {
       border-radius: 6px;
+      border: none;
       overflow: hidden;
       display: block;
       width: 100%;
       overflow: hidden;
-      max-width: 540px;
-      border: none;
       margin: 0 auto;
+
+      max-width: 540px;
       height: (537px + 25px);
 
       @include media(S) {
         height: 537px;
       }
-    }
-  }
-}
 
-.page-release-content {
-  // display: none;
-  text-align: left;
-  background-color: #fff;
-  color: #000;
-  position: relative;
-  padding: 2em .6em 4em;
-
-  &__wrapper {
-    max-width: 600px;
-    position: relative;
-    z-index: 40;
-
-    @include media(L) {
-      margin: 0 auto;
+      // position: absolute;
+      // top: 0;
+      // left: 0;
+      // width: 111%;
+      // transform: scale(.9);
+      // transform-origin: top left;
     }
   }
 
-  a {
-    color: #0046ff;
-  }
+  &__youtube-player {
+    @include ratio(100%,16,9);
+    box-shadow: $shadow;
+    background-color: $colorBgBlack;
+    overflow: hidden;
+    border-radius: 6px;
 
-  &__social {
-    display: flex;
-  }
-
-  &__btn-facebook {
-    @extend .btn-social;
-    background-color: #3c5a95;
-  }
-
-  &__btn-vkontakte {
-    @extend .btn-social;
-    background-color: #1074b1;
-  }
-
-  &__btn-googleplus {
-    @extend .btn-social;
-    background-color: #dd4c3b;
-  }
-
-  &__btn-twitter {
-    @extend .btn-social;
-    background-color: #20a7c6;
-  }
-
-  &__btn-icon {
-    display: block;
-    max-height: 2em;
-    margin: 0 auto;
-  }
-
-  &__btn-counter {
-    margin-left: .6em;
-    // position: absolute;
-    // right: .6em;
+    &-iframe {
+      border-radius: 6px;
+      border: none;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 143%;
+      height: 143%;
+      transform: scale(.7);
+      transform-origin: top left;
+    }
   }
 }

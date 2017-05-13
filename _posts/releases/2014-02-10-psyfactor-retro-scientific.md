@@ -10,17 +10,19 @@ cover: true
 cat_no: sencd016
 cat_nu: sencd016
 tracks_no: 11
+total_time: 
 coming_soon: 
 popular: true
 youtube_id: LceN0MLwqME&list=PLp2GaPnw5O3PdlgX-f4f-HerTdKWzuU-Y
 youtube_playlist_id: PLp2GaPnw5O3PdlgX-f4f-HerTdKWzuU-Y
 bandcamp_id: 625816327
 link_bandcamp: https://sentimony.bandcamp.com/album/psyfactor-retro-scientific
+link_junodownload: http://www.junodownload.com/products/psyfactor-retro-scientific/2443464-02
 link_ektoplazm: 
 link_discogs: 656758
 compiled_by: 
 artwork_by: Ader
-mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Makus (Overdream Studio)</a>
 ---
 
 Sentimony Records presents its sixteenth release, the newest creation of electron-synthetic Bachelor of Science, mushroom-innovator laureate and a pride of Russian chillout scene - Psyfactor.

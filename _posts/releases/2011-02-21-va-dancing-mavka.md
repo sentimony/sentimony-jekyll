@@ -10,17 +10,19 @@ cover: true
 cat_no: sencd020
 cat_nu: sencd020 lgcd04
 tracks_no: 9
+total_time: 
 coming_soon: 
 popular: 
 youtube_id: 4gX6GmfMD3o&list=PLp2GaPnw5O3MEQlC5LWj1BekEnhkDHZGX
 youtube_playlist_id: PLp2GaPnw5O3MEQlC5LWj1BekEnhkDHZGX
 bandcamp_id: 3971967864
 link_bandcamp: https://sentimony.bandcamp.com/album/va-dancing-mavka
+link_junodownload: http://www.junodownload.com/products/dancing-mavka/1658401-02
 link_ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka
 link_discogs: 350184
 compiled_by: Sky Technology
 artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
-mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Makus (Overdream Studio)</a>
 ---
 
 Lookinglook Records team is pleased to announce its fourth release, which today is the first Ukrainian 100% Goa trance compilation, titled «Dansing Mavka».

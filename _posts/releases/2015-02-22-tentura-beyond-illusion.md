@@ -4,23 +4,25 @@ permalink: /release/tentura-beyond-illusion/
 category: releases
 title: 'Tentura «Beyond Illusion»'
 label: sentimony
-style: Psychill
+style: Psychill, Chillgressive
 format: album
 cover: true
 cat_no: sencd023
 cat_nu: sencd023
 tracks_no: 10
+total_time: 
 coming_soon: 
 popular: true
 youtube_id: RddTSC5d9uc&list=PLp2GaPnw5O3PMQaDZ68wXXSCBq7hdE9im
 youtube_playlist_id: PLp2GaPnw5O3PMQaDZ68wXXSCBq7hdE9im
 bandcamp_id: 144410096
 link_bandcamp: https://sentimony.bandcamp.com/album/tentura-beyond-illusion
+link_junodownload: 
 link_ektoplazm: 
 link_discogs: 866837
 compiled_by: 
 artwork_by: Ader & Andrei Verner
-mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Makus (Overdream Studio)</a>
 ---
 
 Sentimony Records team proudly presents «Beyond Illusion» - new Tentura full-length album.

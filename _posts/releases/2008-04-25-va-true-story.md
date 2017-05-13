@@ -10,12 +10,14 @@ cover: true
 cat_no: sencd004
 cat_nu: sencd004
 tracks_no: 12
+total_time: 
 coming_soon: 
 popular: 
 youtube_id: iz99g8evgfY&list=PLp2GaPnw5O3NvqIWcRclfziSECY_BT1Ez
 youtube_playlist_id: PLp2GaPnw5O3NvqIWcRclfziSECY_BT1Ez
 bandcamp_id: 1223403780
 link_bandcamp: https://sentimony.bandcamp.com/album/va-true-story
+link_junodownload: http://www.junodownload.com/products/true-story/1507878-02
 link_ektoplazm: http://www.ektoplazm.com/free-music/true-story
 link_discogs: 563060
 compiled_by: Sphingida

@@ -10,12 +10,14 @@ cover: true
 cat_no: sencd002
 cat_nu: sencd002
 tracks_no: 12
+total_time: 
 coming_soon: 
 popular: 
 youtube_id: 6plwFQo6SME&list=PLp2GaPnw5O3NOkIC2Cxy_qAeHMmgqEAYP
 youtube_playlist_id: PLp2GaPnw5O3NOkIC2Cxy_qAeHMmgqEAYP
 bandcamp_id: 2938863422
 link_bandcamp: https://sentimony.bandcamp.com/album/va-emptinesses
+link_junodownload: http://www.junodownload.com/products/emptinesses/1507876-02
 link_ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
 link_discogs: 403903
 compiled_by: Sphingida

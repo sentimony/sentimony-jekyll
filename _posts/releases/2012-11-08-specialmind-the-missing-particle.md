@@ -10,17 +10,19 @@ cover: true
 cat_no: sencd013
 cat_nu: sencd013
 tracks_no: 5
+total_time: 
 coming_soon: 
 popular: 
 youtube_id: bODVa7DSMrI&list=PLp2GaPnw5O3OumSRMWN_k8f-plmSOlxab
 youtube_playlist_id: PLp2GaPnw5O3OumSRMWN_k8f-plmSOlxab
 bandcamp_id: 1673341211
 link_bandcamp: https://sentimony.bandcamp.com/album/specialmind-the-missing-particle
+link_junodownload: http://www.junodownload.com/products/specialmind-the-missing-particle/2078081-02
 link_ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-particle
 link_discogs: 601769
 compiled_by: 
 artwork_by: Ader
-mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Overdream Studio</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Makus (Overdream Studio)</a>
 ---
 
 «The Missing Particle» - is the second EP released by Sentimony Records, introducing Specialmind project - a psychedelic downtempo duo from Ukraine.

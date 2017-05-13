@@ -4,23 +4,25 @@ permalink: /release/va-time-loop-beyond-borders/
 category: releases
 title: 'VA «Time Loop: Beyond Borders»'
 label: sentimony
-style: Psychill
+style: Psychill, Psydub
 format: compilation
 cover: true
 cat_no: sencd007
 cat_nu: sencd007
 tracks_no: 11
+total_time: 
 coming_soon: 
 popular: 
 youtube_id: A7gkIV2ahHo&list=PLp2GaPnw5O3PMfJen6W2rPocA9QsNSOga
 youtube_playlist_id: PLp2GaPnw5O3PMfJen6W2rPocA9QsNSOga
 bandcamp_id: 2208878008
 link_bandcamp: https://sentimony.bandcamp.com/album/va-time-loop-beyond-borders
+link_junodownload: http://www.junodownload.com/products/time-loop-beyond-borders/1658399-02
 link_ektoplazm: http://www.ektoplazm.com/free-music/time-loop-beyond-borders
 link_discogs: 563065
 compiled_by: Zea NeiRula
 artwork_by: Flange
-mastered_by: Onkel Dunkel Studio
+mastered_by: Monno (Bimmelim Soundlabs)
 ---
 
 Sentimony Records is happy to announce fresh full-length compilation! It's kind of new project from Sentimony team - VA «Time Loop: Beyond Borders», starts new series of compilations under name Time Loop. We are happy to introduce you with known projects and a new perspective names from our opinion ;) Hope you will enjoy it!

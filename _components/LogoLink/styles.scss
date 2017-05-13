@@ -20,13 +20,13 @@
   }
 
   &__title {
-    font-size: 16px;
+    // font-size: 16px;
     color: #fff;
   }
 
-  &__subtitle {
-    font-size: 14px;
+  &__slogan {
+    font-size: 12px;
     color: rgba(#fff,.4);
-    letter-spacing: .06em;
+    letter-spacing: .4px;
   }
 }

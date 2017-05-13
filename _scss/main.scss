@@ -6,15 +6,19 @@
 @import '../node_modules/swiper/dist/css/swiper';
 @import 'vendor/svg-icons/svg-icons';
 
+@import 'ui/variables';
 @import 'ui/base';
 @import 'ui/flex-sticky';
 @import 'ui/buttons';
 @import 'ui/unvisible';
+@import 'ui/vue-tabs-customize';
+
 @import '_components/MainMenu/styles';
 @import '_components/LogoLink/styles';
 @import '_components/Hero/styles';
 @import '_components/ReleaseListSwiper/styles';
 @import '_components/PageRelease/styles';
+@import '_components/PageRelease/page-release-content';
 @import '_components/PageArtist/styles';
 @import '_components/SVG/deco-triangle';
 @import '_components/IframeSize/styles';
