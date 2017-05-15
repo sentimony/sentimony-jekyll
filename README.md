@@ -16,6 +16,6 @@ _Web development of Sentimony Records site_
 
 `npm i`
 
-`gulp watch`
+`npm run develop`
 
 #### Have fun! :)
