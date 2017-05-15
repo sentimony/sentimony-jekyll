@@ -2,16 +2,16 @@
   "dependencies": {
     "coriolan-ui": "^0.1.19",
     "goodshare.js": "^4.0.6",
-    "lazysizes": "^3.0.0",
-    "normalize.css": "^6.0.0",
+    "lazysizes": "^4.0.0-rc1",
+    "normalize.css": "^7.0.0",
     "swiper": "^3.4.2",
     "vue": "^2.3.3",
     "vue-nav-tabs": "^0.2.2"
   },
   "devDependencies": {
-    "browser-sync": "^2.18.8",
+    "browser-sync": "^2.18.11",
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.1",
+    "gulp-autoprefixer": "^4.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-iconfont": "^8.0.1",
     "gulp-iconfont-css": "^2.1.0",
