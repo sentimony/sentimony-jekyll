@@ -3,12 +3,12 @@ layout: page-release
 permalink: /release/ufomatka-altering-the-synaptic-controllers/
 category: releases
 title: 'Ufomatka «Altering The Synaptic Controllers»'
-label: lookinglook
+label: sentimony
 style: Goa Trance
 format: ep album
 cover: 
 cat_no: sencd026
-cat_nu: sencd026 lgcd07
+cat_nu: sencd026
 tracks_no: 5
 total_time: 
 coming_soon: true
@@ -24,6 +24,10 @@ compiled_by:
 artwork_by: 
 mastered_by: 
 ---
+
+Sentimony Records presents «Altering The Synaptic Controllers» - the second EP release by our beloved artist Ufomatka.
+
+The release name came from nowhere and the dick knows what it is, but it will all fuck us out :)
 
 Have a nice trip!
 

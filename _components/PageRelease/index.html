@@ -60,13 +60,13 @@
               {% endif %}
             </div>
           </v-tab>
+          {% if page.youtube_playlist_id %}
           <v-tab title="Youtube" icon="icon-youtube">
-            {% if page.youtube_playlist_id %}
               <div class="page-release__youtube-player">
                 <iframe class="page-release__youtube-player-iframe" src="https://www.youtube.com/embed/videoseries?list={{ page.youtube_playlist_id }}" allowfullscreen></iframe>
               </div>
-            {% endif %}
           </v-tab>
+          {% endif %}
         </vue-tabs>
       </div>
 

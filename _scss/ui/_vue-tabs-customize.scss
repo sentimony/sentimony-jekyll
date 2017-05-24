@@ -21,6 +21,10 @@
 
       &.active {
         opacity: 1;
+
+        a {
+          cursor: default;
+        }
       }
 
       a {
