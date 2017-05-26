@@ -6,7 +6,9 @@
 
     {% if page.photo_cover %}
       <p>
-        <img class="photo-cover" src="{{ page.photo_cover }}" alt="{{ page.title }}">
+        <a href="{{ page.photo_cover }}">
+          <img class="photo-cover" src="{{ page.photo_cover }}" alt="{{ page.title }}">
+        </a>
       </p>
     {% endif %}
 
