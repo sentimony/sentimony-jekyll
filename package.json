@@ -9,7 +9,7 @@
     "vue-nav-tabs": "^0.2.2"
   },
   "devDependencies": {
-    "browser-sync": "^2.18.11",
+    "browser-sync": "^2.18.12",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-concat": "^2.6.1",
@@ -18,7 +18,7 @@
     "gulp-plumber": "^1.1.0",
     "gulp-sass": "^3.1.0",
     "gulp-sass-unicode": "^1.0.1",
-    "gulp-uglify": "^2.1.2",
+    "gulp-uglify": "^3.0.0",
     "require-dir": "^0.3.1"
   },
   "scripts": {
