@@ -8,7 +8,7 @@ gulp.task('js-concat', ['js-copy'], function () {
       'node_modules/swiper/dist/js/swiper.min.js',
       'node_modules/goodshare.js/goodshare.min.js',
       'node_modules/lazysizes/lazysizes.min.js',
-      '_js/vue-tabs-initialization.js',
+      '_js/vue-tabs.init.js',
       '_components/**/*.js'
     ])
     .pipe(concat('bundle.js'))
