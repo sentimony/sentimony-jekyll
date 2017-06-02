@@ -1,9 +1,9 @@
-var gulp = require('gulp'),
-  plumber = require('gulp-plumber'),
-  gutil = require('gulp-util'),
-  sass = require('gulp-sass'),
-  prefix = require('gulp-autoprefixer'),
-  browserSync = require('browser-sync');
+var gulp = require('gulp');
+var plumber = require('gulp-plumber');
+var gutil = require('gulp-util');
+var sass = require('gulp-sass');
+var prefix = require('gulp-autoprefixer');
+var browserSync = require('browser-sync');
 
 gulp.task('sass', function () {
   return gulp.src([

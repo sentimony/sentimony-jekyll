@@ -9,8 +9,8 @@ html {
 body {
   margin: 0;
   background-color: #8f0100;
-  background-image:  url(https://content.sentimony.com/assets/img/backgrounds/sombrero-red.jpg);
-  background-attachment: fixed;
+  background-image:  url(https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/18920951_1588883001121867_3706755512831221570_o.jpg?oh=e749332b8cc880263e33b057146c8afd&oe=59B557DA);
+  background-attachment: scroll;
   background-size: cover;
   background-position: center;
   font: 400 15px/1.5 'Montserrat', sans-serif;
@@ -21,6 +21,11 @@ body {
   height: 100%;
   text-align: center;
   min-width: $XS;
+
+  @include media(L) {
+    background-image:  url(https://content.sentimony.com/assets/img/backgrounds/sombrero-red.jpg);
+    background-attachment: fixed;
+  }
 }
 
 h1, h2, h3, h4, h5, h6, p {

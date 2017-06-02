@@ -1,6 +1,6 @@
-var gulp = require('gulp'),
-  iconfont = require('gulp-iconfont'),
-  iconfontCss = require('gulp-iconfont-css');
+var gulp = require('gulp');
+var iconfont = require('gulp-iconfont');
+var iconfontCss = require('gulp-iconfont-css');
 
 gulp.task('font', function () {
   var fontName = 'SvgIcons';
