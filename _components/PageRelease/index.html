@@ -117,7 +117,7 @@
 
     {% if page.link_bandcamp %}
       <p style="display: none;">
-        <!-- <span>Donate:</span> -->
+        {% comment %}<span>Donate:</span>{% endcomment %}
         <a href="{{ page.link_bandcamp }}" target="_blank">
           <span>Bandcamp</span>
         </a>
@@ -126,7 +126,7 @@
 
     {% if page.link_ektoplazm %}
       <p>
-        <!-- <span>Free Download:</span> -->
+        {% comment %}<span>Free Download:</span>{% endcomment %}
         <a href="{{ page.link_ektoplazm }}" target="_blank">
           <span>Ektoplazm</span>
         </a>
@@ -135,9 +135,9 @@
 
     {% if page.link_discogs %}
       <p>
-        <!-- <span>Release Info:</span> -->
+        {% comment %}<span>Release Info:</span>{% endcomment %}
         <a href="https://www.discogs.com/master/view/{{ page.link_discogs }}" target="_blank">
-          <!-- <span class="icon-discogs"></span> -->
+          {% comment %}<span class="icon-discogs"></span>{% endcomment %}
           <span>Discogs</span>
         </a>
       </p>
@@ -151,10 +151,12 @@
           <img class="page-release-content__btn-icon" src="{{ site.baseurl }}/assets/img/svg-icons/facebook.svg">
           <span class="page-release-content__btn-counter" data-counter="facebook"></span>
         </a>
-        <!-- <a href="#" class="page-release-content__btn-vkontakte" data-social="vkontakte">
+        {% comment %}
+        <a href="#" class="page-release-content__btn-vkontakte" data-social="vkontakte">
           <img class="page-release-content__btn-icon" src="{{ site.baseurl }}/assets/img/svg-icons/vkontakte.svg">
           <span class="page-release-content__btn-counter" data-counter="vkontakte"></span>
-        </a> -->
+        </a>
+        {% endcomment %}
         <a href="#" class="page-release-content__btn-googleplus" data-social="googleplus">
           <img class="page-release-content__btn-icon" src="{{ site.baseurl }}/assets/img/svg-icons/googleplus.svg">
           <span class="page-release-content__btn-counter" data-counter="googleplus"></span>

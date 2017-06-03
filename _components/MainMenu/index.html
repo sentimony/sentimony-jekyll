@@ -5,11 +5,13 @@
 
   <nav class="main-menu__main-menu">
     <a href="{{ site.baseurl }}/release/va-the-ten/" class="main-menu__main-menu-link{% if page.url contains 'release' %} is-selected{% endif %}">Releases</a>
-    <!-- <a href="{{ site.baseurl }}/news/" class="main-menu__main-menu-link{% if page.url contains 'news' %} is-selected{% endif %}">News</a>
+    {% comment %}
+    <a href="{{ site.baseurl }}/news/" class="main-menu__main-menu-link{% if page.url contains 'news' %} is-selected{% endif %}">News</a>
     <a href="{{ site.baseurl }}/releases/" class="main-menu__main-menu-link{% if page.url contains 'release' %} is-selected{% endif %}">Releases</a>
     <a href="{{ site.baseurl }}/artists/" class="main-menu__main-menu-link{% if page.url contains 'artist' %} is-selected{% endif %}">Artists</a>
     <a href="{{ site.baseurl }}/events/" class="main-menu__main-menu-link{% if page.url contains 'event' %} is-selected{% endif %}">Events</a>
-    <a href="{{ site.baseurl }}/friends/" class="main-menu__main-menu-link{% if page.url contains 'friends' %} is-selected{% endif %}">Friends</a> -->
+    <a href="{{ site.baseurl }}/friends/" class="main-menu__main-menu-link{% if page.url contains 'friends' %} is-selected{% endif %}">Friends</a>
+    {% endcomment %}
   </nav>
 
   <nav class="main-menu__social-menu">
@@ -25,10 +27,12 @@
       <img class="main-menu__social-menu-link-img" src="{{ site.baseurl }}/assets/img/svg-icons/youtube.svg">
       <span class="main-menu__social-menu-link-tooltip">youtube</span>
     </a>
-    <!-- <a class="main-menu__social-menu-link" href="https://soundcloud.com/sentimony" target="_blank">
+    {% comment %}
+    <a class="main-menu__social-menu-link" href="https://soundcloud.com/sentimony" target="_blank">
       <img class="main-menu__social-menu-link-img" src="{{ site.baseurl }}/assets/img/svg-icons/soundcloud.svg">
       <span class="main-menu__social-menu-link-tooltip">soundcloud</span>
-    </a> -->
+    </a>
+    {% endcomment %}
   </nav>
 
   <a href="{{ site.baseurl }}/release/va-the-ten/" class="main-menu__mob-menu-button">

@@ -33,11 +33,12 @@ layout: compress
 
   <script src="{{ site.baseurl }}/assets/js/bundle.min.js"></script>
 
+  {% comment %}
   <!-- require.js -->
-  <!-- <script async data-main="{{ site.baseurl }}/assets/js/require-config.js" src="{{ site.baseurl }}/assets/js/require.js"></script> -->
+  <script async data-main="{{ site.baseurl }}/assets/js/require-config.js" src="{{ site.baseurl }}/assets/js/require.js"></script>
 
   <!-- firebase.js -->
-  <!-- <div id="app" style="font-size: 6px; background-color: #000;"></div>
+  <div id="app" style="font-size: 6px; background-color: #000;"></div>
 
   <script src="https://www.gstatic.com/firebasejs/3.7.3/firebase.js"></script>
   <script>
@@ -53,7 +54,8 @@ layout: compress
     var app = document.getElementById('app');
     var dbRef = firebase.database().ref().child('releases').child('irukanji-z-lisu').child('title');
     dbRef.on('value', snap => app.innerText = snap.val());
-  </script> -->
+  </script>
+  {% endcomment %}
 
   {% include Analytics/google-analytics.html %}
   {% include Analytics/yandex-metrika.html %}
