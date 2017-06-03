@@ -3,25 +3,25 @@
   <div class="swiper-container release-list-swiper__container">
     <div class="swiper-wrapper">
       {% for i in site.categories.releases %}
-      <a href="{{ i.url }}" class="swiper-slide release-list-swiper__item{% if page.url contains i.slug %} is-selected{% endif %}">
-        <div class="release-list-swiper__item-cover">
-          {% if i.cover %}
-          <img class="release-list-swiper__item-cover-img lazyload"
-            src="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg"
-            data-srcset="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg 1x, https://content.sentimony.com/assets/img/releases/small-retina/{{ i.cat_no }}/{{ i.slug }}.jpg 2x"
-          >
-          {% else %}
-          <div class="release-list-swiper__item-cover-coming">Artwork<br>in progress</div>
-          {% endif %}
-          {% if i.coming_soon %}
-          <div class="release-list-swiper__item-status release-list-swiper__item-status-coming-soon">Coming Soon</div>
-          {% endif %}
-          {% if i.popular %}
-          <div class="release-list-swiper__item-status release-list-swiper__item-status-popular">Popular</div>
-          {% endif %}
-        </div>
-        <div class="release-list-swiper__item-title">{{ i.title }}</div>
-      </a>
+        <a href="{{ i.url }}" class="swiper-slide release-list-swiper__item{% if page.url contains i.slug %} is-selected{% endif %}">
+          <div class="release-list-swiper__item-cover">
+            {% if i.cover %}
+              <img class="release-list-swiper__item-cover-img lazyload"
+                src="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg"
+                data-srcset="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg 1x, https://content.sentimony.com/assets/img/releases/small-retina/{{ i.cat_no }}/{{ i.slug }}.jpg 2x"
+              >
+            {% else %}
+              <div class="release-list-swiper__item-cover-coming">Artwork<br>in progress</div>
+            {% endif %}
+            {% if i.coming_soon %}
+              <div class="release-list-swiper__item-status release-list-swiper__item-status-coming-soon">Coming Soon</div>
+            {% endif %}
+            {% if i.popular %}
+              <div class="release-list-swiper__item-status release-list-swiper__item-status-popular">Popular</div>
+            {% endif %}
+          </div>
+          <div class="release-list-swiper__item-title">{{ i.title }}</div>
+        </a>
       {% endfor %}
     </div>
     <div class="release-list-swiper__prev"></div>

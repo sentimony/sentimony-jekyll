@@ -23,12 +23,12 @@
   }
 
   &__media {
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
     margin-bottom: 1em;
     width: 100%;
     position: relative;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
 
     @include media(L) {
       margin-top: 62px;
@@ -167,13 +167,9 @@
     min-width: 100%;
 
     @include media(M) {
-      // font-size: 2em;
       min-width: 540px;
     }
-    // max-width: 540px;
-    // max-width: 100%;
   }
-
 
   &__bandcamp-player {
     display: block;

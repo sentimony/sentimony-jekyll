@@ -1,6 +1,6 @@
-<footer class="footer-block">
+<footer class="block-footer">
 
-  <div class="footer-block__menu">
+  <div class="block-footer__menu">
     <a href="{{ site.baseurl }}/" class="header__main-menu-link{% if page.url == '/'%} is-selected{% endif %}">Home</a>
     <a href="{{ site.baseurl }}/news/" class="header__main-menu-link{% if page.url contains 'news' %} is-selected{% endif %}">News</a>
     <a href="{{ site.baseurl }}/releases/" class="header__main-menu-link{% if page.url contains 'release' %} is-selected{% endif %}">Releases</a>
@@ -11,7 +11,7 @@
   </div>
 
   <div>Follow Us:</div>
-  <div class="footer-block__social">
+  <div class="block-footer__social">
     <a href="https://sentimony.bandcamp.com" target="_blank">
       <span class="icon-bandcamp"></span>
       <span class="tooltip">bandcamp</span>
@@ -60,31 +60,33 @@
     </a>
   </div>
 
-  <div class="footer-block__labels">
+  <div class="block-footer__labels">
     <a href="https://sentimony.com" class="active">Sentimony Records</a>
     <a href="https://aquadeepmusic.sentimony.com">Aqua Deep Music</a>
     <a href="https://lookinglook.sentimony.com">Lookinglook Records</a>
   </div>
 
-  <div class="footer-block__copyright">
+  <div class="block-footer__copyright">
     <div>2006 - 2017 © Sentimony Records</div>
     <div>All Rights Reserved</div>
     <div>
       {% comment %}<span class="icon-sentimony-records-logo"></span>{% endcomment %}
-      <img class="footer-block__copyright-logo" src="{{ site.baseurl }}/assets/img/svg-icons/sentimony-records-logo.svg" alt="Sentimony Records Logo SVG">
+      <img class="block-footer__copyright-logo" src="{{ site.baseurl }}/assets/img/svg-icons/sentimony-records-logo.svg" alt="Sentimony Records Logo SVG">
     </div>
   </div>
 
-  <div class="footer-block__powered">
+  <div class="block-footer__powered">
     <div>Web development by <a href="https://ihororlovskyi.com" target="_blank">Ihor Orlovskyi</a></div>
     <div>Design by <a href="https://rooooster.com" target="_blank">Anton Pivniuk</a></div>
   </div>
 
-  <div class="footer-block__versions">
+  {% comment %}
+  <div class="block-footer__versions">
     <a href="https://sentimony.com" class="active">jekyll</a>
     <a href="https://gatsby.sentimony.com">gatsby</a>
     <a href="https://nuxt.sentimony.com">nuxt</a>
   </div>
+  {% endcomment %}
 
 </footer>
 

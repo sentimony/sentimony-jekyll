@@ -1,10 +1,10 @@
 ;(function () {
 
-  if (document.querySelector('.release-list-swiper--home-page')) {
+  if (document.querySelector('.js-release-list-swiper--home-page')) {
 
     document.querySelector('.release-list-swiper__container').classList.add('is-visible');
 
-    var homePageSwiper = new Swiper ('.release-list-swiper--home-page .swiper-container', {
+    var homePageSwiper = new Swiper ('.js-release-list-swiper--home-page .swiper-container', {
       nextButton: '.release-list-swiper__next',
       prevButton: '.release-list-swiper__prev',
       scrollbar: '.swiper-scrollbar',
@@ -16,11 +16,11 @@
 
   }
 
-  if (document.querySelector('.release-list-swiper--release-page')) {
+  if (document.querySelector('.js-release-list-swiper--release-page')) {
 
     document.querySelector('.release-list-swiper__container').classList.add('is-visible');
 
-    var releasePageSwiper = new Swiper ('.release-list-swiper--release-page .swiper-container', {
+    var releasePageSwiper = new Swiper ('.js-release-list-swiper--release-page .swiper-container', {
       nextButton: '.release-list-swiper__next',
       prevButton: '.release-list-swiper__prev',
       scrollbar: '.swiper-scrollbar',
@@ -36,7 +36,7 @@
 
     function getSlideIndexByClass(className) {
       var index = 0;
-      var elements = document.querySelectorAll('.release-list-swiper--release-page .swiper-wrapper .swiper-slide');
+      var elements = document.querySelectorAll('.js-release-list-swiper--release-page .swiper-wrapper .swiper-slide');
 
       elements.forEach(function(item,i,arr){
         if (item.classList.contains(className)) {

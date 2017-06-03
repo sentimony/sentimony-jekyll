@@ -1,72 +1,105 @@
 <div class="page-artist">
-  {% include SVG/deco-triangle.svg fill='#fff' %}
+  {% include SVG/deco-triangle.svg %}
 
   <div class="page-artist__wrapper">
-    <h1>{{ page.title }}</h1>
 
-    {% if page.photo_cover %}
-      <p>
-        <a href="{{ page.photo_cover }}">
-          <img class="photo-cover" src="{{ page.photo_cover }}" alt="{{ page.title }}">
-        </a>
-      </p>
-    {% endif %}
+    <div class="page-artist__media">
+      <div class="page-artist__cover">
+        {% if page.photo_cover %}
+          <a class="page-artist__cover-link" href="{{ page.photo_cover }}">
+            <img class="page-artist__cover-img" src="{{ page.photo_cover }}">
+          </a>
+        {% else %}
+          <div class="page-artist__cover-coming">Photo<br>coming soon</div>
+        {% endif %}
+      </div>
 
-    {% if page.name %}
-      <div>Name: {{ page.name }}</div>
-    {% endif %}
+      <div class="page-artist__info">
+        <div class="page-artist__small-info">
+          <div class="page-artist__style">{{ page.style }}</div>
+        </div>
+        <h1 class="page-artist__title">{{ page.title }}</h1>
 
-    {% if page.location %}
-      <div>Location: {{ page.location }}</div>
-    {% endif %}
+        {% if page.name %}
+          <div class="page-artist__small-info">Name: {{ page.name }}</div>
+        {% endif %}
 
-    {% if page.style %}
-      <div>Style: {{ page.style }}</div>
-    {% endif %}
+        {% if page.location %}
+          <div class="page-artist__small-info">Location: {{ page.location }}</div>
+        {% endif %}
 
-    {% if page.website %}
-      <a href="{{ page.website }}" target="_blank"><span class="icon-public"></span></a>
-    {% endif %}
+        {% comment %}
+          {% if page.link_discogs %}
+            <hr>
+            <p>Links:</p>
+          {% endif %}
 
-    {% if page.bandcamp %}
-      <a href="{{ page.bandcamp }}" target="_blank"><span class="icon-bandcamp"></span></a>
-    {% endif %}
+          {% if page.website %}
+            <p>
+              <a href="{{ page.website }}" target="_blank"><span class="icon-public"></span> Website</a>
+            </p>
+          {% endif %}
 
-    {% if page.facebook %}
-      <a href="{{ page.facebook }}" target="_blank"><span class="icon-facebook"></span></a>
-    {% endif %}
+          {% if page.bandcamp %}
+            <p>
+              <a href="{{ page.bandcamp }}" target="_blank"><span class="icon-bandcamp"></span> Bandcamp</a>
+            </p>
+          {% endif %}
 
-    {% if page.soundcloud %}
-      <a href="{{ page.soundcloud }}" target="_blank"><span class="icon-soundcloud"></span></a>
-    {% endif %}
+          {% if page.facebook %}
+            <p>
+              <a href="{{ page.facebook }}" target="_blank"><span class="icon-facebook"></span> Facebook</a>
+            </p>
+          {% endif %}
 
-    {% if page.discogs %}
-      <a href="{{ page.discogs }}" target="_blank"><span class="icon-discogs"></span></a>
-    {% endif %}
+          {% if page.soundcloud %}
+            <p>
+              <a href="{{ page.soundcloud }}" target="_blank"><span class="icon-soundcloud"></span> SoundCloud</a>
+            </p>
+          {% endif %}
+
+          {% if page.discogs %}
+            <p>
+              <a href="{{ page.discogs }}" target="_blank"><span class="icon-discogs"></span> Discogs</a>
+            </p>
+          {% endif %}
+        {% endcomment %}
+
+      </div>
+    </div>
 
     {% if page.youtube_id %}
-    <div id="vue-tabs">
-      <vue-tabs>
-        <v-tab title="Youtube" icon="icon-youtube">
-            <div class="iframe-holder">
-              <div class="iframe-holder__ratio">
-                <iframe class="iframe-holder__iframe" src="https://www.youtube.com/embed/videoseries?list={{ page.youtube_id }}" allowfullscreen></iframe>
+      <div class="page-artist__player-tabs">
+        <div id="vue-tabs">
+          <vue-tabs>
+            <v-tab title="Youtube" icon="icon-youtube">
+              <div class="iframe-holder">
+                <div class="iframe-holder__ratio">
+                  <iframe class="iframe-holder__iframe" src="https://www.youtube.com/embed/videoseries?list={{ page.youtube_id }}" allowfullscreen></iframe>
+                </div>
               </div>
-            </div>
-        </v-tab>
-        {% if page.soundcloud_id %}
-        <v-tab title="Soundcloud" icon="icon-soundcloud">
-            <div class="iframe-holder">
-              <div class="iframe-holder__ratio">
-                <iframe class="iframe-holder__iframe" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/{{ page.soundcloud_id }}&amp;color=00aabb&amp;hide_related=true&amp;show_comments=true&amp;show_user=false&amp;sharing=false&amp;show_bpm=true"></iframe>
-              </div>
-            </div>
-        </v-tab>
-        {% endif %}
-      </vue-tabs>
-    </div>
+            </v-tab>
+            {% if page.soundcloud_id %}
+              <v-tab title="Soundcloud" icon="icon-soundcloud">
+                <div class="iframe-holder">
+                  <div class="iframe-holder__ratio">
+                    <iframe class="iframe-holder__iframe" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/{{ page.soundcloud_id }}&amp;color=00aabb&amp;hide_related=true&amp;show_comments=true&amp;show_user=false&amp;sharing=false&amp;show_bpm=true"></iframe>
+                  </div>
+                </div>
+              </v-tab>
+            {% endif %}
+          </vue-tabs>
+        </div>
+      </div>
     {% endif %}
 
-    {{ content }}
   </div>
 </div>
+
+{% comment %}
+  <div class="page-artist-content">
+    <div class="page-artist-content__wrapper">
+      {{ content }}
+    </div>
+  </div>
+{% endcomment %}

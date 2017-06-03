@@ -1,4 +1,4 @@
-.hero {
+.block-hero {
   position: relative;
 
   &__wrapper {
@@ -65,39 +65,6 @@
     @include media(XL) {
       font-size: 20px;
       letter-spacing: 20px;
-    }
-  }
-}
-
-.about {
-  background-color: rgba(#000,.5);
-  position: relative;
-
-  &__wrapper {
-    max-width: 555px;
-    margin: 0 auto;
-    padding: 5em 10px;
-    box-sizing: border-box;
-  }
-
-  &__logo {
-    width: 60px;
-  }
-}
-
-.donate {
-  background-color: #fff;
-  position: relative;
-  color: #000;
-
-  &__wrapper {
-    max-width: 555px;
-    margin: 0 auto;
-    padding: 5em 10px;
-    box-sizing: border-box;
-
-    a {
-      color: #0046ff;
     }
   }
 }

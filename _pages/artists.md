@@ -7,7 +7,7 @@ og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
 {% assign artists = site.categories.artists | sort: 'title' %}
-{% for i in artists | sort: 'title' %}
+{% for i in artists %}
 
 {% if i.photo_cover %}
 <p>

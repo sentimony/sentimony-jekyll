@@ -1,7 +1,5 @@
-{% include ReleaseListSwiper/index.html class='release-list-swiper--release-page' %}
-
 <div class="page-release">
-  {% include SVG/deco-triangle.svg fill='#fff' %}
+  {% include SVG/deco-triangle.svg %}
 
   <div class="page-release__wrapper">
 
@@ -61,11 +59,11 @@
             </div>
           </v-tab>
           {% if page.youtube_playlist_id %}
-          <v-tab title="Youtube" icon="icon-youtube">
+            <v-tab title="Youtube" icon="icon-youtube">
               <div class="page-release__youtube-player">
                 <iframe class="page-release__youtube-player-iframe" src="https://www.youtube.com/embed/videoseries?list={{ page.youtube_playlist_id }}" allowfullscreen></iframe>
               </div>
-          </v-tab>
+            </v-tab>
           {% endif %}
         </vue-tabs>
       </div>
@@ -115,14 +113,16 @@
       <p>Links:</p>
     {% endif %}
 
-    {% if page.link_bandcamp %}
-      <p style="display: none;">
-        {% comment %}<span>Donate:</span>{% endcomment %}
-        <a href="{{ page.link_bandcamp }}" target="_blank">
-          <span>Bandcamp</span>
-        </a>
-      </p>
-    {% endif %}
+    {% comment %}
+      {% if page.link_bandcamp %}
+        <p>
+          {% comment %}<span>Donate:</span>{% endcomment %}
+          <a href="{{ page.link_bandcamp }}" target="_blank">
+            <span>Bandcamp</span>
+          </a>
+        </p>
+      {% endif %}
+    {% endcomment %}
 
     {% if page.link_ektoplazm %}
       <p>

@@ -1,13 +1,13 @@
-.logolink {
+.block-logolink {
   padding: .4em .8em;
   display: flex;
   align-items: center;
 
-  &__icon {
-    @extend .icon-sentimony-records-logo;
-    margin-right: 24px;
-    display: none;
-  }
+  // &__icon {
+  //   @extend .icon-sentimony-records-logo;
+  //   margin-right: 24px;
+  //   display: none;
+  // }
 
   &__logo {
     width: 40px;

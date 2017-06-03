@@ -21,13 +21,14 @@ layout: compress
 
   <div class="flex-sticky">
     <div class="flex-sticky__header">
-      {% include MainMenu/index.html %}
+      {% include BlockMainMenu/index.html %}
     </div>
     <div class="flex-sticky__content">
       {{ content }}
+      {% include BlockDonate/index.html %}
     </div>
     <div class="flex-sticky__footer">
-      {% include FooterBlock/index.html %}
+      {% include BlockFooter/index.html %}
     </div>
   </div>
 
