@@ -6,7 +6,8 @@ permalink: /artists/
 og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
-{% for i in site.categories.artists reversed %}
+{% assign artists = site.categories.artists | sort: 'title' %}
+{% for i in artists | sort: 'title' %}
 
 {% if i.photo_cover %}
 <p>
