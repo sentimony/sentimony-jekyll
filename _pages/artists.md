@@ -17,8 +17,6 @@ og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 </p>
 {% endif %}
 
-{% if i.youtube_id %}
 [{{ i.title }}]({{ i.url }})
-{% endif %}
 
 {% endfor %}

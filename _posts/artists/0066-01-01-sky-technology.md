@@ -12,6 +12,6 @@ bandcamp:
 facebook: 
 soundcloud: 
 soundcloud_id: 
-youtube_id: 
+youtube_id: PLp2GaPnw5O3OfHMH2FVeEtJgBlPEM66nb
 discogs: https://www.discogs.com/artist/1621095-Sky-Technology
 ---

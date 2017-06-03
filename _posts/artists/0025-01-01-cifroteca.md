@@ -12,6 +12,6 @@ bandcamp:
 facebook: https://www.facebook.com/cifroteca.music
 soundcloud: https://soundcloud.com/cifroteca
 soundcloud_id: 728376
-youtube_id: 
+youtube_id: PLp2GaPnw5O3McbsYSHS4KhXETI
 discogs: https://www.discogs.com/artist/859224-Cifroteca
 ---

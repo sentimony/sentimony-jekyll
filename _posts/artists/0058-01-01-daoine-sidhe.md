@@ -12,6 +12,6 @@ bandcamp:
 facebook: 
 soundcloud: 
 soundcloud_id: 
-youtube_id: 
+youtube_id: PLp2GaPnw5O3Mrp3pT_M3J25YozgfRSS1b
 discogs: https://www.discogs.com/artist/1954664-Daoine-Sidhe
 ---
