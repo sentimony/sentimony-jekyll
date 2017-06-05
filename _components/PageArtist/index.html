@@ -88,6 +88,18 @@
                 </div>
               </v-tab>
             {% endif %}
+            {% if page.discogs %}
+              <v-tab title="Discography" icon="icon-discogs">
+                <p>
+                  <a href="{{ page.discogs }}" target="_blank">
+                    <span style="display:flex;align-items:center;">
+                      <img src="{{ site.baseurl }}/assets/img/svg-icons/discogs.svg" style="width:1.5em;margin-right:.5em;">
+                      <span>Discogs</span>
+                    </span>
+                  </a>
+                </p>
+              </v-tab>
+            {% endif %}
           </vue-tabs>
         </div>
       </div>
