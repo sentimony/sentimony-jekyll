@@ -9,7 +9,11 @@
     .tab {
       opacity: .5;
       transition: opacity .2s ease;
-      margin-left: .8em;
+      margin-left: .4em;
+
+      @include media(L) {
+        margin-left: .8em;
+      }
 
       &:first-child {
         margin-left: 0;
@@ -24,6 +28,10 @@
 
         a {
           cursor: default;
+
+          span {
+            display: block;
+          }
         }
       }
 
@@ -31,11 +39,15 @@
         @extend .btn;
         border-radius: 6px 6px 0 0;
         border-width: 0;
-        padding: 0 1.1em;
+        padding: 0 .8em;
         background-color: $colorBgLight;
-        height: 46px;
+        height: 2.5em;
         display: flex;
         align-items: center;
+
+        @include media(L) {
+          height: 3em;
+        }
 
         i[class^="icon-"] {
           display: flex;
@@ -47,7 +59,11 @@
           font-family: 'Montserrat', sans-serif;
           font-size: 12px;
           margin-left: .6em;
-          display: block;
+          display: none;
+
+          @include media(L) {
+            display: block;
+          }
         }
       }
     }
@@ -56,7 +72,11 @@
   .tab-content {
     border-radius: 0 9px 9px 9px;
     background-color: $colorBgLight;
-    padding: 1em;
+    padding: .4em;
     box-sizing: border-box;
+
+    @include media(L) {
+      padding: .8em;
+    }
   }
 }
