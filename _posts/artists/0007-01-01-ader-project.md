@@ -1,4 +1,5 @@
 ---
+published: false
 layout: page-artist
 permalink: /artist/ader-project/
 category: artists

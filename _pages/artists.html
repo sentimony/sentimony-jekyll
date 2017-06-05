@@ -1,0 +1,25 @@
+---
+layout: page
+title: Artists
+description: Artists of Sentimony Records
+permalink: /artists/
+og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
+---
+
+<div style="display:flex;flex-wrap:wrap;justify-content:space-around">
+  {% assign artists = site.categories.artists | sort: 'title' %}
+  {% for i in artists %}
+    {% if i.published == true %}
+      <div>
+        {% if i.photo_cover %}
+          <p>
+            <a href="{{ i.url }}">
+              <img class="photo-cover" src="{{ i.photo_cover }}" alt="{{ i.title }}">
+            </a>
+          </p>
+        {% endif %}
+        <p><a href="{{ i.url }}">{{ i.title }}</a></p>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

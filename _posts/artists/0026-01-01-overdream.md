@@ -1,4 +1,5 @@
 ---
+published: true
 layout: page-artist
 permalink: /artist/overdream/
 category: artists
