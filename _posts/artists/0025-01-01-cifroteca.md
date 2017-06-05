@@ -6,7 +6,7 @@ title: Cifroteca
 photo_cover: 
 name: Yuriy Iofik
 location: Kyiv, Ukraine
-style: forest psytrance
+style: Dark Psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/cifroteca.music
