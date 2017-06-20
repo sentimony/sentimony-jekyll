@@ -1,13 +1,15 @@
 <footer class="block-footer">
 
   <div class="block-footer__menu">
-    <a href="{{ site.baseurl }}/" class="header__main-menu-link{% if page.url == '/'%} is-selected{% endif %}">Home</a>
-    <a href="{{ site.baseurl }}/news/" class="header__main-menu-link{% if page.url contains 'news' %} is-selected{% endif %}">News</a>
-    <a href="{{ site.baseurl }}/releases/" class="header__main-menu-link{% if page.url contains 'release' %} is-selected{% endif %}">Releases</a>
-    <a href="{{ site.baseurl }}/artists/" class="header__main-menu-link{% if page.url contains 'artist' %} is-selected{% endif %}">Artists</a>
-    <a href="{{ site.baseurl }}/events/" class="header__main-menu-link{% if page.url contains 'event' %} is-selected{% endif %}">Events</a>
-    <a href="{{ site.baseurl }}/friends/" class="header__main-menu-link{% if page.url contains 'friends' %} is-selected{% endif %}">Friends</a>
-    <a href="{{ site.baseurl }}/contacts/" class="header__main-menu-link{% if page.url contains 'contacts' %} is-selected{% endif %}">Contacts</a>
+    <div class="block-footer__menu-wrapper">
+      <a href="{{ site.baseurl }}/" class="header__main-menu-link{% if page.url == '/'%} is-selected{% endif %}">Home</a>
+      <a href="{{ site.baseurl }}/news/" class="header__main-menu-link{% if page.url contains 'news' %} is-selected{% endif %}">News</a>
+      <a href="{{ site.baseurl }}/releases/" class="header__main-menu-link{% if page.url contains 'release' %} is-selected{% endif %}">Releases</a>
+      <a href="{{ site.baseurl }}/artists/" class="header__main-menu-link{% if page.url contains 'artist' %} is-selected{% endif %}">Artists</a>
+      <a href="{{ site.baseurl }}/events/" class="header__main-menu-link{% if page.url contains 'event' %} is-selected{% endif %}">Events</a>
+      <a href="{{ site.baseurl }}/friends/" class="header__main-menu-link{% if page.url contains 'friends' %} is-selected{% endif %}">Friends</a>
+      <a href="{{ site.baseurl }}/contacts/" class="header__main-menu-link{% if page.url contains 'contacts' %} is-selected{% endif %}">Contacts</a>
+    </div>
   </div>
 
   <div>Follow Us:</div>
@@ -60,11 +62,13 @@
     </a>
   </div>
 
+  {% comment %}
   <div class="block-footer__labels">
     <a href="https://sentimony.com" class="active">Sentimony Records</a>
     <a href="https://aquadeepmusic.sentimony.com">Aqua Deep Music</a>
     <a href="https://lookinglook.sentimony.com">Lookinglook Records</a>
   </div>
+  {% endcomment %}
 
   <div class="block-footer__copyright">
     <div>2006 - 2017 © Sentimony Records</div>

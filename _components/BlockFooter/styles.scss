@@ -6,9 +6,15 @@
   &__menu {
     margin: 0 auto 2em;
 
-    a {
+    &-wrapper {
+      border: 1px solid rgba(#fff,.1);
+      border-width: 1px 0;
       display: inline-block;
-      padding: .6em;
+
+      a {
+        display: inline-block;
+        padding: .6em;
+      }
     }
   }
 
@@ -65,19 +71,18 @@
     color: rgba(#fff,.5);
   }
 
-  &__labels {
-    margin: 0 auto 10px;
-    display: inline-block;
-    padding: 10px 0;
-    border: 1px solid rgba(#fff,.1);
-    border-width: 1px 0;
-    display: none;
+  // &__labels {
+  //   margin: 0 auto 10px;
+  //   display: inline-block;
+  //   padding: 10px 0;
+  //   border: 1px solid rgba(#fff,.1);
+  //   border-width: 1px 0;
 
-    a {
-      display: inline-block;
-      padding: .1em .9em;
-    }
-  }
+  //   a {
+  //     display: inline-block;
+  //     padding: .1em .9em;
+  //   }
+  // }
 
   &__versions {
     margin: 0 auto 10px;
