@@ -34,8 +34,8 @@ Get it now, completely free, and have fun!
 ---
 Tracklist:
 
-01. Ufomatka - Afrodancerequesting
-02. Ufomatka - Vanguard1
-03. Ufomatka - Freaky Son Of A Bitch
-04. Ufomatka - No End...
-05. Ufomatka - The Binman
+01. Ufomatka - Afrodancerequesting [145bpm]
+02. Ufomatka - Vanguard1 [146bpm]
+03. Ufomatka - Freaky Son Of A Bitch [154bpm]
+04. Ufomatka - No End... [154bpm]
+05. Ufomatka - The Binman [128bpm]
