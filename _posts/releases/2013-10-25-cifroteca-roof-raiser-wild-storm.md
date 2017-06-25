@@ -34,13 +34,13 @@ And dont forget to put your aqualung while listening!
 ---
 Tracklist:
 
-01. Cifroteca - Unknown Signals
-02. Roof Raiser - Parallel Reality
-03. Cifroteca & Roof Raiser - Wild Storm
-04. Cifroteca - CooCoo 2019
-05. Roof Raiser - Warning Signal
-06. Cifroteca - Star Bolide
-07. Roof Raiser - Object M82
-08. Roof Raiser & Cifroteca - Bukanna
-09. Cifroteca - Burning Syncho
-10. Roof Raiser - Abnormal Plants
+01. Cifroteca - Unknown Signals \| 148bpm
+02. Roof Raiser - Parallel Reality \| 148bpm
+03. Cifroteca & Roof Raiser - Wild Storm \| 147bpm
+04. Cifroteca - CooCoo 2019 \| 148bpm
+05. Roof Raiser - Warning Signal \| 148bpm
+06. Cifroteca - Star Bolide \| 151bpm
+07. Roof Raiser - Object M82 \| 150bpm
+08. Roof Raiser & Cifroteca - Bukanna \| 150bpm
+09. Cifroteca - Burning Syncho \| 153bpm
+10. Roof Raiser - Abnormal Plants \| 149bpm
