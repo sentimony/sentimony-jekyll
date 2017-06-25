@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/unusual-cosmic-process-weightlessness/
 category: releases
+comments: true
 title: Unusual Cosmic Process ‎«Weightlessness»
 label: sentimony
 style: Psychill, Chillgressive

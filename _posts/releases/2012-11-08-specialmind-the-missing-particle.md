@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/specialmind-the-missing-particle/
 category: releases
+comments: true
 title: 'Specialmind «The Missing Particle»'
 label: sentimony
 style: Psychill

@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/irukanji-z-lisu/
 category: releases
+comments: true
 title: 'Irukanji «Z Lisu»'
 label: sentimony
 style: Psychill, Chillgressive

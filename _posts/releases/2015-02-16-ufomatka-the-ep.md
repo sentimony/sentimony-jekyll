@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/ufomatka-the-ep/
 category: releases
+comments: true
 title: 'Ufomatka «The E.P.»'
 label: lookinglook
 style: Goa Trance

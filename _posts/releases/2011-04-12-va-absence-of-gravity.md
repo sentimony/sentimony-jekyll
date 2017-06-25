@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/va-absence-of-gravity/
 category: releases
+comments: true
 title: 'VA «Absence Of Gravity»'
 label: sentimony
 style: Psychill, Ambient

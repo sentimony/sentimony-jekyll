@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/senzar-before-the-morning-sun/
 category: releases
+comments: true
 title: 'Senzar ‎«Before The Morning Sun»'
 label: lookinglook
 style: Psychill

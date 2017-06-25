@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/va-time-loop-beyond-borders/
 category: releases
+comments: true
 title: 'VA «Time Loop: Beyond Borders»'
 label: sentimony
 style: Psychill, Psydub

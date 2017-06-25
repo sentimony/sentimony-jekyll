@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/va-dancing-mavka/
 category: releases
+comments: true
 title: VA «Dansing Mavka»
 label: lookinglook
 style: Goa Trance

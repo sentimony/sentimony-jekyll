@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/tentura-beyond-illusion/
 category: releases
+comments: true
 title: 'Tentura «Beyond Illusion»'
 label: sentimony
 style: Psychill, Chillgressive

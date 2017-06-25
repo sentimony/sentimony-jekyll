@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/va-ocean-scenes-higher-titans/
 category: releases
+comments: true
 title: 'VA «Ocean Scenes: Higher Titans»'
 label: aquadeep
 style: Psytrance

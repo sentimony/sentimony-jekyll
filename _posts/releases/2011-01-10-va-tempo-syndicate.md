@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/va-tempo-syndicate/
 category: releases
+comments: true
 title: 'VA «Tempo Syndicate»'
 label: sentimony
 style: Psychill, Chillgressive

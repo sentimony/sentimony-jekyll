@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/hypnotriod-seven-heavenly-edges/
 category: releases
+comments: true
 title: 'Hypnotriod «Seven Heavenly Edges»'
 label: sentimony
 style: Psychill, Chillgressive

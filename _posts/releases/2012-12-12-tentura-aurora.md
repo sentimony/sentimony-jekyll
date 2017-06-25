@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/tentura-aurora/
 category: releases
+comments: true
 title: 'Tentura «Aurora»'
 label: sentimony
 style: Psychill, Chillgressive

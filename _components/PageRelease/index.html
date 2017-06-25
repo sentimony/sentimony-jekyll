@@ -173,5 +173,8 @@
       </p>
     </div>
 
+    {% if page.comments %}
+      {% include DisqusComments/index.html %}
+    {% endif %}
   </div>
 </div>

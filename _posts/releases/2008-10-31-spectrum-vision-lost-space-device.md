@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/spectrum-vision-lost-space-device/
 category: releases
+comments: true
 title: 'Spectrum Vision «Lost Space Device»'
 label: sentimony
 style: Psychill

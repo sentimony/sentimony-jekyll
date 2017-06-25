@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/zymosis-insight/
 category: releases
+comments: true
 title: 'Zymosis «Insight»'
 label: sentimony
 style: Psychill

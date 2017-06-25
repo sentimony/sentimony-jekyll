@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/sphingida-origin/
 category: releases
+comments: true
 title: 'Sphingida «Origin»'
 label: sentimony
 style: Psychill

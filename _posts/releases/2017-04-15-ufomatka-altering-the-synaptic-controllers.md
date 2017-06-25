@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/ufomatka-altering-the-synaptic-controllers/
 category: releases
+comments: true
 title: 'Ufomatka «Altering The Synaptic Controllers»'
 label: sentimony
 style: Goa Trance

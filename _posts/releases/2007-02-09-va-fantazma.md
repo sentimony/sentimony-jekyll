@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/va-fantazma/
 category: releases
+comments: true
 title: 'VA «Fantazma»'
 label: sentimony
 style: Psychill

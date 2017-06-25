@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/va-emptinesses/
 category: releases
+comments: true
 title: 'VA «Emptinesses»'
 label: sentimony
 style: Psychill

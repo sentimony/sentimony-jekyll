@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/psyfactor-retro-scientific/
 category: releases
+comments: true
 title: 'Psyfactor «Retro Scientific»'
 label: sentimony
 style: Psychill

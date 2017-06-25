@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/va-gamayun-tale/
 category: releases
+comments: true
 title: 'VA «Gamayun Tale»'
 label: lookinglook
 style: Goa Trance

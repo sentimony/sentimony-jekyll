@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/va-true-story/
 category: releases
+comments: true
 title: 'VA «True Story»'
 label: sentimony
 style: Psychill

@@ -2,6 +2,7 @@
 layout: page-release
 permalink: /release/va-special-places/
 category: releases
+comments: true
 title: 'VA «Special Places»'
 label: sentimony
 style: Psychill, Ambient
