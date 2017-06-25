@@ -11,6 +11,7 @@ cat_no: sencd005
 cat_nu: sencd005
 tracks_no: 9
 total_time: 
+release_date: 2008-10-31
 coming_soon: 
 popular: 
 youtube_id: KLw08-8uOIw&list=PLp2GaPnw5O3P-uVtUa228Cpg62X8za31K
@@ -32,12 +33,12 @@ The main focus of the project is psychedelic downtempo and ambient works disting
 ---
 Tracklist:
 
-01. Spectrum Vision - Anna [140bpm]
-02. Spectrum Vision - Electro System [124bpm]
-03. Spectrum Vision - Devise 25 [90bpm]
-04. Spectrum Vision - Mystical Bruhoo [80bpm]
-05. Spectrum Vision - Natural Burn [72bpm]
-06. Spectrum Vision - Liquid World [90bpm]
-07. Spectrum Vision - Ameica [90bpm]
-08. Spectrum Vision - Paper Love [100bpm]
-09. Spectrum Vision - Pikake [75bpm]
+01. Spectrum Vision - Anna \| 140bpm
+02. Spectrum Vision - Electro System \| 124bpm
+03. Spectrum Vision - Devise 25 \| 90bpm
+04. Spectrum Vision - Mystical Bruhoo \| 80bpm
+05. Spectrum Vision - Natural Burn \| 72bpm
+06. Spectrum Vision - Liquid World \| 90bpm
+07. Spectrum Vision - Ameica \| 90bpm
+08. Spectrum Vision - Paper Love \| 100bpm
+09. Spectrum Vision - Pikake \| 75bpm

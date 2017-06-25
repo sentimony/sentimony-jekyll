@@ -11,6 +11,7 @@ cat_no: sencd012
 cat_nu: sencd012
 tracks_no: 5
 total_time: 
+release_date: 2012-08-07
 coming_soon: 
 popular: 
 youtube_id: DGOwQwtvkCI&list=PLp2GaPnw5O3M5qeJ2tRG2yhoVbLvkAFoC
@@ -36,9 +37,10 @@ Have a good mood!
 ---
 Tracklist:
 
-01. Hypnotriod - Seven Heavenly Edges [125bmp] 
-02. Hypnotriod - Sour Jazz [115bmp] 
-03. Hypnotriod - Tale-teller (Irukanji Rmx) [125bmp] 
-04. Hypnotriod - Vavel'ero Sea (Tentura Remix) [115bmp] 
-05. Hypnotriod - The Sleep Detector (Unusual Cosmic Process Remix) [120bmp]
+01. Hypnotriod - Seven Heavenly Edges \| 125bmp
+02. Hypnotriod - Sour Jazz \| 115bmp
+03. Hypnotriod - Tale-teller (Irukanji Rmx) \| 125bmp
+04. Hypnotriod - Vavel'ero Sea (Tentura Remix) \| 115bmp
+05. Hypnotriod - The Sleep Detector (Unusual Cosmic Process Remix) \| 120bmp
+
 

@@ -11,6 +11,7 @@ cat_no: sencd004
 cat_nu: sencd004
 tracks_no: 12
 total_time: 
+release_date: 2008-04-25
 coming_soon: 
 popular: 
 youtube_id: iz99g8evgfY&list=PLp2GaPnw5O3NvqIWcRclfziSECY_BT1Ez
@@ -34,15 +35,15 @@ During listening you will be absorbed by classic ambient vibes in the start of j
 ---
 Tracklist:
 
-01. Spectrum Vision - Mystical Experiences [120bpm]
-02. Chronos - Time Keeper [80bpm]
-03. Dagas - Sombrero Galaxy [70bpm]
-04. AstroPilot - Enlightenment [80bpm]
-05. Zymosis - Needle (feat. Hvoya) [90bpm]
-06. Liquid Mind - Free Dance [93bpm]
-07. Unusual Cosmic Process - Smooth Turbulence [133bpm]
-08. Frans Gosu - Dark Water [125bpm]
-09. Sphingida - Machaon [120bpm]
-10. Unstable Elements - Yumy (vs. Madgentel) [130bpm]
-11. Taff - Wind [110bpm]
-12. Sol - Chudo 81 (Harax Version) [110bpm]
+01. Spectrum Vision - Mystical Experiences \| 120bpm
+02. Chronos - Time Keeper \| 80bpm
+03. Dagas - Sombrero Galaxy \| 70bpm
+04. AstroPilot - Enlightenment \| 80bpm
+05. Zymosis - Needle (feat. Hvoya) \| 90bpm
+06. Liquid Mind - Free Dance \| 93bpm
+07. Unusual Cosmic Process - Smooth Turbulence \| 133bpm
+08. Frans Gosu - Dark Water \| 125bpm
+09. Sphingida - Machaon \| 120bpm
+10. Unstable Elements - Yumy (vs. Madgentel) \| 130bpm
+11. Taff - Wind \| 110bpm
+12. Sol - Chudo 81 (Harax Version) \| 110bpm

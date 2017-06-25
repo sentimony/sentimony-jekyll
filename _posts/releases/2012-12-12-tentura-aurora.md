@@ -11,6 +11,7 @@ cat_no: sencd014
 cat_nu: sencd014
 tracks_no: 4
 total_time: 
+release_date: 2012-12-12
 coming_soon: 
 popular: 
 youtube_id: wpOaPxEOrmM&list=PLp2GaPnw5O3Pev66mBuHmGG4cHaBkx1FR
@@ -32,7 +33,7 @@ The project was formed by two talented guys: composer Ader (Alexander Pidgorny) 
 ---
 Tracklist:
 
-01. Tentura - Aurora [110bpm]
-02. Tentura - Melting [75bpm]
-03. Tentura - High Way [125bpm]
-04. Tentura - Eclipse [80bpm]
+01. Tentura - Aurora \| 110bpm
+02. Tentura - Melting \| 75bpm
+03. Tentura - High Way \| 125bpm
+04. Tentura - Eclipse \| 80bpm

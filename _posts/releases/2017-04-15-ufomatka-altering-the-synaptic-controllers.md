@@ -11,6 +11,7 @@ cat_no: sencd026
 cat_nu: sencd026
 tracks_no: 5
 total_time: 
+release_date: 2017-08-14
 coming_soon: true
 popular: 
 youtube_id: 
@@ -21,8 +22,8 @@ link_junodownload:
 link_ektoplazm: 
 link_discogs: 
 compiled_by: 
-artwork_by: 
-mastered_by: 
+artwork_by: Coming Soon
+mastered_by: Coming Soon
 ---
 
 Sentimony Records presents «Altering The Synaptic Controllers» - the second EP release by our beloved artist Ufomatka.
@@ -34,8 +35,8 @@ Have a nice trip!
 ---
 Tracklist:
 
-01. Ufomatka - Multiplexer [140bpm]
-02. Ufomatka - Alien Controlled Human Exterminator [137bpm]
-03. Ufomatka - Fornax Cluster [145bpm]
-04. Ufomatka - Warper-mutator [138bpm]
-05. Ufomatka - Weird Species [153bpm]
+01. Ufomatka - Multiplexer \| 140bpm
+02. Ufomatka - Alien Controlled Human Exterminator \| 137bpm
+03. Ufomatka - Fornax Cluster \| 145bpm
+04. Ufomatka - Warper-mutator \| 138bpm
+05. Ufomatka - Weird Species \| 153bpm

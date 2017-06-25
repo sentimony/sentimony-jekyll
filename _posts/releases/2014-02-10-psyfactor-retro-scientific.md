@@ -11,6 +11,7 @@ cat_no: sencd016
 cat_nu: sencd016
 tracks_no: 11
 total_time: 
+release_date: 2014-02-10
 coming_soon: 
 popular: true
 youtube_id: LceN0MLwqME&list=PLp2GaPnw5O3PdlgX-f4f-HerTdKWzuU-Y
@@ -34,14 +35,14 @@ Let's start experimenting!
 ---
 Tracklist:
 
-01. Psyfactor - Orbiter
-02. Psyfactor - Stop Going
-03. Psyfactor - Earth-Like
-04. Psyfactor - Last Martian
-05. Psyfactor - Skydive
-06. Psyfactor - Electrify Yourselves
-07. Psyfactor - Outwards
-08. Psyfactor - Retro Scientific
-09. Psyfactor - Allover
-10. Psyfactor - I Leave
-11. Psyfactor - Lost Myself
+01. Psyfactor - Orbiter \| 120bpm
+02. Psyfactor - Stop Going \| 120bpm
+03. Psyfactor - Earth-Like \| 120bpm
+04. Psyfactor - Last Martian \| 120bpm
+05. Psyfactor - Skydive \| 155bpm
+06. Psyfactor - Electrify Yourselves \| 140bpm
+07. Psyfactor - Outwards \| 155bpm
+08. Psyfactor - Retro Scientific \| 120bpm
+09. Psyfactor - Allover \| 120bpm
+10. Psyfactor - I Leave \| 100bpm
+11. Psyfactor - Lost Myself \| 100bpm

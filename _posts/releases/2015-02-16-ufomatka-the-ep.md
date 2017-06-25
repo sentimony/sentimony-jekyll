@@ -11,6 +11,7 @@ cat_no: sencd022
 cat_nu: sencd022 lgcd06
 tracks_no: 5
 total_time: 
+release_date: 2015-02-16
 coming_soon: 
 popular: 
 youtube_id: L3PGvUpopKk&list=PLp2GaPnw5O3Ox6J1Yy2JxL2fj7yZIIMn-
@@ -34,8 +35,8 @@ Get it now, completely free, and have fun!
 ---
 Tracklist:
 
-01. Ufomatka - Afrodancerequesting [145bpm]
-02. Ufomatka - Vanguard1 [146bpm]
-03. Ufomatka - Freaky Son Of A Bitch [154bpm]
-04. Ufomatka - No End... [154bpm]
-05. Ufomatka - The Binman [128bpm]
+01. Ufomatka - Afrodancerequesting \| 145bpm
+02. Ufomatka - Vanguard1 \| 146bpm
+03. Ufomatka - Freaky Son Of A Bitch \| 154bpm
+04. Ufomatka - No End... \| 154bpm
+05. Ufomatka - The Binman \| 128bpm

@@ -11,6 +11,7 @@ cat_no: sencd010
 cat_nu: sencd010
 tracks_no: 11
 total_time: 
+release_date: 2011-04-12
 coming_soon: 
 popular: 
 youtube_id: yvVZYt7pEDM&list=PLp2GaPnw5O3Ny1EriesLL8xw9aHLvms7d

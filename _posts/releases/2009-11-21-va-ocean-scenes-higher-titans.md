@@ -11,6 +11,7 @@ cat_no: sencd008
 cat_nu: sencd008 adcd01
 tracks_no: 12
 total_time: 
+release_date: 2009-11-21
 coming_soon: 
 popular: 
 youtube_id: 5xzrh05Ri8Y&list=PLp2GaPnw5O3P0Hwmx8ZjBgCdR_QsI-3fP
@@ -34,15 +35,15 @@ Higher Titans presents 12 previously unreleased tracks produced by only Ukrainia
 ---
 Tracklist:
 
-01. Irukanji - Mammoth (In) [130bpm]
-02. Cifroteca - Nero Squarka [148bpm]
-03. Overdream - Rear Gear Forest Ear [148bpm]
-04. Already Maged - Necromantica [154bpm]
-05. Roof Raiser - GMO25 [150bpm]
-06. Saikozaurus - Key Meeting [150bpm]
-07. Magmadivers - It's All In Your Head [149bpm]
-08. Shivattva - Foggy Land Of Zartak [148bpm]
-09. Tookytooky - Nocturna (Remix) [146bpm]
-10. Calamus - The Mighty Glow [150bpm]
-11. Shiva3 - Old Moon [145bpm]
-12. NeiRula - Absolutiz Hipnotyzze (Out) [90bpm]
+01. Irukanji - Mammoth (In) \| 130bpm
+02. Cifroteca - Nero Squarka \| 148bpm
+03. Overdream - Rear Gear Forest Ear \| 148bpm
+04. Already Maged - Necromantica \| 154bpm
+05. Roof Raiser - GMO25 \| 150bpm
+06. Saikozaurus - Key Meeting \| 150bpm
+07. Magmadivers - It's All In Your Head \| 149bpm
+08. Shivattva - Foggy Land Of Zartak \| 148bpm
+09. Tookytooky - Nocturna (Remix) \| 146bpm
+10. Calamus - The Mighty Glow \| 150bpm
+11. Shiva3 - Old Moon \| 145bpm
+12. NeiRula - Absolutiz Hipnotyzze (Out) \| 90bpm

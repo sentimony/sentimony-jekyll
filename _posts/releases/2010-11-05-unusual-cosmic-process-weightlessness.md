@@ -11,6 +11,7 @@ cat_no: sencd019
 cat_nu: sencd019 lgcd03
 tracks_no: 7
 total_time: 
+release_date: 2010-11-05
 coming_soon: 
 popular: 
 youtube_id: d_a-YkBQnYE&list=PLp2GaPnw5O3P0IB08Nj8GUFFOIsI1vBLa

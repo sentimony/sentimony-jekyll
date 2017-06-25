@@ -11,6 +11,7 @@ cat_no: sencd001
 cat_nu: sencd001
 tracks_no: 11
 total_time: 
+release_date: 2007-02-09
 coming_soon: 
 popular: 
 youtube_id: ESAFEZj0wlQ&list=PLp2GaPnw5O3Ngdrr8pc8W_jAk5PC_ie-l
@@ -36,14 +37,14 @@ Feel the Ukrainian psychedelic chill-out spirit.
 ---
 Tracklist:
 
-01. Harax - Dreamy [80bpm]
-02. Sphingida - After This [90bpm]
-03. Solcast - Chinese Pineapple [90bpm]
-04. Zymosis - Alien Creation [68bpm]
-05. Heinali - Endless [91bpm]
-06. Harax - Clepsydra [80bpm]
-07. Zymosis - Sound Of Magic [91bpm]
-08. Frans Gosu - Morbit [130bpm]
-09. Solcast - Cheiook [80bpm]
-10. Ader Project - Serotonin [100bpm]
-11. Sphingida - Outside [64bpm]
+01. Harax - Dreamy \| 80bpm
+02. Sphingida - After This \| 90bpm
+03. Solcast - Chinese Pineapple \| 90bpm
+04. Zymosis - Alien Creation \| 68bpm
+05. Heinali - Endless \| 91bpm
+06. Harax - Clepsydra \| 80bpm
+07. Zymosis - Sound Of Magic \| 91bpm
+08. Frans Gosu - Morbit \| 130bpm
+09. Solcast - Cheiook \| 80bpm
+10. Ader Project - Serotonin \| 100bpm
+11. Sphingida - Outside \| 64bpm

@@ -11,6 +11,7 @@ cat_no: sencd013
 cat_nu: sencd013
 tracks_no: 5
 total_time: 
+release_date: 2012-11-08
 coming_soon: 
 popular: 
 youtube_id: bODVa7DSMrI&list=PLp2GaPnw5O3OumSRMWN_k8f-plmSOlxab
@@ -34,8 +35,8 @@ The idea of creating their own vision of psychedelic chillout music originated a
 ---
 Tracklist:
 
-01. Specialmind - The Missing Particle [110bpm]
-02. Specialmind - Alterlife [100bpm]
-03. Specialmind - Soul Language [113bpm]
-04. Specialmind - Alterlife (Tentura Remix) [100bpm]
-05. Specialmind - Soul Language (Unusual Cosmic Process Remix) [113bpm]
+01. Specialmind - The Missing Particle \| 110bpm
+02. Specialmind - Alterlife \| 100bpm
+03. Specialmind - Soul Language \| 113bpm
+04. Specialmind - Alterlife (Tentura Remix) \| 100bpm
+05. Specialmind - Soul Language (Unusual Cosmic Process Remix) \| 113bpm

@@ -11,6 +11,7 @@ cat_no: sencd021
 cat_nu: sencd021 lgcd05
 tracks_no: 11
 total_time: 
+release_date: 2014-02-09
 coming_soon: 
 popular: 
 youtube_id: 1cHbLZUrKGo&list=PLp2GaPnw5O3NadY7sjq7ZmVk7rc5j8Li9
@@ -34,14 +35,14 @@ And yep, Gamayun like Goa trance. Enjoy!
 ---
 Tracklist:
 
-01. Celestial Consciousness - Rise
-02. Magic Science - Atman
-03. PharaOm - White Lotus Energy
-04. Nova Fractal - Through Our Senses (Sky Technology Remix)
-05. Roof Raiser - Stone Garden
-06. Prok - Gliese
-07. Ufomatka - Asteroid
-08. Wanderlust - Square Of The Cadboard Clocks
-09. ShizoLizer Gin - Skygravity Trance Mission
-10. Jyotish - Purple Imagination
-11. Rexuss - Chakra
+01. Celestial Consciousness - Rise \| 110bpm
+02. Magic Science - Atman \| 146bpm
+03. PharaOm - White Lotus Energy \| 146bpm
+04. Nova Fractal - Through Our Senses (Sky Technology Remix) \| 145bpm
+05. Roof Raiser - Stone Garden \| 148bpm
+06. Prok - Gliese \| 144bpm
+07. Ufomatka - Asteroid \| 148bpm
+08. Wanderlust - Square Of The Cadboard Clocks \| 147bpm
+09. ShizoLizer Gin - Skygravity Trance Mission \| 142bpm
+10. Jyotish - Purple Imagination \| 132bpm
+11. Rexuss - Chakra \| 150bpm

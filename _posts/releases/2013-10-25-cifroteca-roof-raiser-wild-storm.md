@@ -11,6 +11,7 @@ cat_no: sencd015
 cat_nu: sencd015 adcd02
 tracks_no: 10
 total_time: 
+release_date: 2013-10-25
 coming_soon: 
 popular: 
 youtube_id: ZyVsk3RkTeQ&list=PLp2GaPnw5O3MiDE58W_2b0G4lZAF19cNt

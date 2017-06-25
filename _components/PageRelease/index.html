@@ -20,7 +20,13 @@
       <div class="page-release__info">
         <div class="page-release__small-info">
           <div class="page-release__catalog-number">{{ page.cat_nu }}</div> |
-          <div class="page-release__date">{% if page.coming_soon %}Coming at {{ page.date | date: '%Y' }}{% else %}{{ page.date | date_to_string }}{% endif %}</div>
+          <div class="page-release__date">
+            {% if page.coming_soon %}
+              Coming at {{ page.release_date | date: '%Y' }}
+            {% else %}
+              {{ page.release_date | date_to_string }}
+            {% endif %}
+          </div>
         </div>
         <div class="page-release__small-info">
           <div class="page-release__style">{{ page.style }}</div>

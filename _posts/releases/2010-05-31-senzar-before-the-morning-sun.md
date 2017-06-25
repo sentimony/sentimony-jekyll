@@ -11,6 +11,7 @@ cat_no: sencd017
 cat_nu: sencd017 lgcd02
 tracks_no: 10
 total_time: 
+release_date: 2010-05-31
 coming_soon: 
 popular: 
 youtube_id: JYrymig8pgU&list=PLp2GaPnw5O3PP655ySgkQ8ZxQbHMTodg0
@@ -38,13 +39,13 @@ As an added bonus the album also contains remixes by two of Senzar's friends; pr
 ---
 Tracklist:
 
-01. Senzar - Intro (feat. Ariel Electron) [0bpm]
-02. Senzar - Deep Sea Civilization [0bpm]
-03. Senzar - Before The Morning Sun [66-132bpm]
-04. Senzar - Power Of Light [75bpm]
-05. Senzar - Mos På Træerne [75bpm]
-06. Senzar - Finsteraarhorn (Erot Remix) (85bpm]
-07. Senzar - Sun Dance [90bpm]
-08. Senzar - Path Of Dhyana [60-120bpm]
-09. Senzar - Book Of Dzyan [120bpm]
-10. Senzar - Before The Morning Sun (NASA Remix) [128bpm]
+01. Senzar - Intro (feat. Ariel Electron) \| 0bpm
+02. Senzar - Deep Sea Civilization \| 0bpm
+03. Senzar - Before The Morning Sun \| 66-132bpm
+04. Senzar - Power Of Light \| 75bpm
+05. Senzar - Mos På Træerne \| 75bpm
+06. Senzar - Finsteraarhorn (Erot Remix) \| 85bpm
+07. Senzar - Sun Dance \| 90bpm
+08. Senzar - Path Of Dhyana \| 60-120bpm
+09. Senzar - Book Of Dzyan \| 120bpm
+10. Senzar - Before The Morning Sun (NASA Remix) \| 128bpm

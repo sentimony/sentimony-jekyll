@@ -11,6 +11,7 @@ cat_no: sencd007
 cat_nu: sencd007
 tracks_no: 11
 total_time: 
+release_date: 2010-09-15
 coming_soon: 
 popular: 
 youtube_id: A7gkIV2ahHo&list=PLp2GaPnw5O3PMfJen6W2rPocA9QsNSOga

@@ -11,6 +11,7 @@ cat_no: sencd023
 cat_nu: sencd023
 tracks_no: 10
 total_time: 
+release_date: 2015-02-22
 coming_soon: 
 popular: true
 youtube_id: RddTSC5d9uc&list=PLp2GaPnw5O3PMQaDZ68wXXSCBq7hdE9im
@@ -32,13 +33,13 @@ Have a nice trip!
 ---
 Tracklist:
 
-01. Tentura - Alchemy [120bpm]
-02. Tentura - Interstellar [140bpm]
-03. Tentura - Liftoff [90bpm]
-04. Tentura - Beginning Of Time [100bpm]
-05. Tentura - Echoes [120bpm]
-06. Tentura - Vivid [120bpm]
-07. Tentura - Rising [145bpm]
-08. Tentura - Presence Of The Sence [80bpm]
-09. Tentura - Resonance (Remake) [120bpm]
-10. Tentura - Resident (vs. Specialmind) [113bpm]
+01. Tentura - Alchemy \| 120bpm
+02. Tentura - Interstellar \| 140bpm
+03. Tentura - Liftoff \| 90bpm
+04. Tentura - Beginning Of Time \| 100bpm
+05. Tentura - Echoes \| 120bpm
+06. Tentura - Vivid \| 120bpm
+07. Tentura - Rising \| 145bpm
+08. Tentura - Presence Of The Sence \| 80bpm
+09. Tentura - Resonance (Remake) \| 120bpm
+10. Tentura - Resident (vs. Specialmind) \| 113bpm
