@@ -3,6 +3,7 @@ published: false
 layout: page-artist
 permalink: /artist/ader-project/
 category: artists
+comments: true
 title: Ader Project
 photo_cover: 
 name: Alexandr Pidgornyi

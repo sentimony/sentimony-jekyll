@@ -109,10 +109,13 @@
   </div>
 </div>
 
-{% comment %}
   <div class="page-artist-content">
     <div class="page-artist-content__wrapper">
-      {{ content }}
+      {% comment %}
+        {{ content }}
+      {% endcomment %}
+      {% if page.comments %}
+        {% include DisqusComments/index.html %}
+      {% endif %}
     </div>
   </div>
-{% endcomment %}

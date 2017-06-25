@@ -3,6 +3,7 @@ published: true
 layout: page-artist
 permalink: /artist/shivattva/
 category: artists
+comments: true
 title: Shivattva
 photo_cover: https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/12390917_1094695183909105_4233345323556473595_n.jpg?oh=cc8f98ca070ca7900cf4f8af9722a09a&oe=59DFC0CE
 name: Artem Arhangelskiy

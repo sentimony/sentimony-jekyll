@@ -3,6 +3,7 @@ published: true
 layout: page-artist
 permalink: /artist/astropilot/
 category: artists
+comments: true
 title: AstroPilot
 photo_cover: https://scontent-fra3-1.xx.fbcdn.net/v/t31.0-8/13710504_10157107173710150_5930072770646718552_o.jpg?oh=c8c3968ec1ccbd47479e98c2a762fb87&oe=5975AB08
 name: Dmitriy Redko

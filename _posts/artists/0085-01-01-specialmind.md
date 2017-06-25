@@ -3,6 +3,7 @@ published: true
 layout: page-artist
 permalink: /artist/specialmind/
 category: artists
+comments: true
 title: Specialmind
 photo_cover: https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/419699_341135539241162_1588316859_n.jpg?oh=9ffbe9b9c8d59972ef0b2ae5f508bc38&oe=59A4A057
 name: Alexander Radchenko & Evgeniy Pshonniy

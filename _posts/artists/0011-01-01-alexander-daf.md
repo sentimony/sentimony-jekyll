@@ -3,6 +3,7 @@ published: true
 layout: page-artist
 permalink: /artist/alexander-daf/
 category: artists
+comments: true
 title: Alexander Daf
 photo_cover: https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/27012_120529604627749_2332267_n.jpg?oh=0b1b985cd618fd7529793f7fc5cee9eb&oe=59E5ACAD
 name: Alexander Ivanov

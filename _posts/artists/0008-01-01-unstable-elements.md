@@ -3,6 +3,7 @@ published: true
 layout: page-artist
 permalink: /artist/unstable-elements/
 category: artists
+comments: true
 title: Unstable Elements
 photo_cover: https://img.discogs.com/qnJA8L5iRIcUFWEPoQXh8cbmM48=/490x368/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-503095-1146680657.jpeg.jpg
 name: Maxim Kornev & Andrew Epifanov

@@ -3,6 +3,7 @@ published: true
 layout: page-artist
 permalink: /artist/hypnotriod/
 category: artists
+comments: true
 title: Hypnotriod
 photo_cover: https://img.discogs.com/BSkyycoheZKItv8xosAdPWtLJ50=/450x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-1954665-1305897828.jpeg.jpg
 name: Ilya Pikin
