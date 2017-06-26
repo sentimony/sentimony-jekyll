@@ -9,3 +9,7 @@ layout: default
 {% endif %}
 
 {{ content }}
+
+{% if page.comments %}
+  {% include DisqusComments/index.html %}
+{% endif %}
