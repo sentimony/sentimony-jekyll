@@ -65,19 +65,19 @@
     }
   }
 
-  &__mob-menu-button {
-    display: block;
-    padding: 1em 1.1em;
+  // &__mob-menu-button {
+  //   display: block;
+  //   padding: 1em 1.1em;
 
-    @include media(M) {
-      display: none;
-    }
+  //   @include media(M) {
+  //     display: none;
+  //   }
 
-    &-img {
-      display: block;
-      width: auto;
-      height: 20px;
-      margin: 0 auto;
-    }
-  }
+  //   &-img {
+  //     display: block;
+  //     width: auto;
+  //     height: 20px;
+  //     margin: 0 auto;
+  //   }
+  // }
 }

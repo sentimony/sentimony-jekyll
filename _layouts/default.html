@@ -52,8 +52,16 @@ layout: compress
 
     </div>
 
-    <div class="js-swiper-mob-menu-open"></div>
-    <div class="js-swiper-mob-menu-close"></div>
+    <div class="mob-menu__btn-wrap">
+      <div class="mob-menu__btn-open js-swiper-mob-menu-open">
+        <img class="mob-menu__icon-hamburger" src="{{ site.baseurl }}/assets/img/svg-icons/menu.svg">
+      </div>
+
+      <div class="mob-menu__btn-close js-swiper-mob-menu-close">
+        <img class="mob-menu__icon-close" src="{{ site.baseurl }}/assets/img/svg-icons/close.svg">
+      </div>
+    </div>
+
   </div>
 
   <script async data-main="{{ site.baseurl }}/assets/js/require.config.js" src="{{ site.baseurl }}/assets/js/require.js"></script>

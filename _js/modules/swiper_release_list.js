@@ -51,6 +51,7 @@ define('swiper_release_list', ['swiper'], function (Swiper) {
         return index;
       }
     }
+
   })();
 
 });

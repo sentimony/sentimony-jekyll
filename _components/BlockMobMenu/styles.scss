@@ -1,0 +1,31 @@
+.mob-menu {
+  &__btn-wrap {
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 900;
+
+    @include media(M) {
+      display: none;
+    }
+  }
+
+  &__btn-open,
+  &__btn-close {
+    cursor: pointer;
+    margin: .65em .65em;
+    padding: 1.0em 1.0em;
+
+    &:hover {
+      background-color: $colorBgLight;
+    }
+  }
+
+  &__icon-hamburger,
+  &__icon-close {
+    display: block;
+    width: 24px;
+    height: auto;
+  }
+}
