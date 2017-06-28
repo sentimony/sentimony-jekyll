@@ -1,46 +1,49 @@
-requirejs.config({
-    urlArgs: '01',
-    baseUrl: '/assets/js/modules',
-    paths: {
-        'EventEmitter': '../lib/EventEmitter.min',
-        'jquery.selectBox': '../lib/jquery.selectBox',
-        'GameResizer': '../lib/GameResizer',
-        'globologin-light': '../lib/globologin-light',
-        'jquery': '../lib/jquery.min',
-        'jquery.accordion': '../lib/jquery.accordion',
-        'jquery.cookie': '../lib/jquery.cookie.min',
-        'jquery.easytabs': '../lib/jquery.easytabs.min',
-        'jquery.endless-scroll': '../lib/jquery.endless-scroll',
-        'jquery.swiper': '../lib/swiper.jquery.min',
-        'jquery-asPieProgress': '../lib/jquery-asPieProgress',
-        'jquery-private': '../lib/jquery-private',
-        'lazysizes': '../lib/lazysizes.min',
-        'passwordStrength': '../lib/passwordStrength',
-        'remodal': '../lib/remodal.min',
-        'sockjs': '../lib/sockjs.min',
-        'Timer': '../lib/Timer',
-        'Vue': '../lib/Vue.min',
+requirejs.onResourceLoad = function (context, map) {
+  console.log('Loaded module: ' + map.name);
+};
 
-        'app_bundle': '/assets/js/bundle.min',
-    },
-    bundles: {
-        'app_bundle': [
-            'btn_all_games',
-            'cashbox'
-        ]
-    },
-    shim: {
-        'jquery,accordion': ['jquery'],
-        'jquery.easytabs': ['jquery'],
-        'jquery.endless-scroll': ['jquery'],
-        'jquery.selectBox': ['jquery'],
-        'netrox': ['jquery']
-    },
-    deps: [
-        'jquery',
-        'lazysizes',
-        'dmp_listener',
-        'ga_listener',
-        'popup_thanks'
-    ]
+// requirejs.onError = function (err) {
+//   console.log(err);
+// };
+
+requirejs.config({
+  baseUrl: '/assets/js/modules',
+  urlArgs: '01',
+  paths: {
+    'vue': '../lib/vue.min',
+    'vue-tabs': '../lib/vue-tabs',
+    'swiper': '../lib/swiper.min',
+    'lazysizes': '../lib/lazysizes.min',
+    'jquery': '../lib/jquery.min',
+    'common': '../common',
+    'app_bundle': '../bundle.min',
+    // 'swiper_mob_menu': 'swiper_mob_menu',
+    // 'swiper_release_list': 'swiper_release_list',
+    // 'vue_tabs': 'vue_tabs',
+    // 'platform_add_class': 'platform_add_class',
+    // 'platform_detector': 'platform_detector',
+  },
+  // bundles: {
+  //   'app_bundle': [
+  //     'swiper_mob_menu',
+  //     'swiper_release_list',
+  //     'vue_tabs',
+  //     'platform_add_class',
+  //     'platform_detector',
+  //   ]
+  // },
+  deps: [
+    'vue',
+    'vue-tabs',
+    'swiper',
+    'lazysizes',
+    'jquery',
+    'common',
+    'app_bundle',
+    // 'swiper_mob_menu',
+    // 'swiper_release_list',
+    // 'vue_tabs',
+    // 'platform_add_class',
+    // 'platform_detector',
+  ],
 });
