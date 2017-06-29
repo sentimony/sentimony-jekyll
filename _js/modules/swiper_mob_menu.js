@@ -5,15 +5,14 @@ define('swiper_mob_menu', ['swiper'], function (Swiper) {
       nextButton: '.js-swiper-mob-menu-open',
       prevButton: '.js-swiper-mob-menu-close',
       onlyExternal: true,
-      slideToClickedSlide: true,
+      // slideToClickedSlide: true,
       breakpoints: {
         754: {
           onlyExternal: false,
-          shortSwipes: false,
+          // shortSwipes: false,
         }
       }
     })
-
 
     // var menuButtonOpen = document.getElementsByClassName('js-swiper-mob-menu-open'),
     // var menuButtonClose = document.getElementsByClassName('js-swiper-mob-menu-open'),
