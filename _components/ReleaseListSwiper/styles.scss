@@ -68,7 +68,8 @@
           transform: translate3d(-10px,-10px,0);
         }
 
-        .release-list-swiper__item.is-selected & {
+        .release-list-swiper__item.is-selected &,
+        .release-list-swiper__item:hover & {
           background-color: rgba(#fff,.3);
         }
       }
