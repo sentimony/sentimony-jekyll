@@ -1,4 +1,31 @@
 .mob-menu {
+
+  &__mob-menu {
+    width: 300px;
+    position: relative;
+
+    &-ul {
+      list-style: none;
+      margin: 0;
+      padding: 10px 0;
+      background-color: rgba(#000,1);
+      position: fixed;
+      top: 0;
+      left: 100%;
+      // right: 0;
+      width: 300px;
+      height: 100%;
+      box-sizing: border-box;
+
+      li {
+
+        a {
+          padding: 10px 20px;
+        }
+      }
+    }
+  }
+
   &__btn-wrap {
     display: block;
     position: fixed;
@@ -17,9 +44,14 @@
     margin: .65em .65em;
     padding: 1.0em 1.0em;
     border-radius: 6px;
+    transition: background-color .2s ease;
 
     &:hover {
       background-color: $colorBgLight;
+    }
+
+    &.swiper-button-disabled {
+      display: none;
     }
   }
 
