@@ -44,4 +44,4 @@ Tracklist:
 08. Zymosis - OMGTY \| 90bpm
 09. Zymosis feat. Katya Chilly - U Zemli \| 140bpm **\***
 
-**\*** - previously released at \| VA «The Ten»](/release/va-the-ten/)
+**\*** - previously released at [VA «The Ten»](/release/va-the-ten/)
