@@ -15,7 +15,7 @@
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-concat": "^2.6.1",
-    "gulp-iconfont": "^8.0.1",
+    "gulp-iconfont": "^9.0.0",
     "gulp-iconfont-css": "^2.1.0",
     "gulp-plumber": "^1.1.0",
     "gulp-sass": "^3.1.0",
