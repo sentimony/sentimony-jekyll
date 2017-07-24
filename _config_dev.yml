@@ -1,7 +1,16 @@
 baseurl: ''
 canonicalurl: 'https://sentimony.com'
 include: ['_pages']
-exclude: ['README.md', 'package.json', 'node_modules/', 'gulpfile.js', 'Gemfile', 'Gemfile.lock', 'yarn.lock']
+exclude: [
+    'README.md',
+    'package.json',
+    'package-lock.json',
+    'node_modules/',
+    'gulpfile.js',
+    'Gemfile',
+    'Gemfile.lock',
+    'yarn.lock'
+  ]
 includes_dir: ./_components
 data_dir: ./_components
 
