@@ -15,8 +15,8 @@ total_time:
 release_date: 2017-07-25
 coming_soon: 
 popular: true
-youtube_id: 
-youtube_playlist_id: 
+youtube_id: OfYOpEdGdtE&list=PLp2GaPnw5O3PfYbFBghokLjl_sq1cETz-
+youtube_playlist_id: PLp2GaPnw5O3PfYbFBghokLjl_sq1cETz-
 bandcamp_id: 3630855086
 link_bandcamp: https://sentimony.bandcamp.com/album/zymosis-insight
 link_junodownload: 
