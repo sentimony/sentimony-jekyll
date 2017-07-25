@@ -7,17 +7,17 @@ title: 'Zymosis «Insight»'
 label: sentimony
 style: Psychill
 format: album
-cover: 
+cover: true
 cat_no: sencd025
 cat_nu: sencd025
 tracks_no: 9
 total_time: 
 release_date: 2017-07-25
-coming_soon: true
-popular: 
+coming_soon: 
+popular: true
 youtube_id: 
 youtube_playlist_id: 
-bandcamp_id: 
+bandcamp_id: 3630855086
 link_bandcamp: https://sentimony.bandcamp.com/album/zymosis-insight
 link_junodownload: 
 link_ektoplazm: 

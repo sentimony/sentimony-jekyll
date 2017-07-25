@@ -14,7 +14,7 @@ tracks_no: 11
 total_time: 
 release_date: 2014-02-10
 coming_soon: 
-popular: true
+popular: 
 youtube_id: LceN0MLwqME&list=PLp2GaPnw5O3PdlgX-f4f-HerTdKWzuU-Y
 youtube_playlist_id: PLp2GaPnw5O3PdlgX-f4f-HerTdKWzuU-Y
 bandcamp_id: 625816327
