@@ -23,13 +23,22 @@ link_junodownload:
 link_ektoplazm: 
 link_discogs: 
 compiled_by: 
-artwork_by: Coming Soon
+artwork_by: <a href='https://www.facebook.com/artramaworkshop' target='_blank'>Artrama</a>
 mastered_by: <a href='https://www.facebook.com/zymosis.dimitro' target='_blank'>Dimitro (Zymosis Studio)</a>
 ---
 
 Sentimony Records team is proud to present «Insight» - new Zymosis full-length album.
 
-Have a nice trip!
+_I was looking for Power, but I did not find anything ..._
+
+_Then I looked for God, but found nothing ..._
+
+_Then I looked for myself and did not find anything either._
+
+_When my quest for Power, God and Myself merged, I found the Secret:_
+_All that is and all that you know is the One Whole._
+_Everything that happens is part of a single action, which can be called a single life of the universe. Life is what it is. You can only understand and accept this. And only the Understanding - the pure One Whole Consciousness, which is in the beginning, remains only. This is the only existing reality. All the rest is an illusion, which includes all the variety of phenomena that arise in our perception._
+_When I realized this, Harmony and Peace found me ..._
 
 ---
 Tracklist:
