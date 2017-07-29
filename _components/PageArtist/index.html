@@ -7,7 +7,7 @@
       <div class="page-artist__cover">
         {% if page.photo_cover %}
           <a class="page-artist__cover-link" href="{{ page.photo_cover }}">
-            <img class="page-artist__cover-img" src="{{ page.photo_cover }}">
+            <img class="page-artist__cover-img" src="{{ page.photo_cover }}" alt="{{ page.title }}">
           </a>
         {% else %}
           <div class="page-artist__cover-coming">Photo<br>coming soon</div>
