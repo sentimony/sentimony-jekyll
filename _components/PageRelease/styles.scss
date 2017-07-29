@@ -123,33 +123,7 @@
     }
   }
 
-  &__bandcamp-btn {
-    @extend .btn;
-    margin-top: .5em;
-
-    &-img {
-      @extend .btn__img;
-    }
-
-    &-text {
-      @extend .btn__text;
-    }
-  }
-
-  &__youtube-btn {
-    @extend .btn;
-    margin-top: .5em;
-    display: none;
-
-    &-img {
-      @extend .btn__img;
-    }
-
-    &-text {
-      @extend .btn__text;
-    }
-  }
-
+  &__bandcamp-btn,
   &__junodownload-btn {
     @extend .btn;
     margin-top: .5em;
@@ -207,13 +181,6 @@
       @include media(S) {
         height: 537px;
       }
-
-      // position: absolute;
-      // top: 0;
-      // left: 0;
-      // width: 111%;
-      // transform: scale(.9);
-      // transform-origin: top left;
     }
   }
 
