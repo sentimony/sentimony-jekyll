@@ -36,16 +36,12 @@
         <div class="page-release__small-info">Get it:</div>
         <div>
           <a class="page-release__bandcamp-btn{% if page.coming_soon %} is-disabled{% endif %}" href="{% if page.coming_soon %}javascript:void(0){% else %}{{ page.link_bandcamp }}{% endif %}" target="_blank">
-            <img class="page-release__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg">
+            <img class="page-release__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg" alt="Bandcamp Icon">
             <span class="page-release__bandcamp-btn-text">Bandcamp</span>
           </a>
-          <a class="page-release__youtube-btn{% if page.youtube_id == null %} is-disabled{% endif %}" href="{% if page.youtube_id == null %}javascript:void(0){% else %}https://www.youtube.com/watch?v={{ page.youtube_id }}{% endif %}" target="_blank">
-            <img class="page-release__youtube-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/youtube.svg">
-            <span class="page-release__youtube-btn-text">Youtube</span>
-          </a>
           <a class="page-release__junodownload-btn{% if page.link_junodownload == null %} is-disabled{% endif %}" href="{% if page.link_junodownload == null %}javascript:void(0){% else %}{{ page.link_junodownload }}{% endif %}" target="_blank">
-            <img class="page-release__junodownload-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/junodownload.svg">
-            <span class="page-release__junodownload-btn-text">Juno Download</span>
+            <img class="page-release__junodownload-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/junodownload.svg" alt="JunoDownload Icon">
+            <span class="page-release__junodownload-btn-text">JunoDownload</span>
           </a>
         </div>
       </div>
