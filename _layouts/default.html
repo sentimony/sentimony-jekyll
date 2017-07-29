@@ -89,12 +89,15 @@ layout: compress
     var dbRef = firebase.database().ref().child('releases').child('irukanji-z-lisu').child('title');
     dbRef.on('value', snap => app.innerText = snap.val());
   </script>
-  {% endcomment %}
 
   {% if site.env == 'prod' %}
     {% include Analytics/google-analytics.html %}
     {% include Analytics/yandex-metrika.html %}
   {% endif %}
+  {% endcomment %}
+
+  {% include Analytics/google-analytics.html %}
+  {% include Analytics/yandex-metrika.html %}
 
 </body>
 </html>
