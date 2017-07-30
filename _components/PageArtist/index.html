@@ -36,31 +36,31 @@
 
           {% if page.website %}
             <p>
-              <a href="{{ page.website }}" target="_blank"><span class="icon-public"></span> Website</a>
+              <a href="{{ page.website }}" target="_blank" rel="noopener"><span class="icon-public"></span> Website</a>
             </p>
           {% endif %}
 
           {% if page.bandcamp %}
             <p>
-              <a href="{{ page.bandcamp }}" target="_blank"><span class="icon-bandcamp"></span> Bandcamp</a>
+              <a href="{{ page.bandcamp }}" target="_blank" rel="noopener"><span class="icon-bandcamp"></span> Bandcamp</a>
             </p>
           {% endif %}
 
           {% if page.facebook %}
             <p>
-              <a href="{{ page.facebook }}" target="_blank"><span class="icon-facebook"></span> Facebook</a>
+              <a href="{{ page.facebook }}" target="_blank" rel="noopener"><span class="icon-facebook"></span> Facebook</a>
             </p>
           {% endif %}
 
           {% if page.soundcloud %}
             <p>
-              <a href="{{ page.soundcloud }}" target="_blank"><span class="icon-soundcloud"></span> SoundCloud</a>
+              <a href="{{ page.soundcloud }}" target="_blank" rel="noopener"><span class="icon-soundcloud"></span> SoundCloud</a>
             </p>
           {% endif %}
 
           {% if page.discogs %}
             <p>
-              <a href="{{ page.discogs }}" target="_blank"><span class="icon-discogs"></span> Discogs</a>
+              <a href="{{ page.discogs }}" target="_blank" rel="noopener"><span class="icon-discogs"></span> Discogs</a>
             </p>
           {% endif %}
         {% endcomment %}
@@ -96,7 +96,7 @@
             {% endif %}
             {% if page.discogs %}
               <v-tab title="Discography" icon="icon-discogs">
-                <a href="{{ page.discogs }}" target="_blank" style="display:flex;align-items:center">
+                <a href="{{ page.discogs }}" target="_blank" rel="noopener" style="display:flex;align-items:center">
                   <img src="{{ site.baseurl }}/assets/img/svg-icons/discogs.svg" style="width:20px;margin-right:.4em">
                   <span>Discogs</span>
                 </a>
