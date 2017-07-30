@@ -22,9 +22,9 @@ link_bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate
 link_junodownload: http://www.junodownload.com/products/tempo-syndicate/1686481-02
 link_ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
 link_discogs: 563066
-compiled_by: <a href='/artist/irukanji/'>Irukanji</a>
-artwork_by: <a href='/artist/irukanji/'>Irukanji</a>
-mastered_by: <a href='http://overdreamstudio.com' target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+compiled_by: <a href="/artist/irukanji/">Irukanji</a>
+artwork_by: <a href="/artist/irukanji/">Irukanji</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
 ---
 
 Sentimony Records team is proud to introduce you label's ninth release and our two years labor - psychedelic music compilation entitled «Tempo Syndicate».

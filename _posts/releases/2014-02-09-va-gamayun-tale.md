@@ -24,7 +24,7 @@ link_ektoplazm:
 link_discogs: 663801
 compiled_by: Sky Technology
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
-mastered_by: <a href='http://overdreamstudio.com' target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
 ---
 
 Lookinglook Records presents VA «Gamayun Tale» - a new goa story compiled by Sky Technology.

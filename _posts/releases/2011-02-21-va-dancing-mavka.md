@@ -23,8 +23,8 @@ link_junodownload: http://www.junodownload.com/products/dancing-mavka/1658401-02
 link_ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka
 link_discogs: 350184
 compiled_by: Sky Technology
-artwork_by: <a href='https://messdivision.com' target="_blank" rel="noopener">Ju Ju</a>
-mastered_by: <a href='http://overdreamstudio.com' target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
 ---
 
 Lookinglook Records team is pleased to announce its fourth release, which today is the first Ukrainian 100% Goa trance compilation, titled «Dansing Mavka».

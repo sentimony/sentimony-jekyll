@@ -23,7 +23,7 @@ link_junodownload: http://www.junodownload.com/products/sphingida-origin/1507877
 link_ektoplazm: http://www.ektoplazm.com/free-music/sphingida-origin
 link_discogs: 446647
 compiled_by: 
-artwork_by: <a href='https://rooooster.com' target="_blank" rel="noopener">Anton Pivniuk</a>
+artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab
 ---
 

@@ -24,7 +24,7 @@ link_ektoplazm: http://www.ektoplazm.com/free-music/tentura-aurora
 link_discogs: 597257
 compiled_by: 
 artwork_by: Ader
-mastered_by: <a href='http://overdreamstudio.com' target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
 ---
 
 Sentimony Records team is proudly pleased to announce «Aurora», their third EP. At this time we're introducing you the debut single by Tentura project, a well-known psychedelic chillout and deep trance duo from Kyiv, Ukraine.
