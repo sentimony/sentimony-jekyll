@@ -22,9 +22,9 @@ link_bandcamp: https://sentimony.bandcamp.com/album/va-ocean-scenes-higher-titan
 link_junodownload: http://www.junodownload.com/products/ocean-scenes-higher-titans/1507885-02
 link_ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
 link_discogs: 538286
-compiled_by: <a href='https://irukanji-music.com' target='_blank'>Irukanji</a>
-artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
-mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Makus (Overdream Studio)</a> & <a href='https://www.facebook.com/cifroteca.music' target='_blank'>Cifroteca</a>
+compiled_by: <a href='https://irukanji-music.com' target="_blank" rel="noopener">Irukanji</a>
+artwork_by: <a href='https://messdivision.com' target="_blank" rel="noopener">Ju Ju</a>
+mastered_by: <a href='http://overdreamstudio.com' target="_blank" rel="noopener">Makus (Overdream Studio)</a> & <a href='https://www.facebook.com/cifroteca.music' target="_blank" rel="noopener">Cifroteca</a>
 ---
 
 Sentimony Records is proud to introduce you with our new musical direction more deeper musical appearance - Aqua Deep Music.

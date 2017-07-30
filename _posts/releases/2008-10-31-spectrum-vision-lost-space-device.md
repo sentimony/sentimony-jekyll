@@ -23,7 +23,7 @@ link_junodownload: http://www.junodownload.com/products/spectrum-vision-lost-spa
 link_ektoplazm: http://www.ektoplazm.com/free-music/spectrum-vision-lost-space-device
 link_discogs: 494470
 compiled_by: 
-artwork_by: 1n0x & <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
+artwork_by: 1n0x & <a href='https://rooooster.com' target="_blank" rel="noopener">Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab
 ---
 

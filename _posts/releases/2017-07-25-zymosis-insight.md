@@ -23,8 +23,8 @@ link_junodownload:
 link_ektoplazm: 
 link_discogs: 
 compiled_by: 
-artwork_by: <a href='https://www.facebook.com/artramaworkshop' target='_blank'>Artrama</a>
-mastered_by: <a href='https://www.facebook.com/zymosis.dimitro' target='_blank'>Dimitro (Zymosis Studio)</a>
+artwork_by: <a href='https://www.facebook.com/artramaworkshop' target="_blank" rel="noopener">Artrama</a>
+mastered_by: <a href='https://www.facebook.com/zymosis.dimitro' target="_blank" rel="noopener">Dimitro (Zymosis Studio)</a>
 ---
 
 Sentimony Records team is proud to present «Insight» - new Zymosis full-length album.

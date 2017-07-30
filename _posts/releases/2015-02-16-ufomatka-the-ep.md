@@ -24,7 +24,7 @@ link_ektoplazm:
 link_discogs: 866892
 compiled_by: 
 artwork_by: Ufomatka
-mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Makus (Overdream Studio)</a>
+mastered_by: <a href='http://overdreamstudio.com' target="_blank" rel="noopener">Makus (Overdream Studio)</a>
 ---
 
 Lookinglook Records presents the new Goa trance release by our beloved artist Ufomatka.

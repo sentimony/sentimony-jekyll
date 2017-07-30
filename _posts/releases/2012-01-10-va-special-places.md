@@ -23,8 +23,8 @@ link_junodownload: http://www.junodownload.com/products/special-places/1911228-0
 link_ektoplazm: http://www.ektoplazm.com/free-music/special-places
 link_discogs: 424687
 compiled_by: AstroPilot
-artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
-mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Makus (Overdream Studio)</a>
+artwork_by: <a href='https://messdivision.com' target="_blank" rel="noopener">Ju Ju</a>
+mastered_by: <a href='http://overdreamstudio.com' target="_blank" rel="noopener">Makus (Overdream Studio)</a>
 ---
 
 Sentimony Records is happy to announce you label's eleventh release - «Special Places» - ambient, modern classical & score music compilation, compositions which have been carefully selected by AstroPilot.

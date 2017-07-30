@@ -23,8 +23,8 @@ link_junodownload: http://www.junodownload.com/products/senzar-before-the-mornin
 link_ektoplazm: http://www.ektoplazm.com/free-music/senzar-before-the-morning-sun
 link_discogs: 331378
 compiled_by: 
-artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
-mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Makus (Overdream Studio)</a>
+artwork_by: <a href='https://messdivision.com' target="_blank" rel="noopener">Ju Ju</a>
+mastered_by: <a href='http://overdreamstudio.com' target="_blank" rel="noopener">Makus (Overdream Studio)</a>
 ---
 
 Lookinglook Records presents the debut album from Danish artist Senzar, titled «Before The Morning Sun».

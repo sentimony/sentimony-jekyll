@@ -23,7 +23,7 @@ link_junodownload: http://www.junodownload.com/products/emptinesses/1507876-02
 link_ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
 link_discogs: 403903
 compiled_by: Sphingida
-artwork_by: <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
+artwork_by: <a href='https://rooooster.com' target="_blank" rel="noopener">Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab
 ---
 
