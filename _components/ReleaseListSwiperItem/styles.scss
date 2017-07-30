@@ -1,0 +1,89 @@
+.release-list-swiper-item {
+  position: relative;
+  width: 90px;
+
+  @include media(M) {
+    width: 180px;
+  }
+
+  &__wrapper {
+    position: relative;
+    margin: 0 15px;
+
+    @include media(M) {
+      margin: 0 30px;
+    }
+  }
+
+  &__cover {
+    width: 60px;
+    height: 60px;
+    border-radius: 8px;
+    background-color: $colorBgBlack;
+
+    @include media(M) {
+      width: 120px;
+      height: 120px;
+    }
+  }
+
+  &__img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: $shadow;
+    display: block;
+  }
+
+  &__coming {
+    color: rgba(#fff,.5);
+    font-size: 8px;
+    // position: absolute;
+    // top: 0;
+    // left: 0;
+    // width: 100%;
+    // height: 100%;
+    // overflow: hidden;
+    padding: .6em 1.2em;
+    text-align: left;
+    // z-index: 30;
+    box-sizing: border-box;
+
+    @include media(M) {
+      font-size: 10px;
+    }
+  }
+
+
+  &__title {
+    color: #fff;
+    font-size: 14px;
+    display: none;
+
+    @include media(M) {
+      display: block;
+    }
+  }
+
+  &__status {
+    position: absolute;
+    top: -10px;
+    font-size: 8px;
+    z-index: 40;
+    padding: .2em .8em;
+    border-radius: 0 8px 0 8px;
+    right: -10px;
+
+    @include media(M) {
+      font-size: 10px;
+    }
+
+    &--coming-soon {
+      background-color: #008b00;
+    }
+
+    &--new {
+      background-color: #ef0000;
+    }
+  }
+}
