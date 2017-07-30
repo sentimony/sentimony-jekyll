@@ -9,8 +9,6 @@
   }
 
   &__link {
-    // &--hover {
-    // }
   }
 
   &__wrapper {
@@ -29,9 +27,7 @@
       height: 140px;
     }
 
-    // .release-list-swiper-item__link--hover &,
     .release-list-swiper-item__link:hover &,
-    .release-list-swiper-item.is-hovered &,
     .release-list-swiper-item.is-selected & {
       background-color: rgba(#fff,.3);
     }
