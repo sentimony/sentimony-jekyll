@@ -1,0 +1,10 @@
+{
+  "lang": "en",
+  "name": "Sentimony Records App",
+  "description": "Progressive web app of Sentimony Records - psychedelic music label.",
+  "short_name": "Sentimony",
+  "theme_color": "#8f0100",
+  "background_color": "#8f0100",
+  "serviceworker": {
+  }
+}

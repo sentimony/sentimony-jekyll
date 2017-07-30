@@ -15,6 +15,7 @@ gulp.task('watch', ['browser-sync'], function () {
     '_pages/**/*',
     '_posts/**/*',
     'assets/img/**/*',
+    'manifest.json',
     '_config.yml',
     '_config_dev.yml'
   ], ['jekyll-rebuild']);
