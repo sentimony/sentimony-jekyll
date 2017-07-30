@@ -14,7 +14,7 @@ tracks_no: 10
 total_time: 
 release_date: 2010-05-31
 coming_soon: 
-popular: 
+new: 
 youtube_id: JYrymig8pgU&list=PLp2GaPnw5O3PP655ySgkQ8ZxQbHMTodg0
 youtube_playlist_id: PLp2GaPnw5O3PP655ySgkQ8ZxQbHMTodg0
 bandcamp_id: 844009190

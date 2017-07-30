@@ -14,7 +14,7 @@ tracks_no: 7
 total_time: 
 release_date: 2010-11-05
 coming_soon: 
-popular: 
+new: 
 youtube_id: d_a-YkBQnYE&list=PLp2GaPnw5O3P0IB08Nj8GUFFOIsI1vBLa
 youtube_playlist_id: PLp2GaPnw5O3P0IB08Nj8GUFFOIsI1vBLa
 bandcamp_id: 1793671240

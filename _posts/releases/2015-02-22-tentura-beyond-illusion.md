@@ -14,7 +14,7 @@ tracks_no: 10
 total_time: 
 release_date: 2015-02-22
 coming_soon: 
-popular: 
+new: 
 youtube_id: RddTSC5d9uc&list=PLp2GaPnw5O3PMQaDZ68wXXSCBq7hdE9im
 youtube_playlist_id: PLp2GaPnw5O3PMQaDZ68wXXSCBq7hdE9im
 bandcamp_id: 144410096

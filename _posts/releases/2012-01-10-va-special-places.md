@@ -14,7 +14,7 @@ tracks_no: 12
 total_time: 
 release_date: 2012-01-10
 coming_soon: 
-popular: 
+new: 
 youtube_id: xaP9QrGK_88&list=PLp2GaPnw5O3ObKevWMqC9sH5Isd5S8L7s
 youtube_playlist_id: PLp2GaPnw5O3ObKevWMqC9sH5Isd5S8L7s
 bandcamp_id: 64124286

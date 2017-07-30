@@ -14,7 +14,7 @@ tracks_no: 5
 total_time: 
 release_date: 2012-08-07
 coming_soon: 
-popular: 
+new: 
 youtube_id: DGOwQwtvkCI&list=PLp2GaPnw5O3M5qeJ2tRG2yhoVbLvkAFoC
 youtube_playlist_id: PLp2GaPnw5O3M5qeJ2tRG2yhoVbLvkAFoC
 bandcamp_id: 2733998829

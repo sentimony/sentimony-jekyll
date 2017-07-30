@@ -14,7 +14,7 @@ tracks_no: 10
 total_time: 
 release_date: 2013-10-25
 coming_soon: 
-popular: 
+new: 
 youtube_id: ZyVsk3RkTeQ&list=PLp2GaPnw5O3MiDE58W_2b0G4lZAF19cNt
 youtube_playlist_id: PLp2GaPnw5O3MiDE58W_2b0G4lZAF19cNt
 bandcamp_id: 1314944593

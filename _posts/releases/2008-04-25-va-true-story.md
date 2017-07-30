@@ -14,7 +14,7 @@ tracks_no: 12
 total_time: 
 release_date: 2008-04-25
 coming_soon: 
-popular: 
+new: 
 youtube_id: iz99g8evgfY&list=PLp2GaPnw5O3NvqIWcRclfziSECY_BT1Ez
 youtube_playlist_id: PLp2GaPnw5O3NvqIWcRclfziSECY_BT1Ez
 bandcamp_id: 1223403780

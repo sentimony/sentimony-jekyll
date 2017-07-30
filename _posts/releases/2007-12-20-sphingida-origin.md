@@ -14,7 +14,7 @@ tracks_no: 10
 total_time: 
 release_date: 2007-12-20
 coming_soon: 
-popular: 
+new: 
 youtube_id: kVdYjHrdJt4&list=PLp2GaPnw5O3OxCOTqW6opBhhXWwftxrFL
 youtube_playlist_id: PLp2GaPnw5O3OxCOTqW6opBhhXWwftxrFL
 bandcamp_id: 3680718383

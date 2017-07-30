@@ -14,7 +14,7 @@ tracks_no: 12
 total_time: 
 release_date: 2011-01-10
 coming_soon: 
-popular: 
+new: 
 youtube_id: 5Wrj-RKWFws&list=PLp2GaPnw5O3MjPaPsRVcCds3RFF2oUY6y
 youtube_playlist_id: PLp2GaPnw5O3MjPaPsRVcCds3RFF2oUY6y
 bandcamp_id: 2483216888

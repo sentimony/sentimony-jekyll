@@ -14,7 +14,7 @@ tracks_no: 9
 total_time: 
 release_date: 2017-07-25
 coming_soon: 
-popular: true
+new: true
 youtube_id: OfYOpEdGdtE&list=PLp2GaPnw5O3PfYbFBghokLjl_sq1cETz-
 youtube_playlist_id: PLp2GaPnw5O3PfYbFBghokLjl_sq1cETz-
 bandcamp_id: 3630855086

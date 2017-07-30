@@ -14,7 +14,7 @@ tracks_no: 12
 total_time: 
 release_date: 2009-11-21
 coming_soon: 
-popular: 
+new: 
 youtube_id: 5xzrh05Ri8Y&list=PLp2GaPnw5O3P0Hwmx8ZjBgCdR_QsI-3fP
 youtube_playlist_id: PLp2GaPnw5O3P0Hwmx8ZjBgCdR_QsI-3fP
 bandcamp_id: 776415346

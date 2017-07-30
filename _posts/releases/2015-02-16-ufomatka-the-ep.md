@@ -14,7 +14,7 @@ tracks_no: 5
 total_time: 
 release_date: 2015-02-16
 coming_soon: 
-popular: 
+new: 
 youtube_id: L3PGvUpopKk&list=PLp2GaPnw5O3Ox6J1Yy2JxL2fj7yZIIMn-
 youtube_playlist_id: PLp2GaPnw5O3Ox6J1Yy2JxL2fj7yZIIMn-
 bandcamp_id: 3632768543

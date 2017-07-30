@@ -14,7 +14,7 @@ tracks_no: 5
 total_time: 
 release_date: 2017-08-14
 coming_soon: true
-popular: 
+new: 
 youtube_id: 
 youtube_playlist_id: 
 bandcamp_id: 
