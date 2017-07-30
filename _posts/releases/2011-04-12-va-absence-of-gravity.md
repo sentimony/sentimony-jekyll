@@ -14,7 +14,7 @@ tracks_no: 11
 total_time: 
 release_date: 2011-04-12
 coming_soon: 
-popular: 
+new: 
 youtube_id: yvVZYt7pEDM&list=PLp2GaPnw5O3Ny1EriesLL8xw9aHLvms7d
 youtube_playlist_id: PLp2GaPnw5O3Ny1EriesLL8xw9aHLvms7d
 bandcamp_id: 615519130
@@ -24,7 +24,7 @@ link_ektoplazm: http://www.ektoplazm.com/free-music/absence-of-gravity
 link_discogs: 563069
 compiled_by: Spectrum Vision
 artwork_by: 1n0x
-mastered_by: <a href='http://altar-records.com' target='_blank'>Altar Records Studio</a>
+mastered_by: <a href="http://altar-records.com" target="_blank" rel="noopener">Altar Records Studio</a>
 ---
 
 To the 50th anniversary of the first manned space flight, Home World Music Group, in collaboration with Sentimony Records, have prepared a special release - new psychedelic space-ambient music compilation entitled «Absence Of Gravity».

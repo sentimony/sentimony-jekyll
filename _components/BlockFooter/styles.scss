@@ -2,21 +2,7 @@
   padding: 100px .6em;
   background-color: #000;
   font-size: 12px;
-
-  &__menu {
-    margin: 0 auto 2em;
-
-    &-wrapper {
-      border: 1px solid rgba(#fff,.1);
-      border-width: 1px 0;
-      display: inline-block;
-
-      a {
-        display: inline-block;
-        padding: .6em;
-      }
-    }
-  }
+  color: rgba(#fff,.5);
 
   // &__labels {
   //   margin: 0 auto 10px;
@@ -32,7 +18,7 @@
   // }
 
   &__copyright {
-    margin: 2em 0;
+    margin: 0 auto 2em;
 
     &-logo {
       display: block;
@@ -43,9 +29,8 @@
   }
 
   &__powered {
+    margin: 0 auto 2em;
     font-size: 10px;
-    margin: 2em 0;
-    color: rgba(#fff,.5);
   }
 
   // &__versions {

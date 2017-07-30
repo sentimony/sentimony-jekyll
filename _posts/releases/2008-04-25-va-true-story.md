@@ -14,7 +14,7 @@ tracks_no: 12
 total_time: 
 release_date: 2008-04-25
 coming_soon: 
-popular: 
+new: 
 youtube_id: iz99g8evgfY&list=PLp2GaPnw5O3NvqIWcRclfziSECY_BT1Ez
 youtube_playlist_id: PLp2GaPnw5O3NvqIWcRclfziSECY_BT1Ez
 bandcamp_id: 1223403780
@@ -23,7 +23,7 @@ link_junodownload: http://www.junodownload.com/products/true-story/1507878-02
 link_ektoplazm: http://www.ektoplazm.com/free-music/true-story
 link_discogs: 563060
 compiled_by: Sphingida
-artwork_by: <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
+artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab
 ---
 

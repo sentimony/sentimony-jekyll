@@ -14,7 +14,7 @@ tracks_no: 11
 total_time: 
 release_date: 2007-02-09
 coming_soon: 
-popular: 
+new: 
 youtube_id: ESAFEZj0wlQ&list=PLp2GaPnw5O3Ngdrr8pc8W_jAk5PC_ie-l
 youtube_playlist_id: PLp2GaPnw5O3Ngdrr8pc8W_jAk5PC_ie-l
 bandcamp_id: 3399361938

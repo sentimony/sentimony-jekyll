@@ -14,7 +14,7 @@ tracks_no: 5
 total_time: 
 release_date: 2015-02-16
 coming_soon: 
-popular: 
+new: 
 youtube_id: L3PGvUpopKk&list=PLp2GaPnw5O3Ox6J1Yy2JxL2fj7yZIIMn-
 youtube_playlist_id: PLp2GaPnw5O3Ox6J1Yy2JxL2fj7yZIIMn-
 bandcamp_id: 3632768543
@@ -24,7 +24,7 @@ link_ektoplazm:
 link_discogs: 866892
 compiled_by: 
 artwork_by: Ufomatka
-mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
 ---
 
 Lookinglook Records presents the new Goa trance release by our beloved artist Ufomatka.

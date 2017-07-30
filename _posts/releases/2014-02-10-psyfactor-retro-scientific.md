@@ -14,7 +14,7 @@ tracks_no: 11
 total_time: 
 release_date: 2014-02-10
 coming_soon: 
-popular: 
+new: 
 youtube_id: LceN0MLwqME&list=PLp2GaPnw5O3PdlgX-f4f-HerTdKWzuU-Y
 youtube_playlist_id: PLp2GaPnw5O3PdlgX-f4f-HerTdKWzuU-Y
 bandcamp_id: 625816327
@@ -24,7 +24,7 @@ link_ektoplazm:
 link_discogs: 656758
 compiled_by: 
 artwork_by: Ader
-mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
 ---
 
 Sentimony Records presents its sixteenth release, the newest creation of electron-synthetic Bachelor of Science, mushroom-innovator laureate and a pride of Russian chillout scene - Psyfactor.

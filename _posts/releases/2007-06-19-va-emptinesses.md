@@ -14,7 +14,7 @@ tracks_no: 12
 total_time: 
 release_date: 2007-06-19
 coming_soon: 
-popular: 
+new: 
 youtube_id: 6plwFQo6SME&list=PLp2GaPnw5O3NOkIC2Cxy_qAeHMmgqEAYP
 youtube_playlist_id: PLp2GaPnw5O3NOkIC2Cxy_qAeHMmgqEAYP
 bandcamp_id: 2938863422
@@ -23,7 +23,7 @@ link_junodownload: http://www.junodownload.com/products/emptinesses/1507876-02
 link_ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
 link_discogs: 403903
 compiled_by: Sphingida
-artwork_by: <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
+artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab
 ---
 

@@ -1,4 +1,5 @@
 .menu-social {
+  margin: 0 auto 2em;
 
   &__caption {
   }
@@ -27,9 +28,11 @@
     transform: translate3d(-50%,-100%,0);
     transition: opacity .2s ease;
     opacity: 0;
+    visibility: hidden;
 
     .menu-social__link:hover & {
       opacity: 1;
+      visibility: visible;
     }
   }
 }

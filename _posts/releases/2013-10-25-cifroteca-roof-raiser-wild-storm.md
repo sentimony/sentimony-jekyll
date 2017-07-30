@@ -14,7 +14,7 @@ tracks_no: 10
 total_time: 
 release_date: 2013-10-25
 coming_soon: 
-popular: 
+new: 
 youtube_id: ZyVsk3RkTeQ&list=PLp2GaPnw5O3MiDE58W_2b0G4lZAF19cNt
 youtube_playlist_id: PLp2GaPnw5O3MiDE58W_2b0G4lZAF19cNt
 bandcamp_id: 1314944593
@@ -24,7 +24,7 @@ link_ektoplazm:
 link_discogs: 1165312
 compiled_by: 
 artwork_by: Swaroop Guhathakurta
-mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
 ---
 
 Aqua Deep Music is pleased to announce its second release, split-album of two psychedelic minds Cifroteca and Roof Raiser - talented sound producers from Ukraine.

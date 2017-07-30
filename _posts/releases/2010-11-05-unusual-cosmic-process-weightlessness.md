@@ -14,7 +14,7 @@ tracks_no: 7
 total_time: 
 release_date: 2010-11-05
 coming_soon: 
-popular: 
+new: 
 youtube_id: d_a-YkBQnYE&list=PLp2GaPnw5O3P0IB08Nj8GUFFOIsI1vBLa
 youtube_playlist_id: PLp2GaPnw5O3P0IB08Nj8GUFFOIsI1vBLa
 bandcamp_id: 1793671240
@@ -23,8 +23,8 @@ link_junodownload: http://www.junodownload.com/products/unusual-cosmic-process-w
 link_ektoplazm: http://www.ektoplazm.com/free-music/unusual-cosmic-process-weightlessness
 link_discogs: 349889
 compiled_by: 
-artwork_by: <a href='https://messdivision.com' target='_blank'>Ju Ju</a>
-mastered_by: <a href='http://overdreamstudio.com' target='_blank'>Makus (Overdream Studio)</a>
+artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
 ---
 
 Lookinglook Records is proud to present its third compact disk - the debut album from Ukrainian project Unusual Cosmic Process (U.C.P.), titled «Weightlessness».

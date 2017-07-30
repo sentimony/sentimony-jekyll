@@ -1,0 +1,18 @@
+.menu-main {
+  margin: 0 auto 2em;
+
+  &__wrapper {
+    display: inline-block;
+  }
+
+  &__list {
+    border: 1px solid rgba(#fff,.1);
+    border-width: 1px 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  &__link {
+    padding: .6em;
+  }
+}

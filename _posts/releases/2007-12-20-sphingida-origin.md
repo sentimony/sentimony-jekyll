@@ -14,7 +14,7 @@ tracks_no: 10
 total_time: 
 release_date: 2007-12-20
 coming_soon: 
-popular: 
+new: 
 youtube_id: kVdYjHrdJt4&list=PLp2GaPnw5O3OxCOTqW6opBhhXWwftxrFL
 youtube_playlist_id: PLp2GaPnw5O3OxCOTqW6opBhhXWwftxrFL
 bandcamp_id: 3680718383
@@ -23,7 +23,7 @@ link_junodownload: http://www.junodownload.com/products/sphingida-origin/1507877
 link_ektoplazm: http://www.ektoplazm.com/free-music/sphingida-origin
 link_discogs: 446647
 compiled_by: 
-artwork_by: <a href='https://rooooster.com' target='_blank'>Anton Pivniuk</a>
+artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab
 ---
 

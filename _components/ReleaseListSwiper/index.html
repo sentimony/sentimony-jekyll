@@ -3,6 +3,7 @@
   <div class="swiper-container release-list-swiper__container">
     <div class="swiper-wrapper">
       {% for i in site.categories.releases %}
+        {% comment %}
         <a href="{{ i.url }}" class="swiper-slide release-list-swiper__item{% if page.url contains i.slug %} is-selected{% endif %}">
           <div class="release-list-swiper__item-cover">
             {% if i.cover %}
@@ -17,12 +18,14 @@
             {% if i.coming_soon %}
               <div class="release-list-swiper__item-status release-list-swiper__item-status-coming-soon">Coming Soon</div>
             {% endif %}
-            {% if i.popular %}
-              <div class="release-list-swiper__item-status release-list-swiper__item-status-popular">Popular</div>
+            {% if i.new %}
+              <div class="release-list-swiper__item-status release-list-swiper__item-status-new">New</div>
             {% endif %}
           </div>
           <div class="release-list-swiper__item-title">{{ i.title }}</div>
         </a>
+        {% endcomment %}
+        {% include ReleaseListSwiperItem/index.html %}
       {% endfor %}
     </div>
     <div class="release-list-swiper__prev"></div>
