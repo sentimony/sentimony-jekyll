@@ -38,7 +38,6 @@
     }
 
     &-cover {
-      // overflow: hidden;
       margin: 0 auto .2em;
       position: relative;
       @include ratio(60px,1,1);
