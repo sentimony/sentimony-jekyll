@@ -1,17 +1,6 @@
 <div class="block-footer">
 
-  <div class="block-footer__menu">
-    <div class="block-footer__menu-wrapper">
-      <a href="{{ site.baseurl }}/" class="">Home</a>
-      <a href="{{ site.baseurl }}/news/" class="">News</a>
-      <a href="{{ site.baseurl }}/releases/" class="">Releases</a>
-      <a href="{{ site.baseurl }}/artists/" class="">Artists</a>
-      <a href="{{ site.baseurl }}/events/" class="">Events</a>
-      <a href="{{ site.baseurl }}/friends/" class="">Friends</a>
-      <a href="{{ site.baseurl }}/contacts/" class="">Contacts</a>
-    </div>
-  </div>
-
+  {% include MenuMain/index.html %}
   {% include MenuSocial/index.html %}
 
   {% comment %}
