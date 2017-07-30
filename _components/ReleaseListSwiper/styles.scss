@@ -110,7 +110,6 @@
         padding: .6em 1.2em;
         text-align: left;
         z-index: 30;
-        // margin-top: 2em;
 
         @include media(M) {
           font-size: 10px;
@@ -120,7 +119,6 @@
 
     &-title {
       color: #fff;
-      // font-size: 12px;
       font-size: 14px;
       display: none;
 
@@ -132,12 +130,10 @@
     &-status {
       position: absolute;
       top: -10px;
-      // left: 50%;
       font-size: 8px;
       z-index: 40;
       padding: .2em .8em;
       border-radius: 0 8px 0 8px;
-      // transform: translate3d(-50%,0,0);
       right: -10px;
 
       @include media(M) {
