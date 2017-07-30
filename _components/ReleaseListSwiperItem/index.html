@@ -1,22 +1,26 @@
 <div class="swiper-slide release-list-swiper-item{% if page.url contains i.slug %} is-selected{% endif %}">
-  <div class="release-list-swiper-item__wrapper">
-    <div class="release-list-swiper-item__cover">
-      {% if i.cover %}
-        <img class="release-list-swiper-item__img lazyload"
-          src="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg"
-          data-srcset="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg 1x, https://content.sentimony.com/assets/img/releases/small-retina/{{ i.cat_no }}/{{ i.slug }}.jpg 2x"
-          alt="{{ i.title }} Small Thumbnail"
-        >
-      {% else %}
-        <div class="release-list-swiper-item__coming">Artwork<br>in progress</div>
+  <a class="release-list-swiper-item__link" href="{{ i.url }}">
+    <div class="release-list-swiper-item__wrapper">
+      <div class="release-list-swiper-item__cover">
+        {% if i.cover %}
+          <img class="release-list-swiper-item__img lazyload"
+            src="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg"
+            data-srcset="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg 1x, https://content.sentimony.com/assets/img/releases/small-retina/{{ i.cat_no }}/{{ i.slug }}.jpg 2x"
+            alt="{{ i.title }} Small Thumbnail"
+          >
+        {% else %}
+          <div class="release-list-swiper-item__coming">Artwork<br>in progress</div>
+        {% endif %}
+      </div>
+      {% if i.coming_soon %}
+        <div class="release-list-swiper-item__status release-list-swiper-item__status--coming-soon">Coming Soon</div>
+      {% endif %}
+      {% if i.new %}
+        <div class="release-list-swiper-item__status release-list-swiper-item__status--new">New</div>
       {% endif %}
     </div>
-    {% if i.coming_soon %}
-      <div class="release-list-swiper-item__status release-list-swiper-item__status--coming-soon">Coming Soon</div>
-    {% endif %}
-    {% if i.new %}
-      <div class="release-list-swiper-item__status release-list-swiper-item__status--new">New</div>
-    {% endif %}
-  </div>
-  <div class="release-list-swiper-item__title">{{ i.title }}</div>
+  </a>
+  <a class="js-release-list-swiper-item-link" href="{{ i.url }}">
+    <div class="release-list-swiper-item__title">{{ i.title }}</div>
+  </a>
 </div>
