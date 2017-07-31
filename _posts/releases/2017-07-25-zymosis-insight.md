@@ -21,7 +21,7 @@ bandcamp_id: 3630855086
 link_bandcamp: https://sentimony.bandcamp.com/album/zymosis-insight
 link_junodownload: 
 link_ektoplazm: 
-link_discogs: 
+link_discogs: 1217106
 compiled_by: 
 artwork_by: <a href="https://www.facebook.com/artramaworkshop" target="_blank" rel="noopener">Artrama</a>
 mastered_by: <a href="https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener">Dimitro (Zymosis Studio)</a>
