@@ -1,5 +1,6 @@
 {
   "lang": "en",
+  "dir": "ltr",
   "name": "Sentimony Records App",
   "description": "Progressive web app of Sentimony Records - psychedelic music label.",
   "short_name": "Sentimony",
