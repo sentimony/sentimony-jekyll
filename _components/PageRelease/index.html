@@ -57,14 +57,23 @@
                 <div class="page-release__bandcamp-player-coming">Music<br>is coming</div>
               {% endif %}
               {% if page.bandcamp_id %}
-                <iframe class="page-release__bandcamp-player-iframe{% include IframeSize/index.html %}" src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp_id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/" seamless></iframe>
+                <iframe
+                  class="page-release__bandcamp-player-iframe{% include IframeSize/index.html %}"
+                  src="https://bandcamp.com/EmbeddedPlayer/album={{ page.bandcamp_id }}/size=large/bgcol=333333/linkcol=4ec5ec/artwork=none/transparent=true/"
+                  seamless
+                  title="{{ page.title }} Bandcamp Iframe"
+                ></iframe>
               {% endif %}
             </div>
           </v-tab>
           {% if page.youtube_playlist_id %}
-            <v-tab title="Youtube" icon="icon-youtube">
+            <v-tab title="YouTube" icon="icon-youtube">
               <div class="page-release__youtube-player">
-                <iframe class="page-release__youtube-player-iframe" src="https://www.youtube.com/embed/videoseries?list={{ page.youtube_playlist_id }}" allowfullscreen></iframe>
+                <iframe
+                  class="page-release__youtube-player-iframe"
+                  src="https://www.youtube.com/embed/videoseries?list={{ page.youtube_playlist_id }}"
+                  title="{{ page.title }} YouTube Iframe"
+                ></iframe>
               </div>
             </v-tab>
           {% endif %}
