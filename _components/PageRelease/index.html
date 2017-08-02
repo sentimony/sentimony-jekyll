@@ -127,6 +127,14 @@
       {% endif %}
     {% endcomment %}
 
+    {% if page.link_beatspace %}
+      <p>
+        <a href="{{ page.link_beatspace }}" target="_blank" rel="noopener">
+          <span>Beatspace</span>
+        </a>
+      </p>
+    {% endif %}
+
     {% if page.link_ektoplazm %}
       <p>
         {% comment %}<span>Free Download:</span>{% endcomment %}

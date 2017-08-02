@@ -20,6 +20,7 @@ youtube_playlist_id:
 bandcamp_id: 
 link_bandcamp: 
 link_junodownload: 
+link_beatspace: 
 link_ektoplazm: 
 link_discogs: 
 compiled_by: 

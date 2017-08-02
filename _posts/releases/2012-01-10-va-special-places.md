@@ -20,6 +20,7 @@ youtube_playlist_id: PLp2GaPnw5O3ObKevWMqC9sH5Isd5S8L7s
 bandcamp_id: 64124286
 link_bandcamp: https://sentimony.bandcamp.com/album/va-special-places
 link_junodownload: http://www.junodownload.com/products/special-places/1911228-02
+link_beatspace: http://www.beatspace.com/6866/Sentimony+Records/Various/Special+Places/detail.aspx
 link_ektoplazm: http://www.ektoplazm.com/free-music/special-places
 link_discogs: 424687
 compiled_by: AstroPilot

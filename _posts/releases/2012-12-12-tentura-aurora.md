@@ -20,6 +20,7 @@ youtube_playlist_id: PLp2GaPnw5O3Pev66mBuHmGG4cHaBkx1FR
 bandcamp_id: 2261902557
 link_bandcamp: https://sentimony.bandcamp.com/album/tentura-aurora
 link_junodownload: http://www.junodownload.com/products/tentura-aurora/2101473-02
+link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/tentura-aurora
 link_discogs: 597257
 compiled_by: 

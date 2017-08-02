@@ -20,6 +20,7 @@ youtube_playlist_id: PLp2GaPnw5O3MiDE58W_2b0G4lZAF19cNt
 bandcamp_id: 1314944593
 link_bandcamp: https://sentimony.bandcamp.com/album/cifroteca-roof-raiser-wild-storm
 link_junodownload: 
+link_beatspace: http://www.beatspace.com/7695/Sentimony+Records/CIFROTECA+and+ROOF+RAISER/Wild+Storm/detail.aspx
 link_ektoplazm: 
 link_discogs: 1165312
 compiled_by: 

@@ -20,6 +20,7 @@ youtube_playlist_id: PLp2GaPnw5O3PMQaDZ68wXXSCBq7hdE9im
 bandcamp_id: 144410096
 link_bandcamp: https://sentimony.bandcamp.com/album/tentura-beyond-illusion
 link_junodownload: 
+link_beatspace: 
 link_ektoplazm: 
 link_discogs: 866837
 compiled_by: 

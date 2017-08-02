@@ -20,6 +20,7 @@ youtube_playlist_id: PLp2GaPnw5O3Ngdrr8pc8W_jAk5PC_ie-l
 bandcamp_id: 3399361938
 link_bandcamp: https://sentimony.bandcamp.com/album/va-fantazma
 link_junodownload: http://www.junodownload.com/products/fantazma/1507875-02
+link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/fantazma
 link_discogs: 403901
 compiled_by: Sphingida

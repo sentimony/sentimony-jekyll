@@ -20,6 +20,8 @@ youtube_playlist_id: PLp2GaPnw5O3Ox6J1Yy2JxL2fj7yZIIMn-
 bandcamp_id: 3632768543
 link_bandcamp: https://sentimony.bandcamp.com/album/ufomatka-the-e-p
 link_junodownload: 
+link_beatspace: 
+link_beatspace: 
 link_ektoplazm: 
 link_discogs: 866892
 compiled_by: 

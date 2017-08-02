@@ -20,6 +20,7 @@ youtube_playlist_id: PLp2GaPnw5O3M5qeJ2tRG2yhoVbLvkAFoC
 bandcamp_id: 2733998829
 link_bandcamp: https://sentimony.bandcamp.com/album/hypnotriod-seven-heavenly-edges
 link_junodownload: http://www.junodownload.com/products/hypnotriod-seven-heavenly-edges/2022833-02
+link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/hypnotriod-seven-heavenly-edges
 link_discogs: 556014
 compiled_by: 
