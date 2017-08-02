@@ -1,5 +1,4 @@
 .page-release-content {
-  // display: none;
   text-align: left;
   background-color: #fff;
   color: #000;
@@ -34,7 +33,7 @@
   }
 
   &__social-block {
-    display: none;
+    // display: none;
   }
 
   &__social-list {
@@ -69,7 +68,5 @@
 
   &__btn-counter {
     margin-left: .6em;
-    // position: absolute;
-    // right: .6em;
   }
 }
