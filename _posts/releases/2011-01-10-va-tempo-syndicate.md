@@ -20,6 +20,7 @@ youtube_playlist_id: PLp2GaPnw5O3MjPaPsRVcCds3RFF2oUY6y
 bandcamp_id: 2483216888
 link_bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate
 link_junodownload: http://www.junodownload.com/products/tempo-syndicate/1686481-02
+link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
 link_discogs: 563066
 compiled_by: <a href="/artist/irukanji/">Irukanji</a>

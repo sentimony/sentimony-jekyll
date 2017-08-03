@@ -20,6 +20,7 @@ youtube_playlist_id: PLp2GaPnw5O3OumSRMWN_k8f-plmSOlxab
 bandcamp_id: 1673341211
 link_bandcamp: https://sentimony.bandcamp.com/album/specialmind-the-missing-particle
 link_junodownload: http://www.junodownload.com/products/specialmind-the-missing-particle/2078081-02
+link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-particle
 link_discogs: 601769
 compiled_by: 

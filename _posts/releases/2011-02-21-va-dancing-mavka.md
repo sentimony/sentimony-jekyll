@@ -20,6 +20,7 @@ youtube_playlist_id: PLp2GaPnw5O3MEQlC5LWj1BekEnhkDHZGX
 bandcamp_id: 3971967864
 link_bandcamp: https://sentimony.bandcamp.com/album/va-dancing-mavka
 link_junodownload: http://www.junodownload.com/products/dancing-mavka/1658401-02
+link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka
 link_discogs: 350184
 compiled_by: Sky Technology

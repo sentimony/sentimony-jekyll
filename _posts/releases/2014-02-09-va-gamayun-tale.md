@@ -20,6 +20,7 @@ youtube_playlist_id: PLp2GaPnw5O3NadY7sjq7ZmVk7rc5j8Li9
 bandcamp_id: 2380801017
 link_bandcamp: https://sentimony.bandcamp.com/album/va-gamayun-tale
 link_junodownload: http://www.junodownload.com/products/gamayun-tale/2443370-02
+link_beatspace: http://www.beatspace.com/7694/Lookinglook+Records/Various/Gamayun+Tale/detail.aspx
 link_ektoplazm: 
 link_discogs: 663801
 compiled_by: Sky Technology

@@ -20,6 +20,7 @@ youtube_playlist_id: PLp2GaPnw5O3PfYbFBghokLjl_sq1cETz-
 bandcamp_id: 3630855086
 link_bandcamp: https://sentimony.bandcamp.com/album/zymosis-insight
 link_junodownload: 
+link_beatspace: 
 link_ektoplazm: 
 link_discogs: 1217106
 compiled_by: 
