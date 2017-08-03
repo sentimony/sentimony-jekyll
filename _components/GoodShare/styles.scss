@@ -1,0 +1,37 @@
+.good-share {
+  // display: none;
+
+  &__list {
+    display: flex;
+  }
+
+  &__btn-facebook {
+    @extend .btn-social;
+    background-color: #3c5a95;
+  }
+
+  &__btn-vkontakte {
+    @extend .btn-social;
+    background-color: #1074b1;
+  }
+
+  &__btn-googleplus {
+    @extend .btn-social;
+    background-color: #dd4c3b;
+  }
+
+  &__btn-twitter {
+    @extend .btn-social;
+    background-color: #20a7c6;
+  }
+
+  &__btn-icon {
+    display: block;
+    max-height: 2em;
+    margin: 0 auto;
+  }
+
+  &__btn-counter {
+    margin-left: .6em;
+  }
+}

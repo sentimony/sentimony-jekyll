@@ -163,29 +163,7 @@
       </p>
     {% endif %}
 
-    <div class="page-release-content__social-block">
-      <hr>
-      <p>Share:</p>
-      <p class="page-release-content__social-list">
-        <a href="#" class="page-release-content__btn-facebook" data-social="facebook">
-          <img class="page-release-content__btn-icon" src="{{ site.baseurl }}/assets/img/svg-icons/facebook.svg">
-          <span class="page-release-content__btn-counter" data-counter="facebook"></span>
-        </a>
-        {% comment %}
-        <a href="#" class="page-release-content__btn-vkontakte" data-social="vkontakte">
-          <img class="page-release-content__btn-icon" src="{{ site.baseurl }}/assets/img/svg-icons/vkontakte.svg">
-          <span class="page-release-content__btn-counter" data-counter="vkontakte"></span>
-        </a>
-        {% endcomment %}
-        <a href="#" class="page-release-content__btn-googleplus" data-social="googleplus">
-          <img class="page-release-content__btn-icon" src="{{ site.baseurl }}/assets/img/svg-icons/googleplus.svg">
-          <span class="page-release-content__btn-counter" data-counter="googleplus"></span>
-        </a>
-        <a href="#" class="page-release-content__btn-twitter" data-social="twitter">
-          <img class="page-release-content__btn-icon" src="{{ site.baseurl }}/assets/img/svg-icons/twitter.svg">
-        </a>
-      </p>
-    </div>
+    {% include GoodShare/index.html %}
 
     <hr>
     {% if page.comments %}
