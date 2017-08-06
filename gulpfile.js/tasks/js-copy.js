@@ -11,7 +11,15 @@ gulp.task('js-copy', function () {
     .pipe(gulp.dest('assets/js/'));
 });
 
-gulp.task('js-copy-lib', ['js-copy'], function () {
+gulp.task('js-copy-sw-toolbox', function () {
+  return gulp.src([
+      'node_modules/sw-toolbox/sw-toolbox.js',
+    ])
+    .pipe(uglify())
+    .pipe(gulp.dest(''));
+});
+
+gulp.task('js-copy-lib', ['js-copy', 'js-copy-sw-toolbox'], function () {
   return gulp.src([
       'node_modules/vue/dist/vue.min.js',
       'node_modules/vue-nav-tabs/dist/vue-tabs.js',
@@ -19,7 +27,6 @@ gulp.task('js-copy-lib', ['js-copy'], function () {
       'node_modules/goodshare.js/goodshare.min.js',
       'node_modules/lazysizes/lazysizes.min.js',
       'node_modules/jquery/dist/jquery.min.js',
-      'node_modules/sw-toolbox/sw-toolbox.js',
     ])
     .pipe(uglify())
     .pipe(gulp.dest('assets/js/lib/'));

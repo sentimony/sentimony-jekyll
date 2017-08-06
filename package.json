@@ -25,7 +25,7 @@
     "require-dir": "^0.3.2"
   },
   "scripts": {
-    "clean": "rm -rf _site/ && rm -rf assets/js/ && rm -rf assets/css/ && rm -rf assets/fonts/",
+    "clean": "rm -rf _site/ && rm -rf assets/js/ && rm -rf assets/css/ && rm -rf assets/fonts/ && rm -rf sw-toolbox.js",
     "develop": "npm run clean && gulp font && gulp watch",
     "build": "npm run clean && gulp font && gulp"
   }
