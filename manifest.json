@@ -5,7 +5,7 @@
   "lang": "en-US",
   "start_url": "/",
   "dir": "ltr",
-  "display": "browser",
+  "display": "minimal-ui",
   "orientation": "any",
   "theme_color": "black",
   "icons": [
