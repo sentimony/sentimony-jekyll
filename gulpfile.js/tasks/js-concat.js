@@ -8,6 +8,7 @@ gulp.task('js-concat', ['js-copy-lib'], function () {
       'node_modules/swiper/dist/js/swiper.min.js',
       'node_modules/goodshare.js/goodshare.min.js',
       'node_modules/lazysizes/lazysizes.min.js',
+      'node_modules/sw-toolbox/sw-toolbox.js',
       '_js/modules/*.js',
       // '_components/**/*.js'
     ])
