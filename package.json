@@ -24,8 +24,8 @@
     "require-dir": "^0.3.2"
   },
   "scripts": {
-    "clean": "rm -rf _site/",
-    "develop": "yarn run clean && gulp font && gulp watch",
-    "build": "yarn run clean && gulp font && gulp"
+    "clean": "rm -rf _site/ && rm -rf assets/js/ && rm -rf assets/css/ && rm -rf assets/fonts/",
+    "develop": "npm run clean && gulp font && gulp watch",
+    "build": "npm run clean && gulp font && gulp"
   }
 }
