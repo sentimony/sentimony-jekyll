@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var uglify = require('gulp-uglify');
 
-gulp.task('js-copy', ['sass'], function () {
+gulp.task('js-copy', function () {
   return gulp.src([
       './node_modules/requirejs/require.js',
       // './_js/require.config.js',
@@ -11,7 +11,15 @@ gulp.task('js-copy', ['sass'], function () {
     .pipe(gulp.dest('assets/js/'));
 });
 
-gulp.task('js-copy-lib', ['js-copy'], function () {
+gulp.task('js-copy-sw-toolbox', function () {
+  return gulp.src([
+      './node_modules/sw-toolbox/sw-toolbox.js',
+    ])
+    .pipe(uglify())
+    .pipe(gulp.dest('assets/js/sw/'));
+});
+
+gulp.task('js-copy-lib', ['js-copy', 'js-copy-sw-toolbox'], function () {
   return gulp.src([
       './node_modules/vue/dist/vue.min.js',
       './node_modules/vue-nav-tabs/dist/vue-tabs.js',

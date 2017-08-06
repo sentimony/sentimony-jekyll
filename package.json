@@ -6,6 +6,7 @@
     "lazysizes": "^4.0.0-rc3",
     "normalize.css": "^7.0.0",
     "requirejs": "^2.3.4",
+    "sw-toolbox": "^3.6.0",
     "swiper": "^3.4.2",
     "vue": "^2.4.2",
     "vue-nav-tabs": "^0.2.2"
