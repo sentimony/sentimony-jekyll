@@ -17,7 +17,6 @@ requirejs.config({
     'vue_tabs': 'vue_tabs',
     'platform_add_class': 'platform_add_class',
     'platform_detector': 'platform_detector',
-    'sw_init': 'sw_init',
   },
   deps: [
     'vue',
@@ -31,6 +30,5 @@ requirejs.config({
     'vue_tabs',
     'platform_add_class',
     'platform_detector',
-    'sw_init',
   ],
 });
