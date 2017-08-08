@@ -22,10 +22,12 @@
     "gulp-sass": "^3.1.0",
     "gulp-sass-unicode": "^1.0.1",
     "gulp-uglify": "^3.0.0",
-    "require-dir": "^0.3.2"
+    "require-dir": "^0.3.2",
+    "uglifyjs-webpack-plugin": "^0.4.3",
+    "webpack": "^2.3.1"
   },
   "scripts": {
-    "clean": "rm -rf _site/ && rm -rf assets/js/ && rm -rf assets/css/ && rm -rf assets/fonts/ && rm -rf sw-toolbox.js",
+    "clean": "rm -rf _site/ && rm -rf assets/js/ && rm -rf assets/css/ && rm -rf assets/fonts/ && rm -rf sw-toolbox.js && rm -rf .tmp/",
     "develop": "npm run clean && gulp font && gulp watch",
     "build": "npm run clean && gulp font && gulp"
   }

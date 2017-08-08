@@ -3,12 +3,14 @@ var uglify = require('gulp-uglify');
 
 gulp.task('js-copy', function () {
   return gulp.src([
-      './node_modules/requirejs/require.js',
+      // './node_modules/requirejs/require.js',
       // './_js/require.config.js',
-      './_js/**/*'
+      // './_js/**/*',
+      './_js/base.js',
+      './_js/modules/*'
     ])
     .pipe(uglify())
-    .pipe(gulp.dest('assets/js/'));
+    .pipe(gulp.dest('.tmp/'));
 });
 
 gulp.task('js-copy-sw-toolbox', function () {
@@ -29,5 +31,5 @@ gulp.task('js-copy-lib', ['js-copy', 'js-copy-sw-toolbox'], function () {
       'node_modules/jquery/dist/jquery.min.js',
     ])
     .pipe(uglify())
-    .pipe(gulp.dest('assets/js/lib/'));
+    .pipe(gulp.dest('.tmp/'));
 });

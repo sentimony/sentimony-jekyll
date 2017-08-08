@@ -85,7 +85,9 @@ layout: compress
 
   </div>
 
+  {% comment %}
   <script async data-main="{{ site.baseurl }}/assets/js/require.config.js" src="{{ site.baseurl }}/assets/js/require.js"></script>
+  {% endcomment %}
 
   {% comment %}
   <script src="{{ site.baseurl }}/assets/js/bundle.min.js"></script>
@@ -119,6 +121,8 @@ layout: compress
 
   {% include Analytics/google-analytics.html %}
   {% include Analytics/yandex-metrika.html %}
+
+  <script async src="{{ site.baseurl }}/assets/js/base.bundle.min.js"></script>
 
 </body>
 </html>

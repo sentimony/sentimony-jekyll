@@ -1,4 +1,4 @@
-define('swiper_mob_menu', ['swiper', 'platform_detector'], function (Swiper, platformDetector) {
+define('swiper_mob_menu', ['./swiper.min', './platform_detector'], function (Swiper, platformDetector) {
   'use strict';
 
   var platform = platformDetector.getPlatform();

@@ -7,3 +7,5 @@ assets/css/
 assets/js/
 
 sw-toolbox.js
+
+.tmp/

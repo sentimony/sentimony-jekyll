@@ -1,4 +1,4 @@
-define('swiper_release_list', ['swiper'], function (Swiper) {
+define('swiper_release_list', ['./swiper.min'], function (Swiper) {
   'use strict';
 
   ;(function () {

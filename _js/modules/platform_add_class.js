@@ -1,4 +1,4 @@
-define('platform_add_class', ['jquery', 'platform_detector'], function ($, platformDetector) {
+define('platform_add_class', ['jquery', './platform_detector'], function ($, platformDetector) {
   'use strict';
 
   var $body = $('body');
