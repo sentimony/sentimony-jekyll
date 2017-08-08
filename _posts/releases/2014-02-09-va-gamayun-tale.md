@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/gamayun-tale/2443370-02
 link_beatspace: http://www.beatspace.com/7694/Lookinglook+Records/Various/Gamayun+Tale/detail.aspx
 link_ektoplazm: 
 link_discogs: 663801
+written_by: 
 compiled_by: Sky Technology
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>

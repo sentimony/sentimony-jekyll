@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/tentura-aurora/2101473-0
 link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/tentura-aurora
 link_discogs: 597257
+written_by: 
 compiled_by: 
 artwork_by: Ader
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>

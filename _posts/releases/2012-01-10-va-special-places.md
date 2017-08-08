@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/special-places/1911228-0
 link_beatspace: http://www.beatspace.com/6866/Sentimony+Records/Various/Special+Places/detail.aspx
 link_ektoplazm: http://www.ektoplazm.com/free-music/special-places
 link_discogs: 424687
+written_by: 
 compiled_by: AstroPilot
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>

@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/psyfactor-retro-scientif
 link_beatspace: http://www.beatspace.com/7696/Sentimony+Records/PSYFACTOR/Retro+Scientific/detail.aspx
 link_ektoplazm: 
 link_discogs: 656758
+written_by: <a href="/artist/psyfactor/">Psyfactor</a>
 compiled_by: 
 artwork_by: Ader
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>

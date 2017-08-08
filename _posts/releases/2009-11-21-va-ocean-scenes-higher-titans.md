@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/ocean-scenes-higher-tita
 link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
 link_discogs: 538286
+written_by: 
 compiled_by: <a href="/artist/irukanji/">Irukanji</a>
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a> & <a href="https://www.facebook.com/cifroteca.music" target="_blank" rel="noopener">Cifroteca</a>

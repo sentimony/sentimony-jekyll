@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/unusual-cosmic-process-w
 link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/unusual-cosmic-process-weightlessness
 link_discogs: 349889
+written_by: 
 compiled_by: 
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>

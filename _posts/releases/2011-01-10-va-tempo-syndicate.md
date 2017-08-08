@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/tempo-syndicate/1686481-
 link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
 link_discogs: 563066
+written_by: 
 compiled_by: <a href="/artist/irukanji/">Irukanji</a>
 artwork_by: <a href="/artist/irukanji/">Irukanji</a>
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>

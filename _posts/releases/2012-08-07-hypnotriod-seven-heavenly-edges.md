@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/hypnotriod-seven-heavenl
 link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/hypnotriod-seven-heavenly-edges
 link_discogs: 556014
+written_by: 
 compiled_by: 
 artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>

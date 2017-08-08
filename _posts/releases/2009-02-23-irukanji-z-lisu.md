@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/irukanji-z-lisu/1507880-
 link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu
 link_discogs: 563062
+written_by: 
 compiled_by: 
 artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab

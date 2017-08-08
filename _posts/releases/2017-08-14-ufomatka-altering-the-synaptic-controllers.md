@@ -23,6 +23,7 @@ link_junodownload:
 link_beatspace: 
 link_ektoplazm: 
 link_discogs: 
+written_by: <a href="/artist/ufomatka/">Ufomatka</a>
 compiled_by: 
 artwork_by: Coming Soon
 mastered_by: Coming Soon

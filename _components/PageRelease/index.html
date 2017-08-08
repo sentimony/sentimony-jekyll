@@ -99,6 +99,13 @@
       <p>Credits:</p>
     {% endif %}
 
+    {% if page.written_by %}
+      <p>
+        <span>Written & Prodused By</span>
+        {{ page.written_by }}
+      </p>
+    {% endif %}
+
     {% if page.compiled_by %}
       <p>
         <span>Compiled By</span>

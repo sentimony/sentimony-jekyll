@@ -24,6 +24,7 @@ link_beatspace:
 link_beatspace: 
 link_ektoplazm: 
 link_discogs: 866892
+written_by: <a href="/artist/ufomatka/">Ufomatka</a>
 compiled_by: 
 artwork_by: Ufomatka
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>

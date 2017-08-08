@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/time-loop-beyond-borders
 link_beatspace: http://www.beatspace.com/5895/Sentimony+Records/Various/Time+Loop+Beyond+Borders/detail.aspx
 link_ektoplazm: http://www.ektoplazm.com/free-music/time-loop-beyond-borders
 link_discogs: 563065
+written_by: 
 compiled_by: Zea NeiRula
 artwork_by: Flange
 mastered_by: Monno (Bimmelim Soundlabs)

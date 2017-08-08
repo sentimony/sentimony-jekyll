@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/specialmind-the-missing-
 link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-particle
 link_discogs: 601769
+written_by: 
 compiled_by: 
 artwork_by: Ader
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>

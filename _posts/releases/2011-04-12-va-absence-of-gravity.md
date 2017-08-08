@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/absence-of-gravity/17337
 link_beatspace: http://www.beatspace.com/6261/Sentimony+Records/Various/Absence+Of+Gravity/detail.aspx
 link_ektoplazm: http://www.ektoplazm.com/free-music/absence-of-gravity
 link_discogs: 563069
+written_by: 
 compiled_by: Spectrum Vision
 artwork_by: 1n0x
 mastered_by: <a href="http://altar-records.com" target="_blank" rel="noopener">Altar Records Studio</a>

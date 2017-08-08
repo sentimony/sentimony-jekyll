@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/dancing-mavka/1658401-02
 link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka
 link_discogs: 350184
+written_by: 
 compiled_by: Sky Technology
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>

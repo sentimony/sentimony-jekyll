@@ -23,6 +23,7 @@ link_junodownload:
 link_beatspace: http://www.beatspace.com/7695/Sentimony+Records/CIFROTECA+and+ROOF+RAISER/Wild+Storm/detail.aspx
 link_ektoplazm: 
 link_discogs: 1165312
+written_by: 
 compiled_by: 
 artwork_by: Swaroop Guhathakurta
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>

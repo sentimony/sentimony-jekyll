@@ -23,6 +23,7 @@ link_junodownload:
 link_beatspace: 
 link_ektoplazm: 
 link_discogs: 1217106
+written_by: <a href="/artist/zymosis/">Zymosis</a>
 compiled_by: 
 artwork_by: <a href="https://www.facebook.com/artramaworkshop" target="_blank" rel="noopener">Artrama</a>
 mastered_by: <a href="https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener">Dimitro (Zymosis Studio)</a>

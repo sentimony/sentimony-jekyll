@@ -23,6 +23,7 @@ link_junodownload:
 link_beatspace: 
 link_ektoplazm: 
 link_discogs: 866837
+written_by: <a href="/artist/tentura/">Tentura</a>
 compiled_by: 
 artwork_by: Ader & Andrei Verner
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>

@@ -23,6 +23,7 @@ link_junodownload: http://www.junodownload.com/products/fantazma/1507875-02
 link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/fantazma
 link_discogs: 403901
+written_by: 
 compiled_by: Sphingida
 artwork_by: Synchronick
 mastered_by: Don't Panic Records Studio
