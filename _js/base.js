@@ -1,4 +1,4 @@
-window.$ = window.jQuery = require("jquery");
+// var vue = require('../node_modules/vue/dist/vue.min.js');
 
 var connectModule = [
   'goodshare.min',

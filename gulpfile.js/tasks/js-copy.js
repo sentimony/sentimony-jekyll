@@ -30,6 +30,6 @@ gulp.task('js-copy-lib', ['js-copy', 'js-copy-sw-toolbox'], function () {
       'node_modules/lazysizes/lazysizes.min.js',
       'node_modules/jquery/dist/jquery.min.js',
     ])
-    .pipe(uglify())
+    // .pipe(uglify())
     .pipe(gulp.dest('.tmp/'));
 });
