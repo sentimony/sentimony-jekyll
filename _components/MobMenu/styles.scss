@@ -12,7 +12,6 @@
       position: fixed;
       top: 0;
       left: 100%;
-      // right: 0;
       width: 300px;
       height: 100%;
       box-sizing: border-box;
@@ -27,19 +26,27 @@
   }
 
   &__btn-wrap {
-    display: block;
     position: fixed;
     top: 0;
     right: 0;
     z-index: 900;
 
-    @include media(M) {
+    // @include media(M) {
+    //   display: none;
+    // }
+
+    .mobile & {
+      display: block;
+    }
+
+    .desktop & {
       display: none;
     }
   }
 
   &__btn-open,
   &__btn-close {
+    display: block;
     cursor: pointer;
     margin: .65em .65em;
     padding: 1.0em 1.0em;
