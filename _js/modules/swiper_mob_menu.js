@@ -6,17 +6,13 @@ define('swiper_mob_menu', ['./swiper.min', './platform_detector'], function (Swi
   if (platform == 'mobile') {
 
     var swiperMobMenu = new Swiper('.swiper-container.js-swiper-mob-menu', {
+      // initialSlide: 0,
+      // resistanceRatio: .00000000000001,
       nextButton: '.js-swiper-mob-menu-open',
       prevButton: '.js-swiper-mob-menu-close',
-      onlyExternal: true,
+      // onlyExternal: true,
       slidesPerView: 'auto',
-      // slideToClickedSlide: true,
-      breakpoints: {
-        754: {
-          onlyExternal: false,
-          // shortSwipes: false,
-        }
-      }
+      slideToClickedSlide: true
     })
 
   }

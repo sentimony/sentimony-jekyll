@@ -1,27 +1,35 @@
 .mob-menu {
+  // width: 300px;
+  position: relative;
+  position: fixed;
+  width: 280px;
+  height: 100%;
+  top: 0;
+  left: 100%;
 
-  &__mob-menu {
-    width: 300px;
-    position: relative;
+  &__list {
+    background-color: rgba(#000,1);
+    // top: 0;
+    // left: 100%;
+    // width: 300px;
+    // height: 100%;
+    box-sizing: border-box;
+    padding: 18px 0;
+  }
 
-    &-ul {
-      list-style: none;
-      margin: 0;
-      padding: 10px 0;
-      background-color: rgba(#000,1);
-      position: fixed;
-      top: 0;
-      left: 100%;
-      width: 300px;
-      height: 100%;
-      box-sizing: border-box;
+  &__link {
+    display: block;
+    padding: 18px 10px;
+    // width: 100%;
+    box-sizing: border-box;
+    transition: background-color .1s ease;
 
-      li {
+    &:hover {
+      background-color: rgba(#fff,.1);
+    }
 
-        a {
-          padding: 10px 20px;
-        }
-      }
+    &:active {
+      background-color: rgba(#fff,.2);
     }
   }
 

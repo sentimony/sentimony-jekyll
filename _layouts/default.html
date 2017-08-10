@@ -58,16 +58,8 @@ layout: compress
         </div>
       </div>
 
-      <div class="mob-menu__mob-menu swiper-slide">
-        <ul class="mob-menu__mob-menu-ul">
-          <li><a href="{{ site.baseurl }}/" class="mob-menu__mob-menu-link">Home</a></li>
-          <li><a href="{{ site.baseurl }}/news/" class="mob-menu__mob-menu-link">News</a></li>
-          <li><a href="{{ site.baseurl }}/releases/" class="mob-menu__mob-menu-link">Releases</a></li>
-          <li><a href="{{ site.baseurl }}/artists/" class="mob-menu__mob-menu-link">Artists</a></li>
-          <li><a href="{{ site.baseurl }}/events/" class="mob-menu__mob-menu-link">Events</a></li>
-          <li><a href="{{ site.baseurl }}/friends/" class="mob-menu__mob-menu-link">Friends</a></li>
-          <li><a href="{{ site.baseurl }}/contacts/" class="mob-menu__mob-menu-link">Contacts</a></li>
-        </ul>
+      <div class="swiper-slide" style="width:280px;background-color:rgba(0,0,0,.2)">
+        {% include MobMenu/index.html %}
       </div>
 
     </div>
