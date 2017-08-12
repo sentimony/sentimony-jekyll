@@ -16,6 +16,10 @@ module.exports = {
   },
 
   plugins: [
-    new UglifyJSPlugin()
+    new UglifyJSPlugin({
+      output: {
+        comments: false
+      }
+    })
   ]
 };
