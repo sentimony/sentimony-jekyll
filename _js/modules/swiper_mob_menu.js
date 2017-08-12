@@ -3,7 +3,7 @@ define('swiper_mob_menu', ['./swiper.min', './platform_detector'], function (Swi
 
   var platform = platformDetector.getPlatform();
 
-  if (platform == 'mobile') {
+  if (platform === 'mobile') {
 
     var swiperMobMenu = new Swiper('.swiper-container.js-swiper-mob-menu', {
       // initialSlide: 0,

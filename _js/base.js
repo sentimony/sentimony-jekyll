@@ -1,12 +1,13 @@
 // var vue = require('../node_modules/vue/dist/vue.min.js');
 
 var connectModule = [
-  'goodshare.min',
+  // 'goodshare.min',
   'jquery.min',
   'lazysizes.min',
   'swiper.min',
   'vue-tabs',
   'vue.min',
+
   'platform_add_class',
   'platform_detector',
   'swiper_mob_menu',
