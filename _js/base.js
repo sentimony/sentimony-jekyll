@@ -1,6 +1,8 @@
 // var vue = require('../node_modules/vue/dist/vue.min.js');
 
 var connectModule = [
+  'app',
+
   // 'goodshare.min',
   'jquery.min',
   'lazysizes.min',

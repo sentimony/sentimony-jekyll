@@ -1,4 +1,6 @@
 var gulp = require('gulp');
+var copy = require('gulp-copy');
+var streamqueue = require('streamqueue');
 
 gulp.task('js-copy', function () {
   return gulp.src([
@@ -15,7 +17,7 @@ gulp.task('js-copy-sw-toolbox', function () {
     .pipe(gulp.dest(''));
 });
 
-gulp.task('js-copy-lib', ['js-copy', 'js-copy-sw-toolbox'], function () {
+gulp.task('js-copy-lib', ['js-copy', 'js-copy-sw-toolbox', 'copy:vue'], function () {
   return gulp.src([
       'node_modules/vue/dist/vue.min.js',
       'node_modules/vue-nav-tabs/dist/vue-tabs.js',

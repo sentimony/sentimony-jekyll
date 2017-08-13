@@ -18,8 +18,39 @@ module.exports = {
   plugins: [
     new UglifyJSPlugin({
       output: {
-        comments: false
+        comments: true
       }
+    }),
+    new webpack.LoaderOptionsPlugin({
+        test: /\.vue$/,
+        options: {}
     })
-  ]
+  ],
+
+  module: {
+    rules: [
+      {
+        test: /\.js$/,
+        loader: 'babel-loader',
+        exclude: /node_modules/
+      },
+      {
+        test: /\.vue$/,
+        loader: 'vue-loader'
+      },
+      {
+        test: /\.scss$/,
+        use: [{
+          loader: "style-loader"
+        }, {
+          loader: "css-loader"
+        }, {
+          loader: "sass-loader",
+          options: {
+            includePaths: ["/.tmp/", "absolute/path/b"]
+          }
+        }]
+      }
+    ]
+  }
 };
