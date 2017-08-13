@@ -5,13 +5,13 @@ category: releases
 comments: true
 title: 'VA «Fantazma»'
 label: sentimony
-style: Psychill
+style: Psychill, Downtempo
 format: compilation
 cover: true
 cat_no: sencd001
 cat_nu: sencd001
 tracks_no: 11
-total_time: 
+total_time: '71:46'
 release_date: 2007-02-09
 coming_soon: 
 new: 
@@ -24,7 +24,7 @@ link_beatspace:
 link_ektoplazm: http://www.ektoplazm.com/free-music/fantazma
 link_discogs: 403901
 written_by: 
-compiled_by: Sphingida
+compiled_by: <a href="/artist/sphingida/">Sphingida</a>
 artwork_by: Synchronick
 mastered_by: Don't Panic Records Studio
 ---
