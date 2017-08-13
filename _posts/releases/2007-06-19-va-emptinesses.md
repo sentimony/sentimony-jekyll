@@ -5,13 +5,13 @@ category: releases
 comments: true
 title: 'VA «Emptinesses»'
 label: sentimony
-style: Psychill
+style: Psychill, Downtempo
 format: compilation
 cover: true
 cat_no: sencd002
 cat_nu: sencd002
 tracks_no: 12
-total_time: 
+total_time: '77:42'
 release_date: 2007-06-19
 coming_soon: 
 new: 
@@ -24,7 +24,7 @@ link_beatspace:
 link_ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
 link_discogs: 403903
 written_by: 
-compiled_by: Sphingida
+compiled_by: <a href="/artist/sphingida/">Sphingida</a>
 artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab
 ---
