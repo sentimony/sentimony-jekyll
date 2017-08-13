@@ -1,21 +1,21 @@
-$selection-color: rgba(#e10000,.5);
+$selectionColor: rgba(#ffd700,.5);
 
 ::selection {
-    background: $selection-color;
+  background: $selectionColor;
 }
 
 ::-moz-selection {
-    background: $selection-color;
+  background: $selectionColor;
 }
 
 img::selection {
-    background: transparent;
+  background: transparent;
 }
 
 img::-moz-selection {
-    background: transparent;
+  background: transparent;
 }
 
 body {
-    -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: transparent;
 }
