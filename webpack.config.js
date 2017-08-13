@@ -18,7 +18,7 @@ module.exports = {
   plugins: [
     new UglifyJSPlugin({
       output: {
-        comments: true
+        comments: false
       }
     }),
     new webpack.LoaderOptionsPlugin({
