@@ -11,7 +11,7 @@ cover: true
 cat_no: sencd006
 cat_nu: sencd006
 tracks_no: 10
-total_time: 
+total_time: '68:30'
 release_date: 2009-02-23
 coming_soon: 
 new: 
@@ -25,7 +25,7 @@ link_ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu
 link_discogs: 563062
 written_by: <a href="/artist/irukanji/">Irukanji</a>
 compiled_by: 
-artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
+artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>
 mastered_by: Prok at VioletRaySoundlab
 ---
 
