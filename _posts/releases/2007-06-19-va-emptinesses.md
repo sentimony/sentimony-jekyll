@@ -25,7 +25,7 @@ link_ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
 link_discogs: 403903
 written_by: 
 compiled_by: <a href="/artist/sphingida/">Sphingida</a>
-artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
+artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>
 mastered_by: Prok at VioletRaySoundlab
 ---
 

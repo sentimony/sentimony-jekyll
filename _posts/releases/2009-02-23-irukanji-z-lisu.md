@@ -23,10 +23,10 @@ link_junodownload: http://www.junodownload.com/products/irukanji-z-lisu/1507880-
 link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu
 link_discogs: 563062
-written_by: 
+written_by: <a href="/artist/irukanji/">Irukanji</a>
 compiled_by: 
 artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
-mastered_by: VioletRaySoundlab
+mastered_by: Prok at VioletRaySoundlab
 ---
 
 Z Lisu - is the debut album of Irukanji project. Behind this name is standing talented musician and charismatic dj – Ihor Orlovskyi, member of duet from Ukraine Sphingida (2005 - 2008).

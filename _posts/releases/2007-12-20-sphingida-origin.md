@@ -23,10 +23,10 @@ link_junodownload: http://www.junodownload.com/products/sphingida-origin/1507877
 link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/sphingida-origin
 link_discogs: 446647
-written_by: 
-compiled_by: <a href="/artist/sphingida/">Sphingida</a>
+written_by: <a href="/artist/sphingida/">Sphingida</a>
+compiled_by: 
 artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>
-mastered_by: VioletRaySoundlab
+mastered_by: Prok at VioletRaySoundlab
 ---
 
 Sphingida is a Ukrainian project founded in 2005 by Yulia Levchenko (Zea NeiRula) and Ihor Orlovskyi (Irukanji). 

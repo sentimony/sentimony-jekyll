@@ -5,13 +5,13 @@ category: releases
 comments: true
 title: 'VA «True Story»'
 label: sentimony
-style: Psychill
+style: Psychill, Downtempo
 format: compilation
 cover: true
 cat_no: sencd004
 cat_nu: sencd004
 tracks_no: 12
-total_time: 
+total_time: '78:40'
 release_date: 2008-04-25
 coming_soon: 
 new: 
@@ -24,9 +24,9 @@ link_beatspace:
 link_ektoplazm: http://www.ektoplazm.com/free-music/true-story
 link_discogs: 563060
 written_by: 
-compiled_by: Sphingida
-artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
-mastered_by: VioletRaySoundlab
+compiled_by: <a href="/artist/sphingida/">Sphingida</a>
+artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>
+mastered_by: Prok at VioletRaySoundlab
 ---
 
 Sentimony Records team proudly presents to you, friends, our fourth release - compilation True Story. We cooked for you 12 awesome tracks from artists that you have known from our previous releases... and several new discoveries to please your ear and our hopes. And some well-known names...

@@ -5,13 +5,13 @@ category: releases
 comments: true
 title: 'Spectrum Vision «Lost Space Device»'
 label: sentimony
-style: Psychill
+style: Psychill, Downtempo
 format: album
 cover: true
 cat_no: sencd005
 cat_nu: sencd005
 tracks_no: 9
-total_time: 
+total_time: '74:00'
 release_date: 2008-10-31
 coming_soon: 
 new: 
@@ -23,10 +23,10 @@ link_junodownload: http://www.junodownload.com/products/spectrum-vision-lost-spa
 link_beatspace: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/spectrum-vision-lost-space-device
 link_discogs: 494470
-written_by: 
+written_by: <a href="/artist/spectrum-vision/">Spectrum Vision</a>
 compiled_by: 
-artwork_by: 1n0x & <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
-mastered_by: VioletRaySoundlab
+artwork_by: 1n0x & <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>
+mastered_by: Prok at VioletRaySoundlab
 ---
 
 Spectrum Vision was founded in 2004 by two talented musicians from Stupino, Russia, near Moscow: Alexander (1n0x) and Ivan (Ujo). «Lost Space Device» is their debut album on Sentimony Records, originally released in 2008. 
