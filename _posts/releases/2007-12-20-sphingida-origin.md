@@ -5,13 +5,13 @@ category: releases
 comments: true
 title: 'Sphingida «Origin»'
 label: sentimony
-style: Psychill
+style: Psychill, Downtempo
 format: album
 cover: true
 cat_no: sencd003
 cat_nu: sencd003
 tracks_no: 10
-total_time: 
+total_time: '79:42'
 release_date: 2007-12-20
 coming_soon: 
 new: 
@@ -24,8 +24,8 @@ link_beatspace:
 link_ektoplazm: http://www.ektoplazm.com/free-music/sphingida-origin
 link_discogs: 446647
 written_by: 
-compiled_by: 
-artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
+compiled_by: <a href="/artist/sphingida/">Sphingida</a>
+artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>
 mastered_by: VioletRaySoundlab
 ---
 

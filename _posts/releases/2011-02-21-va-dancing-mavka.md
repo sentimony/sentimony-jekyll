@@ -24,9 +24,9 @@ link_beatspace:
 link_ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka
 link_discogs: 350184
 written_by: 
-compiled_by: Sky Technology
-artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+compiled_by: <a href="/artist/sky-technology/">Sky Technology</a>
+artwork_by: <a href="https://instagram.com/julenca" target="_blank" rel="noopener">Ju Ju</a>
+mastered_by: Makus at <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Overdream Studio</a>
 ---
 
 Lookinglook Records team is pleased to announce its fourth release, which today is the first Ukrainian 100% Goa trance compilation, titled «Dansing Mavka».
@@ -46,6 +46,6 @@ Tracklist:
 04. Ufomatka - Vega \| 139bpm
 05. Spirit Medicine - In The Brain Machines \| 150bpm
 06. Sky Technology - Reactor Of Life \| 145bpm
-07. Zelur Project AKA SynSUN - The New Creature \| 145bpm
+07. Zelur Project - The New Creature \| 145bpm
 08. ShizoLizer Gin - Pony Ponyslas \| 145bpm
 09. Space Vibes System - Space Energy \| 145bpm

@@ -26,7 +26,7 @@ link_discogs: 403903
 written_by: 
 compiled_by: <a href="/artist/sphingida/">Sphingida</a>
 artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
-mastered_by: VioletRaySoundlab
+mastered_by: Prok at VioletRaySoundlab
 ---
 
 Sentimony Records proudly presents our second release - compilation Emptinesses. Carefully selected tracks from masters of chill-out vibes.
