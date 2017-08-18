@@ -24,7 +24,7 @@ link_beatspace: http://www.beatspace.com/7694/Lookinglook+Records/Various/Gamayu
 link_ektoplazm: 
 link_discogs: 663801
 written_by: 
-compiled_by: Sky Technology
+compiled_by: <a href="/artist/sky-technology/">Sky Technology</a>
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
 ---
