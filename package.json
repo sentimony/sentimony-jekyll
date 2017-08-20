@@ -35,14 +35,15 @@
     "vue": "^2.2.2",
     "vue-axios": "^2.0.2",
     "vue-loader": "^11.3.1",
+    "vue-router": "^2.7.0",
     "vue-style-loader": "^2.0.4",
     "vue-template-compiler": "^2.2.4",
     "webpack": "^2.3.1",
     "webpack-node-externals": "^1.6.0"
   },
   "scripts": {
-    "clean": "rm -rf _site/ && rm -rf assets/js/ && rm -rf assets/css/ && rm -rf assets/fonts/ && rm -rf sw-toolbox.js && rm -rf .tmp/",
-    "develop": "npm run clean && gulp font && gulp watch",
-    "build": "npm run clean && gulp font && gulp"
+    "clean": "rm -rf _site/; rm -rf assets/js/; rm -rf assets/css/; rm -rf assets/fonts/; rm -rf sw-toolbox.js; rm -rf .tmp/",
+    "develop": "npm run clean; gulp font; gulp watch",
+    "build": "npm run clean; gulp font; gulp"
   }
 }
