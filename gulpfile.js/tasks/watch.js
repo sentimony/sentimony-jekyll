@@ -9,6 +9,7 @@ gulp.task('watch', ['browser-sync'], function () {
     '_layouts/**/*.html',
     '_components/**/*.html',
     '_components/**/*.js',
+    '_components/**/*.vue',
     '_components/**/*.json',
     '_components/**/*.svg',
     '_js/**/*',
