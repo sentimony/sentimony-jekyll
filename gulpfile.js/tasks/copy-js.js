@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var copy = require('gulp-copy');
 var streamqueue = require('streamqueue');
 
-gulp.task('js-copy', function () {
+gulp.task('copy:js', function () {
   return gulp.src([
       './_js/base.js',
       './_js/modules/*'
@@ -17,7 +17,7 @@ gulp.task('js-copy-sw-toolbox', function () {
     .pipe(gulp.dest(''));
 });
 
-gulp.task('js-copy-lib', ['js-copy', 'js-copy-sw-toolbox', 'copy:vue'], function () {
+gulp.task('js-copy-lib', ['copy:js', 'js-copy-sw-toolbox', 'copy:vue'], function () {
   return gulp.src([
       'node_modules/vue/dist/vue.min.js',
       'node_modules/vue-nav-tabs/dist/vue-tabs.js',
@@ -25,6 +25,7 @@ gulp.task('js-copy-lib', ['js-copy', 'js-copy-sw-toolbox', 'copy:vue'], function
       // 'node_modules/goodshare.js/goodshare.min.js',
       'node_modules/lazysizes/lazysizes.min.js',
       'node_modules/jquery/dist/jquery.min.js',
+      'node_modules/firebase/firebase.js'
     ])
     .pipe(gulp.dest('.tmp/'));
 });

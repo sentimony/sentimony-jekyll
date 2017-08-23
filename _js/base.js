@@ -9,6 +9,7 @@ var connectModule = [
   'swiper.min',
   'vue-tabs',
   'vue.min',
+  'firebase',
 
   'platform_add_class',
   'platform_detector',

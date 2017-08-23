@@ -6,16 +6,20 @@ gulp.task('watch', ['browser-sync'], function () {
     '_components/**/*.scss'
   ], ['sass']);
   gulp.watch([
-    '_layouts/**/*.html',
-    '_components/**/*.html',
     '_components/**/*.js',
     '_components/**/*.vue',
+    '_js/**/*',
+  ], ['jekyll-rebuild']);
+  gulp.watch([
+    '_layouts/**/*.html',
+    '_components/**/*.html',
     '_components/**/*.json',
     '_components/**/*.svg',
-    '_js/**/*',
     '_pages/**/*',
     '_posts/**/*',
     'assets/img/**/*',
+    // 'assets/css/*',
+    // 'assets/js/*',
     'manifest.json',
     '_config.yml',
     '_config_dev.yml'
