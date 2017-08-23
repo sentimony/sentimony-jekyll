@@ -29,9 +29,9 @@ artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a> & <a href="https://www.facebook.com/cifroteca.music" target="_blank" rel="noopener">Cifroteca</a>
 ---
 
-Sentimony Records is proud to introduce you with our new musical direction more deeper musical appearance - Aqua Deep Music.
+Sentimony Records is proud to introduce new musical direction more deeper musical appearance - Aqua Deep Music.
 
-The first CD from the future series of releases - Ocean Scenes, was specially made for You to demonstrate the depth of pure psychedelic rhythms and active meditation.
+The first CD from the future series of releases - Ocean Scenes, was specially made for you to demonstrate the depth of pure psychedelic rhythms and active meditation.
 
 Higher Titans presents 12 previously unreleased tracks produced by only Ukrainian established composers and promising newcomers.
 
@@ -46,7 +46,7 @@ Tracklist:
 06. Saikozaurus - Key Meeting \| 150bpm
 07. Magmadivers - It's All In Your Head \| 149bpm
 08. Shivattva - Foggy Land Of Zartak \| 148bpm
-09. Tookytooky - Nocturna (Remix) \| 146bpm
+09. Tookytooky - Nocturna (Rmx) \| 146bpm
 10. Calamus - The Mighty Glow \| 150bpm
 11. Shiva3 - Old Moon \| 145bpm
 12. NeiRula - Absolutiz Hipnotyzze (Out) \| 90bpm

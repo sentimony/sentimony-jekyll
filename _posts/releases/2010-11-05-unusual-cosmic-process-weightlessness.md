@@ -29,13 +29,13 @@ artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
 ---
 
-Lookinglook Records is proud to present its third compact disk - the debut album from Ukrainian project Unusual Cosmic Process (U.C.P.), titled «Weightlessness».
+Sentimony Records is proud to present new compact disk - the debut album from Ukrainian project Unusual Cosmic Process (UCP), titled «Weightlessness».
 
-U.C.P., also known under the name of Runar Kristinsson (real name is Armen Akopov). In 2000 year he started to work as a DJ in one of the Ukrainian nightclubs. But soon he realized that composing music brings him more pleasure than to engage in DJing. In this way, in 2006 he began to write his own music.
+UCP, also known under the name of Runar Kristinsson. In 2000 year he started to work as a DJ in one of the Ukrainian nightclubs. But soon he realized that composing music brings him more pleasure than to engage in DJing. In this way, in 2006 he began to write his own music.
 
 Now Runar works under three projects: Psypheric - in genre of psy prog; Optical Report - in genre of progressive; but main one, and the most interesting its his psy-ambient project - Unusual Cosmic Process.
 
-Also project name should be known to chill-out music lovers on his two previous releases - VA «True Story» (2008) by Sentimony Records, as well as, VA «Grower» (2010) - our last release.
+Also project name should be known to chill-out music lovers on his two previous releases - VA «True Story» (2008) and VA «Grower» (2010).
 
 ---
 Tracklist:

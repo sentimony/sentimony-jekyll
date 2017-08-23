@@ -25,7 +25,7 @@ link_ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka
 link_discogs: 350184
 written_by: 
 compiled_by: <a href="/artist/sky-technology/">Sky Technology</a>
-artwork_by: <a href="https://instagram.com/julenca" target="_blank" rel="noopener">Ju Ju</a>
+artwork_by: <a href="https://www.instagram.com/julenca" target="_blank" rel="noopener">Ju Ju</a>
 mastered_by: Makus at <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Overdream Studio</a>
 ---
 
