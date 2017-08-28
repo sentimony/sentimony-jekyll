@@ -1,6 +1,4 @@
 var gulp = require('gulp');
-var copy = require('gulp-copy');
-var streamqueue = require('streamqueue');
 
 gulp.task('copy:js', function () {
   return gulp.src([

@@ -4,7 +4,7 @@ var gulp = require('gulp');
 var webpack = require('webpack');
 var gutil = require('gulp-util');
 
-gulp.task('webpack', ['js-copy-lib'], function (callback) {
+gulp.task('webpack', ['js-copy-lib', 'copy:data'], function (callback) {
   webpack(require('../../webpack.config.js'), function (err, stats) {
     if (err) {
       throw new gutil.PluginError('webpack', err);

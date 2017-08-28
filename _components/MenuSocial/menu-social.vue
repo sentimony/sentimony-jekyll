@@ -1,44 +1,39 @@
 <template>
-  <div>
-    <div v-for="(item, key) in contacts">
-      <div>{{ item.title }}</div>
+  <div class="menu-social">
+    <div class="menu-social__caption">{{ social.follow }}</div>
+    <div class="menu-social__list">
+      <a v-for="i in social.data" v-if="i.isVisible" class="menu-social__link" :href="i.url" target="_blank" rel="noopener">
+        <img class="menu-social__icon" :src="'/assets/img/svg-icons/' + i.icon + '.svg'" :alt="i.title + ' Icon'">
+        <span class="menu-social__tooltip">{{ i.title }}</span>
+      </a>
     </div>
-
-    <div class="menu-social__caption">{{ msg }}</div>
   </div>
 </template>
 
 <script>
-  // export default {
-  //   data () {
-  //     return {
-  //       msg: 'Follow Us:'
-  //     }
-  //   }
-  // },
   module.exports = {
     data: function () {
       return {
-        msg: 'Follow Us:',
-        contacts: {
-          title: '',
-          url: ''
+        social: {
+          follow: '',
+          data: [
+            {
+              title: '',
+              icon: '',
+              url: '',
+              isVisible: ''
+            }
+          ]
         }
       }
     },
-
     created: function () {
       var self = this;
-
-      this.axios.get('https://sentimony-db.firebaseio.com/contacts.json')
-        .then(function (response) {
-          self.contacts = response.data.contacts;
-          console.log('contacts ok!');
-        })
-        .catch(function (error) {
-          console.log(error);
-        });
-
+      this.axios.get('/assets/data/menu-social.json').then(function (response) {
+        self.social = response.data.social;
+      }).catch(function (error) {
+        console.log(error);
+      });
     }
   };
 </script>

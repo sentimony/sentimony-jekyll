@@ -5,6 +5,7 @@ assets/fonts/
 _scss/vendor/svg-icons/_svg-icons.scss
 assets/css/
 assets/js/
+assets/data/
 
 sw-toolbox.js
 
