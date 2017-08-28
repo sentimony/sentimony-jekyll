@@ -6,6 +6,6 @@ permalink: /news1/
 og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
-{% include BlockHero/index.html %}
-{% include BlockAbout/index.html %}
+{% include Hero/index.html %}
+{% include About/index.html %}
 {% include ReleaseListSwiper/index.html class='js-release-list-swiper--home-page' %}
