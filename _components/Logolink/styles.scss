@@ -3,12 +3,6 @@
   display: flex;
   align-items: center;
 
-  // &__icon {
-  //   @extend .icon-sentimony-records-logo;
-  //   margin-right: 24px;
-  //   display: none;
-  // }
-
   &__logo {
     width: 40px;
     display: block;
@@ -20,11 +14,10 @@
   }
 
   &__title {
-    // font-size: 16px;
     color: #fff;
   }
 
-  &__slogan {
+  &__description {
     font-size: 12px;
     color: rgba(#fff,.4);
     letter-spacing: .4px;
