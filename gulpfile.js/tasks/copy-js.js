@@ -8,14 +8,14 @@ gulp.task('copy:js', function () {
     .pipe(gulp.dest('.tmp/'));
 });
 
-gulp.task('js-copy-sw-toolbox', function () {
+gulp.task('copy:sw-toolbox', function () {
   return gulp.src([
       'node_modules/sw-toolbox/sw-toolbox.js',
     ])
     .pipe(gulp.dest(''));
 });
 
-gulp.task('js-copy-lib', ['copy:js', 'js-copy-sw-toolbox', 'copy:vue'], function () {
+gulp.task('copy:js-lib', ['copy:js', 'copy:sw-toolbox', 'copy:vue'], function () {
   return gulp.src([
       'node_modules/vue/dist/vue.min.js',
       'node_modules/vue-nav-tabs/dist/vue-tabs.js',

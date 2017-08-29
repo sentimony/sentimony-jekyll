@@ -23,6 +23,7 @@ define('app', ['./vue.min'], function(Vue) {
   var Hero = require('./hero.vue');
   var About = require('./about.vue');
   var Donate = require('./donate.vue');
+  var Friends = require('./friends.vue');
   var MenuMain = require('./menu-main.vue');
   var MenuSocial = require('./menu-social.vue');
   var MenuMobile = require('./menu-mobile.vue');
@@ -31,14 +32,14 @@ define('app', ['./vue.min'], function(Vue) {
   var News1 = require('./news1.vue');
 
   var router = new VueRouter({
-      mode: 'history',
-      routes: [{
-        path: '/',
-        component: Index1
-      },{
-        path: '/news1/',
-        component: News1
-      }]
+    mode: 'history',
+    routes: [{
+      path: '/',
+      component: Index1
+    },{
+      path: '/news1/',
+      component: News1
+    }]
   });
 
   new Vue({
@@ -49,6 +50,7 @@ define('app', ['./vue.min'], function(Vue) {
       'hero': Hero,
       'about': About,
       'donate': Donate,
+      'friends': Friends,
       'menu-main': MenuMain,
       'menu-social': MenuSocial,
       'menu-mobile': MenuMobile

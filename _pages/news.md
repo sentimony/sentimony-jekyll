@@ -6,6 +6,6 @@ permalink: /news/
 og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
-{% for i in site.data.News.config %}
+{% for i in site.data.News.news %}
 [{{ i.date | date_to_long_string }} - {{ i.title }}]({{ i.url }})
 {% endfor %}

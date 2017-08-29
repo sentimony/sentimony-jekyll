@@ -1,8 +1,10 @@
 var gulp = require('gulp');
+var copy = require('gulp-copy');
+var streamqueue = require('streamqueue');
 
 gulp.task('copy:data', function () {
-  return gulp.src([
-      '_components/MenuSocial/*.json'
-    ])
-    .pipe(gulp.dest('assets/data/'));
+  return streamqueue({ objectMode: true },
+    gulp.src('_components/**/*.json')
+  )
+    .pipe(copy('assets/data/', {prefix: 100}));
 });
