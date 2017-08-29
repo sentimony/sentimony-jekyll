@@ -39,6 +39,6 @@
 </script>
 
 <style>
-  .menu-social__caption {
+  .menu-social {
   }
 </style>
