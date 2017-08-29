@@ -6,6 +6,6 @@ permalink: /
 og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
-{% include Hero/index.html %}
+<hero></hero>
 {% include About/index.html %}
 {% include ReleaseListSwiper/index.html class='js-release-list-swiper--home-page' %}
