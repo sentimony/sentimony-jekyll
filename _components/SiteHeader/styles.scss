@@ -1,4 +1,4 @@
-.header {
+.site-header {
   position: relative;
   z-index: 1000;
   padding: 0 .6em;
@@ -40,6 +40,7 @@
 
   &__social-menu {
     display: none;
+    // margin-right: 54px;
 
     @include media(M) {
       display: flex;
@@ -48,14 +49,13 @@
     &-link {
       font-size: 16px;
       color: #fff;
-      min-width: 60px;
-      padding: 1em;
+      padding: .938em;
       box-sizing: border-box;
 
       &-img {
         display: block;
         width: auto;
-        height: 20px;
+        height: 24px;
         margin: 0 auto;
       }
 

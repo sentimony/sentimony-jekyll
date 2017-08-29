@@ -19,6 +19,7 @@ define('app', ['./vue.min'], function(Vue) {
   };
   firebase.initializeApp(config);
 
+  var SiteHeader = require('./site-header.vue');
   var Logolink = require('./logolink.vue');
   var Hero = require('./hero.vue');
   var About = require('./about.vue');
@@ -47,6 +48,7 @@ define('app', ['./vue.min'], function(Vue) {
     el: '#app',
     router: router,
     components: {
+      'site-header': SiteHeader,
       'logolink': Logolink,
       'hero': Hero,
       'about': About,
