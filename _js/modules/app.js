@@ -19,9 +19,10 @@ define('app', ['./vue.min'], function(Vue) {
   };
   firebase.initializeApp(config);
 
-  var MenuSocial = require('./menu-social.vue');
   var Logolink = require('./logolink.vue');
   var Hero = require('./hero.vue');
+  var About = require('./about.vue');
+  var MenuSocial = require('./menu-social.vue');
 
   var Index1 = require('./index1.vue');
   var News1 = require('./news1.vue');
@@ -43,6 +44,7 @@ define('app', ['./vue.min'], function(Vue) {
     components: {
       'logolink': Logolink,
       'hero': Hero,
+      'about': About,
       'menu-social': MenuSocial
     }
   });
