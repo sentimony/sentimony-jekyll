@@ -42,7 +42,7 @@ layout: compress
 <div id="app">
   {% include BaseBg/index.html %}
 
-  <div class="swiper-container js-swiper-mob-menu">
+  <div class="swiper-container js-swiper-menu-mobile">
     <div class="swiper-wrapper">
 
       <div class="swiper-slide">
@@ -61,17 +61,17 @@ layout: compress
       </div>
 
       <div class="swiper-slide" style="width:280px;background-color:rgba(0,0,0,.2)">
-        {% include MobMenu/index.html %}
+        <menu-mobile></menu-mobile>
       </div>
 
     </div>
 
-    <div class="mob-menu__btn-wrap">
-      <div class="mob-menu__btn-open js-swiper-mob-menu-open">
-        <img class="mob-menu__icon-hamburger" src="{{ site.baseurl }}/assets/img/svg-icons/menu.svg" alt="Menu Icon">
+    <div class="menu-mobile__btn-wrap">
+      <div class="menu-mobile__btn-open js-swiper-menu-mobile-open">
+        <img class="menu-mobile__icon-hamburger" src="{{ site.baseurl }}/assets/img/svg-icons/menu.svg" alt="Menu Icon">
       </div>
-      <div class="mob-menu__btn-close js-swiper-mob-menu-close">
-        <img class="mob-menu__icon-close" src="{{ site.baseurl }}/assets/img/svg-icons/close.svg" alt="Close Icon">
+      <div class="menu-mobile__btn-close js-swiper-menu-mobile-close">
+        <img class="menu-mobile__icon-close" src="{{ site.baseurl }}/assets/img/svg-icons/close.svg" alt="Close Icon">
       </div>
     </div>
 

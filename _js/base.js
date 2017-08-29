@@ -13,7 +13,7 @@ var connectModule = [
 
   'platform_add_class',
   'platform_detector',
-  'swiper_mob_menu',
+  'swiper_menu_mobile',
   'swiper_release_list',
   'vue_tabs'
 ];
