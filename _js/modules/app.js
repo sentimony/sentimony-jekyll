@@ -20,6 +20,7 @@ define('app', ['./vue.min'], function(Vue) {
   firebase.initializeApp(config);
 
   var MenuSocial = require('./menu-social.vue');
+  var Logolink = require('./logolink.vue');
 
   var Index1 = require('./index1.vue');
   var News1 = require('./news1.vue');
@@ -39,6 +40,7 @@ define('app', ['./vue.min'], function(Vue) {
     el: '#app',
     router: router,
     components: {
+      'logolink': Logolink,
       'menu-social': MenuSocial
     }
   });
