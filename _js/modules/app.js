@@ -22,6 +22,7 @@ define('app', ['./vue.min'], function(Vue) {
   var Logolink = require('./logolink.vue');
   var Hero = require('./hero.vue');
   var About = require('./about.vue');
+  var Donate = require('./donate.vue');
   var MenuSocial = require('./menu-social.vue');
 
   var Index1 = require('./index1.vue');
@@ -45,6 +46,7 @@ define('app', ['./vue.min'], function(Vue) {
       'logolink': Logolink,
       'hero': Hero,
       'about': About,
+      'donate': Donate,
       'menu-social': MenuSocial
     }
   });
