@@ -27,6 +27,7 @@ define('app', ['./vue.min'], function(Vue) {
   var MenuMain = require('./menu-main.vue');
   var MenuSocial = require('./menu-social.vue');
   var MenuMobile = require('./menu-mobile.vue');
+  var News = require('./news.vue');
 
   var Index1 = require('./index1.vue');
   var News1 = require('./news1.vue');
@@ -50,6 +51,7 @@ define('app', ['./vue.min'], function(Vue) {
       'hero': Hero,
       'about': About,
       'donate': Donate,
+      'news': News,
       'friends': Friends,
       'menu-main': MenuMain,
       'menu-social': MenuSocial,
