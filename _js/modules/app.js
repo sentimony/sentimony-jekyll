@@ -19,21 +19,21 @@ define('app', ['./vue.min'], function(Vue) {
   };
   firebase.initializeApp(config);
 
-  var BaseBg = require('./base-bg.vue');
-  var Headr = require('./headr.vue');
-  var Logolink = require('./logolink.vue');
-  var Hero = require('./hero.vue');
-  var About = require('./about.vue');
-  var Donate = require('./donate.vue');
-  var Friends = require('./friends.vue');
-  var Footr = require('./footr.vue');
-  var MenuMain = require('./menu-main.vue');
-  var MenuSocial = require('./menu-social.vue');
-  var MenuMobile = require('./menu-mobile.vue');
-  var News = require('./news.vue');
+  var BaseBg = require('../vue/base-bg.vue');
+  var Headr = require('../vue/headr.vue');
+  var Logolink = require('../vue/logolink.vue');
+  var Hero = require('../vue/hero.vue');
+  var About = require('../vue/about.vue');
+  var Donate = require('../vue/donate.vue');
+  var Friends = require('../vue/friends.vue');
+  var Footr = require('../vue/footr.vue');
+  var MenuMain = require('../vue/menu-main.vue');
+  var MenuSocial = require('../vue/menu-social.vue');
+  var MenuMobile = require('../vue/menu-mobile.vue');
+  var News = require('../vue/news.vue');
 
-  var Index1 = require('./index1.vue');
-  var News1 = require('./news1.vue');
+  var Index1 = require('../vue/index1.vue');
+  var News1 = require('../vue/news1.vue');
 
   var router = new VueRouter({
     mode: 'history',
