@@ -40,7 +40,7 @@ layout: compress
 </head>
 <body>
 <div id="app">
-  {% include BaseBg/index.html %}
+  <base-bg></base-bg>
 
   <div class="swiper-container js-swiper-menu-mobile" style="height:100%">
     <div class="swiper-wrapper">
@@ -52,9 +52,9 @@ layout: compress
           </div>
           <div class="flex-sticky__content">
             {{ content }}
-            <donate></donate>
           </div>
           <div class="flex-sticky__footer">
+            <donate></donate>
             {% include Footer/index.html %}
           </div>
         </div>
