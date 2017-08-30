@@ -4,7 +4,7 @@ var UglifyJSPlugin = require('uglifyjs-webpack-plugin');
 
 module.exports = {
 
-  context: __dirname + '/.tmp/',
+  context: __dirname + '/.tmp/js/',
 
   entry: {
     base: ['./base.js']

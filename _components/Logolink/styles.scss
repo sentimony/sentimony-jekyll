@@ -1,0 +1,25 @@
+.logolink {
+  padding: .4em .8em;
+  display: flex;
+  align-items: center;
+
+  &__logo {
+    width: 40px;
+    display: block;
+    margin-right: .8em;
+  }
+
+  &__text {
+    text-align: left;
+  }
+
+  &__title {
+    color: #fff;
+  }
+
+  &__description {
+    font-size: 12px;
+    color: rgba(#fff,.4);
+    letter-spacing: .4px;
+  }
+}

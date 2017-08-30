@@ -1,0 +1,70 @@
+.hero {
+  position: relative;
+
+  &__wrapper {
+    max-width: 777px;
+    margin: 0 auto;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+
+  &__title {
+    font-family: 'Julius Sans One', sans-serif;
+    color: #fff;
+    margin: 2em 0 .2em;
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    @include media(S) {
+      font-size: 55px;
+      letter-spacing: 5px;
+    }
+
+    @include media(M) {
+      font-size: 70px;
+      letter-spacing: 8px;
+    }
+
+    @include media(L) {
+      font-size: 85px;
+      letter-spacing: 11px;
+    }
+
+    @include media(XL) {
+      font-size: 100px;
+      letter-spacing: 14px;
+    }
+  }
+
+  &__description {
+    font-family: 'Julius Sans One', sans-serif;
+    color: #fff;
+    margin: 0 0 8em;
+    font-weight: 400;
+    line-height: 2;
+    font-size: 12px;
+    letter-spacing: 4px;
+
+    @include media(S) {
+      font-size: 14px;
+      letter-spacing: 8px;
+    }
+
+    @include media(M) {
+      font-size: 16px;
+      letter-spacing: 12px;
+    }
+
+    @include media(L) {
+      font-size: 18px;
+      letter-spacing: 16px;
+    }
+
+    @include media(XL) {
+      font-size: 20px;
+      letter-spacing: 20px;
+    }
+  }
+}

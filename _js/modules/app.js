@@ -19,27 +19,52 @@ define('app', ['./vue.min'], function(Vue) {
   };
   firebase.initializeApp(config);
 
-  var MenuSocial = require('./menu-social.vue');
+  var BaseBg = require('../vue/base-bg.vue');
+  var Headr = require('../vue/headr.vue');
+  var Logolink = require('../vue/logolink.vue');
+  var Hero = require('../vue/hero.vue');
+  var About = require('../vue/about.vue');
+  var Donate = require('../vue/donate.vue');
+  var Footr = require('../vue/footr.vue');
+  var MenuMain = require('../vue/menu-main.vue');
+  var MenuSocial = require('../vue/menu-social.vue');
+  var MenuMobile = require('../vue/menu-mobile.vue');
+  var Friends = require('../vue/friends.vue');
+  var News = require('../vue/news.vue');
+  var Contacts = require('../vue/contacts.vue');
 
-  var Index1 = require('./index1.vue');
-  var News1 = require('./news1.vue');
+  var Index1 = require('../vue/index1.vue');
+  var News1 = require('../vue/news1.vue');
 
   var router = new VueRouter({
-      mode: 'history',
-      routes: [{
-        path: '/',
-        component: Index1
-      },{
-        path: '/news1/',
-        component: News1
-      }]
+    mode: 'history',
+    routes: [{
+      path: '/',
+      component: Index1
+    },{
+      path: '/news1/',
+      component: News1
+    }]
   });
 
   new Vue({
     el: '#app',
     router: router,
     components: {
-      'menu-social': MenuSocial
+      'base-bg': BaseBg,
+      'headr': Headr,
+      'logolink': Logolink,
+      'hero': Hero,
+      'about': About,
+      'donate': Donate,
+      'footr': Footr,
+      'menu-main': MenuMain,
+      'menu-social': MenuSocial,
+      'menu-mobile': MenuMobile,
+      'friends': Friends,
+      'news': News,
+      'contacts': Contacts
     }
   });
+
 });

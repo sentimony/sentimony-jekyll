@@ -12,5 +12,8 @@
     width: auto;
     height: 100%;
     max-width: inherit;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
   }
 }

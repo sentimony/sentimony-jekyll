@@ -10,7 +10,7 @@ gulp.task('font', function () {
       fontName: fontName,
       path: '_scss/vendor/svg-icons/_template.scss',
       targetPath: '../../../_scss/vendor/svg-icons/_svg-icons.scss',
-      fontPath: './../fonts/SvgIcons/'
+      fontPath: '../fonts/SvgIcons/'
     }))
     .pipe(iconfont({
       fontName: fontName,

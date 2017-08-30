@@ -4,6 +4,7 @@
 @import '../node_modules/coriolan-ui/mixins/ratio';
 @import '../node_modules/coriolan-ui/mixins/clearfix';
 @import '../node_modules/swiper/dist/css/swiper';
+// @import '../node_modules/vue-nav-tabs/src/assets/tabs';
 @import 'vendor/svg-icons/svg-icons';
 
 @import 'ui/variables';
@@ -15,11 +16,11 @@
 @import 'ui/vue-tabs-customize';
 
 @import '_components/BaseBg/styles';
-@import '_components/BlockMainMenu/styles';
-@import '_components/BlockLogolink/styles';
-@import '_components/BlockHero/styles';
-@import '_components/BlockAbout/styles';
-@import '_components/BlockDonate/styles';
+@import '_components/Headr/styles';
+@import '_components/Logolink/styles';
+@import '_components/Hero/styles';
+@import '_components/About/styles';
+@import '_components/Donate/styles';
 @import '_components/ReleaseListSwiper/styles';
 @import '_components/ReleaseListSwiperItem/styles';
 @import '_components/PageRelease/styles';
@@ -31,7 +32,7 @@
 @import '_components/PageArtist/page-artist-content';
 @import '_components/SVG/deco-triangle';
 @import '_components/IframeSize/styles';
-@import '_components/BlockFooter/styles';
+@import '_components/Footr/styles';
 @import '_components/MenuMain/styles';
 @import '_components/MenuSocial/styles';
-@import '_components/MobMenu/styles';
+@import '_components/MenuMobile/styles';
