@@ -9,12 +9,9 @@ exclude: [
     'gulpfile.js',
     'Gemfile',
     'Gemfile.lock',
-    'yarn.lock'
+    'webpack.config.js'
   ]
 includes_dir: ./_components
 data_dir: ./_components
 
-env: prod
 future: true
-
-slogan: Psychedelic Music Label
