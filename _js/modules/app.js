@@ -26,6 +26,7 @@ define('app', ['./vue.min'], function(Vue) {
   var About = require('./about.vue');
   var Donate = require('./donate.vue');
   var Friends = require('./friends.vue');
+  var Footr = require('./footr.vue');
   var MenuMain = require('./menu-main.vue');
   var MenuSocial = require('./menu-social.vue');
   var MenuMobile = require('./menu-mobile.vue');
@@ -57,6 +58,7 @@ define('app', ['./vue.min'], function(Vue) {
       'donate': Donate,
       'news': News,
       'friends': Friends,
+      'footr': Footr,
       'menu-main': MenuMain,
       'menu-social': MenuSocial,
       'menu-mobile': MenuMobile
