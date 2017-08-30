@@ -23,6 +23,10 @@
         </a>
       </nav>
 
+      <a href="/release/zymosis-insight/" class="headr__mob-menu-button">
+        <img class="headr__mob-menu-button-img" src="/assets/img/svg-icons/menu.svg">
+      </a>
+
     </div>
   </header>
 </template>

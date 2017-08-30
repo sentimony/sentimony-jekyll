@@ -1,16 +1,12 @@
 var connectModule = [
   'app',
-  'jquery.min',
-  'lazysizes.min',
-  'swiper.min',
-  'vue-tabs',
   'vue.min',
+  'vue-tabs',
+  'swiper.min',
+  'lazysizes.min',
   // 'goodshare.min',
-  'firebase',
+  // 'firebase',
 
-  'platform_add_class',
-  'platform_detector',
-  'swiper_menu_mobile',
   'swiper_release_list_init',
   'vue_tabs_init'
 ];

@@ -4,110 +4,66 @@ layout: compress
 
 <!DOCTYPE html>
 <html lang="en-US">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
-  <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="msapplication-starturl" content="/">
+    <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="msapplication-starturl" content="/">
 
-  <title>{% if page.title %}{{ page.title }} · {% endif %}Sentimony Records{% if page.titleAfter %} · {{ page.titleAfter }}{% endif %}</title>
-  <meta name="description" content="{% if page.category == 'releases' %}{{ page.tracks_no }} tracks {{ page.style }} {{ page.format }}, {{ page.date | date: '%Y' }}{% else %}{{ page.description }}{% endif %}">
-  <meta property="og:image" content="{% if page.category == 'releases' %}{% if page.cover %}https://content.sentimony.com/assets/img/releases/og-images/{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg{% endif %}{% else %}{{ page.og-image }}{% endif %}">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}Sentimony Records{% if page.titleAfter %} · {{ page.titleAfter }}{% endif %}</title>
+    <meta name="description" content="{% if page.category == 'releases' %}{{ page.tracks_no }} tracks {{ page.style }} {{ page.format }}, {{ page.date | date: '%Y' }}{% else %}{{ page.description }}{% endif %}">
+    <meta property="og:image" content="{% if page.category == 'releases' %}{% if page.cover %}https://content.sentimony.com/assets/img/releases/og-images/{{ page.cat_no }}/{{ page.slug }}.jpg{% else %}https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg{% endif %}{% else %}{{ page.og-image }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/img/favicons/favicon-32.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="{{ site.baseurl }}/assets/img/favicons/favicon-32.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl }}/assets/img/favicons/favicon-144.png">
-  <link rel="canonical" href="{{ site.canonicalurl }}{{ page.url }}" />
-  <meta name="theme-color" content="#f1f1f1">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/img/favicons/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="{{ site.baseurl }}/assets/img/favicons/favicon-32.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl }}/assets/img/favicons/favicon-144.png">
+    <link rel="canonical" href="{{ site.canonicalurl }}{{ page.url }}" />
+    <meta name="theme-color" content="#f1f1f1">
 
-  <script>
-    if ("serviceWorker" in navigator) {
-      window.addEventListener("load", function() {
-        navigator.serviceWorker.register("/sw.js").then(
-          function(registration) {
-            console.log("ServiceWorker registration successful with scope: ", registration.scope); },
-          function(err) {
-            console.log("ServiceWorker registration failed: ", err); 
-          });
-      });
-    }
-  </script>
-</head>
-<body>
-<div id="app" style="min-height:100%">
-  <base-bg></base-bg>
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", function() {
+          navigator.serviceWorker.register("/sw.js").then(
+            function(registration) {
+              console.log("ServiceWorker registration successful with scope: ", registration.scope); },
+            function(err) {
+              console.log("ServiceWorker registration failed: ", err); 
+            });
+        });
+      }
+    </script>
+  </head>
+  <body>
+    <div id="app" style="height:100%">
+      <base-bg></base-bg>
 
-  <div class="swiper-container js-swiper-menu-mobile" style="position:absolute;width:100%;height:100%;overflow-y:scroll">
-    <div class="swiper-wrapper">
-
-      <div class="swiper-slide">
-        <div class="flex-sticky">
-          <div class="flex-sticky__header">
-            <headr></headr>
-          </div>
-          <div class="flex-sticky__content">
-            {{ content }}
-          </div>
-          <div class="flex-sticky__footer">
-            <donate></donate>
-            <footr></footr>
-          </div>
+      <div class="flex-sticky">
+        <div class="flex-sticky__header">
+          <headr></headr>
+        </div>
+        <div class="flex-sticky__content">
+          {{ content }}
+        </div>
+        <div class="flex-sticky__footer">
+          <donate></donate>
+          <footr></footr>
         </div>
       </div>
 
-      <div class="swiper-slide" style="width:280px;background-color:rgba(0,0,0,.2)">
-        <menu-mobile></menu-mobile>
-      </div>
+      {% comment %}
+      <menu-mobile></menu-mobile>
+      {% endcomment %}
+
+      {% include Analytics/google-analytics.html %}
+      {% include Analytics/yandex-metrika.html %}
+
+      <script async src="{{ site.baseurl }}/assets/js/base.bundle.min.js" charset="utf-8"></script>
 
     </div>
-
-    <div class="menu-mobile__btn-wrap">
-      <div class="menu-mobile__btn-open js-swiper-menu-mobile-open">
-        <img class="menu-mobile__icon-hamburger" src="{{ site.baseurl }}/assets/img/svg-icons/menu.svg" alt="Menu Icon">
-      </div>
-      <div class="menu-mobile__btn-close js-swiper-menu-mobile-close">
-        <img class="menu-mobile__icon-close" src="{{ site.baseurl }}/assets/img/svg-icons/close.svg" alt="Close Icon">
-      </div>
-    </div>
-
-  </div>
-
-  {% comment %}
-  <script src="https://www.gstatic.com/firebasejs/3.7.3/firebase.js"></script>
-  <script>
-    var config = {
-      apiKey: "AIzaSyCTVGdSsE6h8PA6WOeqxgzyCgX4L3eOoNE",
-      authDomain: "sentimony-db.firebaseapp.com",
-      databaseURL: "https://sentimony-db.firebaseio.com",
-      storageBucket: "sentimony-db.appspot.com",
-      messagingSenderId: "724792675849"
-    };
-    firebase.initializeApp(config);
-
-    var app = document.getElementById('app');
-    var dbRef = firebase.database().ref().child('releases').child('irukanji-z-lisu').child('title');
-    dbRef.on('value', snap => app.innerText = snap.val());
-  </script>
-  <div id="app" style="font-size:6px;background-color:#000"></div>
-  {% endcomment %}
-
-  {% comment %}
-  {% if site.env == 'prod' %}
-    {% include Analytics/google-analytics.html %}
-    {% include Analytics/yandex-metrika.html %}
-  {% endif %}
-  {% endcomment %}
-
-  {% include Analytics/google-analytics.html %}
-  {% include Analytics/yandex-metrika.html %}
-
-  <script async src="{{ site.baseurl }}/assets/js/base.bundle.min.js" charset="utf-8"></script>
-
-</div>
-</body>
+  </body>
 </html>

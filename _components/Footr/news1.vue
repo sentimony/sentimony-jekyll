@@ -1,3 +1,3 @@
 <template>
-  <div>news1</div>
+  <div>news1 spa page content</div>
 </template>

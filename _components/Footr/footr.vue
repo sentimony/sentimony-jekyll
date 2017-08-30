@@ -14,7 +14,7 @@
 
     <div class="footr__powered">
       <div>Web development by <a href="https://ihororlovskyi.com" target="_blank" rel="noopener">Ihor Orlovskyi</a></div>
-      <div>Design by <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a></div>
+      <div>Design by <a href="https://rooster-chess.netlify.com" target="_blank" rel="noopener">Anton Pivniuk</a></div>
     </div>
 
     <div>
