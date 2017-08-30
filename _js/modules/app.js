@@ -25,12 +25,13 @@ define('app', ['./vue.min'], function(Vue) {
   var Hero = require('../vue/hero.vue');
   var About = require('../vue/about.vue');
   var Donate = require('../vue/donate.vue');
-  var Friends = require('../vue/friends.vue');
   var Footr = require('../vue/footr.vue');
   var MenuMain = require('../vue/menu-main.vue');
   var MenuSocial = require('../vue/menu-social.vue');
   var MenuMobile = require('../vue/menu-mobile.vue');
+  var Friends = require('../vue/friends.vue');
   var News = require('../vue/news.vue');
+  var Contacts = require('../vue/contacts.vue');
 
   var Index1 = require('../vue/index1.vue');
   var News1 = require('../vue/news1.vue');
@@ -56,12 +57,14 @@ define('app', ['./vue.min'], function(Vue) {
       'hero': Hero,
       'about': About,
       'donate': Donate,
-      'news': News,
-      'friends': Friends,
       'footr': Footr,
       'menu-main': MenuMain,
       'menu-social': MenuSocial,
-      'menu-mobile': MenuMobile
+      'menu-mobile': MenuMobile,
+      'friends': Friends,
+      'news': News,
+      'contacts': Contacts
     }
   });
+
 });
