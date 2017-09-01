@@ -5,7 +5,7 @@ permalink: /artist/daoine-sidhe/
 category: artists
 comments: true
 title: Daoine Sidhe
-photo_cover: https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/1544405_755237441171562_565545060_n.jpg?oh=defd6e8288fb379fdb95ce9836174a94&oe=59E9729F
+photo_cover: https://content.sentimony.com/assets/img/artists/large/daoine-sidhe.jpg
 name: Phoebus Noussis
 location: Athens, Greece
 style: Psychill, Chillgressive
