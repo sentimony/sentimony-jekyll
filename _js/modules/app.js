@@ -31,6 +31,7 @@ define('app', ['./vue.min'], function(Vue) {
   var MenuMain = require('../vue/menu-main.vue');
   var SpaMenuMain = require('../vue/spa-menu-main.vue');
   var MenuSocial = require('../vue/menu-social.vue');
+  var TemporaryMenu = require('../vue/temporary-menu.vue');
   var MenuMobile = require('../vue/menu-mobile.vue');
   var Friends = require('../vue/friends.vue');
   var News = require('../vue/news.vue');
@@ -90,6 +91,7 @@ define('app', ['./vue.min'], function(Vue) {
       'spa-footr': SpaFootr,
       'menu-main': MenuMain,
       'spa-menu-main': SpaMenuMain,
+      'temporary-menu': TemporaryMenu,
       'menu-social': MenuSocial,
       'menu-mobile': MenuMobile,
       'friends': Friends,

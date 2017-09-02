@@ -45,7 +45,7 @@ module.exports = {
         }, {
           loader: "css-loader"
         }, {
-          loader: "sass-loader",
+          loader: "scss-loader",
           options: {
             includePaths: ["/.tmp/", "absolute/path/b"]
           }
