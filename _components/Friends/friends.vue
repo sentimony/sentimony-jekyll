@@ -1,13 +1,14 @@
 <template>
   <div class="friends">
+    <h3>Friends</h3>
     <div class="friends__list">
-      <div v-for="i in friends.data" class="friends__item">
+      <p v-for="i in friends.data" class="friends__item">
         <span class="friends__title">{{ i.title }}</span>
         <a v-if="i.site" :href="i.site" class="friends__site"><span class="icon-public"></span></a>
         <a v-if="i.bandcamp" :href="i.bandcamp" class="friends__link"><span class="icon-bandcamp"></span></a>
         <a v-if="i.facebook" :href="i.facebook" class="friends__link"><span class="icon-facebook"></span></a>
         <a v-if="i.soundcloud" :href="i.soundcloud" class="friends__link"><span class="icon-soundcloud"></span></a>
-      </div>
+      </p>
     </div>
   </div>
 </template>

@@ -21,12 +21,15 @@ define('app', ['./vue.min'], function(Vue) {
 
   var BaseBg = require('../vue/base-bg.vue');
   var Headr = require('../vue/headr.vue');
+  var SpaHeadr = require('../vue/spa-headr.vue');
   var Logolink = require('../vue/logolink.vue');
   var Hero = require('../vue/hero.vue');
   var About = require('../vue/about.vue');
   var Donate = require('../vue/donate.vue');
   var Footr = require('../vue/footr.vue');
+  var SpaFootr = require('../vue/spa-footr.vue');
   var MenuMain = require('../vue/menu-main.vue');
+  var SpaMenuMain = require('../vue/spa-menu-main.vue');
   var MenuSocial = require('../vue/menu-social.vue');
   var MenuMobile = require('../vue/menu-mobile.vue');
   var Friends = require('../vue/friends.vue');
@@ -35,17 +38,37 @@ define('app', ['./vue.min'], function(Vue) {
   var SwiperReleaseList = require('../vue/swiper-release-list.vue');
   var SwiperArtistList = require('../vue/swiper-artist-list.vue');
 
-  var Index1 = require('../vue/index1.vue');
-  var News1 = require('../vue/news1.vue');
+  var SpaHome = require('../vue/spa-home.vue');
+  var SpaNews = require('../vue/spa-news.vue');
+  var SpaReleases = require('../vue/spa-releases.vue');
+  var SpaArtists = require('../vue/spa-artists.vue');
+  var SpaEvents = require('../vue/spa-events.vue');
+  var SpaFriends = require('../vue/spa-friends.vue');
+  var SpaContacts = require('../vue/spa-contacts.vue');
 
   var router = new VueRouter({
     mode: 'history',
     routes: [{
-      path: '/',
-      component: Index1
+      path: '/spa/',
+      component: SpaHome
     },{
-      path: '/news1/',
-      component: News1
+      path: '/news/',
+      component: SpaNews
+    },{
+      path: '/spa/releases/',
+      component: SpaReleases
+    },{
+      path: '/spa/artists/',
+      component: SpaArtists
+    },{
+      path: '/spa/events/',
+      component: SpaEvents
+    },{
+      path: '/friends/',
+      component: SpaFriends
+    },{
+      path: '/contacts/',
+      component: SpaContacts
     }]
   });
 
@@ -55,12 +78,15 @@ define('app', ['./vue.min'], function(Vue) {
     components: {
       'base-bg': BaseBg,
       'headr': Headr,
+      'spa-headr': SpaHeadr,
       'logolink': Logolink,
       'hero': Hero,
       'about': About,
       'donate': Donate,
       'footr': Footr,
+      'spa-footr': SpaFootr,
       'menu-main': MenuMain,
+      'spa-menu-main': SpaMenuMain,
       'menu-social': MenuSocial,
       'menu-mobile': MenuMobile,
       'friends': Friends,

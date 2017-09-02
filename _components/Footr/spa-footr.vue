@@ -1,7 +1,7 @@
 <template>
   <div class="footr">
 
-    <menu-main></menu-main>
+    <spa-menu-main></spa-menu-main>
     <menu-social></menu-social>
 
     <div class="footr__copyright">
@@ -21,12 +21,12 @@
 </template>
 
 <script>
-  var MenuMain = require('./menu-main.vue');
+  var SpaMenuMain = require('./spa-menu-main.vue');
   var MenuSocial = require('./menu-social.vue');
 
   module.exports = {
     components: {
-      'menu-main': MenuMain,
+      'spa-menu-main': SpaMenuMain,
       'menu-social': MenuSocial
     }
   };

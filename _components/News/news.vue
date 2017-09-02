@@ -1,5 +1,6 @@
 <template>
   <div class="news">
+    <h3>News</h3>
     <div class="news__list">
       <p v-for="i in news.data" class="news__item">
         <a :href="i.url" class="news__link">{{ i.date }} - {{ i.title }}</a>
