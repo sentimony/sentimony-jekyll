@@ -15,5 +15,12 @@
 
   &__link {
     padding: .6em;
+    background-color: rgba(#fff,.0);
+    transition: background-color .2s ease;
+
+    // &.is-selected,
+    &:hover {
+      background-color: rgba(#fff,.1);
+    }
   }
 }
