@@ -69,7 +69,10 @@ define('app', ['./vue.min'], function(Vue) {
     },{
       path: '/contacts/',
       component: SpaContacts
-    }]
+    }],
+    scrollBehavior (to, from, savedPosition) {
+      return { x: 0, y: 0 }
+    }
   });
 
   new Vue({
