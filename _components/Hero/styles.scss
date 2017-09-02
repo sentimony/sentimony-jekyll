@@ -1,5 +1,7 @@
 .hero {
   position: relative;
+  background: linear-gradient(to bottom, transparent 0%, rgba(#000,.5) 100%);
+  padding: 12.5em 0;
 
   &__wrapper {
     max-width: 777px;
@@ -11,7 +13,7 @@
   &__title {
     font-family: 'Julius Sans One', sans-serif;
     color: #fff;
-    margin: 2em 0 .2em;
+    margin-bottom: .2em;
     font-weight: 400;
     font-size: 40px;
     letter-spacing: 2px;
@@ -41,7 +43,6 @@
   &__description {
     font-family: 'Julius Sans One', sans-serif;
     color: #fff;
-    margin: 0 0 8em;
     font-weight: 400;
     line-height: 2;
     font-size: 12px;

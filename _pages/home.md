@@ -7,6 +7,6 @@ og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
 <hero></hero>
-<about></about>
 {% include SwiperReleaseList/index.html class='js-swiper-release-list--home-page' %}
+<about></about>
 {% include SwiperArtistList/index.html class='js-swiper-artist-list--home-page' %}
