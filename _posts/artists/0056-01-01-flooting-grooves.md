@@ -5,7 +5,7 @@ permalink: /artist/flooting-grooves/
 category: artists
 comments: true
 title: Flooting Grooves
-photo_cover: https://content.sentimony.com/assets/img/artists/large/flooting-grooves.jpg
+photo: true
 name: Pearce van der Merwe
 location: Italy
 style: Psychill

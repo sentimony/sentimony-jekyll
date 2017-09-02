@@ -5,7 +5,7 @@ permalink: /artist/saikozaurus/
 category: artists
 comments: true
 title: Saikozaurus
-photo_cover: https://content.sentimony.com/assets/img/artists/large/saikozaurus.jpg
+photo: true
 name: Daniil Lebedyntsev
 location: Odesa, Ukraine
 style: forest psytrance

@@ -5,7 +5,7 @@ permalink: /artist/daoine-sidhe/
 category: artists
 comments: true
 title: Daoine Sidhe
-photo_cover: https://content.sentimony.com/assets/img/artists/large/daoine-sidhe.jpg
+photo: true
 name: Phoebus Noussis
 location: Athens, Greece
 style: Psychill, Chillgressive

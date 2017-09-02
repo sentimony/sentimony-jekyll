@@ -4,13 +4,13 @@
   <div class="page-artist__wrapper">
 
     <div class="page-artist__media">
-      <div class="page-artist__cover">
-        {% if page.photo_cover %}
-          <a class="page-artist__cover-link" href="{{ page.photo_cover }}">
-            <img class="page-artist__cover-img" src="{{ page.photo_cover }}" alt="{{ page.title }}">
+      <div class="page-artist__photo">
+        {% if page.photo %}
+          <a class="page-artist__photo-link" href="https://content.sentimony.com/assets/img/artists/large/{{ page.slug }}.jpg">
+            <img class="page-artist__photo-img" src="https://content.sentimony.com/assets/img/artists/medium/{{ page.slug }}.jpg" alt="{{ page.title }}">
           </a>
         {% else %}
-          <div class="page-artist__cover-coming">Photo<br>coming soon</div>
+          <div class="page-artist__photo-coming">Photo<br>coming soon</div>
         {% endif %}
       </div>
 

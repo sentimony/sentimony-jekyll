@@ -5,7 +5,7 @@ permalink: /artist/crystal-vibe/
 category: artists
 comments: true
 title: Crystal Vibe
-photo_cover: https://content.sentimony.com/assets/img/artists/large/crystal-vibe.jpg
+photo: true
 name: Alexander Radchenko
 location: Kyiv, Ukraine
 style: Psychill, Chillgressive

@@ -1,0 +1,78 @@
+.swiper-artist-list {
+  width: 100%;
+  overflow: hidden;
+  height: 136px;
+
+  @include media(M) {
+    height: 286px;
+  }
+
+  &__title {
+    text-align: left;
+    max-width: 1270px;
+    margin: .5em auto;
+    font-size: 18px;
+    padding: 0 10px;
+    box-sizing: border-box;
+
+    @include media(M) {
+      font-size: 32px;
+    }
+  }
+
+  &__container {
+    overflow: visible;
+    padding-bottom: 11px;
+    @include unvisible;
+  }
+
+  &__prev,
+  &__next {
+    display: none;
+    background-color: #fff;
+    background-position: center;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    position: absolute;
+    z-index: 900;
+    top: 25%;
+    margin-top: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 80px;
+    cursor: pointer;
+    transition: opacity .2s ease;
+    opacity: .7;
+
+    @include media(M) {
+      display: block;
+    }
+
+    &:hover {
+      opacity: 1;
+    }
+
+    &.swiper-button-disabled {
+      opacity: .2;
+    }
+  }
+
+  &__prev {
+    left: 5px;
+    background-image: url(/assets/img/svg-icons/arrow-left.svg);
+  }
+
+  &__next {
+    right: 5px;
+    background-image: url(/assets/img/svg-icons/arrow-right.svg);
+  }
+
+  .swiper-scrollbar {
+    left: 4.5%;
+    width: 91%;
+  }
+
+  .swiper-scrollbar-drag {
+    background-color: rgba(#fff,.3);
+  }
+}

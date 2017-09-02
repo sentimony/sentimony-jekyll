@@ -5,7 +5,7 @@ permalink: /artist/frans-gosu/
 category: artists
 comments: true
 title: Frans Gosu
-photo_cover: https://content.sentimony.com/assets/img/artists/large/frans-gosu.jpg
+photo: true
 name: Alexandr Ivanenko
 location: Kremenchug, Ukraine
 style: Psychill

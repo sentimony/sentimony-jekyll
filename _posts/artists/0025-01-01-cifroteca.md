@@ -5,7 +5,7 @@ permalink: /artist/cifroteca/
 category: artists
 comments: true
 title: Cifroteca
-photo_cover: https://content.sentimony.com/assets/img/artists/large/cifroteca.jpg
+photo: true
 name: Yuriy Iofik
 location: Kyiv, Ukraine
 style: Dark Psytrance

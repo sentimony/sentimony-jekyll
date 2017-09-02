@@ -1,18 +1,18 @@
 <template>
-  <div class="release-list-swiper__title">{{ ourReleases }}</div>
+  <div class="swiper-artist-list__title">{{ ourArtists }}</div>
 </template>
 
 <script>
   module.exports = {
     data: function () {
       return {
-        ourReleases: 'Releases'
+        ourArtists: 'Artists'
       }
     }
   };
 </script>
 
 <style>
-  .release-list-swiper__title {
+  .swiper-artist-list__title {
   }
 </style>

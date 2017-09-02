@@ -5,7 +5,7 @@ permalink: /artist/katya-chilly/
 category: artists
 comments: true
 title: Katya Chilly
-photo_cover: https://content.sentimony.com/assets/img/artists/large/katya-chilly.jpg
+photo: true
 name: Katerina Kondratenko
 location: Kyiv, Ukraine
 style: 

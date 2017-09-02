@@ -5,7 +5,7 @@ permalink: /artist/magmadivers/
 category: artists
 comments: true
 title: Magmadivers
-photo_cover: https://content.sentimony.com/assets/img/artists/large/magmadivers.jpg
+photo: true
 name: Dmitriy Likhachev & Grigoriy Sobinov
 location: Kyiv, Ukraine
 style: psytrance

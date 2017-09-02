@@ -5,7 +5,7 @@ permalink: /artist/spectrum-vision/
 category: artists
 comments: true
 title: Spectrum Vision
-photo_cover: https://content.sentimony.com/assets/img/artists/large/spectrum-vision.jpg
+photo: true
 name: Ivan Uzdyaev
 location: Stupino city Moscow regions, Russian Federation
 style: Psychill

@@ -5,7 +5,7 @@ permalink: /artist/ader-project/
 category: artists
 comments: true
 title: Ader Project
-photo_cover: https://content.sentimony.com/assets/img/artists/large/tentura.jpg
+photo: false
 name: Alexandr Pidgornyi
 location: Kyiv, Ukraine
 style: Psychill

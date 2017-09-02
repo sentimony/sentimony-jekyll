@@ -5,7 +5,7 @@ permalink: /artist/unusual-cosmic-process/
 category: artists
 comments: true
 title: Unusual Cosmic Process
-photo_cover: https://content.sentimony.com/assets/img/artists/large/unusual-cosmic-process.jpg
+photo: true
 name: Runar Kristinsson
 location: Nikolaev, Ukraine
 style: Psychill, Chillgressive

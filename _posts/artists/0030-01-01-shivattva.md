@@ -5,7 +5,7 @@ permalink: /artist/shivattva/
 category: artists
 comments: true
 title: Shivattva
-photo_cover: https://content.sentimony.com/assets/img/artists/large/shivattva.jpg
+photo: true
 name: Artem Arhangelskiy
 location: Odesa, Ukraine
 style: forest psytrance

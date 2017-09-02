@@ -37,7 +37,7 @@
     }
   }
 
-  &__cover {
+  &__photo {
     background-color: $colorBgBlack;
     box-shadow: $shadow;
     border-radius: 8px;
@@ -56,13 +56,14 @@
     }
 
     &-img {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate3d(-50%,-50%,0) scale(1.5);
+      // position: absolute;
+      // top: 50%;
+      // left: 50%;
+      // transform: translate3d(-50%,-50%,0);
       display: block;
       width: 100px;
       height: auto;
+      border-radius: 8px;
 
       @include media(M) {
         width: 190px;

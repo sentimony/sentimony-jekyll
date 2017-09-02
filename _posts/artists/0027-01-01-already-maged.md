@@ -5,7 +5,7 @@ permalink: /artist/already-maged/
 category: artists
 comments: true
 title: Already Maged
-photo_cover: https://content.sentimony.com/assets/img/artists/large/already-maged.jpg
+photo: true
 name: Egor Yudin
 location: Lviv, Ukraine
 style: forest psytrance

@@ -5,7 +5,7 @@ permalink: /artist/psyfactor/
 category: artists
 comments: true
 title: Psyfactor
-photo_cover: https://content.sentimony.com/assets/img/artists/large/psyfactor.jpg
+photo: true
 name: Dmitri Korablin
 location: Moscow, Russian Federation
 style: Psychill

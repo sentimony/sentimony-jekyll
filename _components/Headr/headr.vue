@@ -6,6 +6,7 @@
 
       <nav class="headr__main-menu">
         <a href="/release/zymosis-insight/" class="headr__main-menu-link is-selected">Releases</a>
+        <a href="/artist/irukanji/" class="headr__main-menu-link is-selected">Artists</a>
       </nav>
 
       <nav class="headr__social-menu">

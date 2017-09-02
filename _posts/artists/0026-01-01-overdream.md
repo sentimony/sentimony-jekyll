@@ -5,7 +5,7 @@ permalink: /artist/overdream/
 category: artists
 comments: true
 title: Overdream
-photo_cover: https://content.sentimony.com/assets/img/artists/large/overdream.jpg
+photo: true
 name: Maxim Kurushyn
 location: Kyiv, Ukraine
 style: Forest Psytrance, Psychill

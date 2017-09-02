@@ -5,7 +5,7 @@ permalink: /artist/sphingida/
 category: artists
 comments: true
 title: Sphingida
-photo_cover: https://content.sentimony.com/assets/img/artists/large/sphingida.jpg
+photo: true
 name: Ihor Orlovskyi & Yulia Levchenko
 location: Kyiv, Ukraine
 style: Psychill

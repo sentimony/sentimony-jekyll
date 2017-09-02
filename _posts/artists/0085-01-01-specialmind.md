@@ -5,7 +5,7 @@ permalink: /artist/specialmind/
 category: artists
 comments: true
 title: Specialmind
-photo_cover: https://content.sentimony.com/assets/img/artists/large/specialmind.jpg
+photo: true
 name: Alexander Radchenko & Evgeniy Pshonniy
 location: Kyiv, Ukraine
 style: Psychill

@@ -35,6 +35,11 @@
 
     &-link {
       padding: 1em 1.8em;
+      margin-left: .5em;
+
+      &:first-child {
+        margin-left: 0;
+      }
     }
   }
 

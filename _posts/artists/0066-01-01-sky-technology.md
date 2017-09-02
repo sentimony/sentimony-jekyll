@@ -5,7 +5,7 @@ permalink: /artist/sky-technology/
 category: artists
 comments: true
 title: Sky Technology
-photo_cover: https://content.sentimony.com/assets/img/artists/large/sky-technology.jpg
+photo: true
 name: Dmitriy Kolosovskiy
 location: Kyiv, Ukraine
 style: Goa Trance

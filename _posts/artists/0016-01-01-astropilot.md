@@ -5,7 +5,7 @@ permalink: /artist/astropilot/
 category: artists
 comments: true
 title: AstroPilot
-photo_cover: https://content.sentimony.com/assets/img/artists/large/astropilot.jpg
+photo: true
 name: Dmitriy Redko
 location: Moscow, Russian Federation
 style: Psychill, Chillgressive
