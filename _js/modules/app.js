@@ -32,7 +32,7 @@ define('app', ['./vue.min'], function(Vue) {
   var Friends = require('../vue/friends.vue');
   var News = require('../vue/news.vue');
   var Contacts = require('../vue/contacts.vue');
-  var ReleaseListSwiper = require('../vue/release-list-swiper.vue');
+  var SwiperReleaseList = require('../vue/swiper-release-list.vue');
   var SwiperArtistList = require('../vue/swiper-artist-list.vue');
 
   var Index1 = require('../vue/index1.vue');
@@ -66,7 +66,7 @@ define('app', ['./vue.min'], function(Vue) {
       'friends': Friends,
       'news': News,
       'contacts': Contacts,
-      'release-list-swiper': ReleaseListSwiper,
+      'swiper-release-list': SwiperReleaseList,
       'swiper-artist-list': SwiperArtistList
     }
   });

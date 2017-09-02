@@ -1,4 +1,4 @@
-.release-list-swiper-item {
+.swiper-release-list-item {
   position: relative;
   width: 90px;
   box-sizing: border-box;
@@ -27,8 +27,8 @@
       height: 140px;
     }
 
-    .release-list-swiper-item__link:hover &,
-    .release-list-swiper-item.is-selected & {
+    .swiper-release-list-item__link:hover &,
+    .swiper-release-list-item.is-selected & {
       background-color: rgba(#fff,.3);
     }
   }

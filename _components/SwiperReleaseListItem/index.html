@@ -1,0 +1,24 @@
+<div class="swiper-slide swiper-release-list-item{% if page.url contains i.slug %} is-selected{% endif %}">
+  <a class="swiper-release-list-item__link" href="{{ i.url }}">
+    <div class="swiper-release-list-item__wrapper">
+      <div class="swiper-release-list-item__cover">
+        {% if i.cover %}
+          <img class="swiper-release-list-item__img lazyload"
+            src="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg"
+            data-srcset="https://content.sentimony.com/assets/img/releases/small/{{ i.cat_no }}/{{ i.slug }}.jpg 1x, https://content.sentimony.com/assets/img/releases/small-retina/{{ i.cat_no }}/{{ i.slug }}.jpg 2x"
+            alt="{{ i.title }} Small Thumbnail"
+          >
+        {% else %}
+          <div class="swiper-release-list-item__coming">Artwork<br>in progress</div>
+        {% endif %}
+      </div>
+      {% if i.coming_soon %}
+        <div class="swiper-release-list-item__status swiper-release-list-item__status--coming-soon">Coming Soon</div>
+      {% endif %}
+      {% if i.new %}
+        <div class="swiper-release-list-item__status swiper-release-list-item__status--new">New</div>
+      {% endif %}
+    </div>
+    <div class="swiper-release-list-item__title">{{ i.title }}</div>
+  </a>
+</div>

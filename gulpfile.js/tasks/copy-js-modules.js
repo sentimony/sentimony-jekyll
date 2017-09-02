@@ -1,9 +1,14 @@
 var gulp = require('gulp');
+var copy = require('gulp-copy');
+var streamqueue = require('streamqueue');
 
 gulp.task('copy:js:modules', function () {
-  return gulp.src([
-    '_js/base.js',
-    '_js/modules/*'
-  ])
-    .pipe(gulp.dest('.tmp/js/'));
+  return streamqueue({ objectMode: true },
+    gulp.src([
+      '_js/base.js',
+      '_js/modules/*',
+      '_components/**/*.js'
+    ])
+  )
+    .pipe(copy('.tmp/js/', {prefix: 100}));
 });

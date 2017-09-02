@@ -1,0 +1,13 @@
+<div class="swiper-release-list {{ include.class}}">
+  <swiper-release-list></swiper-release-list>
+  <div class="swiper-container swiper-release-list__container">
+    <div class="swiper-wrapper">
+      {% for i in site.categories.releases %}
+        {% include SwiperReleaseListItem/index.html %}
+      {% endfor %}
+    </div>
+    <div class="swiper-release-list__prev js-swiper-release-list__prev"></div>
+    <div class="swiper-release-list__next js-swiper-release-list__next"></div>
+    <div class="swiper-scrollbar swiper-release-list__scrollbar js-swiper-release-list__scrollbar"></div>
+  </div>
+</div>

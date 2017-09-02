@@ -8,5 +8,5 @@ og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 
 <hero></hero>
 <about></about>
-{% include ReleaseListSwiper/index.html class='js-release-list-swiper--home-page' %}
+{% include SwiperReleaseList/index.html class='js-swiper-release-list--home-page' %}
 {% include SwiperArtistList/index.html class='js-swiper-artist-list--home-page' %}

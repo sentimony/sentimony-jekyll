@@ -1,5 +1,5 @@
 <template>
-  <div class="release-list-swiper__title">{{ ourReleases }}</div>
+  <div class="swiper-release-list__title">{{ ourReleases }}</div>
 </template>
 
 <script>
@@ -13,6 +13,6 @@
 </script>
 
 <style>
-  .release-list-swiper__title {
+  .swiper-release-list__title {
   }
 </style>

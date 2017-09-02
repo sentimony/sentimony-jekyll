@@ -2,6 +2,7 @@
   padding: .4em .8em;
   display: flex;
   align-items: center;
+  @extend .headr__main-menu-link;
 
   &__logo {
     width: 40px;

@@ -7,7 +7,12 @@
       <div class="page-artist__photo">
         {% if page.photo %}
           <a class="page-artist__photo-link" href="https://content.sentimony.com/assets/img/artists/large/{{ page.slug }}.jpg">
-            <img class="page-artist__photo-img" src="https://content.sentimony.com/assets/img/artists/medium/{{ page.slug }}.jpg" alt="{{ page.title }}">
+            <img class="page-artist__photo-img lazyload"
+              src="https://content.sentimony.com/assets/img/artists/medium/{{ page.slug }}.jpg"
+              data-srcset="https://content.sentimony.com/assets/img/artists/medium/{{ page.slug }}.jpg 1x,
+                           https://content.sentimony.com/assets/img/artists/medium-retina/{{ page.slug }}.jpg 2x"
+              alt="{{ page.title }} Medium Thumbnail"
+            >
           </a>
         {% else %}
           <div class="page-artist__photo-coming">Photo<br>coming soon</div>

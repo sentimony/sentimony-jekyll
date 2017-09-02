@@ -8,13 +8,15 @@ define('swiper_artist_list_init', ['./swiper.min'], function (Swiper) {
       document.querySelector('.swiper-artist-list__container').classList.add('is-visible');
 
       var swiperHomePage = new Swiper ('.js-swiper-artist-list--home-page .swiper-container', {
-        nextButton: '.swiper-artist-list__next',
-        prevButton: '.swiper-artist-list__prev',
-        scrollbar: '.swiper-scrollbar',
+        nextButton: '.js-swiper-artist-list__next',
+        prevButton: '.js-swiper-artist-list__prev',
+        scrollbar: '.js-swiper-artist-list__scrollbar',
         mousewheelControl: true,
         mousewheelForceToAxis: true,
         freeMode: true,
-        slidesPerView: 'auto'
+        slidesPerView: 'auto',
+        // loop: true,
+        // loopedSlides: 'loop'
       })
 
     }
@@ -24,15 +26,17 @@ define('swiper_artist_list_init', ['./swiper.min'], function (Swiper) {
       document.querySelector('.swiper-artist-list__container').classList.add('is-visible');
 
       var swiperartistPage = new Swiper ('.js-swiper-artist-list--artist-page .swiper-container', {
-        nextButton: '.swiper-artist-list__next',
-        prevButton: '.swiper-artist-list__prev',
-        scrollbar: '.swiper-scrollbar',
+        nextButton: '.js-swiper-artist-list__next',
+        prevButton: '.js-swiper-artist-list__prev',
+        scrollbar: '.js-swiper-artist-list__scrollbar',
         centeredSlides: true,
         slideToClickedSlide: true,
         mousewheelControl: true,
         mousewheelForceToAxis: true,
         freeMode: true,
-        slidesPerView: 'auto'
+        slidesPerView: 'auto',
+        // loop: true,
+        // loopedSlides: 'loop'
       })
 
       swiperartistPage.slideTo(getSlideIndexByClass('is-selected'), false);
