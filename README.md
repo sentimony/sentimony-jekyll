@@ -1,4 +1,4 @@
-# sentimony-jekyll
+# sentimony
 
 _Web development of Sentimony Records site_
 
