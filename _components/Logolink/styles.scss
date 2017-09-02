@@ -1,13 +1,16 @@
 .logolink {
-  padding: .4em .8em;
   display: flex;
+  justify-content: center;
   align-items: center;
   @extend .headr__main-menu-link;
+  width: 232px;
+  height: 54px;
+  padding: 0;
 
   &__logo {
     width: 40px;
     display: block;
-    margin-right: .8em;
+    margin-right: .792em;
   }
 
   &__text {

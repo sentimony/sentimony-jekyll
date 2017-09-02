@@ -22,7 +22,7 @@
     }
 
     &-link {
-      padding: 1em 1.8em;
+      padding: .938em .938em*1.5;
       font-size: 16px;
       color: #fff;
       border-radius: 6px;
@@ -45,6 +45,11 @@
 
     @include media(S) {
       display: flex;
+    }
+
+    @include media(M) {
+      justify-content: flex-end;
+      width: 232px;
     }
 
     &-link {
