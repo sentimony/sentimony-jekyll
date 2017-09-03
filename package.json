@@ -29,7 +29,7 @@
     "gulp-sass-unicode": "^1.0.1",
     "node-sass": "^4.5.3",
     "require-dir": "^0.3.2",
-    "scss-loader": "0.0.1",
+    "sass-loader": "^6.0.6",
     "streamqueue": "^1.1.1",
     "uglifyjs-webpack-plugin": "^0.4.6",
     "vue": "^2.4.2",

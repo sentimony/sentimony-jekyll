@@ -5,7 +5,7 @@ var sass = require('gulp-sass');
 var prefix = require('gulp-autoprefixer');
 var browserSync = require('browser-sync');
 
-gulp.task('sass', function () {
+gulp.task('scss', function () {
   return gulp.src([
     '_scss/main.scss'
   ])
@@ -18,7 +18,7 @@ gulp.task('sass', function () {
       onError: browserSync.notify
     }))
     .pipe(prefix(['last 2 version', '> 0%', 'ie > 7', 'safari 5', 'ios 6', 'android 4'], {cascade: true}))
-    .pipe(gulp.dest('_site/assets/css'))
+    .pipe(gulp.dest('_site/assets/css/'))
     .pipe(browserSync.reload({stream: true}))
-    .pipe(gulp.dest('assets/css'));
+    .pipe(gulp.dest('assets/css/'));
 });

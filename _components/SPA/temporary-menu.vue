@@ -17,27 +17,37 @@
   };
 </script>
 
-<style>
+<style lang="scss?outputStyle=compressed">
+  @import '../../_scss/ui/_variables.scss';
+
   .temporary-menu {
     padding: 0 .6em;
-  }
 
-  .temporary-menu__wrapper {
-    border-bottom: 1px solid rgba(255,255,255,.3);
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    padding-top: .3em;
-  }
+    &__wrapper {
+      border-bottom: 1px solid rgba(#fff,.3);
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding-top: .3em;
+    }
 
-  .temporary-menu__link {
-    padding: .25em .50em;
-    border: 1px solid #fff;
-    border-radius: 6px;
-    margin: 0 .1em .3em;
-  }
+    &__link {
+      padding: .25em .50em;
+      border: 1px solid #fff;
+      border-radius: 6px;
+      margin: 0 .1em .3em;
+      background-color: rgba(#fff,.0);
+      transition: background-color .2s ease;
 
-  .temporary-menu__link.is-disabled {
-    opacity: .5;
+      // &.is-selected,
+      &:hover {
+        background-color: rgba(#fff,.1);
+        background-color: $colorBgLight;
+      }
+
+      &.is-disabled {
+        opacity: .5;
+      }
+    }
   }
 </style>
