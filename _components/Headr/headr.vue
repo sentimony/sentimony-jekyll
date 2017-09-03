@@ -6,7 +6,9 @@
 
       <nav class="headr__main-menu">
         <a href="/release/zymosis-insight/" class="headr__main-menu-link is-selected">Releases</a>
+        <!-- <router-link to="/spa/releases/" class="headr__main-menu-link is-selected">Releases</router-link> -->
         <a href="/artist/irukanji/" class="headr__main-menu-link is-selected">Artists</a>
+        <!-- <router-link to="/spa/artists/" class="headr__main-menu-link is-selected">Artists</router-link> -->
       </nav>
 
       <nav class="headr__social-menu">

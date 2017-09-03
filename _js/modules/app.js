@@ -21,15 +21,12 @@ define('app', ['./vue.min'], function(Vue) {
 
   var BaseBg = require('../vue/base-bg.vue');
   var Headr = require('../vue/headr.vue');
-  var SpaHeadr = require('../vue/spa-headr.vue');
   var Logolink = require('../vue/logolink.vue');
   var Hero = require('../vue/hero.vue');
   var About = require('../vue/about.vue');
   var Donate = require('../vue/donate.vue');
   var Footr = require('../vue/footr.vue');
-  var SpaFootr = require('../vue/spa-footr.vue');
   var MenuMain = require('../vue/menu-main.vue');
-  var SpaMenuMain = require('../vue/spa-menu-main.vue');
   var MenuSocial = require('../vue/menu-social.vue');
   var TemporaryMenu = require('../vue/temporary-menu.vue');
   var MenuMobile = require('../vue/menu-mobile.vue');
@@ -82,15 +79,12 @@ define('app', ['./vue.min'], function(Vue) {
     components: {
       'base-bg': BaseBg,
       'headr': Headr,
-      'spa-headr': SpaHeadr,
       'logolink': Logolink,
       'hero': Hero,
       'about': About,
       'donate': Donate,
       'footr': Footr,
-      'spa-footr': SpaFootr,
       'menu-main': MenuMain,
-      'spa-menu-main': SpaMenuMain,
       'temporary-menu': TemporaryMenu,
       'menu-social': MenuSocial,
       'menu-mobile': MenuMobile,
