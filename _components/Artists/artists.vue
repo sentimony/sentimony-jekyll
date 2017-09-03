@@ -2,16 +2,16 @@
   <div class="artists">
     <h3>Artists</h3>
     <div class="artists__list">
-      <div v-for="i in artists.data" class="artists__item">
+      <div v-for="i in artists.data">
         <p>
           <a :href="i.url">
-            <img class="artist-list__photo"
+            <img class="artists__photo"
               :src="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg'"
               :alt="i.title"
             >
           </a>
         </p>
-        <p class="artist-list__title">
+        <p class="artists__title">
           <a :href="i.url">{{ i.title }}</a>
         </p>
       </div>
@@ -45,10 +45,28 @@
   };
 </script>
 
-<style>
-  .artists__list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+<style lang="scss?outputStyle=compressed">
+  @import '../../_scss/ui/_variables.scss';
+
+  .artists {
+
+    &__list {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+
+    &__photo {
+      display: block;
+      margin: 0 auto;
+      max-width: 120px;
+      height: auto;
+      box-shadow: $shadow;
+      border-radius: 8px;
+    }
+
+    &__title {
+      max-width: 120px;
+    }
   }
 </style>
