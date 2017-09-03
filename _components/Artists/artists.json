@@ -1,0 +1,14 @@
+{
+  "artists": {
+    "data": [{
+        "title": "Irukanji",
+        "slug": "irukanji",
+        "url": "/artist/irukanji/"
+      }, {
+        "title": "Zymosis",
+        "slug": "zymosis",
+        "url": "/artist/zymosis/"
+      }
+    ]
+  }
+}

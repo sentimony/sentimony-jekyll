@@ -3,8 +3,8 @@
     <div class="temporary-menu__wrapper">
       <router-link class="temporary-menu__link" to="/spa/">Home</router-link>
       <router-link class="temporary-menu__link is-disabled" to="/news/">News</router-link>
-      <router-link class="temporary-menu__link" to="/spa/releases/">Releases</router-link>
-      <router-link class="temporary-menu__link" to="/spa/artists/">Artists</router-link>
+      <router-link class="temporary-menu__link is-disabled" to="/releases/">Releases</router-link>
+      <router-link class="temporary-menu__link is-disabled" to="/artists/">Artists</router-link>
       <router-link class="temporary-menu__link is-disabled" to="/events/">Events</router-link>
       <router-link class="temporary-menu__link is-disabled" to="/friends/">Friends</router-link>
       <router-link class="temporary-menu__link is-disabled" to="/contacts/">Contacts</router-link>

@@ -1,27 +1,22 @@
 {
   "events": {
-    "data": [
-      {
+    "data": [{
         "title": "Sentimony: Five Years",
         "date": "2011-11-05",
         "url": "/event/five-years/"
-      },
-      {
+      }, {
         "title": "Sentimony: Home Space",
         "date": "2010-11-13",
         "url": "/event/home-space/"
-      },
-      {
+      }, {
         "title": "Sentimony: Water Marks",
         "date": "2010-08-28",
         "url": "/event/water-marks/"
-      },
-      {
+      }, {
         "title": "Sentimony: Alt Space",
         "date": "2009-11-21",
         "url": "/event/alt-space/"
-      },
-      {
+      }, {
         "title": "Sentimony: Shift Space",
         "date": "2008-11-01",
         "url": "/event/shift-space/"

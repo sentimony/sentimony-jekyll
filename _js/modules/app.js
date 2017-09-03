@@ -31,6 +31,8 @@ define('app', ['./vue.min'], function(Vue) {
   var MenuSocial = require('../vue/menu-social.vue');
   var TemporaryMenu = require('../vue/temporary-menu.vue');
   var MenuMobile = require('../vue/menu-mobile.vue');
+  var Artists = require('../vue/artists.vue');
+  var Releases = require('../vue/releases.vue');
   var Friends = require('../vue/friends.vue');
   var Events = require('../vue/events.vue');
   var News = require('../vue/news.vue');
@@ -55,10 +57,10 @@ define('app', ['./vue.min'], function(Vue) {
       path: '/news/',
       component: SpaNews
     },{
-      path: '/spa/releases/',
+      path: '/releases/',
       component: SpaReleases
     },{
-      path: '/spa/artists/',
+      path: '/artists/',
       component: SpaArtists
     },{
       path: '/events/',
@@ -91,6 +93,8 @@ define('app', ['./vue.min'], function(Vue) {
       'temporary-menu': TemporaryMenu,
       'menu-social': MenuSocial,
       'menu-mobile': MenuMobile,
+      'releases': Releases,
+      'artists': Artists,
       'friends': Friends,
       'events': Events,
       'news': News,

@@ -1,5 +1,5 @@
 {
-  "news": {
+  "releases": {
     "data": [{
         "title": "Zymosis «Insight»",
         "date": "2017-07-25",
@@ -45,10 +45,6 @@
         "date": "2012-01-10",
         "url": "/release/va-special-places/"
       }, {
-        "title": "Sentimony: Five Years",
-        "date": "2011-11-05",
-        "url": "/event/five-years/"
-      }, {
         "title": "VA «Absence Of Gravity»",
         "date": "2011-04-12",
         "url": "/release/va-absence-of-gravity/"
@@ -61,10 +57,6 @@
         "date": "2011-01-10",
         "url": "/release/va-tempo-syndicate/"
       }, {
-        "title": "Sentimony: Home Space",
-        "date": "2010-11-13",
-        "url": "/event/home-space/"
-      }, {
         "title": "Unusual Cosmic Process ‎«Weightlessness»",
         "date": "2010-11-05",
         "url": "/release/unusual-cosmic-process-weightlessness/"
@@ -73,10 +65,6 @@
         "date": "2010-09-15",
         "url": "/release/va-time-loop-beyond-borders/"
       }, {
-        "title": "Sentimony: Water Marks",
-        "date": "2010-08-28",
-        "url": "/event/water-marks/"
-      }, {
         "title": "VA «Grower»",
         "date": "2010-06-15",
         "url": "/release/va-grower/"
@@ -84,10 +72,6 @@
         "title": "Senzar ‎«Before The Morning Sun»",
         "date": "2010-05-31",
         "url": "/release/senzar-before-the-morning-sun/"
-      }, {
-        "title": "Sentimony: Alt Space",
-        "date": "2009-11-21",
-        "url": "/event/alt-space/"
       }, {
         "title": "VA «Ocean Scenes: Higher Titans»",
         "date": "2009-11-21",
@@ -100,10 +84,6 @@
         "title": "Spectrum Vision «Lost Space Device»",
         "date": "2008-10-31",
         "url": "/release/spectrum-vision-lost-space-device/"
-      }, {
-        "title": "Sentimony: Shift Space",
-        "date": "2008-11-01",
-        "url": "/event/shift-space/"
       }, {
         "title": "VA «True Story»",
         "date": "2008-04-25",
