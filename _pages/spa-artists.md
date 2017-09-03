@@ -1,5 +1,5 @@
 ---
-layout: spa-default
+layout: default
 title: Artists
 description: Artists of Sentimony Records
 permalink: /spa/artists/

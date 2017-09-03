@@ -1,5 +1,5 @@
 ---
-layout: spa-default
+layout: default
 title: News
 description: News of Sentimony Records
 permalink: /news/

@@ -9,8 +9,7 @@
         <a class="menu-main__link is-selected" href="/releases/">Releases</a>
         <!-- <router-link class="menu-main__link is-selected" to="/spa/artists/">Artists</router-link> -->
         <a class="menu-main__link is-selected" href="/artists/">Artists</a>
-        <!-- <router-link class="menu-main__link is-selected" to="/spa/events/">Events</router-link> -->
-        <a class="menu-main__link is-selected" href="/events/">Events</a>
+        <router-link class="menu-main__link is-selected" to="/events/">Events</router-link>
         <router-link class="menu-main__link is-selected" to="/friends/">Friends</router-link>
         <router-link class="menu-main__link is-selected" to="/contacts/">Contacts</router-link>
       </div>

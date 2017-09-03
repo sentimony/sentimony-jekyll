@@ -1,5 +1,5 @@
 ---
-layout: spa-default
+layout: default
 title: Releases
 description: Releases of Sentimony Records
 permalink: /spa/releases/

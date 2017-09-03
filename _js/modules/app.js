@@ -32,6 +32,7 @@ define('app', ['./vue.min'], function(Vue) {
   var TemporaryMenu = require('../vue/temporary-menu.vue');
   var MenuMobile = require('../vue/menu-mobile.vue');
   var Friends = require('../vue/friends.vue');
+  var Events = require('../vue/events.vue');
   var News = require('../vue/news.vue');
   var Contacts = require('../vue/contacts.vue');
   var SwiperReleaseList = require('../vue/swiper-release-list.vue');
@@ -60,7 +61,7 @@ define('app', ['./vue.min'], function(Vue) {
       path: '/spa/artists/',
       component: SpaArtists
     },{
-      path: '/spa/events/',
+      path: '/events/',
       component: SpaEvents
     },{
       path: '/friends/',
@@ -91,6 +92,7 @@ define('app', ['./vue.min'], function(Vue) {
       'menu-social': MenuSocial,
       'menu-mobile': MenuMobile,
       'friends': Friends,
+      'events': Events,
       'news': News,
       'contacts': Contacts,
       'swiper-release-list': SwiperReleaseList,

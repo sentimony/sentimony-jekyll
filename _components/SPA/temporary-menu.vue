@@ -5,7 +5,7 @@
       <router-link class="temporary-menu__link is-disabled" to="/news/">News</router-link>
       <router-link class="temporary-menu__link" to="/spa/releases/">Releases</router-link>
       <router-link class="temporary-menu__link" to="/spa/artists/">Artists</router-link>
-      <router-link class="temporary-menu__link" to="/spa/events/">Events</router-link>
+      <router-link class="temporary-menu__link is-disabled" to="/events/">Events</router-link>
       <router-link class="temporary-menu__link is-disabled" to="/friends/">Friends</router-link>
       <router-link class="temporary-menu__link is-disabled" to="/contacts/">Contacts</router-link>
     </div>

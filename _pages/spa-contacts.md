@@ -1,5 +1,5 @@
 ---
-layout: spa-default
+layout: default
 title: Contacts
 description: Contacts of Sentimony Records
 permalink: /contacts/
