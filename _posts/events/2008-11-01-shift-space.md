@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page-event
 permalink: /event/shift-space/
 category: events
 comments: true

@@ -2,17 +2,18 @@
   <div class="artists">
     <h3>Artists</h3>
     <div class="artists__list">
-      <div v-for="i in artists.data">
-        <p>
-          <a :href="i.url">
-            <img class="artists__photo"
+      <div v-for="i in artists.data" class="artists__item">
+        <p v-if="i.slug">
+          <a :href="'/artist/' + i.slug" class="artists__link">
+            <img class="artists__photo lazyload"
               :src="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg'"
-              :alt="i.title"
+              :data-srcset="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/artists/small-retina/' + i.slug + '.jpg 2x'"
+              :alt="i.title + ' Small Thumbnail'"
             >
           </a>
         </p>
         <p class="artists__title">
-          <a :href="i.url">{{ i.title }}</a>
+          <a :href="'/artist/' + i.slug">{{ i.title }}</a>
         </p>
       </div>
     </div>
@@ -26,9 +27,8 @@
         artists: {
           data: [
             {
-              title: '',
               slug: '',
-              url: ''
+              title: ''
             }
           ]
         }
@@ -56,17 +56,22 @@
       justify-content: space-around;
     }
 
+    &__item,
+    &__link {
+      width: 120px;
+    }
+
     &__photo {
       display: block;
       margin: 0 auto;
-      max-width: 120px;
+      width: 100%;
       height: auto;
       box-shadow: $shadow;
       border-radius: 8px;
     }
 
-    &__title {
-      max-width: 120px;
-    }
+    // &__title {
+    //   max-width: 120px;
+    // }
   }
 </style>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page-event
 permalink: /event/home-space/
 category: events
 comments: true

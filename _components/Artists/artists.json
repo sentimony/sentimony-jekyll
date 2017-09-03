@@ -1,13 +1,20 @@
 {
   "artists": {
     "data": [{
-        "title": "Irukanji",
         "slug": "irukanji",
-        "url": "/artist/irukanji/"
+        "title": "Irukanji"
       }, {
-        "title": "Zymosis",
         "slug": "zymosis",
-        "url": "/artist/zymosis/"
+        "title": "Zymosis"
+      }, {
+        "slug": "overdream",
+        "title": "Overdream"
+      }, {
+        "slug": "astropilot",
+        "title": "AstroPilot"
+      }, {
+        "slug": "senzar",
+        "title": "Senzar"
       }
     ]
   }

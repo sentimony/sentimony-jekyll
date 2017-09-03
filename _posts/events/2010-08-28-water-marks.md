@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page-event
 permalink: /event/water-marks/
 category: events
 comments: true
