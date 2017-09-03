@@ -53,11 +53,11 @@
     }
 
     &-link {
+      @extend .headr__main-menu-link;
       font-size: 16px;
       color: #fff;
       padding: .938em;
       box-sizing: border-box;
-      @extend .headr__main-menu-link;
 
       &-img {
         display: block;
@@ -73,8 +73,10 @@
   }
 
   &__mob-menu-button {
+    @extend .headr__main-menu-link;
     display: block;
     padding: 1.063em;
+    margin-left: 0;
 
     @include media(M) {
       display: none;

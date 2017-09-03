@@ -20,6 +20,7 @@ define('app', ['./vue.min'], function(Vue) {
   firebase.initializeApp(config);
 
   var BaseBg = require('../vue/base-bg.vue');
+  var SvgTriangle = require('../vue/svg-triangle.vue');
   var Headr = require('../vue/headr.vue');
   var Logolink = require('../vue/logolink.vue');
   var Hero = require('../vue/hero.vue');
@@ -78,6 +79,7 @@ define('app', ['./vue.min'], function(Vue) {
     router: router,
     components: {
       'base-bg': BaseBg,
+      'svg-triangle': SvgTriangle,
       'headr': Headr,
       'logolink': Logolink,
       'hero': Hero,

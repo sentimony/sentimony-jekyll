@@ -1,8 +1,8 @@
 .logolink {
+  @extend .headr__main-menu-link;
   display: flex;
   justify-content: center;
   align-items: center;
-  @extend .headr__main-menu-link;
   width: 232px;
   height: 54px;
   padding: 0;
