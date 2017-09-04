@@ -21,7 +21,7 @@ bandcamp_id: 3632768543
 link_bandcamp: https://sentimony.bandcamp.com/album/ufomatka-the-e-p
 link_junodownload: 
 link_beatspace: 
-link_beatspace: 
+link_itunes: 
 link_ektoplazm: 
 link_discogs: 866892
 written_by: <a href="/artist/ufomatka/">Ufomatka</a>

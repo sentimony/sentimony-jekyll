@@ -1,6 +1,6 @@
 <template>
   <div class="contacts">
-    <h3>Contacts</h3>
+    <h1>Contacts</h1>
     <p>Let's be in touch:</p>
     <p><a href='mailto:sentimony@gmail.com?subject=Hello, Sentimony Records'>sentimony@gmail.com</a></p>
     <menu-social></menu-social>
@@ -17,7 +17,7 @@
   };
 </script>
 
-<style>
+<style lang="scss?outputStyle=compressed">
   .contacts {
   }
 </style>

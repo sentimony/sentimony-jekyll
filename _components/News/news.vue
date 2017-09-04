@@ -1,9 +1,9 @@
 <template>
   <div class="news">
-    <h3>News</h3>
+    <h1>News</h1>
     <div class="news__list">
       <p v-for="i in news.data" class="news__item">
-        <a :href="i.url" class="news__link">{{ i.date }} - {{ i.title }}</a>
+        <a :href="i.url" class="news__link" v-if="i.date" v-html="i.date + ' @ ' + i.title"></a>
       </p>
     </div>
   </div>
@@ -35,7 +35,7 @@
   };
 </script>
 
-<style>
+<style lang="scss?outputStyle=compressed">
   .news {
   }
 </style>

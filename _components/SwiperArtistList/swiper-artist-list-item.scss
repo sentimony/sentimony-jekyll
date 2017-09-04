@@ -27,8 +27,8 @@
       height: 140px;
     }
 
-    .swiper-artist-list-item__link:hover &,
-    .swiper-artist-list-item.is-selected & {
+    .swiper-artist-list-item.is-selected &,
+    .swiper-artist-list-item__link:hover & {
       background-color: rgba(#fff,.3);
     }
   }

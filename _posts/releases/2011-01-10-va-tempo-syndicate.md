@@ -21,6 +21,7 @@ bandcamp_id: 2483216888
 link_bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate
 link_junodownload: http://www.junodownload.com/products/tempo-syndicate/1686481-02
 link_beatspace: 
+link_itunes: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
 link_discogs: 563066
 written_by: 

@@ -48,7 +48,7 @@
   };
 </script>
 
-<style>
+<style lang="scss?outputStyle=compressed">
   .headr {
   }
 </style>

@@ -1,4 +1,4 @@
-.swiper-artist-list {
+.swiper-release-list {
   width: 100%;
   overflow: hidden;
   height: 136px;
@@ -67,7 +67,7 @@
     background-image: url(/assets/img/svg-icons/arrow-right.svg);
   }
 
-  .swiper-scrollbar {
+  &__scrollbar {
     left: 4.5%;
     width: 91%;
   }

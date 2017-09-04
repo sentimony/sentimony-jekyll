@@ -1,6 +1,6 @@
 <template>
   <div class="artists">
-    <h3>Artists</h3>
+    <h1>Artists</h1>
     <div class="artists__list">
       <div v-for="i in artists.data" class="artists__item">
         <p v-if="i.slug">
@@ -49,6 +49,8 @@
   @import '../../_scss/ui/_variables.scss';
 
   .artists {
+    max-width: 1278px;
+    margin: 0 auto;
 
     &__list {
       display: flex;
@@ -70,8 +72,8 @@
       border-radius: 8px;
     }
 
-    // &__title {
-    //   max-width: 120px;
-    // }
+    &__title {
+      min-height: 44px;
+    }
   }
 </style>

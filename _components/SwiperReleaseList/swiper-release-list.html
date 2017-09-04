@@ -1,9 +1,9 @@
 <div class="swiper-release-list {{ include.class}}">
-  <swiper-release-list></swiper-release-list>
+  <div class="swiper-release-list__title">Releases</div>
   <div class="swiper-container swiper-release-list__container">
     <div class="swiper-wrapper">
       {% for i in site.categories.releases %}
-        {% include SwiperReleaseListItem/index.html %}
+        {% include SwiperReleaseList/swiper-release-list-item.html %}
       {% endfor %}
     </div>
     <div class="swiper-release-list__prev js-swiper-release-list__prev"></div>

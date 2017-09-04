@@ -3,103 +3,128 @@
     "data": [{
         "title": "Zymosis «Insight»",
         "date": "2017-07-25",
-        "url": "/release/zymosis-insight/"
+        "slug": "zymosis-insight",
+        "cat_no": "sencd025"
       }, {
         "title": "VA «The Ten»",
         "date": "2017-04-13",
-        "url": "/release/va-the-ten/"
+        "slug": "va-the-ten",
+        "cat_no": "sencd024"
       }, {
         "title": "Tentura «Beyond Illusion»",
         "date": "2015-02-22",
-        "url": "/release/tentura-beyond-illusion/"
+        "slug": "tentura-beyond-illusion",
+        "cat_no": "sencd023"
       }, {
         "title": "Ufomatka «The E.P.»",
         "date": "2015-02-16",
-        "url": "/release/ufomatka-the-ep/"
+        "slug": "ufomatka-the-ep",
+        "cat_no": "sencd022"
       }, {
         "title": "VA «Gamayun Tale»",
         "date": "2014-02-10",
-        "url": "/release/va-gamayun-tale/"
+        "slug": "va-gamayun-tale",
+        "cat_no": "sencd021"
       }, {
         "title": "Psyfactor «Retro Scientific»",
         "date": "2014-02-10",
-        "url": "/release/psyfactor-retro-scientific/"
+        "slug": "psyfactor-retro-scientific",
+        "cat_no": "sencd016"
       }, {
         "title": "Cifroteca & Roof Raiser «Wild Storm»",
         "date": "2013-11-25",
-        "url": "/release/cifroteca-roof-raiser-wild-storm/"
+        "slug": "cifroteca-roof-raiser-wild-storm",
+        "cat_no": "sencd015"
       }, {
         "title": "Tentura «Aurora»",
         "date": "2012-12-12",
-        "url": "/release/tentura-aurora/"
+        "slug": "tentura-aurora",
+        "cat_no": "sencd014"
       }, {
         "title": "Specialmind «The Missing Particle»",
         "date": "2012-11-08",
-        "url": "/release/specialmind-the-missing-particle/"
+        "slug": "specialmind-the-missing-particle",
+        "cat_no": "sencd013"
       }, {
         "title": "Hypnotriod «Seven Heavenly Edges»",
         "date": "2012-08-07",
-        "url": "/release/hypnotriod-seven-heavenly-edges/"
+        "slug": "hypnotriod-seven-heavenly-edges",
+        "cat_no": "sencd012"
       }, {
         "title": "VA «Special Places»",
         "date": "2012-01-10",
-        "url": "/release/va-special-places/"
+        "slug": "va-special-places",
+        "cat_no": "sencd011"
       }, {
         "title": "VA «Absence Of Gravity»",
         "date": "2011-04-12",
-        "url": "/release/va-absence-of-gravity/"
+        "slug": "va-absence-of-gravity",
+        "cat_no": "sencd010"
       }, {
         "title": "VA «Dansing Mavka»",
         "date": "2011-02-21",
-        "url": "/release/va-dancing-mavka/"
+        "slug": "va-dancing-mavka",
+        "cat_no": "sencd020"
       }, {
         "title": "VA «Tempo Syndicate»",
         "date": "2011-01-10",
-        "url": "/release/va-tempo-syndicate/"
+        "slug": "va-tempo-syndicate",
+        "cat_no": "sencd009"
       }, {
         "title": "Unusual Cosmic Process ‎«Weightlessness»",
         "date": "2010-11-05",
-        "url": "/release/unusual-cosmic-process-weightlessness/"
+        "slug": "unusual-cosmic-process-weightlessness",
+        "cat_no": "sencd019"
       }, {
         "title": "VA «Time Loop: Beyond Borders»",
         "date": "2010-09-15",
-        "url": "/release/va-time-loop-beyond-borders/"
+        "slug": "va-time-loop-beyond-borders",
+        "cat_no": "sencd007"
       }, {
         "title": "VA «Grower»",
         "date": "2010-06-15",
-        "url": "/release/va-grower/"
+        "slug": "va-grower",
+        "cat_no": "sencd018"
       }, {
         "title": "Senzar ‎«Before The Morning Sun»",
         "date": "2010-05-31",
-        "url": "/release/senzar-before-the-morning-sun/"
+        "slug": "senzar-before-the-morning-sun",
+        "cat_no": "sencd017"
       }, {
         "title": "VA «Ocean Scenes: Higher Titans»",
         "date": "2009-11-21",
-        "url": "/release/va-ocean-scenes-higher-titans/"
+        "slug": "va-ocean-scenes-higher-titans",
+        "cat_no": "sencd008"
       }, {
         "title": "Irukanji «Z Lisu»",
         "date": "2009-02-23",
-        "url": "/release/irukanji-z-lisu/"
+        "slug": "irukanji-z-lisu",
+        "cat_no": "sencd006"
       }, {
         "title": "Spectrum Vision «Lost Space Device»",
         "date": "2008-10-31",
-        "url": "/release/spectrum-vision-lost-space-device/"
+        "slug": "spectrum-vision-lost-space-device",
+        "cat_no": "sencd005"
       }, {
         "title": "VA «True Story»",
         "date": "2008-04-25",
-        "url": "/release/va-true-story/"
+        "slug": "va-true-story",
+        "cat_no": "sencd004"
       }, {
         "title": "Sphingida «Origin»",
         "date": "2007-12-20",
-        "url": "/release/sphingida-origin/"
+        "slug": "sphingida-origin",
+        "cat_no": "sencd003"
       }, {
         "title": "VA «Emptinesses»",
         "date": "2007-06-19",
-        "url": "/release/va-emptinesses/"
+        "slug": "va-emptinesses",
+        "cat_no": "sencd002"
       }, {
         "title": "VA «Fantazma»",
         "date": "2007-02-09",
-        "url": "/release/va-fantazma/"
+        "slug": "va-fantazma",
+        "cat_no": "sencd001"
       }
     ]
   }

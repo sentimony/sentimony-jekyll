@@ -1,6 +1,6 @@
 <template>
   <div class="friends">
-    <h3>Friends</h3>
+    <h1>Friends</h1>
     <div class="friends__list">
       <p v-for="i in friends.data" class="friends__item">
         <span class="friends__title">{{ i.title }}</span>
@@ -41,7 +41,7 @@
   };
 </script>
 
-<style>
+<style lang="scss?outputStyle=compressed">
   .friends {
   }
 </style>

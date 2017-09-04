@@ -18,10 +18,10 @@
 @import '_components/Headr/styles';
 @import '_components/Logolink/styles';
 @import '_components/Hero/styles';
-@import '_components/SwiperReleaseList/styles';
-@import '_components/SwiperReleaseListItem/styles';
-@import '_components/SwiperArtistList/styles';
-@import '_components/SwiperArtistListItem/styles';
+@import '_components/SwiperReleaseList/swiper-release-list';
+@import '_components/SwiperReleaseList/swiper-release-list-item';
+@import '_components/SwiperArtistList/swiper-artist-list';
+@import '_components/SwiperArtistList/swiper-artist-list-item';
 @import '_components/ReleasePage/styles';
 @import '_components/ReleasePage/page-release-content';
 @import '_components/GoodShare/styles';
@@ -29,6 +29,3 @@
 @import '_components/ArtistPage/facebook-widget';
 @import '_components/ArtistPage/page-artist-content';
 @import '_components/IframeSize/styles';
-@import '_components/MenuMain/styles';
-@import '_components/MenuSocial/styles';
-@import '_components/MenuMobile/styles';

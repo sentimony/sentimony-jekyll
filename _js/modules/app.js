@@ -8,16 +8,16 @@ define('app', ['./vue.min'], function(Vue) {
   Vue.use(VueAxios, axios);
 
   // Initialize Firebase
-  var firebase = require('firebase');
-  var config = {
-    apiKey: "AIzaSyCTVGdSsE6h8PA6WOeqxgzyCgX4L3eOoNE",
-    authDomain: "sentimony-db.firebaseapp.com",
-    databaseURL: "https://sentimony-db.firebaseio.com",
-    projectId: "sentimony-db",
-    storageBucket: "sentimony-db.appspot.com",
-    messagingSenderId: "724792675849"
-  };
-  firebase.initializeApp(config);
+  // var firebase = require('firebase');
+  // var config = {
+  //   apiKey: "AIzaSyCTVGdSsE6h8PA6WOeqxgzyCgX4L3eOoNE",
+  //   authDomain: "sentimony-db.firebaseapp.com",
+  //   databaseURL: "https://sentimony-db.firebaseio.com",
+  //   projectId: "sentimony-db",
+  //   storageBucket: "sentimony-db.appspot.com",
+  //   messagingSenderId: "724792675849"
+  // };
+  // firebase.initializeApp(config);
 
   var BaseBg = require('../vue/base-bg.vue');
   var SvgTriangle = require('../vue/svg-triangle.vue');
@@ -29,7 +29,7 @@ define('app', ['./vue.min'], function(Vue) {
   var Footr = require('../vue/footr.vue');
   var MenuMain = require('../vue/menu-main.vue');
   var MenuSocial = require('../vue/menu-social.vue');
-  var TemporaryMenu = require('../vue/temporary-menu.vue');
+  var MenuTemporary = require('../vue/menu-temporary.vue');
   var MenuMobile = require('../vue/menu-mobile.vue');
   var Artists = require('../vue/artists.vue');
   var ArtistPage = require('../vue/artist-page.vue');
@@ -105,7 +105,7 @@ define('app', ['./vue.min'], function(Vue) {
       'donate': Donate,
       'footr': Footr,
       'menu-main': MenuMain,
-      'temporary-menu': TemporaryMenu,
+      'menu-temporary': MenuTemporary,
       'menu-social': MenuSocial,
       'menu-mobile': MenuMobile,
       'releases': Releases,

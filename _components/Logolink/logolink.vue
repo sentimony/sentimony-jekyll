@@ -19,7 +19,7 @@
   };
 </script>
 
-<style>
+<style lang="scss?outputStyle=compressed">
   .logolink {
   }
 </style>

@@ -2,17 +2,6 @@
 layout: default
 titleAfter: Psychedelic Music Label
 description: Sentimony Records is an independent record label started in Kyiv, Ukraine during the autumn 2006 by Ihor Orlovskyi also known as Irukanji. The main label's mission is to contribute the growth of the psychedelic chillout and trance scenes.
-permalink: /
+permalink: /spa/
 og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
-
-<hero></hero>
-{% comment %}
-<swiper-release-list></swiper-release-list>
-{% endcomment %}
-{% include SwiperReleaseList/swiper-release-list.html class='js-swiper-release-list--home-page' %}
-<about></about>
-{% comment %}
-<swiper-artist-list></swiper-artist-list>
-{% endcomment %}
-{% include SwiperArtistList/swiper-artist-list.html class='js-swiper-artist-list--home-page' %}

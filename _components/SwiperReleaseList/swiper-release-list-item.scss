@@ -27,8 +27,8 @@
       height: 140px;
     }
 
-    .swiper-release-list-item__link:hover &,
-    .swiper-release-list-item.is-selected & {
+    .swiper-release-list-item.is-selected &,
+    .swiper-release-list-item__link:hover & {
       background-color: rgba(#fff,.3);
     }
   }
