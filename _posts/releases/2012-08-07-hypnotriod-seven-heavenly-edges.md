@@ -22,6 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/hypnotriod-seven-heavenly-ed
 link_junodownload: http://www.junodownload.com/products/hypnotriod-seven-heavenly-edges/2022833-02
 link_beatspace: 
 link_itunes: 
+link_googleplaymusic: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/hypnotriod-seven-heavenly-edges
 link_discogs: 556014
 written_by: 

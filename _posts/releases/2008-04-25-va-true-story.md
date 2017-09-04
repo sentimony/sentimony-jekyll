@@ -22,6 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/va-true-story
 link_junodownload: http://www.junodownload.com/products/true-story/1507878-02
 link_beatspace: 
 link_itunes: 
+link_googleplaymusic: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/true-story
 link_discogs: 563060
 written_by: 

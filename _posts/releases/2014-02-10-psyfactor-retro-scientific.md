@@ -22,6 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/psyfactor-retro-scientific
 link_junodownload: http://www.junodownload.com/products/psyfactor-retro-scientific/2443464-02
 link_beatspace: http://www.beatspace.com/7696/Sentimony+Records/PSYFACTOR/Retro+Scientific/detail.aspx
 link_itunes: 
+link_googleplaymusic: 
 link_ektoplazm: 
 link_discogs: 656758
 written_by: <a href="/artist/psyfactor/">Psyfactor</a>

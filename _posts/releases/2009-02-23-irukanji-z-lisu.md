@@ -22,6 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/irukanji-z-lisu
 link_junodownload: http://www.junodownload.com/products/irukanji-z-lisu/1507880-02
 link_beatspace: 
 link_itunes: https://itunes.apple.com/ua/album/z-lisu/id1271842894
+link_googleplaymusic: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu
 link_discogs: 563062
 written_by: <a href="/artist/irukanji/">Irukanji</a>

@@ -22,6 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/va-time-loop-beyond-borders
 link_junodownload: http://www.junodownload.com/products/time-loop-beyond-borders/1658399-02
 link_beatspace: http://www.beatspace.com/5895/Sentimony+Records/Various/Time+Loop+Beyond+Borders/detail.aspx
 link_itunes: 
+link_googleplaymusic: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/time-loop-beyond-borders
 link_discogs: 563065
 written_by: 

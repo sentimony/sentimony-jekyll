@@ -22,6 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/va-dancing-mavka
 link_junodownload: http://www.junodownload.com/products/dancing-mavka/1658401-02
 link_beatspace: 
 link_itunes: 
+link_googleplaymusic: 
 link_ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka
 link_discogs: 350184
 written_by: 
