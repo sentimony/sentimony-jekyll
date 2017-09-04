@@ -4,7 +4,7 @@
     <div class="releases__list">
       <div v-for="i in releases.data" class="releases__item">
         <p v-if="i.slug">
-          <a :href="'/artist/' + i.slug" class="releases__link">
+          <a :href="'/release/' + i.slug" class="releases__link">
             <img class="releases__photo lazyload"
               :src="'https://content.sentimony.com/assets/img/releases/small/' + i.cat_no + '/' + i.slug + '.jpg'"
               :data-srcset="'https://content.sentimony.com/assets/img/releases/small/' + i.cat_no + '/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/releases/small-retina/' + i.cat_no + '/' + i.slug + '.jpg 2x'"
@@ -13,7 +13,7 @@
           </a>
         </p>
         <p class="releases__title">
-          <a :href="'/artist/' + i.slug">{{ i.title }}</a>
+          <a :href="'/release/' + i.slug">{{ i.title }}</a>
         </p>
       </div>
     </div>
