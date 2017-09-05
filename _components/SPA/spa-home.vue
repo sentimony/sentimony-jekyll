@@ -1,6 +1,5 @@
 <template>
   <div>
-    <menu-temporary></menu-temporary>
     <hero></hero>
     <swiper-release-list modificator="js-swiper-release-list--home-page"></swiper-release-list>
     <about></about>
@@ -9,7 +8,6 @@
 </template>
 
 <script>
-  var MenuTemporary = require('./menu-temporary.vue');
   var Hero = require('./hero.vue');
   var SwiperReleaseList = require('./swiper-release-list.vue');
   var About = require('./about.vue');
@@ -17,7 +15,6 @@
 
   module.exports = {
     components: {
-      'menu-temporary': MenuTemporary,
       'hero': Hero,
       'swiper-release-list': SwiperReleaseList,
       'about': About,
