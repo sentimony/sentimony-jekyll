@@ -21,8 +21,8 @@ bandcamp_id:
 link_bandcamp: 
 link_junodownload: 
 link_beatspace: 
-link_itunes: 
-link_googleplaymusic: 
+link_applemusic: 
+link_googlemusic: 
 link_ektoplazm: 
 link_discogs: 
 written_by: <a href="/artist/ufomatka/">Ufomatka</a>

@@ -41,13 +41,28 @@
         {% endif %}
         <div class="page-release__small-info">Get it:</div>
         <div>
-          <a class="page-release__bandcamp-btn{% if page.coming_soon %} is-disabled{% endif %}" href="{% if page.coming_soon %}javascript:void(0){% else %}{{ page.link_bandcamp }}{% endif %}" target="_blank" rel="noopener">
+          <a class="page-release__bandcamp-btn{% if page.coming_soon %} is-disabled{% endif %}"
+            href="{% if page.coming_soon %}javascript:void(0){% else %}{{ page.link_bandcamp }}{% endif %}"
+            target="_blank" rel="noopener"
+          >
             <img class="page-release__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg" alt="Bandcamp Icon">
             <span class="page-release__bandcamp-btn-text">Bandcamp</span>
           </a>
-          <a class="page-release__junodownload-btn{% if page.link_junodownload == null %} is-disabled{% endif %}" href="{% if page.link_junodownload == null %}javascript:void(0){% else %}{{ page.link_junodownload }}{% endif %}" target="_blank" rel="noopener">
-            <img class="page-release__junodownload-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/junodownload.svg" alt="JunoDownload Icon">
-            <span class="page-release__junodownload-btn-text">JunoDownload</span>
+          {% comment %}
+            <a class="page-release__junodownload-btn{% if page.link_junodownload == null %} is-disabled{% endif %}"
+              href="{% if page.link_junodownload == null %}javascript:void(0){% else %}{{ page.link_junodownload }}{% endif %}"
+              target="_blank" rel="noopener"
+            >
+              <img class="page-release__junodownload-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/junodownload.svg" alt="JunoDownload Icon">
+              <span class="page-release__junodownload-btn-text">JunoDownload</span>
+            </a>
+          {% endcomment %}
+          <a class="page-release__applemusic-btn{% if page.link_applemusic == null %} is-disabled{% endif %}"
+            href="{% if page.link_applemusic == null %}javascript:void(0){% else %}{{ page.link_applemusic }}{% endif %}"
+            target="_blank" rel="noopener"
+          >
+            <img class="page-release__applemusic-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/discogs.svg" alt="Apple Music Icon">
+            <span class="page-release__applemusic-btn-text">Apple Music</span>
           </a>
         </div>
       </div>
@@ -169,9 +184,19 @@
     {% if page.link_discogs %}
       <p>
         {% comment %}<span>Release Info:</span>{% endcomment %}
-        <a href="https://www.discogs.com/master/view/{{ page.link_discogs }}" target="_blank" rel="noopener">
+        <a href="{{ page.link_discogs }}" target="_blank" rel="noopener">
           {% comment %}<span class="icon-discogs"></span>{% endcomment %}
           <span>Discogs</span>
+        </a>
+      </p>
+    {% endif %}
+
+    {% if page.link_googlemusic %}
+      <p>
+        {% comment %}<span>Release Info:</span>{% endcomment %}
+        <a href="{{ page.link_googlemusic }}" target="_blank" rel="noopener">
+          {% comment %}<span class="icon-discogs"></span>{% endcomment %}
+          <span>Google Music</span>
         </a>
       </p>
     {% endif %}
