@@ -22,7 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/va-absence-of-gravity
 link_junodownload: http://www.junodownload.com/products/absence-of-gravity/1733750-02
 link_beatspace: http://www.beatspace.com/6261/Sentimony+Records/Various/Absence+Of+Gravity/detail.aspx
 link_applemusic: https://itunes.apple.com/ua/album/absence-of-gravity/id1272431442?l=uk 
-link_googlemusic: 
+link_googlemusic: https://play.google.com/music/m/Bu5k4b4rzp5sogsrgjf5kmymkji?t=Absence_Of_Gravity
 link_ektoplazm: http://www.ektoplazm.com/free-music/absence-of-gravity
 link_discogs: 563069
 written_by: 

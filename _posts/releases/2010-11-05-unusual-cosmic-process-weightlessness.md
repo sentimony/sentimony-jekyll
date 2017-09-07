@@ -22,7 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/unusual-cosmic-process-weigh
 link_junodownload: http://www.junodownload.com/products/unusual-cosmic-process-weightlessness/1655813-02
 link_beatspace: 
 link_applemusic: https://itunes.apple.com/ua/album/weightlessness/id1271855982?l=uk
-link_googlemusic: 
+link_googlemusic: https://play.google.com/music/m/Bjdi3bpcowe7q7wwmbqh5d4elni?t=Unusual_Cosmic_Process_Weightlessness
 link_ektoplazm: http://www.ektoplazm.com/free-music/unusual-cosmic-process-weightlessness
 link_discogs: 349889
 written_by: 

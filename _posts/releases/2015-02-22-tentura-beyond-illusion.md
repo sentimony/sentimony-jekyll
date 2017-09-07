@@ -22,7 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/tentura-beyond-illusion
 link_junodownload: 
 link_beatspace: 
 link_applemusic: https://itunes.apple.com/ua/album/beyond-illusion/id1271862865?l=uk
-link_googlemusic: 
+link_googlemusic: https://play.google.com/music/m/Bc37paelunuc3unztmj2nuyehem?t=Tentura_Beyond_Illusion
 link_ektoplazm: 
 link_discogs: 866837
 written_by: <a href="/artist/tentura/">Tentura</a>

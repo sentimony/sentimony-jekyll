@@ -22,7 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/va-fantazma
 link_junodownload: http://www.junodownload.com/products/fantazma/1507875-02
 link_beatspace: 
 link_applemusic: https://itunes.apple.com/ua/album/fantazma/id1271830675?l=uk
-link_googlemusic: 
+link_googlemusic: https://play.google.com/music/m/B2hduene7glxvtujapk2org2tla?t=Fantazma
 link_ektoplazm: http://www.ektoplazm.com/free-music/fantazma
 link_discogs: 403901
 written_by: 

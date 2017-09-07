@@ -22,7 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/va-emptinesses
 link_junodownload: http://www.junodownload.com/products/emptinesses/1507876-02
 link_beatspace: 
 link_applemusic: https://itunes.apple.com/ua/album/emptinesses/id1271845181?l=uk
-link_googlemusic: 
+link_googlemusic: https://play.google.com/music/m/Bvvivb7ygfis7lgalvcgz3b6edu?t=Emptinesses
 link_ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
 link_discogs: 403903
 written_by: 

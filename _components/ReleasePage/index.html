@@ -41,6 +41,7 @@
         {% endif %}
         <div class="page-release__small-info">Get it:</div>
         <div>
+          {% comment %}
           <a class="page-release__bandcamp-btn{% if page.coming_soon %} is-disabled{% endif %}"
             href="{% if page.coming_soon %}javascript:void(0){% else %}{{ page.link_bandcamp }}{% endif %}"
             target="_blank" rel="noopener"
@@ -48,22 +49,30 @@
             <img class="page-release__bandcamp-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/bandcamp.svg" alt="Bandcamp Icon">
             <span class="page-release__bandcamp-btn-text">Bandcamp</span>
           </a>
-          {% comment %}
-            <a class="page-release__junodownload-btn{% if page.link_junodownload == null %} is-disabled{% endif %}"
-              href="{% if page.link_junodownload == null %}javascript:void(0){% else %}{{ page.link_junodownload }}{% endif %}"
-              target="_blank" rel="noopener"
-            >
-              <img class="page-release__junodownload-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/junodownload.svg" alt="JunoDownload Icon">
-              <span class="page-release__junodownload-btn-text">JunoDownload</span>
-            </a>
           {% endcomment %}
           <a class="page-release__applemusic-btn{% if page.link_applemusic == null %} is-disabled{% endif %}"
             href="{% if page.link_applemusic == null %}javascript:void(0){% else %}{{ page.link_applemusic }}{% endif %}"
             target="_blank" rel="noopener"
           >
-            <img class="page-release__applemusic-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/discogs.svg" alt="Apple Music Icon">
+            {% comment %}<img class="page-release__applemusic-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/discogs.svg" alt="Apple Music Icon">{% endcomment %}
             <span class="page-release__applemusic-btn-text">Apple Music</span>
           </a>
+          <a class="page-release__googlemusic-btn{% if page.link_googlemusic == null %} is-disabled{% endif %}"
+            href="{% if page.link_googlemusic == null %}javascript:void(0){% else %}{{ page.link_googlemusic }}{% endif %}"
+            target="_blank" rel="noopener"
+          >
+            {% comment %}<img class="page-release__googlemusic-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/discogs.svg" alt="Google Music Icon">{% endcomment %}
+            <span class="page-release__googlemusic-btn-text">Google Music</span>
+          </a>
+          {% comment %}
+          <a class="page-release__junodownload-btn{% if page.link_junodownload == null %} is-disabled{% endif %}"
+            href="{% if page.link_junodownload == null %}javascript:void(0){% else %}{{ page.link_junodownload }}{% endif %}"
+            target="_blank" rel="noopener"
+          >
+            <img class="page-release__junodownload-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/junodownload.svg" alt="JunoDownload Icon">
+            <span class="page-release__junodownload-btn-text">JunoDownload</span>
+          </a>
+          {% endcomment %}
         </div>
       </div>
     </div>
@@ -191,6 +200,7 @@
       </p>
     {% endif %}
 
+    {% comment %}
     {% if page.link_googlemusic %}
       <p>
         {% comment %}<span>Release Info:</span>{% endcomment %}
@@ -200,6 +210,7 @@
         </a>
       </p>
     {% endif %}
+    {% endcomment %}
 
     {% include GoodShare/index.html %}
 

@@ -22,7 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/va-gamayun-tale
 link_junodownload: http://www.junodownload.com/products/gamayun-tale/2443370-02
 link_beatspace: http://www.beatspace.com/7694/Lookinglook+Records/Various/Gamayun+Tale/detail.aspx
 link_applemusic: https://itunes.apple.com/ua/album/gamayun-tale/id1272972527?l=uk
-link_googlemusic: 
+link_googlemusic: https://play.google.com/music/m/Bkotg47jkqexk3gxyartfpyiu6y?t=Gamayun_Tale
 link_ektoplazm: 
 link_discogs: 663801
 written_by: 
