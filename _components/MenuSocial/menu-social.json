@@ -27,6 +27,11 @@
         "url": "https://soundcloud.com/sentimony",
         "isVisible": true
       }, {
+        "title": "Instagram",
+        "icon": "instagram",
+        "url": "https://www.instagram.com/sentimony.records",
+        "isVisible": true
+      }, {
         "title": "Twitter",
         "icon": "twitter",
         "url": "https://twitter.com/sentimony",
