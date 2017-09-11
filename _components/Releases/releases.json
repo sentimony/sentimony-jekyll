@@ -1,15 +1,29 @@
 {
   "releases": {
     "data": [{
+        "title": "Overdream «Beautiful Thin King»",
+        "date": "2017-10-30",
+        "slug": "overdream-beautiful-thin-king",
+        "cat_no": "sencd027",
+        "coming_soon": true
+      }, {
+        "title": "Ufomatka «Altering The Synaptic Controllers»",
+        "date": "2017-09-30",
+        "slug": "zymosis-insight",
+        "cat_no": "sencd026",
+        "coming_soon": true
+      }, {
         "title": "Zymosis «Insight»",
         "date": "2017-07-25",
         "slug": "zymosis-insight",
-        "cat_no": "sencd025"
+        "cat_no": "sencd025",
+        "new": true
       }, {
         "title": "VA «The Ten»",
         "date": "2017-04-13",
         "slug": "va-the-ten",
-        "cat_no": "sencd024"
+        "cat_no": "sencd024",
+        "new": true
       }, {
         "title": "Tentura «Beyond Illusion»",
         "date": "2015-02-22",
