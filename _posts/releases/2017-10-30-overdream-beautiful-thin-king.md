@@ -31,17 +31,12 @@ artwork_by: Coming Soon
 mastered_by: Coming Soon
 ---
 
-Sentimony Records presents «Altering The Synaptic Controllers» - the second EP release by our beloved artist Ufomatka.
-
-The release name came from nowhere and the dick knows what it is, but it will all fuck us out :)
-
-Have a nice trip!
+Release info is coming soon!
 
 ---
 Tracklist:
 
-01. Ufomatka - Multiplexer \| 140bpm
-02. Ufomatka - Alien Controlled Human Exterminator \| 137bpm
-03. Ufomatka - Fornax Cluster \| 145bpm
-04. Ufomatka - Warper-mutator \| 138bpm
-05. Ufomatka - Weird Species \| 153bpm
+01. Overdream - ... \| 115bpm
+02. Overdream - ... \| 118bpm
+03. Overdream - ... \| 113bpm
+04. Overdream - ... \| 80bpm
