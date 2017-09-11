@@ -12,7 +12,7 @@ cat_no: sencd026
 cat_nu: sencd026
 tracks_no: 5
 total_time: 
-release_date: 2017-08-14
+release_date: 2017-09-30
 coming_soon: true
 new: 
 youtube_id: 
