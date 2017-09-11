@@ -30,7 +30,17 @@
         "title": "Instagram",
         "icon": "instagram",
         "url": "https://www.instagram.com/sentimony.records",
-        "isVisible": true
+        "isVisible": false
+      }, {
+        "title": "Tumblr",
+        "icon": "tumblr",
+        "url": "https://sentimony.tumblr.com",
+        "isVisible": false
+      }, {
+        "title": "Giphy",
+        "icon": "giphy",
+        "url": "https://giphy.com/channel/sentimony",
+        "isVisible": false
       }, {
         "title": "Twitter",
         "icon": "twitter",
