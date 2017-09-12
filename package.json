@@ -8,6 +8,7 @@
     "sw-toolbox": "^3.6.0",
     "swiper": "^3.4.2",
     "vue": "^2.4.2",
+    "vue-awesome-swiper": "^2.6.4",
     "vue-nav-tabs": "^0.2.2"
   },
   "devDependencies": {
