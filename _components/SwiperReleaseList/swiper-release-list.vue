@@ -7,12 +7,15 @@
             <a class="swiper-release-list-item__link" :href="'/release/' + i.slug">
               <div class="swiper-release-list-item__wrapper">
                 <div class="swiper-release-list-item__cover">
-                  <img class="swiper-release-list-item__img lazyload"
+                  <img v-if="i.cover" class="swiper-release-list-item__img lazyload"
                     :src="'https://content.sentimony.com/assets/img/releases/small/' + i.cat_no + '/' + i.slug + '.jpg'"
                     :data-srcset="'https://content.sentimony.com/assets/img/releases/small/' + i.cat_no + '/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/releases/small-retina/' + i.cat_no + '/' + i.slug + '.jpg 2x'"
                     :alt="i.title + ' Small Thumbnail'"
                   >
+                  <div v-else class="swiper-release-list-item__coming">Artwork<br>in progress</div>
                 </div>
+                <div v-if="i.coming_soon" class="swiper-release-list-item__status swiper-release-list-item__status--coming-soon">Coming Soon</div>
+                <div v-if="i.new" class="swiper-release-list-item__status swiper-release-list-item__status--new">New</div>
               </div>
               <div class="swiper-release-list-item__title">{{ i.title }}</div>
             </a>
