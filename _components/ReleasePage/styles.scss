@@ -113,15 +113,16 @@
     }
   }
 
-  &__bandcamp-btn,
+  // &__bandcamp-btn,
+  // &__junodownload-btn,
   &__applemusic-btn,
-  &__googlemusic-btn,
-  &__junodownload-btn {
+  &__googlemusic-btn {
     @extend .btn;
     margin-top: .5em;
 
     &-img {
       @extend .btn__img;
+      height: 18px;
     }
 
     &-text {

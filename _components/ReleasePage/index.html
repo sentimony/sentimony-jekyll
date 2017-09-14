@@ -54,15 +54,15 @@
             href="{% if page.link_applemusic == null %}javascript:void(0){% else %}{{ page.link_applemusic }}{% endif %}"
             target="_blank" rel="noopener"
           >
-            {% comment %}<img class="page-release__applemusic-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/discogs.svg" alt="Apple Music Icon">{% endcomment %}
+            <img class="page-release__applemusic-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/apple-music.svg?01" alt="Apple Music Icon">
             <span class="page-release__applemusic-btn-text">Apple Music</span>
           </a>
           <a class="page-release__googlemusic-btn{% if page.link_googlemusic == null %} is-disabled{% endif %}"
             href="{% if page.link_googlemusic == null %}javascript:void(0){% else %}{{ page.link_googlemusic }}{% endif %}"
             target="_blank" rel="noopener"
           >
-            {% comment %}<img class="page-release__googlemusic-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/discogs.svg" alt="Google Music Icon">{% endcomment %}
-            <span class="page-release__googlemusic-btn-text">Google Music</span>
+            <img class="page-release__googlemusic-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/google-play.svg?01" alt="Google Play Icon">
+            <span class="page-release__googlemusic-btn-text">Google Play</span>
           </a>
           {% comment %}
           <a class="page-release__junodownload-btn{% if page.link_junodownload == null %} is-disabled{% endif %}"
