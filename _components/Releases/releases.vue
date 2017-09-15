@@ -1,20 +1,22 @@
 <template>
   <div class="releases">
-    <h1>Releases</h1>
+    <h1 class="releases__title swiper-release-list__title">{{ ourReleases }}</h1>
     <div class="releases__list">
-      <div v-for="i in releases.data" class="releases__item">
-        <p v-if="i.slug">
-          <a :href="'/release/' + i.slug" class="releases__link">
-            <img class="releases__photo lazyload"
+      <div v-for="i in releases.data" class="releases__item swiper-release-list-item">
+        <a v-if="i.slug" :href="'/release/' + i.slug" class="releases__link swiper-release-list-item__link">
+          <div class="releases__photo swiper-release-list-item__cover">
+            <img v-if="i.cover"
+              class="swiper-release-list-item__img lazyload"
               :src="'https://content.sentimony.com/assets/img/releases/small/' + i.cat_no + '/' + i.slug + '.jpg'"
               :data-srcset="'https://content.sentimony.com/assets/img/releases/small/' + i.cat_no + '/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/releases/small-retina/' + i.cat_no + '/' + i.slug + '.jpg 2x'"
               :alt="i.title + ' Small Thumbnail'"
             >
-          </a>
-        </p>
-        <p class="releases__title">
-          <a :href="'/release/' + i.slug">{{ i.title }}</a>
-        </p>
+            <div v-else class="swiper-release-list-item__coming">Artwork<br>in progress</div>
+          </div>
+          <div v-if="i.coming_soon" class="swiper-release-list-item__status swiper-release-list-item__status--coming-soon">Coming Soon</div>
+          <div v-if="i.new" class="swiper-release-list-item__status swiper-release-list-item__status--new">New</div>
+          <div class="swiper-release-list-item__title">{{ i.title }}</div>
+        </a>
       </div>
     </div>
   </div>
@@ -24,6 +26,7 @@
   module.exports = {
     data: function () {
       return {
+        ourReleases: 'Releases',
         releases: {
           data: [
             {
@@ -65,17 +68,17 @@
       width: 120px;
     }
 
-    &__photo {
-      display: block;
-      margin: 0 auto;
-      width: 100%;
-      height: auto;
-      box-shadow: $shadow;
-      border-radius: 8px;
-    }
+    // &__photo {
+    //   display: block;
+    //   margin: 0 auto;
+    //   width: 100%;
+    //   height: auto;
+    //   box-shadow: $shadow;
+    //   border-radius: 8px;
+    // }
 
-    &__title {
-      min-height: 44px;
-    }
+    // &__title {
+    //   min-height: 44px;
+    // }
   }
 </style>

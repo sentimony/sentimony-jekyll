@@ -38,6 +38,7 @@
     height: 60px;
     border-radius: 8px;
     background-color: $colorBgBlack;
+    box-shadow: $shadow;
 
     @include media(M) {
       width: 120px;
@@ -49,7 +50,7 @@
     width: 100%;
     height: auto;
     border-radius: 8px;
-    box-shadow: $shadow;
+    // box-shadow: $shadow;
     display: block;
   }
 
