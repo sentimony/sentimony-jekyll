@@ -3,23 +3,21 @@ define('swiper_artist_list_init', ['./swiper.min'], function (Swiper) {
 
   ;(function () {
 
-    if (document.querySelector('.js-swiper-artist-list--home-page')) {
+    // if (document.querySelector('.js-swiper-artist-list--home-page')) {
 
-      document.querySelector('.swiper-artist-list__container').classList.add('is-visible');
+    //   document.querySelector('.swiper-artist-list__container').classList.add('is-visible');
 
-      var swiperHomePage = new Swiper ('.js-swiper-artist-list--home-page .swiper-container', {
-        nextButton: '.js-swiper-artist-list__next',
-        prevButton: '.js-swiper-artist-list__prev',
-        scrollbar: '.js-swiper-artist-list__scrollbar',
-        mousewheelControl: true,
-        mousewheelForceToAxis: true,
-        freeMode: true,
-        slidesPerView: 'auto',
-        // loop: true,
-        // loopedSlides: 'loop'
-      })
+    //   var swiperHomePage = new Swiper ('.js-swiper-artist-list--home-page .swiper-container', {
+    //     nextButton: '.js-swiper-artist-list__next',
+    //     prevButton: '.js-swiper-artist-list__prev',
+    //     scrollbar: '.js-swiper-artist-list__scrollbar',
+    //     mousewheelControl: true,
+    //     mousewheelForceToAxis: true,
+    //     freeMode: true,
+    //     slidesPerView: 'auto'
+    //   })
 
-    }
+    // }
 
     if (document.querySelector('.js-swiper-artist-list--artist-page')) {
 
@@ -34,9 +32,7 @@ define('swiper_artist_list_init', ['./swiper.min'], function (Swiper) {
         mousewheelControl: true,
         mousewheelForceToAxis: true,
         freeMode: true,
-        slidesPerView: 'auto',
-        // loop: true,
-        // loopedSlides: 'loop'
+        slidesPerView: 'auto'
       })
 
       swiperartistPage.slideTo(getSlideIndexByClass('is-selected'), false);

@@ -7,12 +7,12 @@ og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
 <hero></hero>
+<swiper-release-list modificator="js-swiper-release-list--home-page"></swiper-release-list>
 {% comment %}
-<swiper-release-list></swiper-release-list>
-{% endcomment %}
 {% include SwiperReleaseList/swiper-release-list.html class='js-swiper-release-list--home-page' %}
-<about></about>
-{% comment %}
-<swiper-artist-list></swiper-artist-list>
 {% endcomment %}
+<about></about>
+<swiper-artist-list modificator="js-swiper-artist-list--home-page"></swiper-artist-list>
+{% comment %}
 {% include SwiperArtistList/swiper-artist-list.html class='js-swiper-artist-list--home-page' %}
+{% endcomment %}

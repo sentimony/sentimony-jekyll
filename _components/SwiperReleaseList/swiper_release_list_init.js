@@ -3,21 +3,21 @@ define('swiper_release_list_init', ['./swiper.min'], function (Swiper) {
 
   ;(function () {
 
-    if (document.querySelector('.js-swiper-release-list--home-page')) {
+    // if (document.querySelector('.js-swiper-release-list--home-page')) {
 
-      document.querySelector('.swiper-release-list__container').classList.add('is-visible');
+    //   document.querySelector('.swiper-release-list__container').classList.add('is-visible');
 
-      var swiperHomePage = new Swiper ('.js-swiper-release-list--home-page .swiper-container', {
-        nextButton: '.js-swiper-release-list__next',
-        prevButton: '.js-swiper-release-list__prev',
-        scrollbar: '.js-swiper-release-list__scrollbar',
-        mousewheelControl: true,
-        mousewheelForceToAxis: true,
-        freeMode: true,
-        slidesPerView: 'auto'
-      })
+    //   var swiperHomePage = new Swiper ('.js-swiper-release-list--home-page .swiper-container', {
+    //     nextButton: '.js-swiper-release-list__next',
+    //     prevButton: '.js-swiper-release-list__prev',
+    //     scrollbar: '.js-swiper-release-list__scrollbar',
+    //     mousewheelControl: true,
+    //     mousewheelForceToAxis: true,
+    //     freeMode: true,
+    //     slidesPerView: 'auto'
+    //   })
 
-    }
+    // }
 
     if (document.querySelector('.js-swiper-release-list--release-page')) {
 
