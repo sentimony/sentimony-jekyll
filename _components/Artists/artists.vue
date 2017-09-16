@@ -4,16 +4,19 @@
     <div class="artists__list">
       <div v-for="i in artists.data" class="artists__item">
         <p v-if="i.slug">
-          <a :href="'/artist/' + i.slug" class="artists__link">
+          <!-- <a :href="'/artist/' + i.slug" class="artists__link"> -->
+          <router-link :to="'/artist/' + i.slug" class="artists__link">
             <img class="artists__photo lazyload"
               :src="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg'"
               :data-srcset="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/artists/small-retina/' + i.slug + '.jpg 2x'"
               :alt="i.title + ' Small Thumbnail'"
             >
-          </a>
+          </router-link>
+          <!-- </a> -->
         </p>
         <p class="artists__title">
-          <a :href="'/artist/' + i.slug">{{ i.title }}</a>
+          <!-- <a :href="'/artist/' + i.slug">{{ i.title }}</a> -->
+          <router-link :to="'/artist/' + i.slug">{{ i.title }}</router-link>
         </p>
       </div>
     </div>

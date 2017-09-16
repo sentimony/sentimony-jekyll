@@ -1,7 +1,7 @@
 <template>
   <div>
-    <!-- <swiper-artist-list modificator="js-swiper-artist-list--artist-page"></swiper-artist-list> -->
-    <!-- <artist-page></artist-page> -->
+    <swiper-artist-list modificator="js-swiper-artist-list--artist-page"></swiper-artist-list>
+    <artist-page></artist-page>
   </div>
 </template>
 

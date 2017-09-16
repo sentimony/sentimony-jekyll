@@ -3,19 +3,21 @@
     <div class="swiper-artist-list__title">{{ ourArtists }}</div>
     <div class="swiper-container swiper-artist-list__container">
       <div class="swiper-wrapper">
-        <div v-for="i in artists.data" class="swiper-slide swiper-artist-list-item">
-            <a class="swiper-artist-list-item__link" :href="'/artist/' + i.slug">
-              <div class="swiper-artist-list-item__wrapper">
-                <div class="swiper-artist-list-item__cover">
-                  <img v-if="i.slug" class="swiper-artist-list-item__img lazyload"
-                    :src="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg'"
-                    :data-srcset="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/artists/small-retina/' + i.slug + '.jpg 2x'"
-                    :alt="i.title + ' Small Thumbnail'"
-                  >
-                </div>
+        <div v-for="i in artists.data" class="swiper-slide swiper-artist-list-item is-selected">
+          <!-- <a class="swiper-artist-list-item__link" :href="'/artist/' + i.slug"> -->
+          <router-link class="swiper-artist-list-item__link" :to="'/artist/' + i.slug">
+            <div class="swiper-artist-list-item__wrapper">
+              <div class="swiper-artist-list-item__cover">
+                <img v-if="i.slug" class="swiper-artist-list-item__img lazyload"
+                  :src="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg'"
+                  :data-srcset="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/artists/small-retina/' + i.slug + '.jpg 2x'"
+                  :alt="i.title + ' Small Thumbnail'"
+                >
               </div>
-              <div class="swiper-artist-list-item__title">{{ i.title }}</div>
-            </a>
+            </div>
+            <div class="swiper-artist-list-item__title">{{ i.title }}</div>
+          </router-link>
+          <!-- </a> -->
         </div>
       </div>
       <div class="swiper-artist-list__prev js-swiper-artist-list__prev"></div>
@@ -77,21 +79,21 @@
 
     }
 
-    // if (document.querySelector('.js-swiper-artist-list--artist-page')) {
+    if (document.querySelector('.js-swiper-artist-list--artist-page')) {
 
-    //   document.querySelector('.swiper-artist-list__container').classList.add('is-visible');
+      document.querySelector('.swiper-artist-list__container').classList.add('is-visible');
 
-    //   var swiperartistPage = new Swiper ('.js-swiper-artist-list--artist-page .swiper-container', {
-    //     nextButton: '.js-swiper-artist-list__next',
-    //     prevButton: '.js-swiper-artist-list__prev',
-    //     scrollbar: '.js-swiper-artist-list__scrollbar',
-    //     centeredSlides: true,
-    //     slideToClickedSlide: true,
-    //     mousewheelControl: true,
-    //     mousewheelForceToAxis: true,
-    //     freeMode: true,
-    //     slidesPerView: 'auto'
-    //   })
+      var swiperartistPage = new Swiper ('.js-swiper-artist-list--artist-page .swiper-container', {
+        nextButton: '.js-swiper-artist-list__next',
+        prevButton: '.js-swiper-artist-list__prev',
+        scrollbar: '.js-swiper-artist-list__scrollbar',
+        centeredSlides: true,
+        slideToClickedSlide: true,
+        mousewheelControl: true,
+        mousewheelForceToAxis: true,
+        freeMode: true,
+        slidesPerView: 'auto'
+      })
 
     //   swiperartistPage.slideTo(getSlideIndexByClass('is-selected'), false);
 
@@ -108,7 +110,8 @@
 
     //     return index;
     //   }
-    // }
+    }
+
   };
 </script>
 
