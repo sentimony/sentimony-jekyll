@@ -3,7 +3,8 @@
     <h1 class="releases__title swiper-release-list__title">{{ ourReleases }}</h1>
     <div class="releases__list">
       <div v-for="i in releases.data" class="releases__item swiper-release-list-item">
-        <a v-if="i.slug" :href="'/release/' + i.slug" class="releases__link swiper-release-list-item__link">
+        <!-- <a v-if="i.slug" :href="'/release/' + i.slug" class="releases__link swiper-release-list-item__link"> -->
+        <router-link v-if="i.slug" :to="'/release/' + i.slug" class="releases__link swiper-release-list-item__link">
           <div class="releases__photo swiper-release-list-item__cover">
             <img v-if="i.cover"
               class="swiper-release-list-item__img lazyload"
@@ -16,7 +17,8 @@
           <div v-if="i.coming_soon" class="swiper-release-list-item__status swiper-release-list-item__status--coming-soon">Coming Soon</div>
           <div v-if="i.new" class="swiper-release-list-item__status swiper-release-list-item__status--new">New</div>
           <div class="swiper-release-list-item__title">{{ i.title }}</div>
-        </a>
+        </router-link>
+        <!-- </a> -->
       </div>
     </div>
   </div>

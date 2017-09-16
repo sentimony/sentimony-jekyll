@@ -1,7 +1,7 @@
 <template>
   <div>
-    <!-- <swiper-release-list modificator="js-swiper-release-list--release-page"></swiper-release-list> -->
-    <!-- <release-page></release-page> -->
+    <swiper-release-list modificator="js-swiper-release-list--release-page"></swiper-release-list>
+    <release-page></release-page>
   </div>
 </template>
 

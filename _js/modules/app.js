@@ -57,7 +57,7 @@ define('app', ['./vue.min'], function(Vue) {
   var router = new VueRouter({
     mode: 'history',
     routes: [{
-      path: '/spa/',
+      path: '/',
       component: SpaHome
     },{
       path: '/news/',
