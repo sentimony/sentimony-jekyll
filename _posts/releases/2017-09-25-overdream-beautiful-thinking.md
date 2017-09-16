@@ -1,18 +1,18 @@
 ---
 layout: page-release
-permalink: /release/overdream-beautiful-thin-king/
+permalink: /release/overdream-beautiful-thinking/
 category: releases
 comments: true
-title: 'Overdream «Beautiful Thin King»'
+title: 'Overdream «Beautiful Thinking»'
 label: sentimony
 style: Downtempo, Chillgressive
 format: ep album
 cover: 
-cat_no: sencd027
-cat_nu: sencd027
+cat_no: sencd026
+cat_nu: sencd026
 tracks_no: 4
 total_time: 
-release_date: 2017-10-30
+release_date: 2017-09-25
 coming_soon: true
 new: 
 youtube_id: 
@@ -36,7 +36,7 @@ Release info is coming soon!
 ---
 Tracklist:
 
-01. Overdream - ... \| 115bpm
-02. Overdream - ... \| 118bpm
-03. Overdream - ... \| 113bpm
-04. Overdream - ... \| 80bpm
+01. Overdream - Radical Utopian \| 115bpm
+02. Overdream - Kopimist \| 118bpm
+03. Overdream - Flat Earther \| 113bpm
+04. Overdream - Omnipresence \| 80bpm

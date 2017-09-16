@@ -8,8 +8,8 @@ label: sentimony
 style: Goa Trance
 format: ep album
 cover: 
-cat_no: sencd026
-cat_nu: sencd026
+cat_no: sencd027
+cat_nu: sencd027
 tracks_no: 5
 total_time: 
 release_date: 2017-09-30
