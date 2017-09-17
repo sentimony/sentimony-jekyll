@@ -22,7 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/specialmind-the-missing-part
 link_junodownload: http://www.junodownload.com/products/specialmind-the-missing-particle/2078081-02
 link_beatspace: 
 link_applemusic: https://itunes.apple.com/ua/album/the-missing-particle-ep/id1272435876?l=uk
-link_googlemusic: https://play.google.com/music/m/Bl5jqjufz6wabkce5jtlpf3wyua?t=Specialmind_The_Missing_Particle
+link_googleplay: https://play.google.com/music/m/Bl5jqjufz6wabkce5jtlpf3wyua?t=Specialmind_The_Missing_Particle
 link_ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-particle
 link_discogs: 601769
 written_by: 

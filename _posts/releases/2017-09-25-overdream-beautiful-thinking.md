@@ -22,7 +22,7 @@ link_bandcamp:
 link_junodownload: 
 link_beatspace: 
 link_applemusic: 
-link_googlemusic: 
+link_googleplay: 
 link_ektoplazm: 
 link_discogs: 
 written_by: <a href="/artist/overdream/">Overdream</a>
