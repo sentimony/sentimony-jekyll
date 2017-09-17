@@ -29,8 +29,9 @@
     },
     created: function () {
       var self = this;
-      this.axios.get('/assets/data/menu-social.json').then(function (response) {
-        self.social = response.data.social;
+      this.axios.get('https://sentimony-db.firebaseio.com/social.json').then(function (response) {
+        self.social = response.data;
+        console.log('firebase: SOCIAL catched');
       }).catch(function (error) {
         console.log(error);
       });

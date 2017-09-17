@@ -113,6 +113,7 @@ define('app', ['./vue.min'], function(Vue) {
       'artist': ArtistPage,
       'friends': Friends,
       'events': Events,
+      'event-page': EventPage,
       'news': News,
       'contacts': Contacts,
       'swiper-release-list': SwiperReleaseList,

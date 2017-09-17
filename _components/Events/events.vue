@@ -27,8 +27,9 @@
     },
     created: function () {
       var self = this;
-      this.axios.get('/assets/data/events.json').then(function (response) {
-        self.events = response.data.events;
+      this.axios.get('https://sentimony-db.firebaseio.com/events.json').then(function (response) {
+        self.events = response.data;
+        console.log('firebase: EVENTS catched');
       }).catch(function (error) {
         console.log(error);
       });

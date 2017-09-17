@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- <event-page></event-page> -->
+    <event-page></event-page>
   </div>
 </template>
 

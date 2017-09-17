@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% comment %}
+
 <h1>{{ page.title }}</h1>
 
 {% if page.date %}
@@ -13,3 +15,5 @@ layout: default
 {% if page.comments %}
   {% include DisqusComments/index.html %}
 {% endif %}
+
+{% endcomment %}
