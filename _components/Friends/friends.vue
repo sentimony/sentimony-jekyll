@@ -32,9 +32,9 @@
     },
     created: function () {
       var self = this;
-      this.axios.get('https://sentimony-db.firebaseio.com/.json').then(function (response) {
-        self.friends = response.data.friends;
-        console.log('firebase >>> friends catched');
+      this.axios.get('https://sentimony-db.firebaseio.com/friends.json').then(function (response) {
+        self.friends = response.data;
+        console.log('firebase: FRIENDS catched');
       }).catch(function (error) {
         console.log(error);
       });

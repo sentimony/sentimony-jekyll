@@ -1,6 +1,6 @@
 .vue-tabs {
 
-  .nav-tabs {
+  .nav {
     padding: 0;
     margin: 0;
     list-style-type: none;
@@ -29,8 +29,7 @@
         a {
           cursor: default;
 
-          span {
-            display: block;
+          .title {
           }
         }
       }
@@ -50,19 +49,18 @@
         }
 
         i[class^="icon-"] {
-          display: flex;
-          align-items: center;
           font-size: 20px;
+          display: block;
         }
 
-        span {
+        .title {
           font-family: 'Montserrat', sans-serif;
-          font-size: 12px;
-          margin-left: .6em;
-          display: none;
+          font-size: 0;
 
           @include media(L) {
-            display: block;
+            font-size: 12px;
+            display: flex;
+            align-items: center;
           }
         }
       }

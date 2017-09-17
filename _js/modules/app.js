@@ -6,6 +6,9 @@ define('app', ['./vue.min'], function(Vue) {
   // var Vuex = require('vuex/dist/vuex.js');
   // Vue.use(Vuex);
 
+  var VueTabs = require('./vue-tabs.min.js');
+  Vue.use(VueTabs);
+
   var axios = require('axios');
   var VueAxios = require('vue-axios');
   Vue.use(VueAxios, axios);

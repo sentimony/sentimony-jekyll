@@ -7,9 +7,9 @@
     "normalize.css": "^7.0.0",
     "sw-toolbox": "^3.6.0",
     "swiper": "^3.4.2",
-    "vue": "^2.4.2",
+    "vue": "^2.4.4",
     "vue-awesome-swiper": "^2.6.4",
-    "vue-nav-tabs": "^0.2.2",
+    "vue-nav-tabs": "^0.5.4",
     "vuex": "^2.4.0"
   },
   "devDependencies": {
@@ -34,7 +34,7 @@
     "sass-loader": "^6.0.6",
     "streamqueue": "^1.1.1",
     "uglifyjs-webpack-plugin": "^0.4.6",
-    "vue": "^2.4.2",
+    "vue": "^2.4.4",
     "vue-axios": "^2.0.2",
     "vue-loader": "^11.3.1",
     "vue-router": "^2.7.0",

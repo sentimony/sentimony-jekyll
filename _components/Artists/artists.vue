@@ -39,9 +39,9 @@
     },
     created: function () {
       var self = this;
-      this.axios.get('https://sentimony-db.firebaseio.com/.json').then(function (response) {
-        self.artists = response.data.artists;
-        console.log('firebase >>> artists catched');
+      this.axios.get('https://sentimony-db.firebaseio.com/artists.json').then(function (response) {
+        self.artists = response.data;
+        console.log('firebase: ARTISTS catched');
       }).catch(function (error) {
         console.log(error);
       });

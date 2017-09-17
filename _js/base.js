@@ -9,10 +9,11 @@ var connectModule = [
   // 'firebase_init',
   // 'vuex',
   // 'store',
+  'vue-tabs.min',
 
   // 'swiper_release_list_init',
   // 'swiper_artist_list_init',
-  'vue_tabs_init'
+  // 'vue_tabs_init'
 ];
 
 // require.ensure([] , function() {
