@@ -22,7 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/cifroteca-roof-raiser-wild-s
 link_junodownload: 
 link_beatspace: http://www.beatspace.com/7695/Sentimony+Records/CIFROTECA+and+ROOF+RAISER/Wild+Storm/detail.aspx
 link_applemusic: https://itunes.apple.com/ua/album/wild-storm/id1272437308?l=uk
-link_googlemusic: https://play.google.com/music/m/Bqmocyclwij66ut5nyai3fckm3a?t=Cifroteca_Roof_Raiser_Wild_Storm
+link_googleplay: https://play.google.com/music/m/Bqmocyclwij66ut5nyai3fckm3a?t=Cifroteca_Roof_Raiser_Wild_Storm
 link_ektoplazm: 
 link_discogs: 1165312
 written_by: 

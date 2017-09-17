@@ -57,8 +57,8 @@
             <img class="page-release__applemusic-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/apple-music.svg?01" alt="Apple Music Icon">
             <span class="page-release__applemusic-btn-text">Apple Music</span>
           </a>
-          <a class="page-release__googlemusic-btn{% if page.link_googlemusic == null %} is-disabled{% endif %}"
-            href="{% if page.link_googlemusic == null %}javascript:void(0){% else %}{{ page.link_googlemusic }}{% endif %}"
+          <a class="page-release__googlemusic-btn{% if page.link_googleplay == null %} is-disabled{% endif %}"
+            href="{% if page.link_googleplay == null %}javascript:void(0){% else %}{{ page.link_googleplay }}{% endif %}"
             target="_blank" rel="noopener"
           >
             <img class="page-release__googlemusic-btn-img" src="{{ site.baseurl }}/assets/img/svg-icons/google-play.svg?01" alt="Google Play Icon">
@@ -201,10 +201,10 @@
     {% endif %}
 
     {% comment %}
-    {% if page.link_googlemusic %}
+    {% if page.link_googleplay %}
       <p>
         {% comment %}<span>Release Info:</span>{% endcomment %}
-        <a href="{{ page.link_googlemusic }}" target="_blank" rel="noopener">
+        <a href="{{ page.link_googleplay }}" target="_blank" rel="noopener">
           {% comment %}<span class="icon-discogs"></span>{% endcomment %}
           <span>Google Music</span>
         </a>

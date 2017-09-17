@@ -22,7 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/va-ocean-scenes-higher-titan
 link_junodownload: http://www.junodownload.com/products/ocean-scenes-higher-titans/1507885-02
 link_beatspace: 
 link_applemusic: https://itunes.apple.com/ua/album/ocean-scenes-higher-titans/id1271845715?l=uk
-link_googlemusic: https://play.google.com/music/m/Byy32xtqid45ol6rezctxept5ei?t=Ocean_Scenes_Higher_Titans
+link_googleplay: https://play.google.com/music/m/Byy32xtqid45ol6rezctxept5ei?t=Ocean_Scenes_Higher_Titans
 link_ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
 link_discogs: 538286
 written_by: 

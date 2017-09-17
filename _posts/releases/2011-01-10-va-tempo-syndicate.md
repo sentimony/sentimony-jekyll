@@ -22,7 +22,7 @@ link_bandcamp: https://sentimony.bandcamp.com/album/va-tempo-syndicate
 link_junodownload: http://www.junodownload.com/products/tempo-syndicate/1686481-02
 link_beatspace: 
 link_applemusic: https://itunes.apple.com/ua/album/tempo-syndicate/id1272422614?l=uk
-link_googlemusic: https://play.google.com/music/m/Btublfcc3kcy6txy6vww26z55ym?t=Tempo_Syndicate
+link_googleplay: https://play.google.com/music/m/Btublfcc3kcy6txy6vww26z55ym?t=Tempo_Syndicate
 link_ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
 link_discogs: 563066
 written_by: 
