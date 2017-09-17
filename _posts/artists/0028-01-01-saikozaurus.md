@@ -8,7 +8,7 @@ title: Saikozaurus
 photo: true
 name: Daniil Lebedyntsev
 location: Odesa, Ukraine
-style: forest psytrance
+style: Forest Psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/saikozaurus.music

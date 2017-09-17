@@ -8,7 +8,7 @@ title: Already Maged
 photo: true
 name: Egor Yudin
 location: Lviv, Ukraine
-style: forest psytrance
+style: Forest Psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/magedalready

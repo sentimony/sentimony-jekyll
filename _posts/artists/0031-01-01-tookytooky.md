@@ -8,7 +8,7 @@ title: Tookytooky
 photo: true
 name: Sergey Verbitsky
 location: Odesa, Ukraine
-style: psytrance
+style: Psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/tookytooky

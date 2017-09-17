@@ -8,7 +8,7 @@ title: Shivattva
 photo: true
 name: Artem Arhangelskiy
 location: Odesa, Ukraine
-style: forest psytrance
+style: Forest Psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/shivattva

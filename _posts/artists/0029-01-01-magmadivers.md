@@ -8,7 +8,7 @@ title: Magmadivers
 photo: true
 name: Dmitriy Likhachev & Grigoriy Sobinov
 location: Kyiv, Ukraine
-style: psytrance
+style: Psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/magmadivers
