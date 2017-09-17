@@ -7,12 +7,20 @@
 
 <script>
   var SwiperArtistList = require('./swiper-artist-list.vue');
+  // var SvgTriangle = require('./svg-triangle.vue');
   var ArtistPage = require('./artist-page.vue');
 
   module.exports = {
     components: {
       'swiper-artist-list': SwiperArtistList,
+      // 'svg-triangle': SvgTriangle,
       'artist-page': ArtistPage
     }
-  };
+  }
 </script>
+
+<style lang="scss?outputStyle=compressed">
+  .artist-page {
+    // display: none;
+  }
+</style>

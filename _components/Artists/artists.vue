@@ -5,7 +5,7 @@
       <div v-for="i in artists.data" class="artists__item">
         <p v-if="i.slug">
           <!-- <a :href="'/artist/' + i.slug" class="artists__link"> -->
-          <router-link :to="'/artist/' + i.slug" class="artists__link">
+          <router-link :to="'/artist/' + i.slug + '/'" class="artists__link">
             <img class="artists__photo lazyload"
               :src="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg'"
               :data-srcset="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/artists/small-retina/' + i.slug + '.jpg 2x'"
@@ -16,7 +16,7 @@
         </p>
         <p class="artists__title">
           <!-- <a :href="'/artist/' + i.slug">{{ i.title }}</a> -->
-          <router-link :to="'/artist/' + i.slug">{{ i.title }}</router-link>
+          <router-link :to="'/artist/' + i.slug + '/'">{{ i.title }}</router-link>
         </p>
       </div>
     </div>
@@ -39,8 +39,9 @@
     },
     created: function () {
       var self = this;
-      this.axios.get('/assets/data/artists.json').then(function (response) {
+      this.axios.get('https://sentimony-db.firebaseio.com/.json').then(function (response) {
         self.artists = response.data.artists;
+        console.log('firebase >>> artists catched');
       }).catch(function (error) {
         console.log(error);
       });

@@ -3,9 +3,9 @@
     <div class="swiper-release-list__title">{{ ourReleases }}</div>
     <div class="swiper-container swiper-release-list__container">
       <div class="swiper-wrapper">
-        <div v-for="i in releases.data" class="swiper-slide swiper-release-list-item is-selected">
-          <!-- <a class="swiper-release-list-item__link" :href="'/release/' + i.slug"> -->
-          <router-link class="swiper-release-list-item__link" :to="'/release/' + i.slug">
+        <router-link v-for="i in releases.data" class="swiper-slide swiper-release-list-item" active-class="is-selected" :key="i.slug" :to="'/release/' + i.slug+ '/'">
+          <!-- <router-link class="swiper-release-list-item__link" :to="'/release/' + i.slug+ '/'" active-class="is-selected"> -->
+          <a class="swiper-release-list-item__link">
             <div class="swiper-release-list-item__wrapper">
               <div class="swiper-release-list-item__cover">
                 <img v-if="i.cover"
@@ -20,9 +20,9 @@
               <div v-if="i.new" class="swiper-release-list-item__status swiper-release-list-item__status--new">New</div>
             </div>
             <div class="swiper-release-list-item__title">{{ i.title }}</div>
-          </router-link>
-          <!-- </a> -->
-        </div>
+          </a>
+          <!-- </router-link> -->
+        </router-link>
       </div>
       <div class="swiper-release-list__prev js-swiper-release-list__prev"></div>
       <div class="swiper-release-list__next js-swiper-release-list__next"></div>
@@ -101,21 +101,21 @@
         slidesPerView: 'auto'
       })
 
-      // swiperReleasePage.slideTo(getSlideIndexByClass('is-selected'), false);
+      swiperReleasePage.slideTo(getSlideIndexByClass('is-selected'), false);
 
-      // function getSlideIndexByClass(className) {
-      //   var index = 0;
-      //   var elements = document.querySelectorAll('.js-swiper-release-list--release-page .swiper-wrapper .swiper-slide');
+      function getSlideIndexByClass(className) {
+        var index = 0;
+        var elements = document.querySelectorAll('.js-swiper-release-list--release-page .swiper-wrapper .swiper-slide');
 
-      //   elements.forEach(function(item,i,arr){
-      //     if (item.classList.contains(className)) {
-      //       index = i;
-      //       return false;
-      //     }
-      //   })
+        elements.forEach(function(item,i,arr){
+          if (item.classList.contains(className)) {
+            index = i;
+            return false;
+          }
+        })
 
-      //   return index;
-      // }
+        return index;
+      }
     }
 
   };

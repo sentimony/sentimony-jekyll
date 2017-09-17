@@ -3,21 +3,12 @@ define('app', ['./vue.min'], function(Vue) {
   var VueRouter = require('vue-router/dist/vue-router.js');
   Vue.use(VueRouter);
 
+  // var Vuex = require('vuex/dist/vuex.js');
+  // Vue.use(Vuex);
+
   var axios = require('axios');
   var VueAxios = require('vue-axios');
   Vue.use(VueAxios, axios);
-
-  // Initialize Firebase
-  // var firebase = require('firebase');
-  // var config = {
-  //   apiKey: "AIzaSyCTVGdSsE6h8PA6WOeqxgzyCgX4L3eOoNE",
-  //   authDomain: "sentimony-db.firebaseapp.com",
-  //   databaseURL: "https://sentimony-db.firebaseio.com",
-  //   projectId: "sentimony-db",
-  //   storageBucket: "sentimony-db.appspot.com",
-  //   messagingSenderId: "724792675849"
-  // };
-  // firebase.initializeApp(config);
 
   var BaseBg = require('../vue/base-bg.vue');
   var SvgTriangle = require('../vue/svg-triangle.vue');
@@ -66,19 +57,24 @@ define('app', ['./vue.min'], function(Vue) {
       path: '/releases/',
       component: SpaReleases
     },{
-      path: '/release/:slug',
+      path: '/release/:slug/',
       component: SpaReleasePage
     },{
       path: '/artists/',
       component: SpaArtists
     },{
-      path: '/artist/:slug',
-      component: SpaArtistPage
+      path: '/artist/:slug/',
+      component: SpaArtistPage,
+      // props: true,
+      // beforeEnter: (to, from, next) => {
+      //   console.log('Entering Artist')
+      //   next()
+      // }
     },{
       path: '/events/',
       component: SpaEvents
     },{
-      path: '/event/:slug',
+      path: '/event/:slug/',
       component: SpaEventPage
     },{
       path: '/friends/',
@@ -94,6 +90,7 @@ define('app', ['./vue.min'], function(Vue) {
 
   new Vue({
     el: '#app',
+    // store: require('../js/store.js'),
     router: router,
     components: {
       'base-bg': BaseBg,
@@ -118,6 +115,10 @@ define('app', ['./vue.min'], function(Vue) {
       'swiper-release-list': SwiperReleaseList,
       'swiper-artist-list': SwiperArtistList
     }
+  });
+
+  router.afterEach((to, from) => {
+    console.log(`moved from '${from.path}' to '${to.path}'`)
   });
 
 });

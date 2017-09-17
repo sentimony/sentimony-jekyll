@@ -4,7 +4,7 @@
     <div class="releases__list">
       <div v-for="i in releases.data" class="releases__item swiper-release-list-item">
         <!-- <a v-if="i.slug" :href="'/release/' + i.slug" class="releases__link swiper-release-list-item__link"> -->
-        <router-link v-if="i.slug" :to="'/release/' + i.slug" class="releases__link swiper-release-list-item__link">
+        <router-link v-if="i.slug" :to="'/release/' + i.slug + '/'" class="releases__link swiper-release-list-item__link">
           <div class="releases__photo swiper-release-list-item__cover">
             <img v-if="i.cover"
               class="swiper-release-list-item__img lazyload"

@@ -3,9 +3,9 @@
     <div class="swiper-artist-list__title">{{ ourArtists }}</div>
     <div class="swiper-container swiper-artist-list__container">
       <div class="swiper-wrapper">
-        <div v-for="i in artists.data" class="swiper-slide swiper-artist-list-item is-selected">
-          <!-- <a class="swiper-artist-list-item__link" :href="'/artist/' + i.slug"> -->
-          <router-link class="swiper-artist-list-item__link" :to="'/artist/' + i.slug">
+        <router-link v-for="i in artists.data" class="swiper-slide swiper-artist-list-item" active-class="is-selected" :key="i.slug" :to="'/artist/' + i.slug + '/'">
+          <!-- <router-link class="swiper-artist-list-item__link" :to="'/artist/' + i.slug + '/'" active-class="is-selected"> -->
+          <a class="swiper-artist-list-item__link">
             <div class="swiper-artist-list-item__wrapper">
               <div class="swiper-artist-list-item__cover">
                 <img v-if="i.slug" class="swiper-artist-list-item__img lazyload"
@@ -16,9 +16,9 @@
               </div>
             </div>
             <div class="swiper-artist-list-item__title">{{ i.title }}</div>
-          </router-link>
-          <!-- </a> -->
-        </div>
+          </a>
+          <!-- </router-link> -->
+        </router-link>
       </div>
       <div class="swiper-artist-list__prev js-swiper-artist-list__prev"></div>
       <div class="swiper-artist-list__next js-swiper-artist-list__next"></div>
@@ -52,8 +52,9 @@
     props: ['modificator'],
     created: function () {
       var self = this;
-      this.axios.get('/assets/data/artists.json').then(function (response) {
+      this.axios.get('https://sentimony-db.firebaseio.com/.json').then(function (response) {
         self.artists = response.data.artists;
+        console.log('firebase >>> artists catched');
       }).catch(function (error) {
         console.log(error);
       });
@@ -83,7 +84,7 @@
 
       document.querySelector('.swiper-artist-list__container').classList.add('is-visible');
 
-      var swiperartistPage = new Swiper ('.js-swiper-artist-list--artist-page .swiper-container', {
+      var swiperArtistPage = new Swiper ('.js-swiper-artist-list--artist-page .swiper-container', {
         nextButton: '.js-swiper-artist-list__next',
         prevButton: '.js-swiper-artist-list__prev',
         scrollbar: '.js-swiper-artist-list__scrollbar',
@@ -95,21 +96,21 @@
         slidesPerView: 'auto'
       })
 
-    //   swiperartistPage.slideTo(getSlideIndexByClass('is-selected'), false);
+      swiperArtistPage.slideTo(getSlideIndexByClass('is-selected'), false);
 
-    //   function getSlideIndexByClass(className) {
-    //     var index = 0;
-    //     var elements = document.querySelectorAll('.js-swiper-artist-list--artist-page .swiper-wrapper .swiper-slide');
+      function getSlideIndexByClass(className) {
+        var index = 0;
+        var elements = document.querySelectorAll('.js-swiper-artist-list--artist-page .swiper-wrapper .swiper-slide');
 
-    //     elements.forEach(function(item,i,arr){
-    //       if (item.classList.contains(className)) {
-    //         index = i;
-    //         return false;
-    //       }
-    //     })
+        elements.forEach(function(item,i,arr){
+          if (item.classList.contains(className)) {
+            index = i;
+            return false;
+          }
+        })
 
-    //     return index;
-    //   }
+        return index;
+      }
     }
 
   };

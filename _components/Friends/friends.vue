@@ -32,8 +32,9 @@
     },
     created: function () {
       var self = this;
-      this.axios.get('/assets/data/friends.json').then(function (response) {
+      this.axios.get('https://sentimony-db.firebaseio.com/.json').then(function (response) {
         self.friends = response.data.friends;
+        console.log('firebase >>> friends catched');
       }).catch(function (error) {
         console.log(error);
       });

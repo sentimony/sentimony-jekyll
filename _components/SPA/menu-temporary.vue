@@ -1,15 +1,15 @@
 <template>
-  <!-- <div class="menu-temporary">
+  <div class="menu-temporary">
     <div class="menu-temporary__wrapper">
-      <router-link class="menu-temporary__link" to="/spa/">Home</router-link>
-      <router-link class="menu-temporary__link" to="/news/">News</router-link>
-      <router-link class="menu-temporary__link" to="/releases/">Releases</router-link>
-      <router-link class="menu-temporary__link" to="/artists/">Artists</router-link>
-      <router-link class="menu-temporary__link" to="/events/">Events</router-link>
-      <router-link class="menu-temporary__link" to="/friends/">Friends</router-link>
-      <router-link class="menu-temporary__link" to="/contacts/">Contacts</router-link>
+      <router-link class="menu-temporary__link" active-class="is-selected" to="/" exact>Home</router-link>
+      <router-link class="menu-temporary__link" active-class="is-selected" to="/news/">News</router-link>
+      <router-link class="menu-temporary__link" active-class="is-selected" to="/releases/">Releases</router-link>
+      <router-link class="menu-temporary__link" active-class="is-selected" to="/artists/">Artists</router-link>
+      <router-link class="menu-temporary__link" active-class="is-selected" to="/events/">Events</router-link>
+      <router-link class="menu-temporary__link" active-class="is-selected" to="/friends/">Friends</router-link>
+      <router-link class="menu-temporary__link" active-class="is-selected" to="/contacts/">Contacts</router-link>
     </div>
-  </div> -->
+  </div>
 </template>
 
 <script>
@@ -41,7 +41,7 @@
       background-color: rgba(#fff,.0);
       transition: background-color .2s ease;
 
-      // &.is-selected,
+      &.is-selected,
       &:hover {
         background-color: rgba(#fff,.1);
         background-color: $colorBgLight;
