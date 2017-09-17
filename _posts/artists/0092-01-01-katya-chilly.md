@@ -8,7 +8,7 @@ title: Katya Chilly
 photo: true
 name: Katerina Kondratenko
 location: Kyiv, Ukraine
-style: 
+style: Vocal
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/Katya-Chilly-Group-399462070176930
