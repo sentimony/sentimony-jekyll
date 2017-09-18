@@ -5,10 +5,10 @@ permalink: /artist/saikozaurus/
 category: artists
 comments: true
 title: Saikozaurus
-photo_cover: https://scontent-frt3-1.xx.fbcdn.net/v/t31.0-8/11334024_915198008523342_9153073582758490390_o.jpg?oh=7cafc3b48b2c043993cfc6f9689fb69b&oe=59DC8F4C
+photo: true
 name: Daniil Lebedyntsev
 location: Odesa, Ukraine
-style: forest psytrance
+style: Forest Psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/saikozaurus.music

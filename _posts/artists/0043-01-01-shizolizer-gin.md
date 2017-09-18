@@ -5,7 +5,7 @@ permalink: /artist/shizolizer-gin/
 category: artists
 comments: true
 title: ShizoLizer Gin
-photo_cover: https://scontent-fra3-1.xx.fbcdn.net/v/t31.0-8/330949_237248859670364_2053432813_o.jpg?oh=833b3b2e8778d689da736e3f40ef2152&oe=59DEA7A0
+photo: true
 name: Dmitriy Veremeiev & Ivan Kabanenko
 location: Vyshhorod, Ukraine
 style: Psychill, Chillgressive, Psytrance

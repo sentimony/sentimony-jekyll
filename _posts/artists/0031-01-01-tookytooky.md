@@ -5,10 +5,10 @@ permalink: /artist/tookytooky/
 category: artists
 comments: true
 title: Tookytooky
-photo_cover: https://content.sentimony.com/assets/img/artists/large/tookytooky.jpg
+photo: true
 name: Sergey Verbitsky
 location: Odesa, Ukraine
-style: psytrance
+style: Psytrance
 website: 
 bandcamp: 
 facebook: https://www.facebook.com/tookytooky

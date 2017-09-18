@@ -20,7 +20,23 @@
   };
 </script>
 
-<style>
+<style lang="scss?outputStyle=compressed">
   .base-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+
+    &__img {
+      display: block;
+      width: auto;
+      height: 100%;
+      max-width: inherit;
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+    }
   }
 </style>

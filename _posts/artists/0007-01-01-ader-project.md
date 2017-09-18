@@ -5,7 +5,7 @@ permalink: /artist/ader-project/
 category: artists
 comments: true
 title: Ader Project
-photo_cover: 
+photo: false
 name: Alexandr Pidgornyi
 location: Kyiv, Ukraine
 style: Psychill

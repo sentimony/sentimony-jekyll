@@ -21,6 +21,8 @@ bandcamp_id: 625816327
 link_bandcamp: https://sentimony.bandcamp.com/album/psyfactor-retro-scientific
 link_junodownload: http://www.junodownload.com/products/psyfactor-retro-scientific/2443464-02
 link_beatspace: http://www.beatspace.com/7696/Sentimony+Records/PSYFACTOR/Retro+Scientific/detail.aspx
+link_applemusic: https://itunes.apple.com/ua/album/retro-scientific/id1272439398?l=uk
+link_googleplay: https://play.google.com/music/m/Bx5rmwodk5salgssbcdspzkhdl4?t=Psyfactor_Retro_Scientific
 link_ektoplazm: 
 link_discogs: 656758
 written_by: <a href="/artist/psyfactor/">Psyfactor</a>

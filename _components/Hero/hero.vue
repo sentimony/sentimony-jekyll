@@ -18,7 +18,7 @@
   };
 </script>
 
-<style>
+<style lang="scss?outputStyle=compressed">
   .hero {
   }
 </style>

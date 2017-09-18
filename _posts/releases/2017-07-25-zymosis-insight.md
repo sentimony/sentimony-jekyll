@@ -21,6 +21,8 @@ bandcamp_id: 3630855086
 link_bandcamp: https://sentimony.bandcamp.com/album/zymosis-insight
 link_junodownload: 
 link_beatspace: http://www.beatspace.com/10297/Sentimony+Records/ZYMOSIS/Insight/detail.aspx
+link_applemusic: https://itunes.apple.com/ua/album/insight/id1271988987?l=uk
+link_googleplay: https://play.google.com/music/m/Bt6umx3hpzsqwnjqk3k6fz24bam?t=Zymosis_Insight
 link_ektoplazm: 
 link_discogs: 1217106
 written_by: <a href="/artist/zymosis/">Zymosis</a>

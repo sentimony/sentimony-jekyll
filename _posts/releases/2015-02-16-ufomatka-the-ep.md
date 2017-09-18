@@ -21,7 +21,8 @@ bandcamp_id: 3632768543
 link_bandcamp: https://sentimony.bandcamp.com/album/ufomatka-the-e-p
 link_junodownload: 
 link_beatspace: 
-link_beatspace: 
+link_applemusic: https://itunes.apple.com/ua/album/the-ep/id1271815522?l=uk
+link_googleplay: https://play.google.com/music/m/Bodr6adfev7dqehsy466f6rvj4y?t=Ufomatka_The_EP
 link_ektoplazm: 
 link_discogs: 866892
 written_by: <a href="/artist/ufomatka/">Ufomatka</a>

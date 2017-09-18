@@ -5,7 +5,7 @@ permalink: /artist/hypnotriod/
 category: artists
 comments: true
 title: Hypnotriod
-photo_cover: https://content.sentimony.com/assets/img/artists/large/hypnotriod.jpg
+photo: true
 name: Ilya Pikin
 location: Vinnytsya, Ukraine
 style: Psychill

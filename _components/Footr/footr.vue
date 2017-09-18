@@ -14,13 +14,7 @@
 
     <div class="footr__powered">
       <div>Web development by <a href="https://ihororlovskyi.com" target="_blank" rel="noopener">Ihor Orlovskyi</a></div>
-      <div>Design by <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a></div>
-    </div>
-
-    <div>
-      <router-link to="/">index1</router-link> |
-      <router-link to="/news1/">news1</router-link>
-      <router-view></router-view>
+      <div>Design by <a href="https://rooster-chess.netlify.com" target="_blank" rel="noopener">Anton Pivniuk</a></div>
     </div>
 
   </div>
@@ -38,7 +32,28 @@
   };
 </script>
 
-<style>
+<style lang="scss?outputStyle=compressed">
   .footr {
+    padding: 100px .6em;
+    background-color: #000;
+    font-size: 12px;
+    color: rgba(#fff,.5);
+    position: relative;
+
+    &__copyright {
+      margin: 0 auto 2em;
+
+      &-logo {
+        display: block;
+        margin: .5em auto 0;
+        max-width: 30px;
+        height: auto;
+      }
+    }
+
+    &__powered {
+      margin: 0 auto 2em;
+      font-size: 10px;
+    }
   }
 </style>

@@ -5,7 +5,7 @@ permalink: /artist/unstable-elements/
 category: artists
 comments: true
 title: Unstable Elements
-photo_cover: https://content.sentimony.com/assets/img/artists/large/unstable-elements.jpg
+photo: true
 name: Maxim Kornev & Andrew Epifanov
 location: Moscow, Russian Federation
 style: Psychill

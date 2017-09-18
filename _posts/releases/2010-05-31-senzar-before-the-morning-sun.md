@@ -21,6 +21,8 @@ bandcamp_id: 844009190
 link_bandcamp: https://sentimony.bandcamp.com/album/senzar-before-the-morning-sun
 link_junodownload: http://www.junodownload.com/products/senzar-before-the-morning-sun/1598812-02
 link_beatspace: 
+link_applemusic: https://itunes.apple.com/ua/album/before-the-morning-sun/id1272404247?l=uk
+link_googleplay: https://play.google.com/music/m/Bk2ryoclvc77dtqjqopjxwbdmve?t=Senzar_Before_The_Morning_Sun
 link_ektoplazm: http://www.ektoplazm.com/free-music/senzar-before-the-morning-sun
 link_discogs: 331378
 written_by: 

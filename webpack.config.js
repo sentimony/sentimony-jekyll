@@ -33,24 +33,21 @@ module.exports = {
         test: /\.js$/,
         loader: 'babel-loader',
         exclude: /node_modules/
-      },
-      {
+      }, {
         test: /\.vue$/,
         loader: 'vue-loader'
-      },
-      {
+      }, {
         test: /\.scss$/,
-        use: [{
-          loader: "style-loader"
-        }, {
-          loader: "css-loader"
-        }, {
-          loader: "sass-loader",
-          options: {
-            includePaths: ["/.tmp/", "absolute/path/b"]
-          }
-        }]
+        loader: 'style!css!sass'
       }
     ]
+  },
+
+  resolveLoader: {
+    alias: {
+      'scss-loader': 'sass-loader',
+      styles: '_scss/'
+    },
   }
+
 };

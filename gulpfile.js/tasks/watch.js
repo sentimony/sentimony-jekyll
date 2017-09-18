@@ -4,11 +4,12 @@ gulp.task('watch', ['browser-sync'], function () {
   gulp.watch([
     '_scss/**/*.scss',
     '_components/**/*.scss'
-  ], ['sass']);
+  ], ['scss']);
   gulp.watch([
     '_components/**/*.js',
     '_components/**/*.vue',
     '_js/**/*',
+    'webpack.config.js'
   ], ['jekyll-rebuild']);
   gulp.watch([
     '_layouts/**/*.html',
@@ -21,7 +22,6 @@ gulp.task('watch', ['browser-sync'], function () {
     // 'assets/css/*',
     // 'assets/js/*',
     'manifest.json',
-    '_config.yml',
-    '_config_dev.yml'
+    '_config.yml'
   ], ['jekyll-rebuild']);
 });

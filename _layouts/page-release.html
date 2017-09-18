@@ -2,5 +2,8 @@
 layout: default
 ---
 
-{% include ReleaseListSwiper/index.html class='js-release-list-swiper--release-page' %}
-{% include PageRelease/index.html %}
+{% comment %}
+<swiper-release-list modificator="js-swiper-release-list--release-page"></swiper-release-list>
+{% endcomment %}
+{% include SwiperReleaseList/swiper-release-list.html class='js-swiper-release-list--release-page' %}
+{% include ReleasePage/index.html %}

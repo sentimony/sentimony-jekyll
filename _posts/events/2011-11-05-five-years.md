@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page-event
 permalink: /event/five-years/
 category: events
 comments: true

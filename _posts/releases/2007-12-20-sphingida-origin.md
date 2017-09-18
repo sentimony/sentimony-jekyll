@@ -21,6 +21,8 @@ bandcamp_id: 3680718383
 link_bandcamp: https://sentimony.bandcamp.com/album/sphingida-origin
 link_junodownload: http://www.junodownload.com/products/sphingida-origin/1507877-02
 link_beatspace: 
+link_applemusic: https://itunes.apple.com/ua/album/origin/id1271839641?l=uk
+link_googleplay: https://play.google.com/music/r/m/Anpol4iy3uxxqyfwsjxwaejsg4q?t=Sphingida_Origin
 link_ektoplazm: http://www.ektoplazm.com/free-music/sphingida-origin
 link_discogs: 446647
 written_by: <a href="/artist/sphingida/">Sphingida</a>

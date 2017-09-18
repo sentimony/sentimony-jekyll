@@ -5,7 +5,7 @@ permalink: /artist/alexander-daf/
 category: artists
 comments: true
 title: Alexander Daf
-photo_cover: https://content.sentimony.com/assets/img/artists/large/alexander-daf.jpg
+photo: true
 name: Alexander Ivanov
 location: Saint Petersburg, Russian Federation
 style: Psychill

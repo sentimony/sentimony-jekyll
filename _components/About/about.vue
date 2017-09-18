@@ -18,7 +18,34 @@
   };
 </script>
 
-<style>
+<style lang="scss?outputStyle=compressed">
   .about {
+    background-color: rgba(#000,.5);
+    position: relative;
+
+    &__logo {
+      display: block;
+      width: 60px;
+      height: auto;
+      margin: 0 auto;
+    }
+
+    &__wrapper {
+      max-width: 460px;
+      margin: 0 auto;
+      padding: 5em 10px;
+      box-sizing: border-box;
+
+      p {
+
+        a {
+          color: #ff595e;
+
+          &:hover {
+            color: red;
+          }
+        }
+      }
+    }
   }
 </style>
