@@ -16,7 +16,6 @@
             </a>
             <div v-else class="page-artist__photo-coming">Photo<br>coming soon</div>
           </div>
-
           <div class="page-artist__info">
             <div v-if="artist.style" class="page-artist__small-info">
               <div class="page-artist__style">{{ artist.style }}</div>
