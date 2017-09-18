@@ -1,5 +1,5 @@
 <template>
-  <div class="menu-temporary">
+  <!-- <div class="menu-temporary">
     <div class="menu-temporary__wrapper">
       <router-link class="menu-temporary__link" active-class="is-selected" to="/" exact>Home</router-link>
       <router-link class="menu-temporary__link" active-class="is-selected" to="/news/">News</router-link>
@@ -9,7 +9,7 @@
       <router-link class="menu-temporary__link" active-class="is-selected" to="/friends/">Friends</router-link>
       <router-link class="menu-temporary__link" active-class="is-selected" to="/contacts/">Contacts</router-link>
     </div>
-  </div>
+  </div> -->
 </template>
 
 <script>

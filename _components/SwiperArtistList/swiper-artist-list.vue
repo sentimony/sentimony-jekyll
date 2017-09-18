@@ -4,7 +4,6 @@
     <div class="swiper-container swiper-artist-list__container">
       <div class="swiper-wrapper">
         <router-link v-for="i in artists.data" class="swiper-slide swiper-artist-list-item" active-class="is-selected" :key="i.slug" :to="'/artist/' + i.slug + '/'">
-          <!-- <router-link class="swiper-artist-list-item__link" :to="'/artist/' + i.slug + '/'" active-class="is-selected"> -->
           <a class="swiper-artist-list-item__link">
             <div class="swiper-artist-list-item__wrapper">
               <div class="swiper-artist-list-item__cover">
@@ -17,7 +16,6 @@
             </div>
             <div class="swiper-artist-list-item__title">{{ i.title }}</div>
           </a>
-          <!-- </router-link> -->
         </router-link>
       </div>
       <div class="swiper-artist-list__prev js-swiper-artist-list__prev"></div>

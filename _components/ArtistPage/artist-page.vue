@@ -133,8 +133,6 @@
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  // @import '../../node_modules/vue-nav-tabs/themes/vue-tabs.scss';
   .artist-page {
-    // display: block;
   }
 </style>

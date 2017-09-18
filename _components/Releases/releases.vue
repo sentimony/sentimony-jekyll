@@ -1,6 +1,6 @@
 <template>
   <div class="releases">
-    <h1 class="releases__title swiper-release-list__title">{{ ourReleases }}</h1>
+    <h1 class="releases__title">{{ ourReleases }}</h1>
     <div class="releases__list">
       <div v-for="i in releases.data" class="releases__item swiper-release-list-item">
         <!-- <a v-if="i.slug" :href="'/release/' + i.slug" class="releases__link swiper-release-list-item__link"> -->
@@ -43,8 +43,9 @@
     },
     created: function () {
       var self = this;
-      this.axios.get('/assets/data/releases.json').then(function (response) {
-        self.releases = response.data.releases;
+      this.axios.get('https://sentimony-db.firebaseio.com/releases.json').then(function (response) {
+        self.releases = response.data;
+        console.log('firebase: RELEASES catched');
       }).catch(function (error) {
         console.log(error);
       });
