@@ -7,7 +7,7 @@ module.exports = {
   context: __dirname + '/.tmp/js/',
 
   entry: {
-    base: ['./base.js']
+    base: ['./app.js']
   },
 
   output: {

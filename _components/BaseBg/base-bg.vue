@@ -1,8 +1,8 @@
 <template>
   <div class="base-bg">
-    <img class="base-bg__img lazyload"
+    <img class="base-bg__img"
          :src="baseBgSrc"
-         :data-srcset="baseBgSrc1x + ',' + baseBgSrc2x"
+         :srcset="baseBgSrc1x + ',' + baseBgSrc2x"
          :alt="baseBgAlt">
   </div>
 </template>

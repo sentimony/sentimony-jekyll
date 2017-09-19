@@ -6,9 +6,9 @@
         <p v-if="i.slug">
           <!-- <a :href="'/artist/' + i.slug" class="artists__link"> -->
           <router-link :to="'/artist/' + i.slug + '/'" class="artists__link">
-            <img class="artists__photo lazyload"
+            <img class="artists__photo"
               :src="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg'"
-              :data-srcset="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/artists/small-retina/' + i.slug + '.jpg 2x'"
+              :srcset="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/artists/small-retina/' + i.slug + '.jpg 2x'"
               :alt="i.title + ' Small Thumbnail'"
             >
           </router-link>

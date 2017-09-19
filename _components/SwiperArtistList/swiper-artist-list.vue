@@ -7,9 +7,9 @@
           <a class="swiper-artist-list-item__link">
             <div class="swiper-artist-list-item__wrapper">
               <div class="swiper-artist-list-item__cover">
-                <img v-if="i.slug" class="swiper-artist-list-item__img lazyload"
+                <img v-if="i.slug" class="swiper-artist-list-item__img"
                   :src="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg'"
-                  :data-srcset="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/artists/small-retina/' + i.slug + '.jpg 2x'"
+                  :srcset="'https://content.sentimony.com/assets/img/artists/small/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/artists/small-retina/' + i.slug + '.jpg 2x'"
                   :alt="i.title + ' Small Thumbnail'"
                 >
               </div>
@@ -60,7 +60,7 @@
   };
 
   function initSwiper() {
-    var Swiper = require('../js/swiper.min');
+    var Swiper = require('swiper/dist/js/swiper.min.js');
 
     if (document.querySelector('.js-swiper-artist-list--home-page')) {
 

@@ -8,9 +8,9 @@
             <div class="swiper-release-list-item__wrapper">
               <div class="swiper-release-list-item__cover">
                 <img v-if="i.cover"
-                  class="swiper-release-list-item__img lazyload"
+                  class="swiper-release-list-item__img"
                   :src="'https://content.sentimony.com/assets/img/releases/small/' + i.cat_no + '/' + i.slug + '.jpg'"
-                  :data-srcset="'https://content.sentimony.com/assets/img/releases/small/' + i.cat_no + '/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/releases/small-retina/' + i.cat_no + '/' + i.slug + '.jpg 2x'"
+                  :srcset="'https://content.sentimony.com/assets/img/releases/small/' + i.cat_no + '/' + i.slug + '.jpg 1x, https://content.sentimony.com/assets/img/releases/small-retina/' + i.cat_no + '/' + i.slug + '.jpg 2x'"
                   :alt="i.title + ' Small Thumbnail'"
                 >
                 <div v-else class="swiper-release-list-item__coming">Artwork<br>in progress</div>
@@ -66,7 +66,7 @@
   };
 
   function initSwiper() {
-    var Swiper = require('../js/swiper.min');
+    var Swiper = require('swiper/dist/js/swiper.min.js');
 
     if (document.querySelector('.js-swiper-release-list--home-page')) {
 

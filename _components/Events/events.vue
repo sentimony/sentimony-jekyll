@@ -4,7 +4,7 @@
     <div class="events__list">
       <p v-for="i in events.data" class="events__item">
         <!-- <a :href="i.url" class="events__link" v-if="i.date" v-html="i.date + ' @ ' + i.title"></a> -->
-        <router-link :to="i.url" class="events__link" v-if="i.date" v-html="i.date + ' @ ' + i.title"></router-link>
+        <router-link :to="i.url" class="events__link" v-if="i.date">{{ i.date | formatDate }} @ {{ i.title }}</router-link>
       </p>
     </div>
   </div>
@@ -33,6 +33,14 @@
       }).catch(function (error) {
         console.log(error);
       });
+    },
+    filters: {
+      formatDate: function (date) {
+        var moment = require('moment');
+        if (date) {
+          return moment(String(date)).format('DD MMM YYYY');
+        }
+      }
     }
   };
 </script>

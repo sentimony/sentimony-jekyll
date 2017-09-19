@@ -4,6 +4,7 @@
     "firebase": "^4.3.0",
     "goodshare.js": "^4.0.6",
     "lazysizes": "^4.0.0-rc3",
+    "moment": "^2.18.1",
     "normalize.css": "^7.0.0",
     "sw-toolbox": "^3.6.0",
     "swiper": "^3.4.2",

@@ -4,7 +4,7 @@
     <!-- <svg-triangle></svg-triangle> -->
 
     <h1>{{ event.title }}</h1>
-    <p v-if="event.date">Date: {{ event.date }}</p>
+    <p v-if="event.date">Date: {{ event.date | formatDate }}</p>
 
   </div>
 </template>
@@ -50,6 +50,14 @@
         }).catch(function (error) {
           console.log(error);
         });
+      }
+    },
+    filters: {
+      formatDate: function (date) {
+        var moment = require('moment');
+        if (date) {
+          return moment(String(date)).format('DD MMM YYYY');
+        }
       }
     }
   }

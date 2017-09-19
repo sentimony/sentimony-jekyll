@@ -8,7 +8,7 @@
         <div class="page-release__media">
           <div class="page-release__cover">
             <a v-if="release.cover" class="page-release__cover-link" :href="'https://content.sentimony.com/assets/img/releases/large/' + release.cat_no + '/' + release.slug +'.jpg'">
-              <img class="page-release__cover-img lazyload"
+              <img class="page-release__cover-img"
                 :src="'https://content.sentimony.com/assets/img/releases/small/' + release.cat_no + '/' + release.slug +'.jpg'"
                 :srcset="'https://content.sentimony.com/assets/img/releases/medium/' + release.cat_no + '/' + release.slug +'.jpg 1x, https://content.sentimony.com/assets/img/releases/medium-retina/' + release.cat_no + '/' + release.slug +'.jpg 2x'"
                 :alt="release.title + 'Medium Thumbnail'" 
@@ -17,6 +17,11 @@
             <div v-else class="page-release__cover-coming">Artwork<br>in progress</div>
           </div>
           <div class="page-release__info">
+            <div class="page-release__small-info">
+              <span v-if="release.cat_no" class="page-release__catalog-number">{{ release.cat_no }}</span>
+              <span v-if="release.coming_soon"> | Coming at 2017</span>
+              <span v-else-if="release.date"> | {{ release.date | formatDate }}</span>
+            </div>
             <h1 v-if="release.title" class="page-release__title">{{ release.title }}</h1>
             <div v-if="release.link_applemusic" class="page-release__small-info">Get it:</div>
             <div>
@@ -85,7 +90,7 @@
 
 <script>
   var SvgTriangle = require('./svg-triangle.vue');
-  var {VueTabs, VTab} = require('../js/vue-tabs.min.js');
+  var {VueTabs, VTab} = require('vue-nav-tabs/dist/vue-tabs.min.js');
   // var DisqusComments = require('./disqus-comments.vue');
 
   module.exports = {
@@ -125,6 +130,14 @@
         }).catch(function (error) {
           console.log(error);
         });
+      }
+    },
+    filters: {
+      formatDate: function (date) {
+        var moment = require('moment');
+        if (date) {
+          return moment(String(date)).format('DD MMM YYYY');
+        }
       }
     }
   }
