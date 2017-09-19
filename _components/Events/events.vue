@@ -2,7 +2,7 @@
   <div class="events">
     <h1>Events</h1>
     <div class="events__list">
-      <p v-for="i in events.data" class="events__item">
+      <p v-for="i in sortByDate" class="events__item">
         <!-- <a :href="i.url" class="events__link" v-if="i.date" v-html="i.date + ' @ ' + i.title"></a> -->
         <router-link :to="i.url" class="events__link" v-if="i.date">{{ i.date | formatDate }} @ {{ i.title }}</router-link>
       </p>
@@ -11,6 +11,8 @@
 </template>
 
 <script>
+  var sortBy = require('lodash/sortBy');
+
   module.exports = {
     data: function () {
       return {
@@ -41,7 +43,13 @@
           return moment(String(date)).format('DD MMM YYYY');
         }
       }
+    },
+    computed: {
+      sortByDate () {
+        return sortBy(this.events.data, 'date').reverse()
+      }
     }
+
   };
 </script>
 

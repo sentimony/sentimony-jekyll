@@ -2,7 +2,7 @@
   <div class="releases">
     <h1 class="releases__title">{{ ourReleases }}</h1>
     <div class="releases__list">
-      <div v-for="i in releases.data" class="releases__item swiper-release-list-item">
+      <div v-for="i in sortByDate" class="releases__item swiper-release-list-item">
         <router-link v-if="i.slug" :to="'/release/' + i.slug + '/'" class="releases__link swiper-release-list-item__link">
           <div class="swiper-release-list-item__cover">
             <img v-if="i.cover"
@@ -23,6 +23,8 @@
 </template>
 
 <script>
+  var sortBy = require('lodash/sortBy');
+
   module.exports = {
     data: function () {
       return {
@@ -48,8 +50,10 @@
         console.log(error);
       });
     },
-    computed: function () {
-
+    computed: {
+      sortByDate () {
+        return sortBy(this.releases.data, 'date').reverse()
+      }
     }
   };
 </script>

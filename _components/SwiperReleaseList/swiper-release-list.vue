@@ -3,7 +3,7 @@
     <div class="swiper-release-list__title">{{ ourReleases }}</div>
     <div class="swiper-container swiper-release-list__container">
       <div class="swiper-wrapper">
-        <router-link v-for="i in releases.data" class="swiper-slide swiper-release-list-item" active-class="is-selected" :key="i.slug" :to="'/release/' + i.slug + '/'">
+        <router-link v-for="i in sortByDate" class="swiper-slide swiper-release-list-item" active-class="is-selected" :key="i.slug" :to="'/release/' + i.slug + '/'">
           <a class="swiper-release-list-item__link">
             <div class="swiper-release-list-item__wrapper">
               <div class="swiper-release-list-item__cover">
@@ -30,6 +30,8 @@
 </template>
 
 <script>
+  var sortBy = require('lodash/sortBy');
+
   module.exports = {
     data: function () {
       return {
@@ -62,6 +64,11 @@
       }).catch(function (error) {
         console.log(error);
       });
+    },
+    computed: {
+      sortByDate () {
+        return sortBy(this.releases.data, 'date').reverse()
+      }
     }
   };
 
