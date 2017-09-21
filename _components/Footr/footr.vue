@@ -21,39 +21,39 @@
 </template>
 
 <script>
-  var MenuMain = require('./menu-main.vue');
-  var MenuSocial = require('./menu-social.vue');
+var MenuMain = require('./menu-main.vue');
+var MenuSocial = require('./menu-social.vue');
 
-  module.exports = {
-    components: {
-      'menu-main': MenuMain,
-      'menu-social': MenuSocial
-    }
-  };
+module.exports = {
+  components: {
+    'menu-main': MenuMain,
+    'menu-social': MenuSocial
+  }
+};
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  .footr {
-    padding: 100px .6em;
-    background-color: #000;
-    font-size: 12px;
-    color: rgba(#fff,.5);
-    position: relative;
+.footr {
+  padding: 100px .6em;
+  background-color: #000;
+  font-size: 12px;
+  color: rgba(#fff,.5);
+  position: relative;
 
-    &__copyright {
-      margin: 0 auto 2em;
+  &__copyright {
+    margin: 0 auto 2em;
 
-      &-logo {
-        display: block;
-        margin: .5em auto 0;
-        max-width: 30px;
-        height: auto;
-      }
-    }
-
-    &__powered {
-      margin: 0 auto 2em;
-      font-size: 10px;
+    &-logo {
+      display: block;
+      margin: .5em auto 0;
+      max-width: 30px;
+      height: auto;
     }
   }
+
+  &__powered {
+    margin: 0 auto 2em;
+    font-size: 10px;
+  }
+}
 </style>
