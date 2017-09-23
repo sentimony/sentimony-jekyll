@@ -31,17 +31,15 @@ artwork_by: Coming Soon
 mastered_by: <a href="https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener">Dimitro @ Zymosis Studio</a>
 ---
 
-Sentimony Records presents «Altering The Synaptic Controllers» - the second EP release by our beloved artist Ufomatka.
-
-The release name came from nowhere and the dick knows what it is, but it will all fuck us out :)
+Sentimony Records presents «Eve» - new EP by Zymosis.
 
 Have a nice trip!
 
 ---
 Tracklist:
 
-01. Ufomatka - Multiplexer \| 140bpm
-02. Ufomatka - Alien Controlled Human Exterminator \| 137bpm
-03. Ufomatka - Fornax Cluster \| 145bpm
-04. Ufomatka - Warper-mutator \| 138bpm
-05. Ufomatka - Weird Species \| 153bpm
+01. Zymosis - ... \| ...bpm
+02. Zymosis - ... \| ...bpm
+03. Zymosis - ... \| ...bpm
+04. Zymosis - ... \| ...bpm
+05. Zymosis - ... \| ...bpm
