@@ -28,7 +28,7 @@ link_discogs: 350184
 written_by: 
 compiled_by: <a href="/artist/sky-technology/">Sky Technology</a>
 artwork_by: <a href="https://www.instagram.com/julenca" target="_blank" rel="noopener">Ju Ju</a>
-mastered_by: Makus at <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Overdream Studio</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
 Lookinglook Records team is pleased to announce its fourth release, which today is the first Ukrainian 100% Goa trance compilation, titled «Dansing Mavka».

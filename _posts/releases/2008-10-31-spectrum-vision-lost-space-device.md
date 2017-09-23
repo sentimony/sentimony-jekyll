@@ -28,7 +28,7 @@ link_discogs: 494470
 written_by: <a href="/artist/spectrum-vision/">Spectrum Vision</a>
 compiled_by: 
 artwork_by: 1n0x & <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>
-mastered_by: Prok at VioletRaySoundlab
+mastered_by: Prok @ VioletRaySoundlab
 ---
 
 Spectrum Vision was founded in 2004 by two talented musicians from Stupino, Russia, near Moscow: Alexander (1n0x) and Ivan (Ujo). «Lost Space Device» is their debut album on Sentimony Records, originally released in 2008. 

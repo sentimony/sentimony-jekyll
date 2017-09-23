@@ -28,7 +28,8 @@ link_discogs: 538286
 written_by: 
 compiled_by: <a href="/artist/irukanji/">Irukanji</a>
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a> & <a href="https://www.facebook.com/cifroteca.music" target="_blank" rel="noopener">Cifroteca</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio & <a href="https://www.facebook.com/cifroteca.music" target="_blank" rel="noopener">Yuriy Yofik @ Cifroteca Studio</a></a>
 ---
 
 Sentimony Records is proud to introduce new musical direction more deeper musical appearance - Aqua Deep Music.

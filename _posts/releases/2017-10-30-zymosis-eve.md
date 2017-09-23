@@ -1,18 +1,18 @@
 ---
 layout: page-release
-permalink: /release/ufomatka-altering-the-synaptic-controllers/
+permalink: /release/zymosis-eve/
 category: releases
 comments: true
-title: 'Ufomatka «Altering The Synaptic Controllers»'
+title: 'Zymosis «Eve»'
 label: sentimony
-style: Goa Trance
+style: Ambient, Psychill
 format: ep album
 cover: 
-cat_no: sencd027
-cat_nu: sencd027
+cat_no: sencd030
+cat_nu: sencd030
 tracks_no: 5
 total_time: 
-release_date: 2017-09-30
+release_date: 2017-10-30
 coming_soon: true
 new: 
 youtube_id: 
@@ -25,9 +25,9 @@ link_applemusic:
 link_googleplay: 
 link_ektoplazm: 
 link_discogs: 
-written_by: <a href="/artist/ufomatka/">Ufomatka</a>
+written_by: <a href="/artist/zymosis/">Zymosis</a>
 compiled_by: 
-artwork_by: <a href="https://www.facebook.com/andytrootootoo" target="_blank" rel="noopener">Trootootoo</a>
+artwork_by: Coming Soon
 mastered_by: <a href="https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener">Dimitro @ Zymosis Studio</a>
 ---
 

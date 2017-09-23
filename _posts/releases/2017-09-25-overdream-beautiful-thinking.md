@@ -27,8 +27,8 @@ link_ektoplazm:
 link_discogs: 
 written_by: <a href="/artist/overdream/">Overdream</a>
 compiled_by: 
-artwork_by: Coming Soon
-mastered_by: Coming Soon
+artwork_by: <a href="https://www.facebook.com/artramaworkshop" target="_blank" rel="noopener">Artrama</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
 Release info is coming soon!

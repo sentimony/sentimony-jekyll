@@ -28,7 +28,7 @@ link_discogs: 349889
 written_by: 
 compiled_by: 
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
 Sentimony Records is proud to present new compact disk - the debut album from Ukrainian project Unusual Cosmic Process (UCP), titled «Weightlessness».

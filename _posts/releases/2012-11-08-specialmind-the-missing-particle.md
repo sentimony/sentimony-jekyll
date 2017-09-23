@@ -28,7 +28,7 @@ link_discogs: 601769
 written_by: 
 compiled_by: 
 artwork_by: Ader
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
 «The Missing Particle» - is the second EP released by Sentimony Records, introducing Specialmind project - a psychedelic downtempo duo from Ukraine.

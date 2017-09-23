@@ -28,7 +28,7 @@ link_discogs: 1165312
 written_by: 
 compiled_by: 
 artwork_by: Swaroop Guhathakurta
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
 Sentimony Records is pleased to announce its new psytrance release, split-album of two psychedelic minds Cifroteca and Roof Raiser - talented sound producers from Ukraine.

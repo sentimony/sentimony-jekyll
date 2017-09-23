@@ -28,7 +28,7 @@ link_discogs: 663801
 written_by: 
 compiled_by: <a href="/artist/sky-technology/">Sky Technology</a>
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
 Sentimony Records presents VA «Gamayun Tale» - a new Goa Trance story compiled by Sky Technology.

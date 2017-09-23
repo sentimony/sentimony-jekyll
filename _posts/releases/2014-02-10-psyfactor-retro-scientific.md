@@ -28,7 +28,7 @@ link_discogs: 656758
 written_by: <a href="/artist/psyfactor/">Psyfactor</a>
 compiled_by: 
 artwork_by: Ader
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
 Sentimony Records presents its new release, the newest creation of electron-synthetic Bachelor of Science, mushroom-innovator laureate and a pride of Russian chillout scene - Psyfactor.
