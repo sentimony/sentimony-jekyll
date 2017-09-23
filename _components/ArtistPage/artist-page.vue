@@ -100,14 +100,12 @@
     },
     data: function () {
       return {
-        artist: {
-          data: [
-            {
-              slug: null,
-              title: null
-            }
-          ]
-        }
+        artist: [
+          {
+            slug: null,
+            title: null
+          }
+        ]
       }
     },
     created: function () {
@@ -120,7 +118,7 @@
       fetchData: function () {
         var self = this;
         var id = this.$route.params.slug;
-        this.axios.get('https://sentimony-db.firebaseio.com/artists/data/' + id + '.json').then(function (response) {
+        this.axios.get('https://sentimony-db.firebaseio.com/artists/' + id + '.json').then(function (response) {
           self.artist = response.data;
           console.log('firebase: ARTIST ' + id + ' catched');
         }).catch(function (error) {
@@ -132,6 +130,6 @@
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  .artist-page {
-  }
+.artist-page {
+}
 </style>

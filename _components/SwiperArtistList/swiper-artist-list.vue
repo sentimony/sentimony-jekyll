@@ -3,7 +3,7 @@
     <div class="swiper-artist-list__title">{{ ourArtists }}</div>
     <div class="swiper-container swiper-artist-list__container">
       <div class="swiper-wrapper">
-        <router-link v-for="i in artists.data" class="swiper-slide swiper-artist-list-item" active-class="is-selected" :key="i.slug" :to="'/artist/' + i.slug + '/'">
+        <router-link v-for="i in artists" class="swiper-slide swiper-artist-list-item" active-class="is-selected" :key="i.slug" :to="'/artist/' + i.slug + '/'">
           <a class="swiper-artist-list-item__link">
             <div class="swiper-artist-list-item__wrapper">
               <div class="swiper-artist-list-item__cover">
@@ -26,95 +26,93 @@
 </template>
 
 <script>
-  module.exports = {
-    data: function () {
-      return {
-        ourArtists: 'Artists',
-        artists: {
-          data: [
-            {
-              slug: '',
-              title: ''
-            }
-          ]
+module.exports = {
+  data: function () {
+    return {
+      ourArtists: 'Artists',
+      artists: [
+        {
+          slug: '',
+          title: ''
         }
-      }
-    },
-    watch: {
-      artists: function () {
-        setTimeout(function () {
-          initSwiper();
-        }, 0);
-      }
-    },
-    props: ['modificator'],
-    created: function () {
-      var self = this;
-      this.axios.get('https://sentimony-db.firebaseio.com/artists.json').then(function (response) {
-        self.artists = response.data;
-        console.log('firebase: ARTISTS catched');
-      }).catch(function (error) {
-        console.log(error);
-      });
+      ]
     }
-  };
+  },
+  watch: {
+    artists: function () {
+      setTimeout(function () {
+        initSwiper();
+      }, 0);
+    }
+  },
+  props: ['modificator'],
+  created: function () {
+    var self = this;
+    this.axios.get('https://sentimony-db.firebaseio.com/artists.json').then(function (response) {
+      self.artists = response.data;
+      console.log('firebase: ARTISTS catched');
+    }).catch(function (error) {
+      console.log(error);
+    });
+  }
+};
 
-  function initSwiper() {
-    var Swiper = require('swiper/dist/js/swiper.min.js');
+function initSwiper() {
+  var Swiper = require('swiper/dist/js/swiper.min.js');
 
-    if (document.querySelector('.js-swiper-artist-list--home-page')) {
+  if (document.querySelector('.js-swiper-artist-list--home-page')) {
 
-      document.querySelector('.swiper-artist-list__container').classList.add('is-visible');
+    document.querySelector('.swiper-artist-list__container').classList.add('is-visible');
 
-      var swiperHomePage = new Swiper ('.js-swiper-artist-list--home-page .swiper-container', {
-        nextButton: '.js-swiper-artist-list__next',
-        prevButton: '.js-swiper-artist-list__prev',
-        scrollbar: '.js-swiper-artist-list__scrollbar',
-        mousewheelControl: true,
-        mousewheelForceToAxis: true,
-        freeMode: true,
-        slidesPerView: 'auto'
+    var swiperHomePage = new Swiper ('.js-swiper-artist-list--home-page .swiper-container', {
+      nextButton: '.js-swiper-artist-list__next',
+      prevButton: '.js-swiper-artist-list__prev',
+      scrollbar: '.js-swiper-artist-list__scrollbar',
+      mousewheelControl: true,
+      mousewheelForceToAxis: true,
+      freeMode: true,
+      slidesPerView: 'auto'
+    })
+
+  }
+
+  if (document.querySelector('.js-swiper-artist-list--artist-page')) {
+
+    document.querySelector('.swiper-artist-list__container').classList.add('is-visible');
+
+    var swiperArtistPage = new Swiper ('.js-swiper-artist-list--artist-page .swiper-container', {
+      nextButton: '.js-swiper-artist-list__next',
+      prevButton: '.js-swiper-artist-list__prev',
+      scrollbar: '.js-swiper-artist-list__scrollbar',
+      centeredSlides: true,
+      slideToClickedSlide: true,
+      mousewheelControl: true,
+      mousewheelForceToAxis: true,
+      freeMode: true,
+      slidesPerView: 'auto'
+    })
+
+    swiperArtistPage.slideTo(getSlideIndexByClass('is-selected'), false);
+
+    function getSlideIndexByClass(className) {
+      var index = 0;
+      var elements = document.querySelectorAll('.js-swiper-artist-list--artist-page .swiper-wrapper .swiper-slide');
+
+      elements.forEach(function(item,i,arr){
+        if (item.classList.contains(className)) {
+          index = i;
+          return false;
+        }
       })
 
+      return index;
     }
+  }
 
-    if (document.querySelector('.js-swiper-artist-list--artist-page')) {
-
-      document.querySelector('.swiper-artist-list__container').classList.add('is-visible');
-
-      var swiperArtistPage = new Swiper ('.js-swiper-artist-list--artist-page .swiper-container', {
-        nextButton: '.js-swiper-artist-list__next',
-        prevButton: '.js-swiper-artist-list__prev',
-        scrollbar: '.js-swiper-artist-list__scrollbar',
-        centeredSlides: true,
-        slideToClickedSlide: true,
-        mousewheelControl: true,
-        mousewheelForceToAxis: true,
-        freeMode: true,
-        slidesPerView: 'auto'
-      })
-
-      swiperArtistPage.slideTo(getSlideIndexByClass('is-selected'), false);
-
-      function getSlideIndexByClass(className) {
-        var index = 0;
-        var elements = document.querySelectorAll('.js-swiper-artist-list--artist-page .swiper-wrapper .swiper-slide');
-
-        elements.forEach(function(item,i,arr){
-          if (item.classList.contains(className)) {
-            index = i;
-            return false;
-          }
-        })
-
-        return index;
-      }
-    }
-
-  };
+};
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  .swiper-artist-list {
-  }
+.swiper-artist-list {
+}
 </style>
