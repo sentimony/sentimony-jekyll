@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'Irukanji «Z Lisu»'
 label: sentimony
-style: Psychill, Chillgressive
+style: Psychill, Downtempo
 format: album
 cover: true
 cat_no: sencd006

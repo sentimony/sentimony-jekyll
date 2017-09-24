@@ -5,11 +5,11 @@ category: releases
 comments: true
 title: 'Zymosis «Eve»'
 label: sentimony
-style: Ambient, Psychill
+style: Psychill, Ambient
 format: ep album
 cover: 
-cat_no: sencd030
-cat_nu: sencd030
+cat_no: sencd028
+cat_nu: sencd028
 tracks_no: 5
 total_time: 
 release_date: 2017-10-30

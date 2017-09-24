@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'VA «Time Loop: Beyond Borders»'
 label: sentimony
-style: Psychill, Psydub
+style: Psychill, Downtempo
 format: compilation
 cover: true
 cat_no: sencd007

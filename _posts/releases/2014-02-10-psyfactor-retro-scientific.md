@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'Psyfactor «Retro Scientific»'
 label: sentimony
-style: Psychill
+style: Psychill, PsyBreaks
 format: album
 cover: true
 cat_no: sencd016

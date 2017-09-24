@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'Senzar ‎«Before The Morning Sun»'
 label: lookinglook
-style: Psychill
+style: Psychill, Downtempo
 format: album
 cover: true
 cat_no: sencd017

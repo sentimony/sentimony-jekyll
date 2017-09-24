@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'Tentura «Aurora»'
 label: sentimony
-style: Psychill, Chillgressive
+style: Psychill, Downtempo
 format: ep album
 cover: true
 cat_no: sencd014

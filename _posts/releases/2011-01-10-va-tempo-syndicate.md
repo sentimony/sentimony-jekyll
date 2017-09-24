@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'VA «Tempo Syndicate»'
 label: sentimony
-style: Psychill, Chillgressive
+style: Psychill, Downtempo
 format: compilation
 cover: true
 cat_no: sencd009

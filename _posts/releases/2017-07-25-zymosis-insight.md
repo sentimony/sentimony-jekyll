@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'Zymosis «Insight»'
 label: sentimony
-style: Psychill
+style: Psychill, Downtempo
 format: album
 cover: true
 cat_no: sencd025

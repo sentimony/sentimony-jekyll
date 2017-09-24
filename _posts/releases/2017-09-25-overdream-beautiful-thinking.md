@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'Overdream «Beautiful Thinking»'
 label: sentimony
-style: Downtempo, Chillgressive
+style: Psychill, Downtempo
 format: ep album
 cover: 
 cat_no: sencd026
