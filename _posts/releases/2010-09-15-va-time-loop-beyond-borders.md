@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'VA «Time Loop: Beyond Borders»'
 label: sentimony
-style: Psychill, Psydub
+style: Psychill, Downtempo
 format: compilation
 cover: true
 cat_no: sencd007
@@ -28,7 +28,7 @@ link_discogs: 563065
 written_by: 
 compiled_by: Zea NeiRula
 artwork_by: Flange
-mastered_by: Monno (Bimmelim Soundlabs)
+mastered_by: Monno @ Bimmelim Soundlabs
 ---
 
 Sentimony Records is happy to announce fresh full-length compilation! It's kind of new project from Sentimony team - VA «Time Loop: Beyond Borders», starts new series of compilations under name Time Loop. We are happy to introduce you with known projects and a new perspective names from our opinion ;) Hope you will enjoy it!

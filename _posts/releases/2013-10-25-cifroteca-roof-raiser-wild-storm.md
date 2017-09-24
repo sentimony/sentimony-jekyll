@@ -28,10 +28,10 @@ link_discogs: 1165312
 written_by: 
 compiled_by: 
 artwork_by: Swaroop Guhathakurta
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
-Aqua Deep Music is pleased to announce its second release, split-album of two psychedelic minds Cifroteca and Roof Raiser - talented sound producers from Ukraine.
+Sentimony Records is pleased to announce its new psytrance release, split-album of two psychedelic minds Cifroteca and Roof Raiser - talented sound producers from Ukraine.
 
 Wild Storm - its always happens when guys come together and begin to synthesize music. Aliens space-ship on the ocean ... strange crackling ... knock-knock ... had to dive very deep, and get the bottom to find what they're looking for.
 

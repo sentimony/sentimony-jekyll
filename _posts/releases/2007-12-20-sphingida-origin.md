@@ -28,7 +28,7 @@ link_discogs: 446647
 written_by: <a href="/artist/sphingida/">Sphingida</a>
 compiled_by: 
 artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>
-mastered_by: Prok at VioletRaySoundlab
+mastered_by: Prok @ VioletRaySoundlab
 ---
 
 Sphingida is a Ukrainian project founded in 2005 by Yulia Levchenko (Zea NeiRula) and Ihor Orlovskyi (Irukanji). 

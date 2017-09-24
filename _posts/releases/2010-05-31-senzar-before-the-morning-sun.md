@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'Senzar ‎«Before The Morning Sun»'
 label: lookinglook
-style: Psychill
+style: Psychill, Downtempo
 format: album
 cover: true
 cat_no: sencd017
@@ -28,7 +28,7 @@ link_discogs: 331378
 written_by: 
 compiled_by: 
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
 Lookinglook Records presents the debut album from Danish artist Senzar, titled «Before The Morning Sun».

@@ -28,14 +28,14 @@ link_discogs: 866892
 written_by: <a href="/artist/ufomatka/">Ufomatka</a>
 compiled_by: 
 artwork_by: Ufomatka
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
-Lookinglook Records presents the new Goa trance release by our beloved artist Ufomatka.
+Sentimony Records presents the new Goa Trance release by our beloved artist - Ufomatka.
 
 «The E.P.» is an energetic bundle of 5 previously unreleased dance floor smashing tracks collected by the artist during the last several years.
 
-Get it now, completely free, and have fun!
+Get it now and have fun!
 
 ---
 Tracklist:

@@ -28,7 +28,7 @@ link_discogs: 563060
 written_by: 
 compiled_by: <a href="/artist/sphingida/">Sphingida</a>
 artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>
-mastered_by: Prok at VioletRaySoundlab
+mastered_by: Prok @ VioletRaySoundlab
 ---
 
 Sentimony Records team proudly presents to you, friends, our fourth release - compilation True Story. We cooked for you 12 awesome tracks from artists that you have known from our previous releases... and several new discoveries to please your ear and our hopes. And some well-known names...

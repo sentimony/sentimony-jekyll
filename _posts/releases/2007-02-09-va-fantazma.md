@@ -28,7 +28,7 @@ link_discogs: 403901
 written_by: 
 compiled_by: <a href="/artist/sphingida/">Sphingida</a>
 artwork_by: Synchronick
-mastered_by: Synchronick at Don't Panic Records Studio
+mastered_by: Synchronick @ Don't Panic Records Studio
 ---
 
 Fantazma is the debut release of Sentimony Records - label of psy-ambient, downtempo and psychedelic chill-out music, based in Kiev, Ukraine.
