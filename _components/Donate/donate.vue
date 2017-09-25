@@ -9,40 +9,40 @@
 </template>
 
 <script>
-  module.exports = {
-    data: function () {
-      return {
-        donateThanks: 'Huge Thanks for Support!'
-      }
+module.exports = {
+  data: function () {
+    return {
+      donateThanks: 'Huge Thanks for Support!'
     }
-  };
+  }
+};
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  .donate {
-    position: relative;
-    color: #000;
-    background-color: #fff;
-    background-image: url(/assets/img/backgrounds/donate.svg);
-    background-position: center bottom;
-    background-repeat: no-repeat;
+.donate {
+  position: relative;
+  color: #000;
+  background-color: #fff;
+  background-image: url(/assets/img/backgrounds/donate.svg);
+  background-position: center bottom;
+  background-repeat: no-repeat;
 
-    &__wrapper {
-      max-width: 555px;
-      margin: 0 auto;
-      padding: 5em 10px;
-      box-sizing: border-box;
+  &__wrapper {
+    max-width: 555px;
+    margin: 0 auto;
+    padding: 5em 10px;
+    box-sizing: border-box;
 
-      p {
-          text-shadow: 0 2px 2px #fff,
-                       0 -2px 2px #fff,
-                       2px 0 2px #fff,
-                       -2px 0 2px #fff;
+    p {
+        text-shadow: 0 2px 2px #fff,
+                     0 -2px 2px #fff,
+                     2px 0 2px #fff,
+                     -2px 0 2px #fff;
 
-        a {
-          color: #0046ff;
-        }
+      a {
+        color: #0046ff;
       }
     }
   }
+}
 </style>
