@@ -23,7 +23,7 @@
               <span v-else-if="release.date"> | {{ release.date | formatDate }}</span>
             </div>
             <h1 v-if="release.title" class="page-release__title">{{ release.title }}</h1>
-            <div v-if="release.link_applemusic" class="page-release__small-info">{{ release.style }}</div>
+            <div v-if="release.style" class="page-release__small-info">{{ release.style }}</div>
             <div v-if="release.link_applemusic" class="page-release__small-info">Get it:</div>
             <div>
               <a v-if="release.link_applemusic" class="page-release__applemusic-btn"
