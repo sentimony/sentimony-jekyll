@@ -8,16 +8,16 @@
 </template>
 
 <script>
-  var MenuSocial = require('./menu-social.vue');
+var MenuSocial = require('./menu-social.vue');
 
-  module.exports = {
-    components: {
-      'menu-social': MenuSocial
-    }
-  };
+module.exports = {
+  components: {
+    'menu-social': MenuSocial
+  }
+};
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  .contacts {
-  }
+.contacts {
+}
 </style>
