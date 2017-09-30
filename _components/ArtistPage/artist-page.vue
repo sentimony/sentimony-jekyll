@@ -87,46 +87,46 @@
 </template>
 
 <script>
-  var SvgTriangle = require('./svg-triangle.vue');
-  var {VueTabs, VTab} = require('vue-nav-tabs/dist/vue-tabs.min.js');
-  // var DisqusComments = require('./disqus-comments.vue');
+var SvgTriangle = require('./svg-triangle.vue');
+var {VueTabs, VTab} = require('vue-nav-tabs/dist/vue-tabs.min.js');
+// var DisqusComments = require('./disqus-comments.vue');
 
-  module.exports = {
-    components: {
-      'svg-triangle': SvgTriangle,
-      'vue-tabs': VueTabs,
-      'v-tab': VTab,
-      // 'disqus-comments': DisqusComments
-    },
-    data: function () {
-      return {
-        artist: [
-          {
-            slug: null,
-            title: null
-          }
-        ]
-      }
-    },
-    created: function () {
-      this.fetchData();
-    },
-    watch: {
-      '$route': 'fetchData'
-    },
-    methods: {
-      fetchData: function () {
-        var self = this;
-        var id = this.$route.params.slug;
-        this.axios.get('https://sentimony-db.firebaseio.com/artists/' + id + '.json').then(function (response) {
-          self.artist = response.data;
-          console.log('firebase: ARTIST ' + id + ' catched');
-        }).catch(function (error) {
-          console.log(error);
-        });
-      }
+module.exports = {
+  components: {
+    'svg-triangle': SvgTriangle,
+    'vue-tabs': VueTabs,
+    'v-tab': VTab,
+    // 'disqus-comments': DisqusComments
+  },
+  data: function () {
+    return {
+      artist: [
+        {
+          slug: null,
+          title: null
+        }
+      ]
+    }
+  },
+  created: function () {
+    this.fetchData();
+  },
+  watch: {
+    '$route': 'fetchData'
+  },
+  methods: {
+    fetchData: function () {
+      var self = this;
+      var id = this.$route.params.slug;
+      this.axios.get('https://sentimony-db.firebaseio.com/artists/' + id + '.json').then(function (response) {
+        self.artist = response.data;
+        console.log('firebase: ARTIST ' + id + ' catched');
+      }).catch(function (error) {
+        console.log(error);
+      });
     }
   }
+}
 </script>
 
 <style lang="scss?outputStyle=compressed">

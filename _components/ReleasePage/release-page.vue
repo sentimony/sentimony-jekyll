@@ -90,61 +90,61 @@
 </template>
 
 <script>
-  var SvgTriangle = require('./svg-triangle.vue');
-  var {VueTabs, VTab} = require('vue-nav-tabs/dist/vue-tabs.min.js');
-  // var DisqusComments = require('./disqus-comments.vue');
+var SvgTriangle = require('./svg-triangle.vue');
+var {VueTabs, VTab} = require('vue-nav-tabs/dist/vue-tabs.min.js');
+// var DisqusComments = require('./disqus-comments.vue');
 
-  module.exports = {
-    components: {
-      'svg-triangle': SvgTriangle,
-      'vue-tabs': VueTabs,
-      'v-tab': VTab,
-      // 'disqus-comments': DisqusComments
-    },
-    data: function () {
-      return {
-        release: {
-          data: [
-            {
-              title: '',
-              date: '',
-              slug: '',
-              cat_no: ''
-            }
-          ]
-        }
+module.exports = {
+  components: {
+    'svg-triangle': SvgTriangle,
+    'vue-tabs': VueTabs,
+    'v-tab': VTab,
+    // 'disqus-comments': DisqusComments
+  },
+  data: function () {
+    return {
+      release: {
+        data: [
+          {
+            title: '',
+            date: '',
+            slug: '',
+            cat_no: ''
+          }
+        ]
       }
-    },
-    created: function () {
-      this.fetchData();
-    },
-    watch: {
-      '$route': 'fetchData'
-    },
-    methods: {
-      fetchData: function () {
-        var self = this;
-        var id = this.$route.params.slug;
-        this.axios.get('https://sentimony-db.firebaseio.com/releases/data/' + id + '.json').then(function (response) {
-          self.release = response.data;
-          console.log('firebase: RELEASE ' + id + ' catched');
-        }).catch(function (error) {
-          console.log(error);
-        });
-      }
-    },
-    filters: {
-      formatDate: function (date) {
-        var moment = require('moment');
-        if (date) {
-          return moment(String(date)).format('DD MMM YYYY');
-        }
+    }
+  },
+  created: function () {
+    this.fetchData();
+  },
+  watch: {
+    '$route': 'fetchData'
+  },
+  methods: {
+    fetchData: function () {
+      var self = this;
+      var id = this.$route.params.slug;
+      this.axios.get('https://sentimony-db.firebaseio.com/releases/data/' + id + '.json').then(function (response) {
+        self.release = response.data;
+        console.log('firebase: RELEASE ' + id + ' catched');
+      }).catch(function (error) {
+        console.log(error);
+      });
+    }
+  },
+  filters: {
+    formatDate: function (date) {
+      var moment = require('moment');
+      if (date) {
+        return moment(String(date)).format('DD MMM YYYY');
       }
     }
   }
+}
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  .release-page {
-  }
+.release-page {
+}
 </style>

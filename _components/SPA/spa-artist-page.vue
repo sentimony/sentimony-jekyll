@@ -6,18 +6,18 @@
 </template>
 
 <script>
-  var SwiperArtistList = require('./swiper-artist-list.vue');
-  var ArtistPage = require('./artist-page.vue');
+var SwiperArtistList = require('./swiper-artist-list.vue');
+var ArtistPage = require('./artist-page.vue');
 
-  module.exports = {
-    components: {
-      'swiper-artist-list': SwiperArtistList,
-      'artist-page': ArtistPage
-    }
+module.exports = {
+  components: {
+    'swiper-artist-list': SwiperArtistList,
+    'artist-page': ArtistPage
   }
+}
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  .artist-page {
-  }
+.artist-page {
+}
 </style>

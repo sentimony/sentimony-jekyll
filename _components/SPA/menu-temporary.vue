@@ -13,39 +13,39 @@
 </template>
 
 <script>
-  module.exports = {
-  };
+module.exports = {
+};
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  @import '../../_scss/ui/_variables.scss';
+@import '../../_scss/ui/_variables.scss';
 
-  .menu-temporary {
-    padding: 0 .6em;
+.menu-temporary {
+  padding: 0 .6em;
 
-    &__wrapper {
-      border-bottom: 1px solid rgba(#fff,.3);
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      padding-top: .3em;
-      max-width: 1278px;
-      margin: 0 auto;
-    }
+  &__wrapper {
+    border-bottom: 1px solid rgba(#fff,.3);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: .3em;
+    max-width: 1278px;
+    margin: 0 auto;
+  }
 
-    &__link {
-      padding: .25em .50em;
-      border: 1px solid #fff;
-      border-radius: 6px;
-      margin: 0 .1em .3em;
-      background-color: rgba(#fff,.0);
-      transition: background-color .2s ease;
+  &__link {
+    padding: .25em .50em;
+    border: 1px solid #fff;
+    border-radius: 6px;
+    margin: 0 .1em .3em;
+    background-color: rgba(#fff,.0);
+    transition: background-color .2s ease;
 
-      &.is-selected,
-      &:hover {
-        background-color: rgba(#fff,.1);
-        background-color: $colorBgLight;
-      }
+    &.is-selected,
+    &:hover {
+      background-color: rgba(#fff,.1);
+      background-color: $colorBgLight;
     }
   }
+}
 </style>

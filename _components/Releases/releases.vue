@@ -23,57 +23,57 @@
 </template>
 
 <script>
-  var sortBy = require('lodash/sortBy');
+var sortBy = require('lodash/sortBy');
 
-  module.exports = {
-    data: function () {
-      return {
-        ourReleases: 'Releases',
-        releases: {
-          data: [
-            {
-              title: '',
-              date: '',
-              slug: '',
-              cat_no: ''
-            }
-          ]
-        }
-      }
-    },
-    created: function () {
-      var self = this;
-      this.axios.get('https://sentimony-db.firebaseio.com/releases.json').then(function (response) {
-        self.releases = response.data;
-        console.log('firebase: RELEASES catched');
-      }).catch(function (error) {
-        console.log(error);
-      });
-    },
-    computed: {
-      sortByDate () {
-        return sortBy(this.releases.data, 'date').reverse()
+module.exports = {
+  data: function () {
+    return {
+      ourReleases: 'Releases',
+      releases: {
+        data: [
+          {
+            title: '',
+            date: '',
+            slug: '',
+            cat_no: ''
+          }
+        ]
       }
     }
-  };
+  },
+  created: function () {
+    var self = this;
+    this.axios.get('https://sentimony-db.firebaseio.com/releases.json').then(function (response) {
+      self.releases = response.data;
+      console.log('firebase: RELEASES catched');
+    }).catch(function (error) {
+      console.log(error);
+    });
+  },
+  computed: {
+    sortByDate () {
+      return sortBy(this.releases, 'date').reverse()
+    }
+  }
+};
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  @import '../../_scss/ui/_variables.scss';
+@import '../../_scss/ui/_variables.scss';
 
-  .releases {
-    max-width: 1278px;
-    margin: 0 auto;
+.releases {
+  max-width: 1278px;
+  margin: 0 auto;
 
-    &__list {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-    }
-
-    &__item,
-    &__link {
-      width: 120px;
-    }
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
   }
+
+  &__item,
+  &__link {
+    width: 120px;
+  }
+}
 </style>

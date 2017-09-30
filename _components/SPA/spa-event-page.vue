@@ -5,11 +5,11 @@
 </template>
 
 <script>
-  var EventPage = require('./event-page.vue');
+var EventPage = require('./event-page.vue');
 
-  module.exports = {
-    components: {
-      'event-page': EventPage
-    }
-  };
+module.exports = {
+  components: {
+    'event-page': EventPage
+  }
+};
 </script>

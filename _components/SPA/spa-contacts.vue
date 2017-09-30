@@ -5,11 +5,11 @@
 </template>
 
 <script>
-  var Contacts = require('./contacts.vue');
+var Contacts = require('./contacts.vue');
 
-  module.exports = {
-    components: {
-      'contacts': Contacts
-    }
-  };
+module.exports = {
+  components: {
+    'contacts': Contacts
+  }
+};
 </script>

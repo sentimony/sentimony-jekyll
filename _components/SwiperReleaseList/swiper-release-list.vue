@@ -30,104 +30,104 @@
 </template>
 
 <script>
-  var sortBy = require('lodash/sortBy');
+var sortBy = require('lodash/sortBy');
 
-  module.exports = {
-    data: function () {
-      return {
-        ourReleases: 'Releases',
-        releases: {
-          data: [
-            {
-              title: '',
-              date: '',
-              slug: '',
-              cat_no: ''
-            }
-          ]
+module.exports = {
+  data: function () {
+    return {
+      ourReleases: 'Releases',
+      releases: {
+        data: [
+          {
+            title: '',
+            date: '',
+            slug: '',
+            cat_no: ''
+          }
+        ]
+      }
+    }
+  },
+  watch: {
+    releases: function () {
+      setTimeout(function () {
+        initSwiper();
+      }, 0);
+    }
+  },
+  props: ['modificator'],
+  created: function () {
+    var self = this;
+    this.axios.get('https://sentimony-db.firebaseio.com/releases.json').then(function (response) {
+      self.releases = response.data;
+      console.log('firebase: RELEASES catched');
+    }).catch(function (error) {
+      console.log(error);
+    });
+  },
+  computed: {
+    sortByDate () {
+      return sortBy(this.releases, 'date').reverse()
+    }
+  }
+};
+
+function initSwiper() {
+  var Swiper = require('swiper/dist/js/swiper.min.js');
+
+  if (document.querySelector('.js-swiper-release-list--home-page')) {
+
+    document.querySelector('.swiper-release-list__container').classList.add('is-visible');
+
+    var swiperHomePage = new Swiper ('.js-swiper-release-list--home-page .swiper-container', {
+      nextButton: '.js-swiper-release-list__next',
+      prevButton: '.js-swiper-release-list__prev',
+      scrollbar: '.js-swiper-release-list__scrollbar',
+      mousewheelControl: true,
+      mousewheelForceToAxis: true,
+      freeMode: true,
+      slidesPerView: 'auto'
+    });
+
+  }
+
+  if (document.querySelector('.js-swiper-release-list--release-page')) {
+
+    document.querySelector('.swiper-release-list__container').classList.add('is-visible');
+
+    var swiperReleasePage = new Swiper ('.js-swiper-release-list--release-page .swiper-container', {
+      nextButton: '.js-swiper-release-list__next',
+      prevButton: '.js-swiper-release-list__prev',
+      scrollbar: '.js-swiper-release-list__scrollbar',
+      centeredSlides: true,
+      slideToClickedSlide: true,
+      mousewheelControl: true,
+      mousewheelForceToAxis: true,
+      freeMode: true,
+      slidesPerView: 'auto'
+    })
+
+    swiperReleasePage.slideTo(getSlideIndexByClass('is-selected'), false);
+
+    function getSlideIndexByClass(className) {
+      var index = 0;
+      var elements = document.querySelectorAll('.js-swiper-release-list--release-page .swiper-wrapper .swiper-slide');
+
+      elements.forEach(function(item,i,arr){
+        if (item.classList.contains(className)) {
+          index = i;
+          return false;
         }
-      }
-    },
-    watch: {
-      releases: function () {
-        setTimeout(function () {
-          initSwiper();
-        }, 0);
-      }
-    },
-    props: ['modificator'],
-    created: function () {
-      var self = this;
-      this.axios.get('https://sentimony-db.firebaseio.com/releases.json').then(function (response) {
-        self.releases = response.data;
-        console.log('firebase: RELEASES catched');
-      }).catch(function (error) {
-        console.log(error);
-      });
-    },
-    computed: {
-      sortByDate () {
-        return sortBy(this.releases.data, 'date').reverse()
-      }
-    }
-  };
-
-  function initSwiper() {
-    var Swiper = require('swiper/dist/js/swiper.min.js');
-
-    if (document.querySelector('.js-swiper-release-list--home-page')) {
-
-      document.querySelector('.swiper-release-list__container').classList.add('is-visible');
-
-      var swiperHomePage = new Swiper ('.js-swiper-release-list--home-page .swiper-container', {
-        nextButton: '.js-swiper-release-list__next',
-        prevButton: '.js-swiper-release-list__prev',
-        scrollbar: '.js-swiper-release-list__scrollbar',
-        mousewheelControl: true,
-        mousewheelForceToAxis: true,
-        freeMode: true,
-        slidesPerView: 'auto'
-      });
-
-    }
-
-    if (document.querySelector('.js-swiper-release-list--release-page')) {
-
-      document.querySelector('.swiper-release-list__container').classList.add('is-visible');
-
-      var swiperReleasePage = new Swiper ('.js-swiper-release-list--release-page .swiper-container', {
-        nextButton: '.js-swiper-release-list__next',
-        prevButton: '.js-swiper-release-list__prev',
-        scrollbar: '.js-swiper-release-list__scrollbar',
-        centeredSlides: true,
-        slideToClickedSlide: true,
-        mousewheelControl: true,
-        mousewheelForceToAxis: true,
-        freeMode: true,
-        slidesPerView: 'auto'
       })
 
-      swiperReleasePage.slideTo(getSlideIndexByClass('is-selected'), false);
-
-      function getSlideIndexByClass(className) {
-        var index = 0;
-        var elements = document.querySelectorAll('.js-swiper-release-list--release-page .swiper-wrapper .swiper-slide');
-
-        elements.forEach(function(item,i,arr){
-          if (item.classList.contains(className)) {
-            index = i;
-            return false;
-          }
-        })
-
-        return index;
-      }
+      return index;
     }
+  }
 
-  };
+};
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  .swiper-release-list {
-  }
+.swiper-release-list {
+}
 </style>

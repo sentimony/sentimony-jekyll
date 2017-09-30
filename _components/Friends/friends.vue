@@ -14,35 +14,35 @@
 </template>
 
 <script>
-  module.exports = {
-    data: function () {
-      return {
-        friends: {
-          data: [
-            {
-              title: '',
-              site: '',
-              bandcamp: '',
-              facebook: '',
-              soundcloud: ''
-            }
-          ]
-        }
+module.exports = {
+  data: function () {
+    return {
+      friends: {
+        data: [
+          {
+            title: '',
+            site: '',
+            bandcamp: '',
+            facebook: '',
+            soundcloud: ''
+          }
+        ]
       }
-    },
-    created: function () {
-      var self = this;
-      this.axios.get('https://sentimony-db.firebaseio.com/friends.json').then(function (response) {
-        self.friends = response.data;
-        console.log('firebase: FRIENDS catched');
-      }).catch(function (error) {
-        console.log(error);
-      });
     }
-  };
+  },
+  created: function () {
+    var self = this;
+    this.axios.get('https://sentimony-db.firebaseio.com/friends.json').then(function (response) {
+      self.friends = response.data;
+      console.log('firebase: FRIENDS catched');
+    }).catch(function (error) {
+      console.log(error);
+    });
+  }
+};
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  .friends {
-  }
+.friends {
+}
 </style>
