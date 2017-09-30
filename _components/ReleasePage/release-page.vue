@@ -125,7 +125,7 @@ module.exports = {
     fetchData: function () {
       var self = this;
       var id = this.$route.params.slug;
-      this.axios.get('https://sentimony-db.firebaseio.com/releases/data/' + id + '.json').then(function (response) {
+      this.axios.get('https://sentimony-db.firebaseio.com/releases/' + id + '.json').then(function (response) {
         self.release = response.data;
         console.log('firebase: RELEASE ' + id + ' catched');
       }).catch(function (error) {
