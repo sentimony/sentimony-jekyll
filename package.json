@@ -47,6 +47,7 @@
   "scripts": {
     "clean": "rm -rf _site/; rm -rf assets/js/; rm -rf assets/css/; rm -rf assets/fonts/; rm -rf assets/data/; rm -rf sw-toolbox.js; rm -rf .tmp/;",
     "develop": "npm run clean; gulp font; gulp watch;",
+    "dev": "npm run develop;",
     "build": "npm run clean; gulp font; gulp;"
   }
 }
