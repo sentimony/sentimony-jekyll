@@ -24,7 +24,7 @@ link_beatspace:
 link_applemusic: https://itunes.apple.com/ua/album/aurora-ep/id1271860711?l=uk
 link_googleplay: https://play.google.com/music/m/Bgisrmdtkzr2w62jltkk74rut3u?t=Tentura_Aurora
 link_ektoplazm: http://www.ektoplazm.com/free-music/tentura-aurora
-link_discogs: 597257
+link_discogs: https://www.discogs.com/master/597257
 written_by: 
 compiled_by: 
 artwork_by: Ader

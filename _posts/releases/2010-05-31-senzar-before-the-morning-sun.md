@@ -24,7 +24,7 @@ link_beatspace:
 link_applemusic: https://itunes.apple.com/ua/album/before-the-morning-sun/id1272404247?l=uk
 link_googleplay: https://play.google.com/music/m/Bk2ryoclvc77dtqjqopjxwbdmve?t=Senzar_Before_The_Morning_Sun
 link_ektoplazm: http://www.ektoplazm.com/free-music/senzar-before-the-morning-sun
-link_discogs: 331378
+link_discogs: https://www.discogs.com/master/331378
 written_by: 
 compiled_by: 
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>

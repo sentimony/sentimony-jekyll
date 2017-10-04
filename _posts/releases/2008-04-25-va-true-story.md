@@ -24,7 +24,7 @@ link_beatspace:
 link_applemusic: https://itunes.apple.com/ua/album/true-story/id1271859514?l=uk
 link_googleplay: https://play.google.com/music/m/B7u7b5uhnwp36n2qvj65pvmx6yy?t=True_Story
 link_ektoplazm: http://www.ektoplazm.com/free-music/true-story
-link_discogs: 563060
+link_discogs: https://www.discogs.com/master/563060
 written_by: 
 compiled_by: <a href="/artist/sphingida/">Sphingida</a>
 artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>

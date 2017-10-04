@@ -24,7 +24,7 @@ link_beatspace:
 link_applemusic: https://itunes.apple.com/ua/album/dansing-mavka/id1272427474?l=uk
 link_googleplay: https://play.google.com/music/m/Buljz3yafj246pkp7rgajfr3y3m?t=Dansing_Mavka
 link_ektoplazm: http://www.ektoplazm.com/free-music/dancing-mavka
-link_discogs: 350184
+link_discogs: https://www.discogs.com/master/350184
 written_by: 
 compiled_by: <a href="/artist/sky-technology/">Sky Technology</a>
 artwork_by: <a href="https://www.instagram.com/julenca" target="_blank" rel="noopener">Ju Ju</a>

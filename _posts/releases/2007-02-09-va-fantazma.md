@@ -24,7 +24,7 @@ link_beatspace:
 link_applemusic: https://itunes.apple.com/ua/album/fantazma/id1271830675?l=uk
 link_googleplay: https://play.google.com/music/m/B2hduene7glxvtujapk2org2tla?t=Fantazma
 link_ektoplazm: http://www.ektoplazm.com/free-music/fantazma
-link_discogs: 403901
+link_discogs: https://www.discogs.com/master/403901
 written_by: 
 compiled_by: <a href="/artist/sphingida/">Sphingida</a>
 artwork_by: Synchronick

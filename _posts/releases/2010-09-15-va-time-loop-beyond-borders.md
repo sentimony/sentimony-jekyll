@@ -24,7 +24,7 @@ link_beatspace: http://www.beatspace.com/5895/Sentimony+Records/Various/Time+Loo
 link_applemusic: https://itunes.apple.com/ua/album/time-loop-beyond-borders/id1272419337?l=uk
 link_googleplay: https://play.google.com/music/m/B6ec2ubqel4qheukhneeyrhblte?t=Time_Loop_Beyond_Borders
 link_ektoplazm: http://www.ektoplazm.com/free-music/time-loop-beyond-borders
-link_discogs: 563065
+link_discogs: https://www.discogs.com/master/563065
 written_by: 
 compiled_by: Zea NeiRula
 artwork_by: Flange
