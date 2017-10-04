@@ -24,7 +24,7 @@ link_beatspace: http://www.beatspace.com/7695/Sentimony+Records/CIFROTECA+and+RO
 link_applemusic: https://itunes.apple.com/ua/album/wild-storm/id1272437308?l=uk
 link_googleplay: https://play.google.com/music/m/Bqmocyclwij66ut5nyai3fckm3a?t=Cifroteca_Roof_Raiser_Wild_Storm
 link_ektoplazm: 
-link_discogs: 1165312
+link_discogs: https://www.discogs.com/master/1165312
 written_by: 
 compiled_by: 
 artwork_by: Swaroop Guhathakurta

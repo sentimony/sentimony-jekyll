@@ -24,7 +24,7 @@ link_beatspace: http://www.beatspace.com/10297/Sentimony+Records/ZYMOSIS/Insight
 link_applemusic: https://itunes.apple.com/ua/album/insight/id1271988987?l=uk
 link_googleplay: https://play.google.com/music/m/Bt6umx3hpzsqwnjqk3k6fz24bam?t=Zymosis_Insight
 link_ektoplazm: 
-link_discogs: 1217106
+link_discogs: https://www.discogs.com/master/1217106
 written_by: <a href="/artist/zymosis/">Zymosis</a>
 compiled_by: 
 artwork_by: <a href="https://www.facebook.com/artramaworkshop" target="_blank" rel="noopener">Artrama</a>

@@ -24,7 +24,7 @@ link_beatspace:
 link_applemusic: https://itunes.apple.com/ua/album/tempo-syndicate/id1272422614?l=uk
 link_googleplay: https://play.google.com/music/m/Btublfcc3kcy6txy6vww26z55ym?t=Tempo_Syndicate
 link_ektoplazm: http://www.ektoplazm.com/free-music/tempo-syndicate
-link_discogs: 563066
+link_discogs: https://www.discogs.com/master/563066
 written_by: 
 compiled_by: <a href="/artist/irukanji/">Irukanji</a>
 artwork_by: <a href="/artist/irukanji/">Irukanji</a>

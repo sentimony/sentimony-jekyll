@@ -24,7 +24,7 @@ link_beatspace:
 link_applemusic: https://itunes.apple.com/ua/album/origin/id1271839641?l=uk
 link_googleplay: https://play.google.com/music/r/m/Anpol4iy3uxxqyfwsjxwaejsg4q?t=Sphingida_Origin
 link_ektoplazm: http://www.ektoplazm.com/free-music/sphingida-origin
-link_discogs: 446647
+link_discogs: https://www.discogs.com/master/446647
 written_by: <a href="/artist/sphingida/">Sphingida</a>
 compiled_by: 
 artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>

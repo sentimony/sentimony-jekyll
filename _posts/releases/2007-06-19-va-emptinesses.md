@@ -24,7 +24,7 @@ link_beatspace:
 link_applemusic: https://itunes.apple.com/ua/album/emptinesses/id1271845181?l=uk
 link_googleplay: https://play.google.com/music/m/Bvvivb7ygfis7lgalvcgz3b6edu?t=Emptinesses
 link_ektoplazm: http://www.ektoplazm.com/free-music/emptinesses
-link_discogs: 403903
+link_discogs: https://www.discogs.com/master/403903
 written_by: 
 compiled_by: <a href="/artist/sphingida/">Sphingida</a>
 artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>

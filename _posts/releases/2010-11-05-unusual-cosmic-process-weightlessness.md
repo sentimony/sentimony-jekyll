@@ -24,7 +24,7 @@ link_beatspace:
 link_applemusic: https://itunes.apple.com/ua/album/weightlessness/id1271855982?l=uk
 link_googleplay: https://play.google.com/music/m/Bjdi3bpcowe7q7wwmbqh5d4elni?t=Unusual_Cosmic_Process_Weightlessness
 link_ektoplazm: http://www.ektoplazm.com/free-music/unusual-cosmic-process-weightlessness
-link_discogs: 349889
+link_discogs: https://www.discogs.com/master/349889
 written_by: 
 compiled_by: 
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>

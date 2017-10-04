@@ -24,7 +24,7 @@ link_beatspace: http://www.beatspace.com/7694/Lookinglook+Records/Various/Gamayu
 link_applemusic: https://itunes.apple.com/ua/album/gamayun-tale/id1272972527?l=uk
 link_googleplay: https://play.google.com/music/m/Bkotg47jkqexk3gxyartfpyiu6y?t=Gamayun_Tale
 link_ektoplazm: 
-link_discogs: 663801
+link_discogs: https://www.discogs.com/master/663801
 written_by: 
 compiled_by: <a href="/artist/sky-technology/">Sky Technology</a>
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>

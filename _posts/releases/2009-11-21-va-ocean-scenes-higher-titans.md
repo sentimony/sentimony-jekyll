@@ -24,7 +24,7 @@ link_beatspace:
 link_applemusic: https://itunes.apple.com/ua/album/ocean-scenes-higher-titans/id1271845715?l=uk
 link_googleplay: https://play.google.com/music/m/Byy32xtqid45ol6rezctxept5ei?t=Ocean_Scenes_Higher_Titans
 link_ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
-link_discogs: 538286
+link_discogs: https://www.discogs.com/master/538286
 written_by: 
 compiled_by: <a href="/artist/irukanji/">Irukanji</a>
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
