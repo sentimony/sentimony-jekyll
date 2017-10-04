@@ -24,7 +24,7 @@ link_beatspace: http://www.beatspace.com/7696/Sentimony+Records/PSYFACTOR/Retro+
 link_applemusic: https://itunes.apple.com/ua/album/retro-scientific/id1272439398?l=uk
 link_googleplay: https://play.google.com/music/m/Bx5rmwodk5salgssbcdspzkhdl4?t=Psyfactor_Retro_Scientific
 link_ektoplazm: 
-link_discogs: 656758
+link_discogs: https://www.discogs.com/master/656758
 written_by: <a href="/artist/psyfactor/">Psyfactor</a>
 compiled_by: 
 artwork_by: Ader

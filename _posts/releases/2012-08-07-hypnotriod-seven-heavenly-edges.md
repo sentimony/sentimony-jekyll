@@ -24,7 +24,7 @@ link_beatspace:
 link_applemusic: https://itunes.apple.com/ua/album/seven-heavenly-edges-ep/id1272433925?l=uk
 link_googleplay: https://play.google.com/music/m/B6mqahvvxjox3b7izhvaoltnr2e?t=Hypnotriod_Seven_Heavenly_Edges
 link_ektoplazm: http://www.ektoplazm.com/free-music/hypnotriod-seven-heavenly-edges
-link_discogs: 556014
+link_discogs: https://www.discogs.com/master/556014
 written_by: 
 compiled_by: 
 artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>

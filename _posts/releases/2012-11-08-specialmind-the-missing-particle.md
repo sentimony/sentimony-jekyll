@@ -24,7 +24,7 @@ link_beatspace:
 link_applemusic: https://itunes.apple.com/ua/album/the-missing-particle-ep/id1272435876?l=uk
 link_googleplay: https://play.google.com/music/m/Bl5jqjufz6wabkce5jtlpf3wyua?t=Specialmind_The_Missing_Particle
 link_ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-particle
-link_discogs: 601769
+link_discogs: https://www.discogs.com/master/601769
 written_by: 
 compiled_by: 
 artwork_by: Ader

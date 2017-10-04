@@ -24,7 +24,7 @@ link_beatspace:
 link_applemusic: https://itunes.apple.com/ua/album/lost-space-device/id1271841248?l=uk
 link_googleplay: https://play.google.com/music/m/Bimzdv7srukdity4athantcgihy?t=Spectrum_Vision_Lost_Space_Device
 link_ektoplazm: http://www.ektoplazm.com/free-music/spectrum-vision-lost-space-device
-link_discogs: 494470
+link_discogs: https://www.discogs.com/master/494470
 written_by: <a href="/artist/spectrum-vision/">Spectrum Vision</a>
 compiled_by: 
 artwork_by: 1n0x & <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>
