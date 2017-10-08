@@ -26,12 +26,12 @@ link_googleplay: https://play.google.com/music/m/Bu5k4b4rzp5sogsrgjf5kmymkji?t=A
 link_ektoplazm: http://www.ektoplazm.com/free-music/absence-of-gravity
 link_discogs: https://www.discogs.com/master/563069
 written_by: 
-compiled_by: <a href="/artist/spectrum-vision/">Spectrum Vision</a>
+compiled_by: <a href='/artist/spectrum-vision/'>Spectrum Vision</a>
 artwork_by: 1n0x
-mastered_by: <a href="http://altar-records.com" target="_blank" rel="noopener">Zen @ Altar Records Studio</a>
+mastered_by: <a href='http://altar-records.com" target="_blank" rel="noopener'>Zen @ Altar Records Studio</a>
 ---
 
-To the 50th anniversary of the first manned space flight, Sentimony Records, in collaboration with Home World Music Group, have prepared a special release - new psychedelic space-ambient music compilation entitled «Absence Of Gravity» compiled by <a href="/artist/spectrum-vision/">Spectrum Vision</a>.
+To the 50th anniversary of the first manned space flight, Sentimony Records, in collaboration with Home World Music Group, have prepared a special release - new psychedelic space-ambient music compilation entitled «Absence Of Gravity» compiled by <a href='/artist/spectrum-vision/'>Spectrum Vision</a>.
 
 This new release contains 11 exclusive tracks from the talented creators of modern psy-ambient music. The compositions are full of experiments with abstract forms of classic ambient sound and mysterious atmosphere of space images.
 

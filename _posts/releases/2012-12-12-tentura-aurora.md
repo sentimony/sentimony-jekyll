@@ -25,13 +25,13 @@ link_applemusic: https://itunes.apple.com/ua/album/aurora-ep/id1271860711?l=uk
 link_googleplay: https://play.google.com/music/m/Bgisrmdtkzr2w62jltkk74rut3u?t=Tentura_Aurora
 link_ektoplazm: http://www.ektoplazm.com/free-music/tentura-aurora
 link_discogs: https://www.discogs.com/master/597257
-written_by: <a href="/artist/tentura/">Tentura</a>
+written_by: <a href='/artist/tentura/'>Tentura</a>
 compiled_by: 
 artwork_by: Ader
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
+mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
 ---
 
-Sentimony Records team is proudly pleased to announce new EP - «Aurora». At this time we're introducing you the debut single by <a href="/artist/tentura/">Tentura</a> project, a well-known psychedelic chillout and deep trance duo from Kyiv, Ukraine.
+Sentimony Records team is proudly pleased to announce new EP - «Aurora». At this time we're introducing you the debut single by <a href='/artist/tentura/'>Tentura</a> project, a well-known psychedelic chillout and deep trance duo from Kyiv, Ukraine.
 
 The project was formed by two talented guys: composer Ader (Alexander Pidgorny) and psytrance Dj Maket (Stanislav Yastremsky). Quite often, Alexander and Stanislav perform their live performances at the Ukrainian festivals, open airs, and indoor parties.
 

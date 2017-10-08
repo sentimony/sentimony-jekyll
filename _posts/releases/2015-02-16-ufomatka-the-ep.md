@@ -25,13 +25,13 @@ link_applemusic: https://itunes.apple.com/ua/album/the-ep/id1271815522?l=uk
 link_googleplay: https://play.google.com/music/m/Bodr6adfev7dqehsy466f6rvj4y?t=Ufomatka_The_EP
 link_ektoplazm: 
 link_discogs: https://www.discogs.com/master/866892
-written_by: <a href="/artist/ufomatka/">Ufomatka</a>
+written_by: <a href='/artist/ufomatka/'>Ufomatka</a>
 compiled_by: 
 artwork_by: Ufomatka
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
+mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
 ---
 
-Sentimony Records presents the new Goa Trance release by our beloved artist - <a href="/artist/ufomatka/">Ufomatka</a>.
+Sentimony Records presents the new Goa Trance release by our beloved artist - <a href='/artist/ufomatka/'>Ufomatka</a>.
 
 «The E.P.» is an energetic bundle of 5 previously unreleased dance floor smashing tracks collected by the artist during the last several years.
 

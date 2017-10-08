@@ -26,16 +26,16 @@ link_googleplay: https://play.google.com/music/m/Byy32xtqid45ol6rezctxept5ei?t=O
 link_ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
 link_discogs: https://www.discogs.com/master/538286
 written_by: 
-compiled_by: <a href="/artist/irukanji/">Irukanji</a>
-artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio & <a href="https://www.facebook.com/cifroteca.music" target="_blank" rel="noopener">Yuriy Iofik @ Cifroteca Studio</a></a>
+compiled_by: <a href='/artist/irukanji/'>Irukanji</a>
+artwork_by: <a href='https://messdivision.com" target="_blank" rel="noopener'>Ju Ju</a>
+mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio & <a href='https://www.facebook.com/cifroteca.music" target="_blank" rel="noopener'>Yuriy Iofik @ Cifroteca Studio</a></a>
 ---
 
 Sentimony Records is proud to introduce new musical direction more deeper musical appearance, new sublabel - Aqua Deep Music.
 
 The first CD from the future series of releases - Ocean Scenes, was specially made for you to demonstrate the depth of pure psychedelic rhythms and active meditation.
 
-Higher Titans presents 12 previously unreleased tracks compiled by <a href="/artist/irukanji/">Irukanji</a>. All tracks produced by only Ukrainian established composers and promising newcomers.
+Higher Titans presents 12 previously unreleased tracks compiled by <a href='/artist/irukanji/'>Irukanji</a>. All tracks produced by only Ukrainian established composers and promising newcomers.
 
 Have a nice dive!
 

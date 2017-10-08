@@ -25,13 +25,13 @@ link_applemusic: https://itunes.apple.com/ua/album/lost-space-device/id127184124
 link_googleplay: https://play.google.com/music/m/Bimzdv7srukdity4athantcgihy?t=Spectrum_Vision_Lost_Space_Device
 link_ektoplazm: http://www.ektoplazm.com/free-music/spectrum-vision-lost-space-device
 link_discogs: https://www.discogs.com/master/494470
-written_by: <a href="/artist/spectrum-vision/">Spectrum Vision</a>
+written_by: <a href='/artist/spectrum-vision/'>Spectrum Vision</a>
 compiled_by: 
-artwork_by: 1n0x & <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>
+artwork_by: 1n0x & <a href='https://www.facebook.com/apivniuk" target="_blank" rel="noopener'>Anton Pivniuk</a>
 mastered_by: Prok @ VioletRaySoundlab
 ---
 
-Sentimony Records proudly presents «Lost Space Device» - debut album of <a href="/artist/spectrum-vision/">Spectrum Vision</a> - psychedelic music project from Stupino city Moscow region, Russian Federation, founded in 2004 by Ivan (Ujo) and Alexander (1n0x).
+Sentimony Records proudly presents «Lost Space Device» - debut album of <a href='/artist/spectrum-vision/'>Spectrum Vision</a> - psychedelic music project from Stupino city Moscow region, Russian Federation, founded in 2004 by Ivan (Ujo) and Alexander (1n0x).
 
 The main focus of «Lost Space Device» is psychedelic downtempo and ambient works distinguished by subtle ethnic themes with deep dimensions and beautiful melodic leads.
 

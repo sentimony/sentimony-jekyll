@@ -25,15 +25,15 @@ link_applemusic: https://itunes.apple.com/ua/album/z-lisu/id1271842894?l=uk
 link_googleplay: https://play.google.com/music/m/B7zd2igcwcv3wsglahnf3j3dyde?t=Irukanji_Z_Lisu
 link_ektoplazm: http://www.ektoplazm.com/free-music/irukanji-z-lisu
 link_discogs: https://www.discogs.com/master/563062
-written_by: <a href="/artist/irukanji/">Irukanji</a>
+written_by: <a href='/artist/irukanji/'>Irukanji</a>
 compiled_by: 
-artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>
+artwork_by: <a href='https://www.facebook.com/apivniuk" target="_blank" rel="noopener'>Anton Pivniuk</a>
 mastered_by: Prok @ VioletRaySoundlab
 ---
 
-Sentimony Records proudly presents «Z Lisu» - debut album of <a href="/artist/irukanji/">Irukanji</a>.
+Sentimony Records proudly presents «Z Lisu» - debut album of <a href='/artist/irukanji/'>Irukanji</a>.
 
-Behind this name is standing talented musician and charismatic dj – Ihor Orlovskyi, member of Ukrainian duet <a href="/artist/sphingida/">Sphingida</a> (2004 - 2008).
+Behind this name is standing talented musician and charismatic dj – Ihor Orlovskyi, member of Ukrainian duet <a href='/artist/sphingida/'>Sphingida</a> (2004 - 2008).
 
 Also Ihor Orlovskyi is known as owner of Sentimony Records and its sublables Aqua Deep Music and Lookinglook Records.
 

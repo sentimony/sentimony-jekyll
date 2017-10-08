@@ -25,13 +25,13 @@ link_applemusic:
 link_googleplay: 
 link_ektoplazm: 
 link_discogs: 
-written_by: <a href="/artist/overdream/">Overdream</a>
+written_by: <a href='/artist/overdream/'>Overdream</a>
 compiled_by: 
-artwork_by: <a href="https://www.facebook.com/artramaworkshop" target="_blank" rel="noopener">Artrama</a>
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
+artwork_by: <a href='https://www.facebook.com/artramaworkshop" target="_blank" rel="noopener'>Artrama</a>
+mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
 ---
 
-Sentimony Records presents «Beautiful Thinking» - the brand new, fresh and banging psychedelic EP by <a href="/artist/overdream/">Overdream</a>.
+Sentimony Records presents «Beautiful Thinking» - the brand new, fresh and banging psychedelic EP by <a href='/artist/overdream/'>Overdream</a>.
 
 The tracks go from 98 to 118 bpm but stay deep and psychedelic all the way.
 
