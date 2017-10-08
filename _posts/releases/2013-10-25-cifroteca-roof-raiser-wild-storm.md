@@ -25,13 +25,13 @@ link_applemusic: https://itunes.apple.com/ua/album/wild-storm/id1272437308?l=uk
 link_googleplay: https://play.google.com/music/m/Bqmocyclwij66ut5nyai3fckm3a?t=Cifroteca_Roof_Raiser_Wild_Storm
 link_ektoplazm: 
 link_discogs: https://www.discogs.com/master/1165312
-written_by: 
+written_by: <a href='/artist/cifroteca/'>Cifroteca</a> & <a href='/artist/roof-raiser/'>Roof Raiser</a>
 compiled_by: 
 artwork_by: Swaroop Guhathakurta
 mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
 ---
 
-Sentimony Records is pleased to announce its new psytrance release, split-album of two psychedelic minds Cifroteca and Roof Raiser - talented sound producers from Ukraine.
+Aqua Deep Music (sublabel of Sentimony Records) is pleased to announce its new psytrance release, split-album of two psychedelic minds <a href='/artist/cifroteca/'>Cifroteca</a> and <a href='/artist/roof-raiser/'>Roof Raiser</a> - talented sound producers from Ukraine.
 
 Wild Storm - its always happens when guys come together and begin to synthesize music. Aliens space-ship on the ocean ... strange crackling ... knock-knock ... had to dive very deep, and get the bottom to find what they're looking for.
 
