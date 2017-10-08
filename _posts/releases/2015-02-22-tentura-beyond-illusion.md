@@ -27,8 +27,8 @@ link_ektoplazm:
 link_discogs: https://www.discogs.com/master/866837
 written_by: <a href='/artist/tentura/'>Tentura</a>
 compiled_by: 
-artwork_by: Ader & Andrei Verner
-mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
+artwork_by: <a href='https://www.facebook.com/ader.tentura' target='_blank' rel='noopener'>Ader</a> & Andrei Verner
+mastered_by: <a href='http://overdreamstudio.com' target='_blank' rel='noopener'>Makus @ Overdream Studio</a>
 ---
 
 Sentimony Records team proudly presents «Beyond Illusion» - new <a href='/artist/tentura/'>Tentura</a> full-length album.

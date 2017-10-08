@@ -27,7 +27,7 @@ link_ektoplazm: http://www.ektoplazm.com/free-music/spectrum-vision-lost-space-d
 link_discogs: https://www.discogs.com/master/494470
 written_by: <a href='/artist/spectrum-vision/'>Spectrum Vision</a>
 compiled_by: 
-artwork_by: 1n0x & <a href='https://www.facebook.com/apivniuk" target="_blank" rel="noopener'>Anton Pivniuk</a>
+artwork_by: 1n0x & <a href='https://www.facebook.com/apivniuk' target='_blank' rel='noopener'>Anton Pivniuk</a>
 mastered_by: Prok @ VioletRaySoundlab
 ---
 

@@ -27,7 +27,7 @@ link_ektoplazm: http://www.ektoplazm.com/free-music/sphingida-origin
 link_discogs: https://www.discogs.com/master/446647
 written_by: <a href='/artist/sphingida/'>Sphingida</a>
 compiled_by: 
-artwork_by: <a href='https://www.facebook.com/apivniuk" target="_blank" rel="noopener'>Anton Pivniuk</a>
+artwork_by: <a href='https://www.facebook.com/apivniuk' target='_blank' rel='noopener'>Anton Pivniuk</a>
 mastered_by: Prok @ VioletRaySoundlab
 ---
 

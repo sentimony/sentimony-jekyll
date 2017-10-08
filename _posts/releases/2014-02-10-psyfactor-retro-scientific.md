@@ -27,8 +27,8 @@ link_ektoplazm:
 link_discogs: https://www.discogs.com/master/656758
 written_by: <a href='/artist/psyfactor/'>Psyfactor</a>
 compiled_by: 
-artwork_by: Ader
-mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
+artwork_by: <a href='https://www.facebook.com/ader.tentura' target='_blank' rel='noopener'>Ader</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank' rel='noopener'>Makus @ Overdream Studio</a>
 ---
 
 Sentimony Records presents its new release «Retro Scientific» - the newest creation of electron-synthetic Bachelor of Science, mushroom-innovator laureate and a pride of Russian psychedelic scene - <a href='/artist/psyfactor/'>Psyfactor</a>.

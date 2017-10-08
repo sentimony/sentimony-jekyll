@@ -28,7 +28,7 @@ link_discogs:
 written_by: <a href='/artist/zymosis/'>Zymosis</a>
 compiled_by: 
 artwork_by: Coming Soon
-mastered_by: <a href='https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener'>Dimitro @ Zymosis Studio</a>
+mastered_by: <a href='https://www.facebook.com/zymosis.dimitro' target='_blank' rel='noopener'>Dimitro @ Zymosis Studio</a>
 ---
 
 Sentimony Records presents «Eve» - ambient EP by <a href='/artist/zymosis/'>Zymosis</a>, consisting of Ukrainian folk lullabies.

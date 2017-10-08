@@ -28,7 +28,7 @@ link_discogs: https://www.discogs.com/master/563066
 written_by: 
 compiled_by: <a href='/artist/irukanji/'>Irukanji</a>
 artwork_by: <a href='/artist/irukanji/'>Irukanji</a>
-mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank' rel='noopener'>Makus @ Overdream Studio</a>
 ---
 
 Sentimony Records team is proud to introduce you label's ninth release and our two years labor - psychedelic music compilation entitled «Tempo Syndicate» compiled by <a href='/artist/irukanji/'>Irukanji</a>.

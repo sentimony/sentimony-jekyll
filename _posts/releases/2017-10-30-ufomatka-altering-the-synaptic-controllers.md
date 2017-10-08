@@ -27,8 +27,8 @@ link_ektoplazm:
 link_discogs: 
 written_by: <a href='/artist/ufomatka/'>Ufomatka</a>
 compiled_by: 
-artwork_by: <a href='https://www.facebook.com/andytrootootoo" target="_blank" rel="noopener'>Trootootoo</a>
-mastered_by: <a href='https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener'>Dimitro @ Zymosis Studio</a>
+artwork_by: <a href='https://www.facebook.com/andytrootootoo' target='_blank' rel='noopener'>Trootootoo</a>
+mastered_by: <a href='https://www.facebook.com/zymosis.dimitro' target='_blank' rel='noopener'>Dimitro @ Zymosis Studio</a>
 ---
 
 Lookinglook Records (sublabel of Sentimony Records) presents «Altering The Synaptic Controllers» - the second EP by our beloved artist <a href='/artist/ufomatka/'>Ufomatka</a>.

@@ -27,8 +27,8 @@ link_ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-part
 link_discogs: https://www.discogs.com/master/601769
 written_by: <a href='/artist/specialmind/'>Specialmind</a>
 compiled_by: 
-artwork_by: Ader
-mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
+artwork_by: <a href='https://www.facebook.com/ader.tentura' target='_blank' rel='noopener'>Ader</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank' rel='noopener'>Makus @ Overdream Studio</a>
 ---
 
 «The Missing Particle» - is the second EP released by Sentimony Records, introducing <a href='/artist/specialmind/'>Specialmind</a> project - a psychedelic downtempo duo from Ukraine.

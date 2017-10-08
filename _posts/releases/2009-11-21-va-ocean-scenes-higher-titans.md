@@ -27,8 +27,8 @@ link_ektoplazm: http://www.ektoplazm.com/free-music/ocean-scenes-higher-titans
 link_discogs: https://www.discogs.com/master/538286
 written_by: 
 compiled_by: <a href='/artist/irukanji/'>Irukanji</a>
-artwork_by: <a href='https://messdivision.com" target="_blank" rel="noopener'>Ju Ju</a>
-mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio & <a href='https://www.facebook.com/cifroteca.music" target="_blank" rel="noopener'>Yuriy Iofik @ Cifroteca Studio</a></a>
+artwork_by: <a href='https://www.instagram.com/julenca' target='_blank' rel='noopener'>Ju Ju</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank' rel='noopener'>Makus @ Overdream Studio & <a href='https://www.facebook.com/cifroteca.music' target='_blank' rel='noopener'>Yuriy Iofik @ Cifroteca Studio</a></a>
 ---
 
 Sentimony Records is proud to introduce new musical direction more deeper musical appearance, new sublabel - Aqua Deep Music.
