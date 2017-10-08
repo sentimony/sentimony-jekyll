@@ -17,5 +17,3 @@ soundcloud_id:
 youtube_id: PLp2GaPnw5O3MHcKa6RDmIXzMNuspiQ5Lm
 discogs: https://www.discogs.com/artist/751792-Sphingida
 ---
-
-With an initial focus on experimenting with different musical instruments and technologies, Sphingida started to take part in various psychedelic trance and ambient events. 
