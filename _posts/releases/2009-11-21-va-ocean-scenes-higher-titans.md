@@ -11,7 +11,7 @@ cover: true
 cat_no: sencd008
 cat_nu: sencd008 adcd01
 tracks_no: 12
-total_time: 
+total_time: '79:44'
 release_date: 2009-11-21
 coming_soon: 
 new: 

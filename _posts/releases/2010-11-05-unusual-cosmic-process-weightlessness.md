@@ -11,7 +11,7 @@ cover: true
 cat_no: sencd019
 cat_nu: sencd019 lgcd03
 tracks_no: 7
-total_time: 
+total_time: '77:06'
 release_date: 2010-11-05
 coming_soon: 
 new: 

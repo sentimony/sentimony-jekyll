@@ -11,7 +11,7 @@ cover: true
 cat_no: sencd016
 cat_nu: sencd016
 tracks_no: 11
-total_time: 
+total_time: '79:35'
 release_date: 2014-02-10
 coming_soon: 
 new: 
