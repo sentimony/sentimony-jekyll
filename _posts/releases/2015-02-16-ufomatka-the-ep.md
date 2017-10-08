@@ -11,7 +11,7 @@ cover: true
 cat_no: sencd022
 cat_nu: sencd022 lgcd06
 tracks_no: 5
-total_time: 
+total_time: '29:17'
 release_date: 2015-02-16
 coming_soon: 
 new: 
