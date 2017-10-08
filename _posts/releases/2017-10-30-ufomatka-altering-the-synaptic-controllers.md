@@ -31,7 +31,7 @@ artwork_by: <a href='https://www.facebook.com/andytrootootoo" target="_blank" re
 mastered_by: <a href='https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener'>Dimitro @ Zymosis Studio</a>
 ---
 
-Sentimony Records presents «Altering The Synaptic Controllers» - the second EP by our beloved artist <a href='/artist/ufomatka/'>Ufomatka</a>.
+Lookinglook Records (sublabel of Sentimony Records) presents «Altering The Synaptic Controllers» - the second EP by our beloved artist <a href='/artist/ufomatka/'>Ufomatka</a>.
 
 The release name came from nowhere and the dick knows what it is, but it will all fuck us out :)
 
