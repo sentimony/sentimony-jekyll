@@ -6,12 +6,10 @@ permalink: /releases/
 og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
-<ol>
 {% assign releases = site.categories.releases | sort: 'title' %}
 {% for i in releases %}
-<li>{{ i.total_time }} ZZZZZZZZ</li>
+    {{ i.artwork_by }}8888888888888
 {% endfor %}
-</ol>
 
 {% comment %}
 {% endcomment %}
