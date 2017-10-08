@@ -31,11 +31,13 @@ artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noo
 mastered_by: Prok @ VioletRaySoundlab
 ---
 
-Sentimony Records team proudly presents to you, friends, our fourth release - compilation True Story. We cooked for you 12 awesome tracks from artists that you have known from our previous releases... and several new discoveries to please your ear and our hopes. And some well-known names...
+Sentimony Records team proudly presents to you, friends, our fourth release - «True Story» compiled by <a href="/artist/sphingida/">Sphingida</a>. 
 
-We wish you'll enjoy this compilation, which guides you through the true story about the adventures of small Sentimon...
+We cooked for you 12 awesome tracks from artists that you have known from our previous releases... and several new discoveries to please your ear and our hopes. And some well-known names... We wish you'll enjoy this compilation, which guides you through the true story about the adventures of an small Sentimon...
 
 During listening you will be absorbed by classic ambient vibes in the start of journey and with increasing psy-ambient motion, downtempo and expressive uptempo energy.
+
+Have a nice journey!
 
 ---
 Tracklist:

@@ -31,7 +31,7 @@ artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noo
 mastered_by: Prok @ VioletRaySoundlab
 ---
 
-Sentimony Records proudly presents our second release - compilation Emptinesses. Carefully selected tracks from masters of chill-out vibes.
+Sentimony Records proudly presents our second release - «Emptinesses» compiled by <a href="/artist/sphingida/">Sphingida</a>. Carefully selected tracks from masters of chill-out vibes.
 
 The compilation describes a saturated voyage into the Emptinesses of ambient and downtempo escapes, atmospheric dreamy melodies with beautiful floating sounds.
 

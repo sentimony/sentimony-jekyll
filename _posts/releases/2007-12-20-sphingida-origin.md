@@ -31,11 +31,13 @@ artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noo
 mastered_by: Prok @ VioletRaySoundlab
 ---
 
-Sphingida is a Ukrainian project founded in 2005 by Yulia Levchenko (Zea NeiRula) and Ihor Orlovskyi (Irukanji). 
+Sentimony Records proudly presents «Origin» - debut album of <a href="/artist/sphingida/">Sphingida</a> - psychedelic music project from Kyiv, Ukraine, founded in 2004 by Ihor Orlovskyi (<a href="/artist/irukanji/">Irukanji</a>) and Julia Levchenko (Zea <a href="/artist/neirula/">NeiRula</a>).
 
-With an initial focus on experimenting with different musical instruments and technologies, the project started to take part in various psychedelic trance and ambient events. In 2007 their debut album Origin was released on Sentimony Records, demonstrating a wide range of musical directions with an emphasis on downtempo and easy listening.
+With an initial focus on experimenting with different musical instruments and technologies, from 2006 Sphingida started to take part in various psychedelic trance and ambient events.
 
-In each track you will hear a mind-blowing mixture of gentle melodies, rigid synthetic sounds, and dynamic rhythms. Wise merging of styles and creative approach to the music make the sound of Sphingida absolutely unique.
+«Origin» demonstrating a wide range of musical directions with an emphasis on downtempo and easy listening. In each track you will hear a mind-blowing mixture of gentle melodies, rigid synthetic sounds, and dynamic rhythms. Wise merging of styles and creative approach to the music make the sound of Sphingida absolutely unique.
+
+Have a nice trip!
 
 ---
 Tracklist:
