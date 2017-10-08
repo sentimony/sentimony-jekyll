@@ -26,12 +26,12 @@ link_googleplay: https://play.google.com/music/m/Bbun7hghe7tfhybjxgehj6pl2we?t=S
 link_ektoplazm: http://www.ektoplazm.com/free-music/special-places
 link_discogs: https://www.discogs.com/master/424687
 written_by: 
-compiled_by: AstroPilot
+compiled_by: <a href="/artist/astropilot/">AstroPilot</a>
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
-Sentimony Records is happy to announce you label's eleventh release - «Special Places» - ambient, modern classical & score music compilation, compositions which have been carefully selected by AstroPilot.
+Sentimony Records is happy to announce you label's eleventh release - «Special Places» - ambient, modern classical & score music compilation, compositions which have been carefully selected by <a href="/artist/astropilot/">AstroPilot</a>.
 
 _«There is no person without a past, no person without their recollections... Everyone has his own personal place, whether it's a desolate house in the village from childhood, the path you were wandering together with your first love or the bank of the river where you contemplated the break of dawn... Each of us has own place, story and significant memories that we are connected to... Time and again, in our thoughts, memories of the past rush back to us as if it was yesterday and all of a sudden you are still talking to people who are no longer in your life - maybe even no longer alive...»_
 

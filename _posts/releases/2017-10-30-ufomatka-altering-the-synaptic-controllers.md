@@ -7,12 +7,12 @@ title: 'Ufomatka «Altering The Synaptic Controllers»'
 label: sentimony
 style: Goa Trance
 format: ep album
-cover: 
+cover: true
 cat_no: sencd027
 cat_nu: sencd027
 tracks_no: 5
 total_time: 
-release_date: 2017-09-30
+release_date: 2017-10-30
 coming_soon: true
 new: 
 youtube_id: 
@@ -27,15 +27,15 @@ link_ektoplazm:
 link_discogs: 
 written_by: <a href="/artist/ufomatka/">Ufomatka</a>
 compiled_by: 
-artwork_by: Coming Soon
-mastered_by: Coming Soon
+artwork_by: <a href="https://www.facebook.com/andytrootootoo" target="_blank" rel="noopener">Trootootoo</a>
+mastered_by: <a href="https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener">Dimitro @ Zymosis Studio</a>
 ---
 
-Sentimony Records presents «Altering The Synaptic Controllers» - the second EP release by our beloved artist Ufomatka.
+Sentimony Records presents «Altering The Synaptic Controllers» - the second EP by our beloved artist <a href="/artist/ufomatka/">Ufomatka</a>.
 
 The release name came from nowhere and the dick knows what it is, but it will all fuck us out :)
 
-Have a nice trip!
+Get it now and have fun!
 
 ---
 Tracklist:

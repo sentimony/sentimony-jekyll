@@ -28,12 +28,14 @@ link_discogs: https://www.discogs.com/master/494470
 written_by: <a href="/artist/spectrum-vision/">Spectrum Vision</a>
 compiled_by: 
 artwork_by: 1n0x & <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noopener">Anton Pivniuk</a>
-mastered_by: Prok at VioletRaySoundlab
+mastered_by: Prok @ VioletRaySoundlab
 ---
 
-Spectrum Vision was founded in 2004 by two talented musicians from Stupino, Russia, near Moscow: Alexander (1n0x) and Ivan (Ujo). «Lost Space Device» is their debut album on Sentimony Records, originally released in 2008. 
+Sentimony Records proudly presents «Lost Space Device» - debut album of <a href="/artist/spectrum-vision/">Spectrum Vision</a> - psychedelic music project from Stupino city Moscow region, Russian Federation, founded in 2004 by Ivan (Ujo) and Alexander (1n0x).
 
-The main focus of the project is psychedelic downtempo and ambient works distinguished by subtle ethnic themes with deep dimensions and beautiful melodic leads.
+The main focus of «Lost Space Device» is psychedelic downtempo and ambient works distinguished by subtle ethnic themes with deep dimensions and beautiful melodic leads.
+
+Have a nice trip!
 
 ---
 Tracklist:

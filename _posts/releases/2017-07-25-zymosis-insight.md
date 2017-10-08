@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'Zymosis «Insight»'
 label: sentimony
-style: Psychill
+style: Psychill, Downtempo
 format: album
 cover: true
 cat_no: sencd025
@@ -28,10 +28,10 @@ link_discogs: https://www.discogs.com/master/1217106
 written_by: <a href="/artist/zymosis/">Zymosis</a>
 compiled_by: 
 artwork_by: <a href="https://www.facebook.com/artramaworkshop" target="_blank" rel="noopener">Artrama</a>
-mastered_by: <a href="https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener">Dimitro (Zymosis Studio)</a>
+mastered_by: <a href="https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener">Dimitro @ Zymosis Studio</a>
 ---
 
-Sentimony Records team is proud to present «Insight» - new Zymosis full-length album.
+Sentimony Records team is proud to present «Insight» - new <a href="/artist/zymosis/">Zymosis</a> full-length album.
 
 _I was looking for Power, but I did not find anything ..._
 

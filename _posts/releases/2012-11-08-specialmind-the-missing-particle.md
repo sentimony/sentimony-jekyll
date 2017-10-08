@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'Specialmind «The Missing Particle»'
 label: sentimony
-style: Psychill
+style: Psychill, Downtempo
 format: ep album
 cover: true
 cat_no: sencd013
@@ -25,17 +25,19 @@ link_applemusic: https://itunes.apple.com/ua/album/the-missing-particle-ep/id127
 link_googleplay: https://play.google.com/music/m/Bl5jqjufz6wabkce5jtlpf3wyua?t=Specialmind_The_Missing_Particle
 link_ektoplazm: http://www.ektoplazm.com/free-music/specialmind-the-missing-particle
 link_discogs: https://www.discogs.com/master/601769
-written_by: 
+written_by: <a href="/artist/specialmind/">Specialmind</a>
 compiled_by: 
 artwork_by: Ader
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
-«The Missing Particle» - is the second EP released by Sentimony Records, introducing Specialmind project - a psychedelic downtempo duo from Ukraine.
+«The Missing Particle» - is the second EP released by Sentimony Records, introducing <a href="/artist/specialmind/">Specialmind</a> project - a psychedelic downtempo duo from Ukraine.
 
-The project was formed in 2011 as a result of a collaboration between two talented musicians - Alexander Radchenko and Evgeniy Pshonniy.
+The project was formed in 2011 as a result of a collaboration between two talented musicians - Alexander Radchenko (<a href="/artist/crystal-vibe/">Crystal Vibe</a>) and Evgeniy Pshonniy.
 
 The idea of creating their own vision of psychedelic chillout music originated as a result of combination of various musical experience and mutual desire to create a conceptually new sound in this genre.
+
+Have a nice trip!
 
 ---
 Tracklist:

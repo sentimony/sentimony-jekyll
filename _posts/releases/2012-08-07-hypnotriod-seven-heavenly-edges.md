@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'Hypnotriod «Seven Heavenly Edges»'
 label: sentimony
-style: Psychill, Chillgressive
+style: Psychill, Downtempo
 format: ep album
 cover: true
 cat_no: sencd012
@@ -25,15 +25,15 @@ link_applemusic: https://itunes.apple.com/ua/album/seven-heavenly-edges-ep/id127
 link_googleplay: https://play.google.com/music/m/B6mqahvvxjox3b7izhvaoltnr2e?t=Hypnotriod_Seven_Heavenly_Edges
 link_ektoplazm: http://www.ektoplazm.com/free-music/hypnotriod-seven-heavenly-edges
 link_discogs: https://www.discogs.com/master/556014
-written_by: 
+written_by: <a href="/artist/hypnotriod/">Hypnotriod</a>
 compiled_by: 
 artwork_by: <a href="https://rooooster.com" target="_blank" rel="noopener">Anton Pivniuk</a>
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
-«Seven Heavenly Edges» - is the first single released by Sentimony Records, introducing a talented Ukrainian producer and musician Hypnotriod (Ilia Pikin), also known for his passion for white shirts and experimental chillgressive sound.
+«Seven Heavenly Edges» - is the first single released by Sentimony Records, introducing a talented Ukrainian producer and musician <a href="/artist/hypnotriod/">Hypnotriod</a> (Ilia Pikin), also known for his passion for white shirts and experimental chillgressive sound.
 
-We (Sentimony Team and Hypnotriod) would like to offer you his two original tracks and three remixes from well-known Ukrainian projects Tentura, Unusual Cosmic Process (UCP) and collaboration between producer Irukanji and flutist JazzyFlute.
+We would like to offer you two original tracks of Hypnotriod and three remixes from well-known Ukrainian projects <a href="/artist/tentura/">Tentura</a>, <a href="/artist/unusual-cosmic-process/">Unusual Cosmic Process</a> and collaboration between producer <a href="/artist/irukanji/">Irukanji</a> and flutist JazzyFlute.
 
 As a result, we have this so-called micro-compilation, which goes just perfect on a moon glade, sea coast or simply a bathtub with warm water and the lights switched off.
 

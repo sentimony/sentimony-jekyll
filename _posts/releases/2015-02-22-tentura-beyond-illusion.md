@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'Tentura «Beyond Illusion»'
 label: sentimony
-style: Psychill, Chillgressive
+style: Psychill, Downtempo
 format: album
 cover: true
 cat_no: sencd023
@@ -28,10 +28,10 @@ link_discogs: https://www.discogs.com/master/866837
 written_by: <a href="/artist/tentura/">Tentura</a>
 compiled_by: 
 artwork_by: Ader & Andrei Verner
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
-Sentimony Records team proudly presents «Beyond Illusion» - new Tentura full-length album.
+Sentimony Records team proudly presents «Beyond Illusion» - new <a href="/artist/tentura/">Tentura</a> full-length album.
 
 Have a nice trip!
 

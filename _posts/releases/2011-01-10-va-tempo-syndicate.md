@@ -5,7 +5,7 @@ category: releases
 comments: true
 title: 'VA «Tempo Syndicate»'
 label: sentimony
-style: Psychill, Chillgressive
+style: Psychill, Downtempo
 format: compilation
 cover: true
 cat_no: sencd009
@@ -28,16 +28,16 @@ link_discogs: https://www.discogs.com/master/563066
 written_by: 
 compiled_by: <a href="/artist/irukanji/">Irukanji</a>
 artwork_by: <a href="/artist/irukanji/">Irukanji</a>
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus (Overdream Studio)</a>
+mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
-Sentimony Records team is proud to introduce you label's ninth release and our two years labor - psychedelic music compilation entitled «Tempo Syndicate».
+Sentimony Records team is proud to introduce you label's ninth release and our two years labor - psychedelic music compilation entitled «Tempo Syndicate» compiled by <a href="/artist/irukanji/">Irukanji</a>.
 
 This new release contains 12 unique tracks of crystal clear psychedelic sound with deep bass vibration, spellbinding shaman rhythms and innovative ideas.
 
 We recommend to listen this new CD in the evening and at night-time, especially at open space away from the city limits.
 
-Have a nice dive! ;)
+Have a nice dive!
 
 ---
 Tracklist:
