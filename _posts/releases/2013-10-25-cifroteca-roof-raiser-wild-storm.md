@@ -27,7 +27,7 @@ link_ektoplazm:
 link_discogs: https://www.discogs.com/master/1165312
 written_by: <a href='/artist/cifroteca/'>Cifroteca</a> & <a href='/artist/roof-raiser/'>Roof Raiser</a>
 compiled_by: 
-artwork_by: Swaroop Guhathakurta
+artwork_by: <a href='https://www.facebook.com/sanathana.swaroop' target='_blank' rel='noopener'>Swaroop Guhathakurta</a>
 mastered_by: <a href='http://overdreamstudio.com' target='_blank' rel='noopener'>Makus @ Overdream Studio</a>
 ---
 
