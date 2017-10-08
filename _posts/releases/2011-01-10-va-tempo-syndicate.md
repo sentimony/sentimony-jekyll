@@ -31,7 +31,7 @@ artwork_by: <a href="/artist/irukanji/">Irukanji</a>
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
-Sentimony Records team is proud to introduce you label's ninth release and our two years labor - psychedelic music compilation entitled «Tempo Syndicate».
+Sentimony Records team is proud to introduce you label's ninth release and our two years labor - psychedelic music compilation entitled «Tempo Syndicate» compiled by <a href="/artist/irukanji/">Irukanji</a>.
 
 This new release contains 12 unique tracks of crystal clear psychedelic sound with deep bass vibration, spellbinding shaman rhythms and innovative ideas.
 

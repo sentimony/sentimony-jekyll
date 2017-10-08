@@ -26,12 +26,12 @@ link_googleplay: https://play.google.com/music/m/B6ec2ubqel4qheukhneeyrhblte?t=T
 link_ektoplazm: http://www.ektoplazm.com/free-music/time-loop-beyond-borders
 link_discogs: https://www.discogs.com/master/563065
 written_by: 
-compiled_by: Zea NeiRula
+compiled_by: Zea (<a href="/artist/neirula/">NeiRula</a>)
 artwork_by: Flange
 mastered_by: Monno @ Bimmelim Soundlabs
 ---
 
-Sentimony Records is happy to announce fresh full-length compilation! It's kind of new project from Sentimony team - VA «Time Loop: Beyond Borders», starts new series of compilations under name Time Loop. We are happy to introduce you with known projects and a new perspective names from our opinion ;) Hope you will enjoy it!
+Sentimony Records is happy to announce fresh full-length compilation! It's kind of new project from Sentimony team - VA «Time Loop: Beyond Borders» compiled by Zea (<a href="/artist/neirula/">NeiRula</a>), starts new series of compilations under name Time Loop. We are happy to introduce you with known projects and a new perspective names from our opinion ;) Hope you will enjoy it!
 
 Time Loop:  
 A time loop or temporal loop is a common plot device in science fiction (especially in universes where time travel is commonplace) in which time runs normally for a set period (usually a day or a few hours) but then skips back like a broken record. When the time loop 'resets', the memories of most characters are reset (i.e. they forget all that happened). The plot is advanced, however, by having one or more central characters retain their memory or become aware of the loop through deja vu.
@@ -39,7 +39,9 @@ A time loop or temporal loop is a common plot device in science fiction (especia
 Beyond Borders:  
 Take a journey through universe with your Divine Essence breaking up all borders. Become the ray of light that trickle through your Reality. Spiritual awakening and discover new orbital's. Feel the freshness of alien atmosphere's and dive in to the deepness of space oceans. Take a walk the most mystical forests. Follow the white rabbits and blue bird. Find yourself in twisted reality.
 
-Fascinating an inner journey into profound states of love, inspiration, spiritual meditation, and self-approval! Relax. Breathe deeply. Open your eyes!
+Fascinating an inner journey into profound states of love, inspiration, spiritual meditation, and self-approval!
+
+Relax. Breathe deeply. Open your eyes!
 
 ---
 Tracklist:

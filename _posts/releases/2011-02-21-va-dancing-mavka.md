@@ -31,13 +31,13 @@ artwork_by: <a href="https://www.instagram.com/julenca" target="_blank" rel="noo
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
-Lookinglook Records team is pleased to announce its fourth release, which today is the first Ukrainian 100% Goa trance compilation, titled «Dansing Mavka».
+Lookinglook Records team (sublabel of Sentimony Records) is pleased to announce its fourth release, which today is the first Ukrainian 100% Goa trance compilation, titled «Dansing Mavka» compiled by <a href="/artist/sky-technology/">Sky Technology</a>.
 
 Under the psychedelic rhythms with classic Goa trance sound, we'll go on a sunny walk to the dancing Mavka - one of the Slavic mythical creatures living in swamps and forests.
 
-The main feature of this compilation is that it consists of composition only Ukrainian projects. Some of them are already well known to fans of psychedelic electronic music, it is such projects as: Zelur Project (better known under the name of the SynSUN project), Sky Technology, Spirit Medicine, Celestial Consciousness and ShizoLizer Gin.
+The main feature of this compilation is that it consists of composition only Ukrainian projects. Some of them are already well known to fans of psychedelic electronic music, it is such projects as: Zelur Project (better known under the name of SynSUN project), <a href="/artist/sky-technology/">Sky Technology</a>, Spirit Medicine, Celestial Consciousness and <a href="/artist/shizoLizer-gin/">ShizoLizer Gin</a>.
 
-Another feature of this release is the fact that it's a debut for several 'newcomer-projects', such as: Pandemicus, Jyotish, Ufomatka and Space Vibes System.
+Another feature of this release is the fact that it's a debut for several 'newcomer-projects', such as: Pandemicus, Jyotish, <a href="/artist/ufomatka/">Ufomatka</a> and Space Vibes System.
 
 ---
 Tracklist:
