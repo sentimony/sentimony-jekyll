@@ -27,8 +27,8 @@ link_ektoplazm: http://www.ektoplazm.com/free-music/unusual-cosmic-process-weigh
 link_discogs: https://www.discogs.com/master/349889
 written_by: <a href='/artist/unusual-cosmic-process/'>Unusual Cosmic Process</a>
 compiled_by: 
-artwork_by: <a href='https://messdivision.com" target="_blank" rel="noopener'>Ju Ju</a>
-mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
+artwork_by: <a href='https://www.instagram.com/julenca' target='_blank' rel='noopener'>Ju Ju</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank' rel='noopener'>Makus @ Overdream Studio</a>
 ---
 
 Sentimony Records (sublabel of Sentimony Records) is proud to present new compact disk - the debut album from Ukrainian project <a href='/artist/unusual-cosmic-process/'>Unusual Cosmic Process</a>, titled «Weightlessness».

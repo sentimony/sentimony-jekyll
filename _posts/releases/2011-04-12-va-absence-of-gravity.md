@@ -28,7 +28,7 @@ link_discogs: https://www.discogs.com/master/563069
 written_by: 
 compiled_by: <a href='/artist/spectrum-vision/'>Spectrum Vision</a>
 artwork_by: 1n0x
-mastered_by: <a href='http://altar-records.com" target="_blank" rel="noopener'>Zen @ Altar Records Studio</a>
+mastered_by: <a href='http://altar-records.com' target='_blank' rel='noopener'>Zen @ Altar Records Studio</a>
 ---
 
 To the 50th anniversary of the first manned space flight, Sentimony Records, in collaboration with Home World Music Group, have prepared a special release - new psychedelic space-ambient music compilation entitled «Absence Of Gravity» compiled by <a href='/artist/spectrum-vision/'>Spectrum Vision</a>.

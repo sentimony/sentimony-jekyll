@@ -27,8 +27,8 @@ link_ektoplazm: http://www.ektoplazm.com/free-music/tentura-aurora
 link_discogs: https://www.discogs.com/master/597257
 written_by: <a href='/artist/tentura/'>Tentura</a>
 compiled_by: 
-artwork_by: Ader
-mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
+artwork_by: <a href='https://www.facebook.com/ader.tentura' target='_blank' rel='noopener'>Ader</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank' rel='noopener'>Makus @ Overdream Studio</a>
 ---
 
 Sentimony Records team is proudly pleased to announce new EP - «Aurora». At this time we're introducing you the debut single by <a href='/artist/tentura/'>Tentura</a> project, a well-known psychedelic chillout and deep trance duo from Kyiv, Ukraine.

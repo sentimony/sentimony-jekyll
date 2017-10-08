@@ -28,7 +28,7 @@ link_discogs: https://www.discogs.com/master/1165312
 written_by: <a href='/artist/cifroteca/'>Cifroteca</a> & <a href='/artist/roof-raiser/'>Roof Raiser</a>
 compiled_by: 
 artwork_by: Swaroop Guhathakurta
-mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank' rel='noopener'>Makus @ Overdream Studio</a>
 ---
 
 Aqua Deep Music (sublabel of Sentimony Records) is pleased to announce its new psytrance release, split-album of two psychedelic minds <a href='/artist/cifroteca/'>Cifroteca</a> and <a href='/artist/roof-raiser/'>Roof Raiser</a> - talented sound producers from Ukraine.

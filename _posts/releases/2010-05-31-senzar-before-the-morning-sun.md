@@ -27,8 +27,8 @@ link_ektoplazm: http://www.ektoplazm.com/free-music/senzar-before-the-morning-su
 link_discogs: https://www.discogs.com/master/331378
 written_by: 
 compiled_by: <a href='/artist/senzar/'>Senzar</a>
-artwork_by: <a href='https://messdivision.com" target="_blank" rel="noopener'>Ju Ju</a>
-mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
+artwork_by: <a href='https://www.instagram.com/julenca' target='_blank' rel='noopener'>Ju Ju</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank' rel='noopener'>Makus @ Overdream Studio</a>
 ---
 
 Lookinglook Records (new sublabel of Sentimony Records) presents the debut album from Danish artist <a href='/artist/senzar/'>Senzar</a>, titled «Before The Morning Sun».

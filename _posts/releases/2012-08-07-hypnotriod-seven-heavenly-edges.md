@@ -27,8 +27,8 @@ link_ektoplazm: http://www.ektoplazm.com/free-music/hypnotriod-seven-heavenly-ed
 link_discogs: https://www.discogs.com/master/556014
 written_by: <a href='/artist/hypnotriod/'>Hypnotriod</a>
 compiled_by: 
-artwork_by: <a href='https://rooooster.com" target="_blank" rel="noopener'>Anton Pivniuk</a>
-mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
+artwork_by: <a href='https://rooooster.com' target='_blank' rel='noopener'>Anton Pivniuk</a>
+mastered_by: <a href='http://overdreamstudio.com' target='_blank' rel='noopener'>Makus @ Overdream Studio</a>
 ---
 
 «Seven Heavenly Edges» - is the first single released by Sentimony Records, introducing a talented Ukrainian producer and musician <a href='/artist/hypnotriod/'>Hypnotriod</a> (Ilia Pikin), also known for his passion for white shirts and experimental chillgressive sound.
