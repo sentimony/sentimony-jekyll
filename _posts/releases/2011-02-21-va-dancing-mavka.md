@@ -39,6 +39,8 @@ The main feature of this compilation is that it consists of composition only Ukr
 
 Another feature of this release is the fact that it's a debut for several 'newcomer-projects', such as: Pandemicus, Jyotish, <a href="/artist/ufomatka/">Ufomatka</a> and Space Vibes System.
 
+And yep, Mavka like Goa Trance. Enjoy!
+
 ---
 Tracklist:
 

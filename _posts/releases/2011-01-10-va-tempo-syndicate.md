@@ -37,7 +37,7 @@ This new release contains 12 unique tracks of crystal clear psychedelic sound wi
 
 We recommend to listen this new CD in the evening and at night-time, especially at open space away from the city limits.
 
-Have a nice dive! ;)
+Have a nice dive!
 
 ---
 Tracklist:
