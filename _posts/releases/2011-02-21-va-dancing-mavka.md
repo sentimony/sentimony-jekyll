@@ -31,7 +31,7 @@ artwork_by: <a href='https://www.instagram.com/julenca" target="_blank" rel="noo
 mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
 ---
 
-Lookinglook Records team (sublabel of Sentimony Records) is pleased to announce its fourth release, which today is the first Ukrainian 100% Goa trance compilation, titled «Dansing Mavka» compiled by <a href='/artist/sky-technology/'>Sky Technology</a>.
+Lookinglook Records (sublabel of Sentimony Records) is pleased to announce its fourth release, which today is the first Ukrainian 100% Goa trance compilation, titled «Dansing Mavka» compiled by <a href='/artist/sky-technology/'>Sky Technology</a>.
 
 Under the psychedelic rhythms with classic Goa trance sound, we'll go on a sunny walk to the dancing Mavka - one of the Slavic mythical creatures living in swamps and forests.
 
