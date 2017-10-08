@@ -8,17 +8,17 @@
 </template>
 
 <script>
-  var Hero = require('./hero.vue');
-  var SwiperReleaseList = require('./swiper-release-list.vue');
-  var About = require('./about.vue');
-  var SwiperArtistList = require('./swiper-artist-list.vue');
+var Hero = require('./hero.vue');
+var SwiperReleaseList = require('./swiper-release-list.vue');
+var About = require('./about.vue');
+var SwiperArtistList = require('./swiper-artist-list.vue');
 
-  module.exports = {
-    components: {
-      'hero': Hero,
-      'swiper-release-list': SwiperReleaseList,
-      'about': About,
-      'swiper-artist-list': SwiperArtistList
-    }
-  };
+module.exports = {
+  components: {
+    'hero': Hero,
+    'swiper-release-list': SwiperReleaseList,
+    'about': About,
+    'swiper-artist-list': SwiperArtistList
+  }
+};
 </script>

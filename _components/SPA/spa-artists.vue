@@ -5,11 +5,11 @@
 </template>
 
 <script>
-  var Artists = require('./artists.vue');
+var Artists = require('./artists.vue');
 
-  module.exports = {
-    components: {
-      'artists': Artists
-    }
-  };
+module.exports = {
+  components: {
+    'artists': Artists
+  }
+};
 </script>

@@ -7,8 +7,12 @@ og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
 
 {% comment %}
-{% for i in site.categories.artists %}
-<div>{{i.slug}}</div>
-<div>{{i.title}}</div>
+
+<ol>
+{% assign artists = site.categories.artists | sort: 'title' %}
+{% for i in artists %}
+<li>{{ i.bandcamp }} xxxxxxxx</li>
 {% endfor %}
+</ol>
+
 {% endcomment %}

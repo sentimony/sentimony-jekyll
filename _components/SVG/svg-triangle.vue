@@ -5,16 +5,16 @@
 </template>
 
 <script>
-  module.exports = {
-  };
+module.exports = {
+};
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  .svg-triangle {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    z-index: 30;
-  }
+.svg-triangle {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 30;
+}
 </style>

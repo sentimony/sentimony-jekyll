@@ -5,11 +5,11 @@
 </template>
 
 <script>
-  var Friends = require('./friends.vue');
+var Friends = require('./friends.vue');
 
-  module.exports = {
-    components: {
-      'friends': Friends
-    }
-  };
+module.exports = {
+  components: {
+    'friends': Friends
+  }
+};
 </script>

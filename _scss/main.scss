@@ -4,7 +4,6 @@
 @import '../node_modules/coriolan-ui/mixins/ratio';
 @import '../node_modules/coriolan-ui/mixins/clearfix';
 @import '../node_modules/swiper/dist/css/swiper';
-// @import '../node_modules/vue-nav-tabs/src/assets/tabs';
 @import 'vendor/svg-icons/svg-icons';
 
 @import 'ui/variables';
@@ -13,11 +12,11 @@
 @import 'ui/flex-sticky';
 @import 'ui/buttons';
 @import 'ui/unvisible';
+// @import '../node_modules/vue-nav-tabs/themes/vue-tabs.scss';
 @import 'ui/vue-tabs-customize';
 
 @import '_components/Headr/styles';
 @import '_components/Logolink/styles';
-@import '_components/Hero/styles';
 @import '_components/SwiperReleaseList/swiper-release-list';
 @import '_components/SwiperReleaseList/swiper-release-list-item';
 @import '_components/SwiperArtistList/swiper-artist-list';

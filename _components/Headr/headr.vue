@@ -5,10 +5,12 @@
       <logolink></logolink>
 
       <nav class="headr__main-menu">
-        <a href="/release/zymosis-insight/" class="headr__main-menu-link is-selected">Releases</a>
-        <!-- <router-link to="/spa/releases/" class="headr__main-menu-link is-selected">Releases</router-link> -->
-        <a href="/artist/irukanji/" class="headr__main-menu-link is-selected">Artists</a>
-        <!-- <router-link to="/spa/artists/" class="headr__main-menu-link is-selected">Artists</router-link> -->
+        <router-link to="/news/" class="headr__main-menu-link" active-class="is-selected">News</router-link>
+        <router-link to="/releases/" class="headr__main-menu-link" active-class="is-selected">Releases</router-link>
+        <router-link to="/artists/" class="headr__main-menu-link" active-class="is-selected">Artists</router-link>
+        <router-link to="/events/" class="headr__main-menu-link" active-class="is-selected">Events</router-link>
+        <router-link to="/friends/" class="headr__main-menu-link" active-class="is-selected">Friends</router-link>
+        <router-link to="/contacts/" class="headr__main-menu-link" active-class="is-selected">Contacts</router-link>
       </nav>
 
       <nav class="headr__social-menu">
@@ -26,30 +28,26 @@
         </a>
       </nav>
 
-      <a href="/release/zymosis-insight/" class="headr__mob-menu-button">
+      <router-link to="/releases/" class="headr__mob-menu-button">
         <img class="headr__mob-menu-button-img" src="/assets/img/svg-icons/menu.svg">
-      </a>
+      </router-link>
 
     </div>
   </header>
 </template>
 
 <script>
-  var Logolink = require('./logolink.vue');
-  // var MenuMain = require('./menu-main.vue');
-  // var MenuSocial = require('./menu-social.vue');
+import Logolink from './logolink.vue'
 
-  module.exports = {
-    components: {
-      'logolink': Logolink,
-      // 'menu-main': MenuMain,
-      // 'menu-social': MenuSocial
-    }
-  };
+export default {
+  components: {
+    Logolink
+  }
+}
 </script>
 
 <style lang="scss?outputStyle=compressed">
-  .headr {
-  }
+.headr {
+}
 </style>
 

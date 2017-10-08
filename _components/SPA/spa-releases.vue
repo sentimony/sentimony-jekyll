@@ -5,11 +5,11 @@
 </template>
 
 <script>
-  var Releases = require('./releases.vue');
+var Releases = require('./releases.vue');
 
-  module.exports = {
-    components: {
-      'releases': Releases
-    }
-  };
+module.exports = {
+  components: {
+    'releases': Releases
+  }
+};
 </script>

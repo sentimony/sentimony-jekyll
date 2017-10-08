@@ -5,14 +5,3 @@ description: Sentimony Records is an independent record label started in Kyiv, U
 permalink: /
 og-image: https://content.sentimony.com/assets/img/og-images/sentimony/home.jpg
 ---
-
-<hero></hero>
-<swiper-release-list modificator="js-swiper-release-list--home-page"></swiper-release-list>
-{% comment %}
-{% include SwiperReleaseList/swiper-release-list.html class='js-swiper-release-list--home-page' %}
-{% endcomment %}
-<about></about>
-<swiper-artist-list modificator="js-swiper-artist-list--home-page"></swiper-artist-list>
-{% comment %}
-{% include SwiperArtistList/swiper-artist-list.html class='js-swiper-artist-list--home-page' %}
-{% endcomment %}

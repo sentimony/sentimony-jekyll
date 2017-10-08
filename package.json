@@ -4,12 +4,14 @@
     "firebase": "^4.3.0",
     "goodshare.js": "^4.0.6",
     "lazysizes": "^4.0.0-rc3",
+    "moment": "^2.18.1",
     "normalize.css": "^7.0.0",
     "sw-toolbox": "^3.6.0",
     "swiper": "^3.4.2",
-    "vue": "^2.4.2",
+    "vue": "^2.4.4",
     "vue-awesome-swiper": "^2.6.4",
-    "vue-nav-tabs": "^0.2.2"
+    "vue-nav-tabs": "^0.5.4",
+    "vuex": "^2.4.0"
   },
   "devDependencies": {
     "axios": "^0.16.2",
@@ -33,7 +35,6 @@
     "sass-loader": "^6.0.6",
     "streamqueue": "^1.1.1",
     "uglifyjs-webpack-plugin": "^0.4.6",
-    "vue": "^2.4.2",
     "vue-axios": "^2.0.2",
     "vue-loader": "^11.3.1",
     "vue-router": "^2.7.0",
@@ -45,6 +46,7 @@
   "scripts": {
     "clean": "rm -rf _site/; rm -rf assets/js/; rm -rf assets/css/; rm -rf assets/fonts/; rm -rf assets/data/; rm -rf sw-toolbox.js; rm -rf .tmp/;",
     "develop": "npm run clean; gulp font; gulp watch;",
+    "dev": "npm run develop;",
     "build": "npm run clean; gulp font; gulp;"
   }
 }
