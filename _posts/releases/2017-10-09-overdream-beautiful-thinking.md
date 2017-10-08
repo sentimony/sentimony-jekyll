@@ -7,12 +7,12 @@ title: 'Overdream «Beautiful Thinking»'
 label: sentimony
 style: Psychill, Downtempo
 format: ep album
-cover: 
+cover: true
 cat_no: sencd026
 cat_nu: sencd026
 tracks_no: 4
 total_time: 
-release_date: 2017-09-25
+release_date: 2017-10-09
 coming_soon: true
 new: 
 youtube_id: 
@@ -31,12 +31,16 @@ artwork_by: <a href="https://www.facebook.com/artramaworkshop" target="_blank" r
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
-Release info is coming soon!
+Sentimony Records presents «Beautiful Thinking» - the brand new, fresh and banging psychedelic EP by <a href="/artist/overdream/">Overdream</a>.
+
+The tracks go from 98 to 118 bpm but stay deep and psychedelic all the way.
+
+Check it out!
 
 ---
 Tracklist:
 
 01. Overdream - Radical Utopian \| 115bpm
 02. Overdream - Kopimist \| 118bpm
-03. Overdream - Flat Earther \| 113bpm
+03. Overdream - Flat Earther (Beautiful Edit) \| 113bpm
 04. Overdream - Omnipresence \| 80bpm

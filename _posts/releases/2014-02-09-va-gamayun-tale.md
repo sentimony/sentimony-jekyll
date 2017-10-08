@@ -31,7 +31,7 @@ artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
-Sentimony Records presents VA «Gamayun Tale» - a new Goa Trance story compiled by Sky Technology.
+Lookinglook Records (sublabel of Sentimony Records) presents VA «Gamayun Tale» - a new Goa Trance story compiled by <a href="/artist/sky-technology/">Sky Technology</a>.
 
 Gamayun is a prophetic bird of slavic folklore. It is a symbol of wisdom and knowledge and lives on an island in the east, close to paradise.
 

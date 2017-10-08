@@ -7,7 +7,7 @@ comments: true
 title: Spectrum Vision
 photo: true
 name: Ivan Uzdyaev
-location: Stupino city Moscow regions, Russian Federation
+location: Stupino city Moscow region, Russian Federation
 style: Psychill
 website: 
 bandcamp: https://spectrumvisionoffical.bandcamp.com

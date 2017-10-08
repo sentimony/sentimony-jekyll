@@ -12,7 +12,7 @@ cat_no: sencd028
 cat_nu: sencd028
 tracks_no: 5
 total_time: 
-release_date: 2017-10-30
+release_date: 2017-11-30
 coming_soon: true
 new: 
 youtube_id: 
@@ -31,9 +31,9 @@ artwork_by: Coming Soon
 mastered_by: <a href="https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener">Dimitro @ Zymosis Studio</a>
 ---
 
-Sentimony Records presents «Eve» - new EP by Zymosis.
+Sentimony Records presents «Eve» - ambient EP by <a href="/artist/zymosis/">Zymosis</a>, consisting of Ukrainian folk lullabies.
 
-Have a nice trip!
+Have a nice sleep!
 
 ---
 Tracklist:

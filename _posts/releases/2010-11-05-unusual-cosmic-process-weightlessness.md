@@ -25,19 +25,21 @@ link_applemusic: https://itunes.apple.com/ua/album/weightlessness/id1271855982?l
 link_googleplay: https://play.google.com/music/m/Bjdi3bpcowe7q7wwmbqh5d4elni?t=Unusual_Cosmic_Process_Weightlessness
 link_ektoplazm: http://www.ektoplazm.com/free-music/unusual-cosmic-process-weightlessness
 link_discogs: https://www.discogs.com/master/349889
-written_by: 
+written_by: <a href="/artist/unusual-cosmic-process/">Unusual Cosmic Process</a>
 compiled_by: 
 artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
 mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
 ---
 
-Sentimony Records is proud to present new compact disk - the debut album from Ukrainian project Unusual Cosmic Process (UCP), titled «Weightlessness».
+Sentimony Records (sublabel of Sentimony Records) is proud to present new compact disk - the debut album from Ukrainian project <a href="/artist/unusual-cosmic-process/">Unusual Cosmic Process</a>, titled «Weightlessness».
 
-UCP, also known under the name of Runar Kristinsson. In 2000 year he started to work as a DJ in one of the Ukrainian nightclubs. But soon he realized that composing music brings him more pleasure than to engage in DJing. In this way, in 2006 he began to write his own music.
+Unusual Cosmic Process, also known under the name of Runar Kristinsson. In 2000 year he started to work as a DJ in one of the Ukrainian nightclubs. But soon he realized that composing music brings him more pleasure than to engage in DJing. In this way, in 2006 he began to write his own music.
 
 Now Runar works under three projects: Psypheric - in genre of psy prog; Optical Report - in genre of progressive; but main one, and the most interesting its his psy-ambient project - Unusual Cosmic Process.
 
-Also project name should be known to chill-out music lovers on his two previous releases - VA «True Story» (2008) and VA «Grower» (2010).
+Also project name should be known to chill-out music lovers on his two previous releases - <a href="/release/va-true-story/">VA «True Story»</a> (2008) and <a href="/release/va-grower/">VA «Grower»</a> (2010).
+
+Have a nice trip!
 
 ---
 Tracklist:

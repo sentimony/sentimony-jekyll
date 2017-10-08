@@ -31,13 +31,17 @@ artwork_by: <a href="https://www.facebook.com/apivniuk" target="_blank" rel="noo
 mastered_by: Prok @ VioletRaySoundlab
 ---
 
-Z Lisu - is the debut album of Irukanji project. Behind this name is standing talented musician and charismatic dj – Ihor Orlovskyi, member of duet from Ukraine Sphingida (2005 - 2008).
+Sentimony Records proudly presents «Z Lisu» - debut album of <a href="/artist/irukanji/">Irukanji</a>.
 
-Also Ihor Orlovskyi is known as co-founder of experimental chill-out label Sentimony.
+Behind this name is standing talented musician and charismatic dj – Ihor Orlovskyi, member of Ukrainian duet <a href="/artist/sphingida/">Sphingida</a> (2004 - 2008).
+
+Also Ihor Orlovskyi is known as owner of Sentimony Records and its sublables Aqua Deep Music and Lookinglook Records.
 
 Created in 2008 Irukanji combined all experimental ideas and fresh twisted downtempo style. Irukanji is breaking all rules and standing beyond the scope.
 
 In his tracks you will hear crazy conversion between pure psychedelic down beats and mysterious tales.
+
+Have a nice forest journey!
 
 ---
 Tracklist:
