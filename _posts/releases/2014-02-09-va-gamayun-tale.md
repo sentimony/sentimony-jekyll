@@ -26,12 +26,12 @@ link_googleplay: https://play.google.com/music/m/Bkotg47jkqexk3gxyartfpyiu6y?t=G
 link_ektoplazm: 
 link_discogs: https://www.discogs.com/master/663801
 written_by: 
-compiled_by: <a href="/artist/sky-technology/">Sky Technology</a>
-artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
+compiled_by: <a href='/artist/sky-technology/'>Sky Technology</a>
+artwork_by: <a href='https://messdivision.com" target="_blank" rel="noopener'>Ju Ju</a>
+mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
 ---
 
-Lookinglook Records (sublabel of Sentimony Records) presents VA «Gamayun Tale» - a new Goa Trance story compiled by <a href="/artist/sky-technology/">Sky Technology</a>.
+Lookinglook Records (sublabel of Sentimony Records) presents VA «Gamayun Tale» - a new Goa Trance story compiled by <a href='/artist/sky-technology/'>Sky Technology</a>.
 
 Gamayun is a prophetic bird of slavic folklore. It is a symbol of wisdom and knowledge and lives on an island in the east, close to paradise.
 

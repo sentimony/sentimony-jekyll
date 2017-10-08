@@ -26,14 +26,14 @@ link_googleplay: https://play.google.com/music/m/B2hduene7glxvtujapk2org2tla?t=F
 link_ektoplazm: http://www.ektoplazm.com/free-music/fantazma
 link_discogs: https://www.discogs.com/master/403901
 written_by: 
-compiled_by: <a href="/artist/sphingida/">Sphingida</a>
+compiled_by: <a href='/artist/sphingida/'>Sphingida</a>
 artwork_by: Synchronick
 mastered_by: Synchronick @ Don't Panic Records Studio
 ---
 
 «Fantazma» is the debut release of Sentimony Records -  psychedelic music label, based in Kyiv, Ukraine.
 
-Eleven previously unreleased tracks, carefully selected by <a href="/artist/sphingida/">Sphingida</a>, ranging from deep ambient to psychedelic idm and more up-tempo chill-out music. All this tracks produced in Ukraine.
+Eleven previously unreleased tracks, carefully selected by <a href='/artist/sphingida/'>Sphingida</a>, ranging from deep ambient to psychedelic idm and more up-tempo chill-out music. All this tracks produced in Ukraine.
 
 Sentimony Records was started in autumn 2006. Label's main mission is to release tracks of all the talented artists from Ukraine and other countries.
 

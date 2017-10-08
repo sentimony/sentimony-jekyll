@@ -25,13 +25,13 @@ link_applemusic: https://itunes.apple.com/ua/album/retro-scientific/id1272439398
 link_googleplay: https://play.google.com/music/m/Bx5rmwodk5salgssbcdspzkhdl4?t=Psyfactor_Retro_Scientific
 link_ektoplazm: 
 link_discogs: https://www.discogs.com/master/656758
-written_by: <a href="/artist/psyfactor/">Psyfactor</a>
+written_by: <a href='/artist/psyfactor/'>Psyfactor</a>
 compiled_by: 
 artwork_by: Ader
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
+mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
 ---
 
-Sentimony Records presents its new release «Retro Scientific» - the newest creation of electron-synthetic Bachelor of Science, mushroom-innovator laureate and a pride of Russian psychedelic scene - <a href="/artist/psyfactor/">Psyfactor</a>.
+Sentimony Records presents its new release «Retro Scientific» - the newest creation of electron-synthetic Bachelor of Science, mushroom-innovator laureate and a pride of Russian psychedelic scene - <a href='/artist/psyfactor/'>Psyfactor</a>.
 
 During this time he wrote at the strange silvery discs something special. You should have a laser to read them! This is a retro science. It studies the theory of electronic experimentation and broken beats. If something goes wrong, it can hurt the whole world. No matter how real it is.
 

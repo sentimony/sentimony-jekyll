@@ -25,13 +25,13 @@ link_applemusic: https://itunes.apple.com/ua/album/insight/id1271988987?l=uk
 link_googleplay: https://play.google.com/music/m/Bt6umx3hpzsqwnjqk3k6fz24bam?t=Zymosis_Insight
 link_ektoplazm: 
 link_discogs: https://www.discogs.com/master/1217106
-written_by: <a href="/artist/zymosis/">Zymosis</a>
+written_by: <a href='/artist/zymosis/'>Zymosis</a>
 compiled_by: 
-artwork_by: <a href="https://www.facebook.com/artramaworkshop" target="_blank" rel="noopener">Artrama</a>
-mastered_by: <a href="https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener">Dimitro @ Zymosis Studio</a>
+artwork_by: <a href='https://www.facebook.com/artramaworkshop" target="_blank" rel="noopener'>Artrama</a>
+mastered_by: <a href='https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener'>Dimitro @ Zymosis Studio</a>
 ---
 
-Sentimony Records team is proud to present «Insight» - new <a href="/artist/zymosis/">Zymosis</a> full-length album.
+Sentimony Records team is proud to present «Insight» - new <a href='/artist/zymosis/'>Zymosis</a> full-length album.
 
 _I was looking for Power, but I did not find anything ..._
 

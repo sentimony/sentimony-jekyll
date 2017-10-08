@@ -26,12 +26,12 @@ link_googleplay: https://play.google.com/music/m/Bk2ryoclvc77dtqjqopjxwbdmve?t=S
 link_ektoplazm: http://www.ektoplazm.com/free-music/senzar-before-the-morning-sun
 link_discogs: https://www.discogs.com/master/331378
 written_by: 
-compiled_by: <a href="/artist/senzar/">Senzar</a>
-artwork_by: <a href="https://messdivision.com" target="_blank" rel="noopener">Ju Ju</a>
-mastered_by: <a href="http://overdreamstudio.com" target="_blank" rel="noopener">Makus @ Overdream Studio</a>
+compiled_by: <a href='/artist/senzar/'>Senzar</a>
+artwork_by: <a href='https://messdivision.com" target="_blank" rel="noopener'>Ju Ju</a>
+mastered_by: <a href='http://overdreamstudio.com" target="_blank" rel="noopener'>Makus @ Overdream Studio</a>
 ---
 
-Lookinglook Records (new sublabel of Sentimony Records) presents the debut album from Danish artist <a href="/artist/senzar/">Senzar</a>, titled «Before The Morning Sun».
+Lookinglook Records (new sublabel of Sentimony Records) presents the debut album from Danish artist <a href='/artist/senzar/'>Senzar</a>, titled «Before The Morning Sun».
 
 Senzar, who also goes by the name of Thoke Thomsen, is one of the most well-known Danish artists within psychedelic chillout. His works has appeared on well-established labels like Kagdilia Records, Yellow Sunshine Explosion, Ajana Records and Zealotry Music, and his music has brought him to play at parties like Full Moon Festival (Germany), VuuV Festival (Germany), Aurora Festival (Greece), Rhythms Of Peace Festival (Morocco), and Tribe of Frog (UK).
 
@@ -39,7 +39,7 @@ As a follower of psychedelic trance music and psychedelic trance parties since 1
 
 «Before The Morning Sun» is a rich, colorful journey of mostly relaxing atmospheres, but also more dancefriendly grooves. From deep, melancholic and slowly evolving underwater soundscapes to uplifting, almost Goa-trance-like melodies and grooves inspired by progressive trance, house and breakbeat. This is an album to be enjoyed both in headphones on a clear summer-day, brightening up a cold winter morning, as well as dancing with your eyes closed. It really is a a truly diverse album, and it clearly shines through that Senzar has spent the last two years making it as personal and perfect as possible.
 
-As an added bonus the album also contains remixes by two of Senzar's friends; progressive trance artist N.A.S.A., well-known for his releases on Iboga Records, Iono Music and many more labels, as well as the upcoming Danish artist <a href="/artist/erot/">Erot</a>.
+As an added bonus the album also contains remixes by two of Senzar's friends; progressive trance artist N.A.S.A., well-known for his releases on Iboga Records, Iono Music and many more labels, as well as the upcoming Danish artist <a href='/artist/erot/'>Erot</a>.
 
 Have a nice flight!
 

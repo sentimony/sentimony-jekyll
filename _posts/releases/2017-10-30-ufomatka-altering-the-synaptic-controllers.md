@@ -25,13 +25,13 @@ link_applemusic:
 link_googleplay: 
 link_ektoplazm: 
 link_discogs: 
-written_by: <a href="/artist/ufomatka/">Ufomatka</a>
+written_by: <a href='/artist/ufomatka/'>Ufomatka</a>
 compiled_by: 
-artwork_by: <a href="https://www.facebook.com/andytrootootoo" target="_blank" rel="noopener">Trootootoo</a>
-mastered_by: <a href="https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener">Dimitro @ Zymosis Studio</a>
+artwork_by: <a href='https://www.facebook.com/andytrootootoo" target="_blank" rel="noopener'>Trootootoo</a>
+mastered_by: <a href='https://www.facebook.com/zymosis.dimitro" target="_blank" rel="noopener'>Dimitro @ Zymosis Studio</a>
 ---
 
-Sentimony Records presents «Altering The Synaptic Controllers» - the second EP by our beloved artist <a href="/artist/ufomatka/">Ufomatka</a>.
+Sentimony Records presents «Altering The Synaptic Controllers» - the second EP by our beloved artist <a href='/artist/ufomatka/'>Ufomatka</a>.
 
 The release name came from nowhere and the dick knows what it is, but it will all fuck us out :)
 
